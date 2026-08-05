@@ -1,0 +1,5 @@
+# Python dependencies for dravet_kg.ipynb (SCN1A brain interactome).
+pypath-omnipath==0.16.31   
+pandas==3.0.3
+numpy==2.4.6               
+networkx==3.6.1          
