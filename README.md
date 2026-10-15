@@ -15,20 +15,6 @@ platform to share rare disease data, information and knowledge. The knowledge
 graph group (WP 16, Task 16.4) combines existing databases into knowledge graphs
 for rare disease understanding, treatment and diagnosis.
 
-## Repository layout
-
-```
-input/                       input data
-work/                        cache files that the pipeline makes (not tracked)
-notebooks/                   analysis notebooks
-scripts/                     Python modules that the notebooks import
-scripts/figures/             scripts that make the figures in docs/
-results/ctd/                 CTD gene sets and their figures
-results/micronutrient_coloc/ colocalization tables, figures, orsum output,
-                             knowledge graphs, and one folder per pair in pairs/
-docs/                        project overview figure and pipeline diagram
-```
-
 ## Notebooks
 
 Run the notebooks in this order, from the `notebooks/` folder.
@@ -43,34 +29,6 @@ Run the notebooks in this order, from the `notebooks/` folder.
 Each figure is saved as PNG and PDF.
 
 ![Pipeline of dravet_cakut_micronutrients_netcoloc.ipynb](docs/micronutrient_coloc_pipeline_diagram.svg)
-
-## Scripts
-
-Run these from the repository root after the notebooks:
-
-| Script | Output |
-| --- | --- |
-| `scripts/figures/make_overview_figure.py` | `docs/project_overview.{png,pdf}` |
-| `scripts/figures/make_flow_diagram.py` | `docs/micronutrient_coloc_pipeline_diagram.svg` |
-
-`scripts/run_one_pair.py` runs one disease and gene set pair in its own
-process. `micronutrient_coloc.run_pairs_out_of_process` calls it; you do not
-run it by hand.
-
-## Input files
-
-The input files and the scripts that read them are listed in
-[input/README.md](input/README.md).
-
-The pipeline makes cache files in `work/` on the first run:
-
-| File | Made by |
-| --- | --- |
-| `brain_genes.txt` | `kg_ppi.py` |
-| `kegg/*.tsv` (KEGG REST download) | `pathway_genes.py` |
-| `pcnet2.2/pcnet22_adj.npz`, `pcnet2.2/pcnet22_nodes.npy` | `pcnet22.py` |
-| `pcnet2.2/{network}_heats_a05.npy` | `propagate.py` |
-| `nps_sets/{network}/*.tsv` | `geneset_coloc.py` |
 
 ## Environment
 
