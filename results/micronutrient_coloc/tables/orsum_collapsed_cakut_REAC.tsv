@@ -1,0 +1,164 @@
+Representing term id	Representing term name	Representing term size	Representing term rank	Represented term number	folic acid term rank	iron term rank	keto diet term rank	vitamin A term rank	vitamin B12 term rank	vitamin B6 term rank	vitamin C term rank	vitamin D term rank	vitamin E term rank	zinc term rank
+REAC:R-HSA-1474244	Extracellular matrix organization	298	1	17	1.0	3.0		1.0	1.0	85.0	1.0	2.0	4.0	2.0
+REAC:R-HSA-6785807	Interleukin-4 and Interleukin-13 signaling	111	1	1	9.0	1.0	83.0	12.0	14.0	20.0	5.0	11.0	11.0	4.0
+REAC:R-HSA-162582	Signal Transduction	2568	1	1	3.0	8.0	1.0	2.0	4.0	2.0	2.0	1.0	1.0	1.0
+REAC:R-HSA-383280	Nuclear Receptor transcription pathway	41	1	1	108.0		10.0	25.0		1.0	68.0	23.0	59.0	123.0
+REAC:R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	516	2	97	2.0	13.0	4.0	3.0	6.0	6.0	3.0	3.0	2.0	3.0
+REAC:R-HSA-4641263	Regulation of FZD by ubiquitination	21	2	1	301.0	2.0		271.0				183.0		
+REAC:R-HSA-5663202	Diseases of signal transduction by growth factor receptors and second messengers	449	2	42	23.0	54.0	2.0	16.0	35.0	12.0	18.0	9.0	6.0	19.0
+REAC:R-HSA-1266738	Developmental Biology	1394	3	59	8.0	93.0	3.0	5.0	54.0	8.0	7.0	4.0	3.0	16.0
+REAC:R-HSA-2151201	Transcriptional activation of mitochondrial biogenesis	52	3	1			119.0	322.0		3.0		186.0	385.0	228.0
+REAC:R-HSA-449147	Signaling by Interleukins	471	4	32	12.0	4.0	59.0	29.0	19.0	14.0	4.0	22.0	9.0	6.0
+REAC:R-HSA-1989781	PPARA activates gene expression	113	4	1			50.0	131.0		4.0		99.0	207.0	122.0
+REAC:R-HSA-400206	Regulation of lipid metabolism by PPARalpha	114	5	1			51.0	133.0		5.0		104.0	209.0	126.0
+REAC:R-HSA-9006936	Signaling by TGFB family members	156	5	13	30.0	25.0	38.0	11.0	21.0		19.0	8.0	5.0	13.0
+REAC:R-HSA-1280215	Cytokine Signaling in Immune system	775	6	12	21.0	6.0	22.0	54.0	55.0	15.0	6.0	30.0	13.0	10.0
+REAC:R-HSA-114608	Platelet degranulation 	126	7	1	34.0	7.0		40.0	8.0		16.0	36.0	45.0	8.0
+REAC:R-HSA-9006931	Signaling by Nuclear Receptors	289	7	8	38.0	191.0	15.0	34.0	64.0	7.0	40.0	17.0	19.0	17.0
+REAC:R-HSA-76005	Response to elevated platelet cytosolic Ca2+	131	9	1	32.0	9.0		38.0	9.0		14.0	33.0	42.0	9.0
+REAC:0000000	REACTOME root term	11046	9	1	31.0	117.0	100.0	9.0	48.0	48.0	12.0	13.0	14.0	15.0
+REAC:R-HSA-375276	Peptide ligand-binding receptors	195	9	2	164.0		125.0	171.0	53.0	9.0	107.0	288.0	253.0	313.0
+REAC:R-HSA-8957275	Post-translational protein phosphorylation	107	10	1	37.0	10.0		27.0	15.0		25.0	70.0	76.0	46.0
+REAC:R-HSA-381426	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	124	10	1	20.0	11.0		13.0	10.0		13.0	39.0	37.0	34.0
+REAC:R-HSA-9707616	Heme signaling	47	10	1			67.0	214.0		10.0	210.0	108.0	246.0	151.0
+REAC:R-HSA-109582	Hemostasis	674	10	18	18.0	15.0		26.0	11.0	68.0	10.0	42.0	18.0	11.0
+REAC:R-HSA-1980143	Signaling by NOTCH1	72	11	3	271.0	120.0	11.0	200.0			242.0	66.0	88.0	138.0
+REAC:R-HSA-1592230	Mitochondrial biogenesis	93	11	1						11.0		287.0		
+REAC:R-HSA-3769402	Deactivation of the beta-catenin transactivating complex	42	12	1		12.0	90.0	315.0				337.0	98.0	
+REAC:R-HSA-199418	Negative regulation of the PI3K/AKT network	104	12	2	19.0	141.0	26.0	28.0	27.0	27.0	33.0	20.0	12.0	22.0
+REAC:R-HSA-201681	TCF dependent signaling in response to WNT	231	14	4		14.0		158.0			274.0	146.0	166.0	222.0
+REAC:R-HSA-9614085	FOXO-mediated transcription	66	14	6	197.0		14.0	165.0		36.0	277.0	77.0	124.0	95.0
+REAC:R-HSA-3560783	Defective B4GALT7 causes EDS, progeroid type	20	16	1	48.0			37.0	16.0		37.0	115.0	71.0	301.0
+REAC:R-HSA-1368108	BMAL1:CLOCK,NPAS2 activates circadian expression	27	16	2				349.0		16.0		197.0	374.0	259.0
+REAC:R-HSA-3560801	Defective B3GAT3 causes JDSSDHD	20	17	1	50.0			36.0	17.0		39.0	117.0	70.0	303.0
+REAC:R-HSA-168256	Immune System	2080	18	1	119.0	18.0		363.0			32.0	277.0	155.0	68.0
+REAC:R-HSA-4420332	Defective B3GALT6 causes EDSP2 and SEMDJL1	20	18	1	49.0			23.0	18.0		38.0	116.0	72.0	306.0
+REAC:R-HSA-373076	Class A/1 (Rhodopsin-like receptors)	328	18	1	269.0			333.0	96.0	18.0			430.0	
+REAC:R-HSA-500792	GPCR ligand binding	460	19	2	150.0			92.0	44.0	19.0		50.0	339.0	110.0
+REAC:R-HSA-5683057	MAPK family signaling cascades	308	20	7	43.0	35.0	64.0	72.0	94.0		69.0	58.0	20.0	32.0
+REAC:R-HSA-1638091	Heparan sulfate/heparin (HS-GAG) metabolism	57	21	6	65.0			21.0	24.0		44.0	132.0	69.0	255.0
+REAC:R-HSA-418594	G alpha (i) signalling events	311	22	4						22.0				
+REAC:R-HSA-388396	GPCR downstream signalling	622	23	4	205.0					23.0	239.0	366.0	348.0	
+REAC:R-HSA-1257604	PIP3 activates AKT signaling	257	23	5	42.0	63.0	27.0	53.0	95.0	46.0	34.0	29.0	23.0	31.0
+REAC:R-HSA-372790	Signaling by GPCR	695	24	1	207.0			152.0	74.0	24.0		140.0	254.0	243.0
+REAC:R-HSA-212436	Generic Transcription Pathway	1231	24	31	125.0	87.0	34.0	61.0	132.0	34.0	71.0	24.0	52.0	62.0
+REAC:R-HSA-9006925	Intracellular signaling by second messengers	297	24	1	46.0	101.0	43.0	64.0	128.0	29.0	36.0	38.0	24.0	36.0
+REAC:R-HSA-195721	Signaling by WNT	327	26	9	318.0	26.0		116.0	65.0			105.0	216.0	112.0
+REAC:R-HSA-9707564	Cytoprotection by HMOX1	58	26	1				329.0		26.0		235.0	404.0	
+REAC:R-HSA-110320	Translesion Synthesis by POLH	19	28	1		28.0								
+REAC:R-HSA-174824	Plasma lipoprotein assembly, remodeling, and clearance	71	29	4		29.0		361.0	113.0		289.0		356.0	270.0
+REAC:R-HSA-9755511	KEAP1-NFE2L2 pathway	124	30	6	94.0	30.0	157.0	120.0	71.0		94.0	73.0	61.0	45.0
+REAC:R-HSA-4090294	SUMOylation of intracellular receptors	24	30	1	274.0		58.0	263.0		30.0		144.0	186.0	235.0
+REAC:R-HSA-1643685	Disease	1846	30	42	73.0	46.0	55.0	39.0	31.0		30.0	49.0	34.0	89.0
+REAC:R-HSA-2426168	Activation of gene expression by SREBF (SREBP)	40	32	1						32.0		344.0		
+REAC:R-HSA-73857	RNA Polymerase II Transcription	1352	32	1	279.0		71.0	90.0		43.0	147.0	32.0	79.0	114.0
+REAC:R-HSA-9012852	Signaling by NOTCH3	48	33	3	201.0	144.0	33.0	203.0	105.0			96.0	97.0	86.0
+REAC:R-HSA-556833	Metabolism of lipids	747	35	10	276.0			308.0	118.0	35.0	145.0	205.0	351.0	
+REAC:R-HSA-1234158	Regulation of gene expression by Hypoxia-inducible Factor	10	36	1	116.0	36.0		76.0			81.0	85.0	66.0	39.0
+REAC:R-HSA-1793185	Chondroitin sulfate/dermatan sulfate metabolism	49	39	4	105.0			62.0	39.0		60.0	195.0	150.0	
+REAC:R-HSA-8848021	Signaling by PTK6	51	40	3	78.0	40.0	105.0	118.0	136.0		197.0	102.0	77.0	54.0
+REAC:R-HSA-157118	Signaling by NOTCH	231	41	8	256.0	129.0	41.0	138.0			263.0	94.0	82.0	135.0
+REAC:R-HSA-1234174	Cellular response to hypoxia	75	44	2		44.0		325.0			190.0	369.0	380.0	74.0
+REAC:R-HSA-74160	Gene expression (Transcription)	1539	44	1			99.0	125.0		55.0	206.0	44.0	126.0	157.0
+REAC:R-HSA-2559582	Senescence-Associated Secretory Phenotype (SASP)	111	45	1		45.0					268.0			271.0
+REAC:R-HSA-975634	Retinoid metabolism and transport	44	45	1	228.0			99.0	45.0		74.0	272.0	290.0	
+REAC:R-HSA-1630316	Glycosaminoglycan metabolism	125	46	1	155.0			46.0	60.0		62.0	370.0	142.0	
+REAC:R-HSA-5689877	Josephin domain DUBs	12	47	1		47.0								
+REAC:R-HSA-6806667	Metabolism of fat-soluble vitamins	48	49	1	244.0			110.0	49.0		84.0	295.0	318.0	
+REAC:R-HSA-9664873	Pexophagy	11	51	1		51.0								
+REAC:R-HSA-2187338	Visual phototransduction	97	52	2	223.0			115.0	52.0		108.0	347.0	287.0	
+REAC:R-HSA-1852241	Organelle biogenesis and maintenance	293	53	1						53.0				
+REAC:R-HSA-2980736	Peptide hormone metabolism	87	54	6	270.0		54.0	248.0	84.0	61.0		273.0	307.0	247.0
+REAC:R-HSA-9006335	Signaling by Erythropoietin	23	55	3	103.0	59.0	109.0	164.0			55.0	297.0	110.0	149.0
+REAC:R-HSA-9711123	Cellular response to chemical stress	206	56	2		66.0	120.0	290.0		56.0	150.0	161.0	247.0	145.0
+REAC:R-HSA-3322077	Glycogen synthesis	14	58	1		58.0								
+REAC:R-HSA-196854	Metabolism of vitamins and cofactors	195	59	3	268.0	166.0		257.0	59.0		86.0		296.0	
+REAC:R-HSA-3108232	SUMO E3 ligases SUMOylate target proteins	171	59	3			65.0	272.0		59.0		134.0	306.0	305.0
+REAC:R-HSA-5632684	Hedgehog 'on' state	85	60	2		60.0		343.0				320.0		
+REAC:R-HSA-9013973	TICAM1-dependent activation of IRF3/IRF7	13	61	1		61.0								
+REAC:R-HSA-2262752	Cellular responses to stress	792	61	8	230.0	168.0	91.0	212.0			88.0	178.0	192.0	61.0
+REAC:R-HSA-1500931	Cell-Cell communication	150	63	11	69.0		95.0	63.0	175.0		72.0	128.0	73.0	119.0
+REAC:R-HSA-2990846	SUMOylation	177	64	1			68.0	368.0		64.0		143.0	327.0	
+REAC:R-HSA-209560	NF-kB is activated and signals survival	13	65	1		65.0								
+REAC:R-HSA-8953897	Cellular responses to stimuli	806	66	1		233.0	98.0	339.0			92.0	216.0	251.0	66.0
+REAC:R-HSA-209543	p75NTR recruits signalling complexes	13	67	1		67.0								
+REAC:R-HSA-917937	Iron uptake and transport	57	71	1		71.0								
+REAC:R-HSA-3134975	Regulation of innate immune responses to cytosolic DNA	15	72	1		72.0								
+REAC:R-HSA-8856825	Cargo recognition for clathrin-mediated endocytosis	104	73	1	231.0	160.0		347.0	73.0			217.0		203.0
+REAC:R-HSA-211897	Cytochrome P450 - arranged by substrate type	64	73	2				300.0		73.0		355.0		
+REAC:R-HSA-9827857	Specification of primordial germ cells	12	75	1	162.0			75.0	88.0		80.0	126.0	229.0	117.0
+REAC:R-HSA-1430728	Metabolism	2142	75	1						75.0				
+REAC:R-HSA-168898	Toll-like Receptor Cascades	168	79	20		79.0					179.0		418.0	162.0
+REAC:R-HSA-5357956	TNFR1-induced NF-kappa-B signaling pathway	33	80	1		80.0								
+REAC:R-HSA-156588	Glucuronidation	25	84	1		84.0					164.0	309.0		
+REAC:R-HSA-445355	Smooth Muscle Contraction	43	87	1	169.0	213.0		247.0	87.0				344.0	
+REAC:R-HSA-399997	Acetylcholine regulates insulin secretion	10	88	1						88.0				
+REAC:R-HSA-163685	Integration of energy metabolism	107	90	1						90.0				
+REAC:R-HSA-211859	Biological oxidations	215	91	2		143.0				91.0				
+REAC:R-HSA-205043	NRIF signals cell death from the nucleus	16	92	1		92.0								304.0
+REAC:R-HSA-110312	Translesion synthesis by REV1	16	94	1		94.0								
+REAC:R-HSA-193639	p75NTR signals via NF-kB	16	96	1		96.0								
+REAC:R-HSA-5656121	Translesion synthesis by POLI	17	98	1		98.0								
+REAC:R-HSA-5655862	Translesion synthesis by POLK	17	99	1		99.0								
+REAC:R-HSA-110313	Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template	39	100	2		100.0								
+REAC:R-HSA-5358351	Signaling by Hedgehog	149	105	2		105.0								
+REAC:R-HSA-69236	G1 Phase	46	107	2		107.0							407.0	264.0
+REAC:R-HSA-977225	Amyloid fiber formation	110	112	1		121.0	112.0							
+REAC:R-HSA-8856828	Clathrin-mediated endocytosis	144	116	1	323.0	164.0			116.0			324.0		263.0
+REAC:R-HSA-9613829	Chaperone Mediated Autophagy	22	118	1		118.0								
+REAC:R-HSA-901032	ER Quality Control Compartment (ERQC)	21	122	1		122.0								
+REAC:R-HSA-9709957	Sensory Perception	576	122	1				309.0	122.0		180.0			
+REAC:R-HSA-5357905	Regulation of TNFR1 signaling	46	127	1		127.0								
+REAC:R-HSA-5576891	Cardiac conduction	130	129	2			129.0						313.0	
+REAC:R-HSA-5173214	O-glycosylation of TSR domain-containing proteins	36	129	1	132.0			251.0	171.0		129.0	279.0	237.0	298.0
+REAC:R-HSA-73893	DNA Damage Bypass	48	131	2		131.0								
+REAC:R-HSA-8982491	Glycogen metabolism	25	133	1		133.0								
+REAC:R-HSA-3000480	Scavenging by Class A Receptors	19	133	1	253.0			291.0	133.0			331.0		
+REAC:R-HSA-179409	APC-Cdc20 mediated degradation of Nek2A	26	134	1		134.0								
+REAC:R-HSA-168643	Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways	55	137	2		137.0								
+REAC:R-HSA-5696397	Gap-filling DNA repair synthesis and ligation in GG-NER	25	138	1		138.0								
+REAC:R-HSA-174048	APC/C:Cdc20 mediated degradation of Cyclin B	24	139	1		139.0								
+REAC:R-HSA-5689901	Metalloprotease DUBs	36	146	1		146.0								
+REAC:R-HSA-193704	p75 NTR receptor-mediated signalling	97	149	1			149.0							
+REAC:R-HSA-901042	Calnexin/calreticulin cycle	26	150	1		150.0								
+REAC:R-HSA-75893	TNF signaling	55	156	1		156.0								
+REAC:R-HSA-9749641	Aspirin ADME	43	165	1		165.0								
+REAC:R-HSA-397014	Muscle contraction	203	165	1	254.0				165.0				379.0	
+REAC:R-HSA-5213460	RIPK1-mediated regulated necrosis	31	175	2		175.0								
+REAC:R-HSA-71387	Metabolism of carbohydrates and carbohydrate derivatives	279	176	1				178.0	176.0		266.0		394.0	
+REAC:R-HSA-549127	SLC-mediated transport of organic cations	10	176	1	292.0						176.0			
+REAC:R-HSA-8866652	Synthesis of active ubiquitin: roles of E1 and E2 enzymes	30	180	1		180.0								
+REAC:R-HSA-9861718	Regulation of pyruvate metabolism	31	181	1		181.0								
+REAC:R-HSA-159740	Gamma-carboxylation of protein precursors	10	185	1					185.0					
+REAC:R-HSA-159782	Removal of aminoterminal propeptides from gamma-carboxylated proteins	10	186	1					186.0					
+REAC:R-HSA-2173782	Binding and Uptake of Ligands by Scavenger Receptors	97	189	1					189.0					
+REAC:R-HSA-9615710	Late endosomal microautophagy	34	193	1		193.0								
+REAC:R-HSA-5205685	PINK1-PRKN Mediated Mitophagy	32	194	1		194.0								
+REAC:R-HSA-936440	Negative regulators of DDX58/IFIH1 signaling	35	204	1		204.0								
+REAC:R-HSA-5689896	Ovarian tumor domain proteases	39	208	1		208.0								
+REAC:R-HSA-532668	N-glycan trimming in the ER and Calnexin/Calreticulin cycle	35	209	1		209.0								
+REAC:R-HSA-9646399	Aggrephagy	44	214	1		214.0								
+REAC:R-HSA-6783310	Fanconi Anemia Pathway	39	216	1		216.0								
+REAC:R-HSA-5205647	Mitophagy	37	219	1		219.0								
+REAC:R-HSA-389357	CD28 dependent PI3K/Akt signaling	22	220	1	342.0								220.0	
+REAC:R-HSA-5696394	DNA Damage Recognition in GG-NER	38	225	1		225.0								
+REAC:R-HSA-5693607	Processing of DNA double-strand break ends	97	228	1		228.0								
+REAC:R-HSA-202131	Metabolism of nitric oxide: NOS3 activation and regulation	14	229	1		229.0								
+REAC:R-HSA-70268	Pyruvate metabolism	45	231	1		231.0								
+REAC:R-HSA-5696400	Dual Incision in GG-NER	41	232	1		232.0								
+REAC:R-HSA-109581	Apoptosis	176	234	7	290.0	234.0					273.0	336.0	370.0	289.0
+REAC:R-HSA-69202	Cyclin E associated events during G1/S transition 	82	240	1		240.0								
+REAC:R-HSA-1168372	Downstream signaling events of B Cell Receptor (BCR)	80	243	1		243.0								
+REAC:R-HSA-69656	Cyclin A:Cdk2-associated events at S phase entry	84	245	1		245.0								
+REAC:R-HSA-5696395	Formation of Incision Complex in GG-NER	43	248	1		248.0								
+REAC:R-HSA-2424491	DAP12 signaling	25	257	1									257.0	
+REAC:R-HSA-2172127	DAP12 interactions	35	277	1									277.0	
+REAC:R-HSA-389356	Co-stimulation by CD28	31	282	1									282.0	
+REAC:R-HSA-5173105	O-linked glycosylation	108	345	1	345.0			364.0					433.0	
+REAC:R-HSA-1474165	Reproduction	156	363	1								363.0	445.0	
+REAC:R-HSA-388841	Regulation of T cell activation by CD28 family	67	369	2									369.0	
+REAC:R-HSA-597592	Post-translational protein modification	1452	376	2								376.0	429.0	
+REAC:R-HSA-5621575	CD209 (DC-SIGN) signaling	20	390	1									390.0	
+REAC:R-HSA-9013423	RAC3 GTPase cycle	94	393	1									393.0	
+REAC:R-HSA-9696273	RND1 GTPase cycle	42	406	1									406.0	
+REAC:R-HSA-9696270	RND2 GTPase cycle	43	416	1									416.0	

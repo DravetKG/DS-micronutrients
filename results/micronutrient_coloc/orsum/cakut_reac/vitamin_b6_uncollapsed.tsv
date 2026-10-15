@@ -1,0 +1,109 @@
+native	name	p_value	term_size	intersection_size
+REAC:R-HSA-383280	Nuclear Receptor transcription pathway	8.562036016645924e-12	36	12
+REAC:R-HSA-162582	Signal Transduction	5.052786322962403e-10	2016	63
+REAC:R-HSA-2151201	Transcriptional activation of mitochondrial biogenesis	1.39572275137257e-06	49	9
+REAC:R-HSA-1989781	PPARA activates gene expression	1.39572275137257e-06	105	12
+REAC:R-HSA-400206	Regulation of lipid metabolism by PPARalpha	1.39572275137257e-06	106	12
+REAC:R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	1.9338417357309804e-06	455	23
+REAC:R-HSA-9006931	Signaling by Nuclear Receptors	3.9611532358707585e-06	230	16
+REAC:R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	4.666958995726778e-06	78	10
+REAC:R-HSA-375276	Peptide ligand-binding receptors	5.9929781035423915e-06	81	10
+REAC:R-HSA-9707616	Heme signaling	6.172255305571785e-06	45	8
+REAC:R-HSA-1592230	Mitochondrial biogenesis	9.780966762326063e-06	87	10
+REAC:R-HSA-2219528	PI3K/AKT Signaling in Cancer	2.0878014490039484e-05	73	9
+REAC:R-HSA-9843745	Adipogenesis	2.385815534327591e-05	98	10
+REAC:R-HSA-449147	Signaling by Interleukins	2.385815534327591e-05	385	19
+REAC:R-HSA-1280215	Cytokine Signaling in Immune system	2.4342693216047836e-05	638	25
+REAC:R-HSA-1368108	BMAL1:CLOCK,NPAS2 activates circadian expression	2.4349750814307492e-05	25	6
+REAC:R-HSA-9909396	Circadian clock	2.4349750814307492e-05	25	6
+REAC:R-HSA-9623433	NR1H2 & NR1H3 regulate gene expression to control bile acid homeostasis	3.5196861901541796e-05	7	4
+REAC:R-HSA-373076	Class A/1 (Rhodopsin-like receptors)	4.623951146764058e-05	136	11
+REAC:R-HSA-500792	GPCR ligand binding	4.623951146764058e-05	195	13
+REAC:R-HSA-6785807	Interleukin-4 and Interleukin-13 signaling	5.4137838002922676e-05	87	9
+REAC:R-HSA-8939211	ESR-mediated signaling	5.484652034965574e-05	169	12
+REAC:R-HSA-418594	G alpha (i) signalling events	6.31463841059953e-05	172	12
+REAC:R-HSA-388396	GPCR downstream signalling	6.481530520699962e-05	349	17
+REAC:R-HSA-372790	Signaling by GPCR	6.481530520699962e-05	389	18
+REAC:R-HSA-2219530	Constitutive Signaling by Aberrant PI3K in Cancer	6.481530520699962e-05	48	7
+REAC:R-HSA-9707564	Cytoprotection by HMOX1	9.382369535547348e-05	51	7
+REAC:R-HSA-6811558	PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling	0.0001248197044792246	75	8
+REAC:R-HSA-6783589	Interleukin-6 family signaling	0.00013771461365467112	21	5
+REAC:R-HSA-9006925	Intracellular signaling by second messengers	0.00015665153790418105	262	14
+REAC:R-HSA-4090294	SUMOylation of intracellular receptors	0.00016501313405507343	22	5
+REAC:R-HSA-199418	Negative regulation of the PI3K/AKT network	0.00021397050766676874	82	8
+REAC:R-HSA-2426168	Activation of gene expression by SREBF (SREBP)	0.00023216355341052427	40	6
+REAC:R-HSA-166520	Signaling by NTRKs	0.00038883254208151735	117	9
+REAC:R-HSA-212436	Generic Transcription Pathway	0.0003993815429369172	1043	30
+REAC:R-HSA-556833	Metabolism of lipids	0.0004284392976459966	641	22
+REAC:R-HSA-9614657	FOXO-mediated transcription of cell death genes	0.0006166674651129984	15	4
+REAC:R-HSA-8957322	Metabolism of steroids	0.000757999998645084	129	9
+REAC:R-HSA-1655829	Regulation of cholesterol biosynthesis by SREBP (SREBF)	0.00102504573728621	53	6
+REAC:R-HSA-1266738	Developmental Biology	0.001126616379148619	947	27
+REAC:R-HSA-6783783	Interleukin-10 signaling	0.0011653397943446526	34	5
+REAC:R-HSA-9018519	Estrogen-dependent gene expression	0.0012997497214901038	109	8
+REAC:R-HSA-186712	Regulation of beta-cell development	0.002192005664338143	21	4
+REAC:R-HSA-73857	RNA Polymerase II Transcription	0.002363083598060264	1163	30
+REAC:R-HSA-210745	Regulation of gene expression in beta cells	0.00253179515986598	9	3
+REAC:R-HSA-9009391	Extra-nuclear estrogen signaling	0.00253179515986598	64	6
+REAC:R-HSA-9025046	NTF3 activates NTRK2 (TRKB) signaling	0.00253179515986598	2	2
+REAC:R-HSA-1257604	PIP3 activates AKT signaling	0.0025524230855628063	229	11
+REAC:R-HSA-1251985	Nuclear signaling by ERBB4	0.003907720398416499	25	4
+REAC:0000000	REACTOME root term	0.004203181168636284	8429	129
+REAC:R-HSA-159418	Recycling of bile acids and salts	0.004397746056274596	11	3
+REAC:R-HSA-1059683	Interleukin-6 signaling	0.004397746056274596	11	3
+REAC:R-HSA-418885	DCC mediated attractive signaling	0.0056994112127194616	12	3
+REAC:R-HSA-9032500	Activated NTRK2 signals through FYN	0.006555463176618544	3	2
+REAC:R-HSA-380108	Chemokine receptors bind chemokines	0.0071781419636807245	30	4
+REAC:R-HSA-1852241	Organelle biogenesis and maintenance	0.007614981515495517	265	11
+REAC:R-HSA-6788467	IL-6-type cytokine receptor ligand interactions	0.008457286329217762	14	3
+REAC:R-HSA-74160	Gene expression (Transcription)	0.008457286329217762	1333	31
+REAC:R-HSA-9711123	Cellular response to chemical stress	0.009042895819767185	190	9
+REAC:R-HSA-9029569	NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux	0.00933260206875817	33	4
+REAC:R-HSA-194068	Bile acid and bile salt metabolism	0.00933260206875817	33	4
+REAC:R-HSA-3108232	SUMO E3 ligases SUMOylate target proteins	0.00933260206875817	154	8
+REAC:R-HSA-373752	Netrin-1 signaling	0.010193900308180704	34	4
+REAC:R-HSA-2980736	Peptide hormone metabolism	0.010240801014408704	59	5
+REAC:R-HSA-9614085	FOXO-mediated transcription	0.010240801014408704	59	5
+REAC:R-HSA-9006115	Signaling by NTRK2 (TRKB)	0.011074747740073105	16	3
+REAC:R-HSA-2990846	SUMOylation	0.011074747740073105	160	8
+REAC:R-HSA-4420097	VEGFA-VEGFR2 Pathway	0.012149288538187746	92	6
+REAC:R-HSA-203641	NOSTRIN mediated eNOS trafficking	0.016115854249607407	5	2
+REAC:R-HSA-9632974	NR1H2 & NR1H3 regulate gene expression linked to gluconeogenesis 	0.016115854249607407	5	2
+REAC:R-HSA-9031525	NR1H2 & NR1H3 regulate gene expression to limit cholesterol uptake 	0.016115854249607407	5	2
+REAC:R-HSA-9031528	NR1H2 & NR1H3 regulate gene expression linked to triglyceride lipolysis in adipose	0.016115854249607407	5	2
+REAC:R-HSA-9024446	NR1H2 and NR1H3-mediated signaling	0.016120161218162298	40	4
+REAC:R-HSA-8986944	Transcriptional Regulation by MECP2	0.016120161218162298	40	4
+REAC:R-HSA-392154	Nitric oxide stimulates guanylate cyclase	0.01661684514716289	19	3
+REAC:R-HSA-194138	Signaling by VEGF	0.018260450562077327	102	6
+REAC:R-HSA-187037	Signaling by NTRK1 (TRKA)	0.018260450562077327	102	6
+REAC:R-HSA-1236394	Signaling by ERBB4	0.02005112065380247	43	4
+REAC:R-HSA-982772	Growth hormone receptor signaling	0.02125293954688063	21	3
+REAC:R-HSA-9603381	Activated NTRK3 signals through PI3K	0.02157484033341488	6	2
+REAC:R-HSA-211897	Cytochrome P450 - arranged by substrate type	0.022857665057101375	45	4
+REAC:R-HSA-177929	Signaling by EGFR	0.02448754919385261	46	4
+REAC:R-HSA-1430728	Metabolism	0.027429862289681865	1852	37
+REAC:R-HSA-9010642	ROBO receptors bind AKAP5	0.028526632561887713	7	2
+REAC:R-HSA-186797	Signaling by PDGF	0.029781975483187374	49	4
+REAC:R-HSA-9844594	Transcriptional regulation of brown and beige adipocyte differentiation by EBF2	0.03215505867110366	25	3
+REAC:R-HSA-9843743	Transcriptional regulation of brown and beige adipocyte differentiation	0.03215505867110366	25	3
+REAC:R-HSA-9662834	CD163 mediating an anti-inflammatory response	0.035204153051351994	8	2
+REAC:R-HSA-9029558	NR1H2 & NR1H3 regulate gene expression linked to lipogenesis	0.035204153051351994	8	2
+REAC:R-HSA-416476	G alpha (q) signalling events	0.035204153051351994	120	6
+REAC:R-HSA-111933	Calmodulin induced events	0.03715153018447053	27	3
+REAC:R-HSA-192105	Synthesis of bile acids and bile salts	0.03715153018447053	27	3
+REAC:R-HSA-111997	CaM pathway	0.03715153018447053	27	3
+REAC:R-HSA-9634815	Transcriptional Regulation by NPAS4	0.03715153018447053	27	3
+REAC:R-HSA-198725	Nuclear Events (kinase and transcription factor activation)	0.037872186254911004	54	4
+REAC:R-HSA-3000171	Non-integrin membrane-ECM interactions	0.04002348188856879	55	4
+REAC:R-HSA-5663202	Diseases of signal transduction by growth factor receptors and second messengers	0.04037652227398437	402	12
+REAC:R-HSA-418555	G alpha (s) signalling events	0.04111092144786862	89	5
+REAC:R-HSA-399997	Acetylcholine regulates insulin secretion	0.04111092144786862	9	2
+REAC:R-HSA-111996	Ca-dependent events	0.04240077351960109	29	3
+REAC:R-HSA-163685	Integration of energy metabolism	0.04240077351960109	90	5
+REAC:R-HSA-211859	Biological oxidations	0.0437332361382957	170	7
+REAC:R-HSA-9005891	Loss of function of MECP2 in Rett syndrome	0.04680087741622045	10	2
+REAC:R-HSA-9005895	Pervasive developmental disorders	0.04680087741622045	10	2
+REAC:R-HSA-9675151	Disorders of Developmental Biology	0.04680087741622045	10	2
+REAC:R-HSA-9617629	Regulation of FOXO transcriptional activity by acetylation	0.04680087741622045	10	2
+REAC:R-HSA-9697154	Disorders of Nervous System Development	0.04680087741622045	10	2
+REAC:R-HSA-8864260	Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors	0.047884005957981854	31	3

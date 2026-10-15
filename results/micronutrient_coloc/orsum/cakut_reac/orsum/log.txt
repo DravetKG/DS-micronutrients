@@ -1,0 +1,50 @@
+orsum 1.8.0
+
+gmt:	/home/alexandra/dravet/DS-micronutrients/input/gprofiler_gmt/hsapiens.REAC.name.gmt
+files:	['/home/alexandra/dravet/DS-micronutrients/results/micronutrient_coloc/orsum/cakut_reac/folic_acid_terms.txt', '/home/alexandra/dravet/DS-micronutrients/results/micronutrient_coloc/orsum/cakut_reac/iron_terms.txt', '/home/alexandra/dravet/DS-micronutrients/results/micronutrient_coloc/orsum/cakut_reac/keto_diet_terms.txt', '/home/alexandra/dravet/DS-micronutrients/results/micronutrient_coloc/orsum/cakut_reac/vitamin_a_terms.txt', '/home/alexandra/dravet/DS-micronutrients/results/micronutrient_coloc/orsum/cakut_reac/vitamin_b12_terms.txt', '/home/alexandra/dravet/DS-micronutrients/results/micronutrient_coloc/orsum/cakut_reac/vitamin_b6_terms.txt', '/home/alexandra/dravet/DS-micronutrients/results/micronutrient_coloc/orsum/cakut_reac/vitamin_c_terms.txt', '/home/alexandra/dravet/DS-micronutrients/results/micronutrient_coloc/orsum/cakut_reac/vitamin_d_terms.txt', '/home/alexandra/dravet/DS-micronutrients/results/micronutrient_coloc/orsum/cakut_reac/vitamin_e_terms.txt', '/home/alexandra/dravet/DS-micronutrients/results/micronutrient_coloc/orsum/cakut_reac/zinc_terms.txt']
+fileAliases:	['folic acid', 'iron', 'keto diet', 'vitamin A', 'vitamin B12', 'vitamin B6', 'vitamin C', 'vitamin D', 'vitamin E', 'zinc']
+outputFolder:	/home/alexandra/dravet/DS-micronutrients/results/micronutrient_coloc/orsum/cakut_reac/orsum
+maxRepSize:	2000
+maxTermSize:	1000000
+minTermSize:	10
+numberOfTermsToPlot:	50
+
+
+Processing /home/alexandra/dravet/DS-micronutrients/results/micronutrient_coloc/orsum/cakut_reac/folic_acid_terms.txt
+104 terms are smaller than minTermSize=10, they are removed.
+
+Processing /home/alexandra/dravet/DS-micronutrients/results/micronutrient_coloc/orsum/cakut_reac/iron_terms.txt
+24 terms are smaller than minTermSize=10, they are removed.
+
+Processing /home/alexandra/dravet/DS-micronutrients/results/micronutrient_coloc/orsum/cakut_reac/keto_diet_terms.txt
+20 terms are smaller than minTermSize=10, they are removed.
+
+Processing /home/alexandra/dravet/DS-micronutrients/results/micronutrient_coloc/orsum/cakut_reac/vitamin_a_terms.txt
+116 terms are smaller than minTermSize=10, they are removed.
+
+Processing /home/alexandra/dravet/DS-micronutrients/results/micronutrient_coloc/orsum/cakut_reac/vitamin_b12_terms.txt
+46 terms are smaller than minTermSize=10, they are removed.
+
+Processing /home/alexandra/dravet/DS-micronutrients/results/micronutrient_coloc/orsum/cakut_reac/vitamin_b6_terms.txt
+11 terms are smaller than minTermSize=10, they are removed.
+
+Processing /home/alexandra/dravet/DS-micronutrients/results/micronutrient_coloc/orsum/cakut_reac/vitamin_c_terms.txt
+57 terms are smaller than minTermSize=10, they are removed.
+
+Processing /home/alexandra/dravet/DS-micronutrients/results/micronutrient_coloc/orsum/cakut_reac/vitamin_d_terms.txt
+116 terms are smaller than minTermSize=10, they are removed.
+
+Processing /home/alexandra/dravet/DS-micronutrients/results/micronutrient_coloc/orsum/cakut_reac/vitamin_e_terms.txt
+121 terms are smaller than minTermSize=10, they are removed.
+
+Processing /home/alexandra/dravet/DS-micronutrients/results/micronutrient_coloc/orsum/cakut_reac/zinc_terms.txt
+76 terms are smaller than minTermSize=10, they are removed.
+
+Initial term number (recurring terms in different lists are not merged yet, each one is counted): 2852
+
+Same terms in multiple lists are unified
+Representing term number: 665
+
+Superterms represent their less significant (worse ranked) subterms. This includes equal terms, i.e. the terms that annotate exactly the same set of genes.
+Representing term number: 163
+

@@ -1,0 +1,9 @@
+native	name	p_value	term_size	intersection_size
+REAC:R-HSA-382551	Transport of small molecules	0.0015279939907089043	678	19
+REAC:R-HSA-983712	Ion channel transport	0.0021362964175249874	168	9
+REAC:R-HSA-936837	Ion transport by P-type ATPases	0.006118731651527327	52	5
+REAC:R-HSA-168799	Neurotoxicity of clostridium toxins	0.006118731651527327	10	3
+REAC:R-HSA-5250958	Toxicity of botulinum toxin type B (botB)	0.013368519168494745	3	2
+REAC:R-HSA-5250955	Toxicity of botulinum toxin type D (botD)	0.031474712029377336	5	2
+REAC:R-HSA-5250981	Toxicity of botulinum toxin type F (botF)	0.031474712029377336	5	2
+REAC:R-HSA-5339562	Uptake and actions of bacterial toxins	0.041754579768046286	24	3

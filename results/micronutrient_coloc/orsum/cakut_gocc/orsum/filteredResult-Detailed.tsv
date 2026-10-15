@@ -1,0 +1,234 @@
+Representing term id	Representing term name	Representing term rank	folic acid term id	folic acid term name	folic acid term rank	iron term id	iron term name	iron term rank	keto diet term id	keto diet term name	keto diet term rank	vitamin A term id	vitamin A term name	vitamin A term rank	vitamin B12 term id	vitamin B12 term name	vitamin B12 term rank	vitamin B6 term id	vitamin B6 term name	vitamin B6 term rank	vitamin C term id	vitamin C term name	vitamin C term rank	vitamin D term id	vitamin D term name	vitamin D term rank	vitamin E term id	vitamin E term name	vitamin E term rank	zinc term id	zinc term name	zinc term rank
+GO:0005576	extracellular region	1
+			GO:0005576	extracellular region	1	GO:0005576	extracellular region	2				GO:0005576	extracellular region	1	GO:0005576	extracellular region	1	GO:0005576	extracellular region	2	GO:0005576	extracellular region	2	GO:0005576	extracellular region	2	GO:0005576	extracellular region	1	GO:0005576	extracellular region	1
+GO:0005615	extracellular space	1
+			GO:0005615	extracellular space	2	GO:0005615	extracellular space	1				GO:0005615	extracellular space	4	GO:0005615	extracellular space	2	GO:0005615	extracellular space	1	GO:0005615	extracellular space	3	GO:0005615	extracellular space	1	GO:0005615	extracellular space	2	GO:0005615	extracellular space	2
+GO:0000785	chromatin	1
+			GO:0000785	chromatin	31				GO:0000785	chromatin	1	GO:0000785	chromatin	8				GO:0000785	chromatin	4	GO:0000785	chromatin	8	GO:0000785	chromatin	6	GO:0000785	chromatin	6	GO:0000785	chromatin	11
+			GO:0000791	euchromatin	92							GO:0000791	euchromatin	96							GO:0000791	euchromatin	45	GO:0000791	euchromatin	85	GO:0000791	euchromatin	52	GO:0000791	euchromatin	61
+GO:0009986	cell surface	1
+			GO:0009986	cell surface	6	GO:0009986	cell surface	7				GO:0009986	cell surface	5	GO:0009986	cell surface	5	GO:0009986	cell surface	3	GO:0009986	cell surface	1	GO:0009986	cell surface	7	GO:0009986	cell surface	3	GO:0009986	cell surface	5
+			GO:0009897	external side of plasma membrane	10	GO:0009897	external side of plasma membrane	12				GO:0009897	external side of plasma membrane	13	GO:0009897	external side of plasma membrane	13	GO:0009897	external side of plasma membrane	10	GO:0009897	external side of plasma membrane	10	GO:0009897	external side of plasma membrane	15	GO:0009897	external side of plasma membrane	15	GO:0009897	external side of plasma membrane	14
+GO:0005694	chromosome	2
+			GO:0005694	chromosome	72				GO:0005694	chromosome	2	GO:0005694	chromosome	15				GO:0005694	chromosome	19	GO:0005694	chromosome	22	GO:0005694	chromosome	13	GO:0005694	chromosome	13	GO:0005694	chromosome	27
+GO:0031012	extracellular matrix	2
+			GO:0031012	extracellular matrix	3	GO:0031012	extracellular matrix	5				GO:0031012	extracellular matrix	2	GO:0031012	extracellular matrix	3				GO:0031012	extracellular matrix	6	GO:0031012	extracellular matrix	3	GO:0031012	extracellular matrix	7	GO:0031012	extracellular matrix	3
+			GO:0005604	basement membrane	9	GO:0005604	basement membrane	29				GO:0005604	basement membrane	10	GO:0005604	basement membrane	11				GO:0005604	basement membrane	18	GO:0005604	basement membrane	9	GO:0005604	basement membrane	25	GO:0005604	basement membrane	25
+			GO:0098644	complex of collagen trimers	21							GO:0098644	complex of collagen trimers	30	GO:0098644	complex of collagen trimers	18				GO:0098644	complex of collagen trimers	44	GO:0098644	complex of collagen trimers	17	GO:0098644	complex of collagen trimers	55			
+			GO:0140151	solid phase of interstitial matrix	26	GO:0140151	solid phase of interstitial matrix	31				GO:0140151	solid phase of interstitial matrix	37	GO:0140151	solid phase of interstitial matrix	75							GO:0140151	solid phase of interstitial matrix	41						
+			GO:0005614	interstitial matrix	30	GO:0005614	interstitial matrix	35				GO:0005614	interstitial matrix	39	GO:0005614	interstitial matrix	69							GO:0005614	interstitial matrix	50						
+			GO:0140139	solid phase of basement membrane	36							GO:0140139	solid phase of basement membrane	35	GO:0140139	solid phase of basement membrane	34							GO:0140139	solid phase of basement membrane	31	GO:0140139	solid phase of basement membrane	42			
+			GO:0140152	collagenous component of interstitial matrix	48	GO:0140152	collagenous component of interstitial matrix	32				GO:0140152	collagenous component of interstitial matrix	49										GO:0140152	collagenous component of interstitial matrix	36						
+			GO:0005583	fibrillar collagen trimer	53	GO:0005583	fibrillar collagen trimer	48				GO:0005583	fibrillar collagen trimer	57										GO:0005583	fibrillar collagen trimer	75						
+			GO:0098643	fibrillar collagen complex	51	GO:0098643	fibrillar collagen complex	49				GO:0098643	fibrillar collagen complex	56										GO:0098643	fibrillar collagen complex	73						
+			GO:0140149	non-collagenous component of interstitial matrix	52							GO:0140149	non-collagenous component of interstitial matrix	76																		
+			GO:0071953	elastic fiber	58							GO:0071953	elastic fiber	79																		
+			GO:0099535	synapse-associated extracellular matrix	79																			GO:0099535	synapse-associated extracellular matrix	66				GO:0099535	synapse-associated extracellular matrix	74
+			GO:0098966	perisynaptic extracellular matrix	100							GO:0098966	perisynaptic extracellular matrix	110										GO:0098966	perisynaptic extracellular matrix	97				GO:0098966	perisynaptic extracellular matrix	70
+			GO:0140047	specialized extracellular matrix	93																			GO:0140047	specialized extracellular matrix	86						
+			GO:0001527	microfibril	90																											
+GO:0031091	platelet alpha granule	3
+			GO:0031091	platelet alpha granule	12	GO:0031091	platelet alpha granule	3				GO:0031091	platelet alpha granule	14	GO:0031091	platelet alpha granule	9				GO:0031091	platelet alpha granule	12	GO:0031091	platelet alpha granule	12	GO:0031091	platelet alpha granule	11	GO:0031091	platelet alpha granule	7
+			GO:0031093	platelet alpha granule lumen	17	GO:0031093	platelet alpha granule lumen	15				GO:0031093	platelet alpha granule lumen	23	GO:0031093	platelet alpha granule lumen	10				GO:0031093	platelet alpha granule lumen	16	GO:0031093	platelet alpha granule lumen	14	GO:0031093	platelet alpha granule lumen	17	GO:0031093	platelet alpha granule lumen	9
+			GO:0031092	platelet alpha granule membrane	71	GO:0031092	platelet alpha granule membrane	11				GO:0031092	platelet alpha granule membrane	47	GO:0031092	platelet alpha granule membrane	42				GO:0031092	platelet alpha granule membrane	41	GO:0031092	platelet alpha granule membrane	52	GO:0031092	platelet alpha granule membrane	49	GO:0031092	platelet alpha granule membrane	46
+GO:0005667	transcription regulator complex	3
+			GO:0005667	transcription regulator complex	23				GO:0005667	transcription regulator complex	3	GO:0005667	transcription regulator complex	11				GO:0005667	transcription regulator complex	13	GO:0005667	transcription regulator complex	13	GO:0005667	transcription regulator complex	11	GO:0005667	transcription regulator complex	9	GO:0005667	transcription regulator complex	15
+			GO:0090575	RNA polymerase II transcription regulator complex	41				GO:0090575	RNA polymerase II transcription regulator complex	5	GO:0090575	RNA polymerase II transcription regulator complex	31							GO:0090575	RNA polymerase II transcription regulator complex	23	GO:0090575	RNA polymerase II transcription regulator complex	19	GO:0090575	RNA polymerase II transcription regulator complex	12	GO:0090575	RNA polymerase II transcription regulator complex	26
+									GO:0017053	transcription repressor complex	7	GO:0017053	transcription repressor complex	67							GO:0017053	transcription repressor complex	70	GO:0017053	transcription repressor complex	78	GO:0017053	transcription repressor complex	51			
+																											GO:1990907	beta-catenin-TCF complex	44			
+																											GO:0090571	RNA polymerase II transcription repressor complex	76			
+GO:0030312	external encapsulating structure	3
+			GO:0030312	external encapsulating structure	4	GO:0030312	external encapsulating structure	6				GO:0030312	external encapsulating structure	3	GO:0030312	external encapsulating structure	4				GO:0030312	external encapsulating structure	5	GO:0030312	external encapsulating structure	4	GO:0030312	external encapsulating structure	8	GO:0030312	external encapsulating structure	4
+GO:0071944	cell periphery	4
+			GO:0071944	cell periphery	5	GO:0071944	cell periphery	4				GO:0071944	cell periphery	7	GO:0071944	cell periphery	6	GO:0071944	cell periphery	5	GO:0071944	cell periphery	4	GO:0071944	cell periphery	8	GO:0071944	cell periphery	5	GO:0071944	cell periphery	6
+GO:0043025	neuronal cell body	4
+									GO:0043025	neuronal cell body	4							GO:0043025	neuronal cell body	9												
+GO:0043235	receptor complex	4
+			GO:0043235	receptor complex	7	GO:0043235	receptor complex	33	GO:0043235	receptor complex	6	GO:0043235	receptor complex	6	GO:0043235	receptor complex	15	GO:0043235	receptor complex	8	GO:0043235	receptor complex	7	GO:0043235	receptor complex	5	GO:0043235	receptor complex	4	GO:0043235	receptor complex	8
+			GO:0098802	plasma membrane signaling receptor complex	34							GO:0098802	plasma membrane signaling receptor complex	20	GO:0098802	plasma membrane signaling receptor complex	55				GO:0098802	plasma membrane signaling receptor complex	25	GO:0098802	plasma membrane signaling receptor complex	18	GO:0098802	plasma membrane signaling receptor complex	22	GO:0098802	plasma membrane signaling receptor complex	10
+			GO:0008305	integrin complex	47							GO:0008305	integrin complex	25	GO:0008305	integrin complex	53				GO:0008305	integrin complex	27	GO:0008305	integrin complex	25	GO:0008305	integrin complex	39	GO:0008305	integrin complex	16
+			GO:0002116	semaphorin receptor complex	95							GO:0002116	semaphorin receptor complex	94										GO:0002116	semaphorin receptor complex	55						
+GO:0036477	somatodendritic compartment	6
+									GO:0036477	somatodendritic compartment	8	GO:0036477	somatodendritic compartment	88				GO:0036477	somatodendritic compartment	6												
+																		GO:0097447	dendritic tree	24												
+GO:0005796	Golgi lumen	7
+			GO:0005796	Golgi lumen	14							GO:0005796	Golgi lumen	12	GO:0005796	Golgi lumen	7				GO:0005796	Golgi lumen	21	GO:0005796	Golgi lumen	24	GO:0005796	Golgi lumen	23	GO:0005796	Golgi lumen	30
+GO:0005886	plasma membrane	7
+			GO:0005886	plasma membrane	11	GO:0005886	plasma membrane	23				GO:0005886	plasma membrane	19	GO:0005886	plasma membrane	14	GO:0005886	plasma membrane	7	GO:0005886	plasma membrane	9	GO:0005886	plasma membrane	20	GO:0005886	plasma membrane	10	GO:0005886	plasma membrane	18
+GO:0005788	endoplasmic reticulum lumen	8
+			GO:0005788	endoplasmic reticulum lumen	8	GO:0005788	endoplasmic reticulum lumen	8				GO:0005788	endoplasmic reticulum lumen	9	GO:0005788	endoplasmic reticulum lumen	8	GO:0005788	endoplasmic reticulum lumen	16	GO:0005788	endoplasmic reticulum lumen	11	GO:0005788	endoplasmic reticulum lumen	10	GO:0005788	endoplasmic reticulum lumen	19	GO:0005788	endoplasmic reticulum lumen	13
+GO:0012505	endomembrane system	9
+			GO:0012505	endomembrane system	62	GO:0012505	endomembrane system	9				GO:0012505	endomembrane system	41	GO:0012505	endomembrane system	21				GO:0012505	endomembrane system	68	GO:0012505	endomembrane system	58	GO:0012505	endomembrane system	70	GO:0012505	endomembrane system	66
+GO:0005654	nucleoplasm	9
+									GO:0005654	nucleoplasm	9													GO:0005654	nucleoplasm	83	GO:0005654	nucleoplasm	87			
+GO:0031982	vesicle	10
+			GO:0031982	vesicle	20	GO:0031982	vesicle	10				GO:0031982	vesicle	43	GO:0031982	vesicle	12				GO:0031982	vesicle	57	GO:0031982	vesicle	44	GO:0031982	vesicle	59	GO:0031982	vesicle	33
+GO:0044297	cell body	10
+									GO:0044297	cell body	10							GO:0044297	cell body	15												
+GO:0016342	catenin complex	11
+			GO:0016342	catenin complex	57				GO:0016342	catenin complex	11	GO:0016342	catenin complex	61										GO:0016342	catenin complex	95	GO:0016342	catenin complex	61			
+GO:0045121	membrane raft	11
+			GO:0045121	membrane raft	24				GO:0045121	membrane raft	14	GO:0045121	membrane raft	26	GO:0045121	membrane raft	64	GO:0045121	membrane raft	11	GO:0045121	membrane raft	54	GO:0045121	membrane raft	33	GO:0045121	membrane raft	20	GO:0045121	membrane raft	34
+			GO:0005901	caveola	38	GO:0005901	caveola	51	GO:0005901	caveola	16	GO:0005901	caveola	38	GO:0005901	caveola	61	GO:0005901	caveola	18	GO:0005901	caveola	67	GO:0005901	caveola	35	GO:0005901	caveola	26	GO:0005901	caveola	51
+			GO:0044853	plasma membrane raft	44							GO:0044853	plasma membrane raft	40	GO:0044853	plasma membrane raft	74	GO:0044853	plasma membrane raft	17				GO:0044853	plasma membrane raft	43	GO:0044853	plasma membrane raft	27	GO:0044853	plasma membrane raft	68
+GO:0030424	axon	12
+									GO:0030424	axon	12																GO:0030424	axon	86			
+GO:0098857	membrane microdomain	12
+			GO:0098857	membrane microdomain	25				GO:0098857	membrane microdomain	15	GO:0098857	membrane microdomain	27	GO:0098857	membrane microdomain	65	GO:0098857	membrane microdomain	12	GO:0098857	membrane microdomain	55	GO:0098857	membrane microdomain	34	GO:0098857	membrane microdomain	21	GO:0098857	membrane microdomain	36
+GO:0098636	protein complex involved in cell adhesion	12
+			GO:0098636	protein complex involved in cell adhesion	22							GO:0098636	protein complex involved in cell adhesion	16	GO:0098636	protein complex involved in cell adhesion	30				GO:0098636	protein complex involved in cell adhesion	20	GO:0098636	protein complex involved in cell adhesion	16	GO:0098636	protein complex involved in cell adhesion	31	GO:0098636	protein complex involved in cell adhesion	12
+			GO:0098637	protein complex involved in cell-matrix adhesion	40							GO:0098637	protein complex involved in cell-matrix adhesion	42	GO:0098637	protein complex involved in cell-matrix adhesion	59				GO:0098637	protein complex involved in cell-matrix adhesion	34	GO:0098637	protein complex involved in cell-matrix adhesion	48	GO:0098637	protein complex involved in cell-matrix adhesion	78	GO:0098637	protein complex involved in cell-matrix adhesion	44
+GO:0030055	cell-substrate junction	13
+			GO:0030055	cell-substrate junction	13	GO:0030055	cell-substrate junction	45				GO:0030055	cell-substrate junction	17	GO:0030055	cell-substrate junction	36				GO:0030055	cell-substrate junction	15	GO:0030055	cell-substrate junction	22	GO:0030055	cell-substrate junction	18	GO:0030055	cell-substrate junction	17
+			GO:0005925	focal adhesion	16	GO:0005925	focal adhesion	43				GO:0005925	focal adhesion	18	GO:0005925	focal adhesion	39				GO:0005925	focal adhesion	14	GO:0005925	focal adhesion	23	GO:0005925	focal adhesion	16	GO:0005925	focal adhesion	19
+GO:0005783	endoplasmic reticulum	13
+			GO:0005783	endoplasmic reticulum	60	GO:0005783	endoplasmic reticulum	13				GO:0005783	endoplasmic reticulum	58	GO:0005783	endoplasmic reticulum	47				GO:0005783	endoplasmic reticulum	63	GO:0005783	endoplasmic reticulum	64						
+GO:0098686	hippocampal mossy fiber to CA3 synapse	13
+									GO:0098686	hippocampal mossy fiber to CA3 synapse	13																					
+GO:0030141	secretory granule	14
+			GO:0030141	secretory granule	55	GO:0030141	secretory granule	14				GO:0030141	secretory granule	60	GO:0030141	secretory granule	22				GO:0030141	secretory granule	46	GO:0030141	secretory granule	56	GO:0030141	secretory granule	43	GO:0030141	secretory granule	28
+			GO:0034774	secretory granule lumen	45	GO:0034774	secretory granule lumen	37				GO:0034774	secretory granule lumen	50	GO:0034774	secretory granule lumen	25				GO:0034774	secretory granule lumen	35	GO:0034774	secretory granule lumen	42	GO:0034774	secretory granule lumen	40	GO:0034774	secretory granule lumen	23
+						GO:0030667	secretory granule membrane	27							GO:0030667	secretory granule membrane	73															
+																														GO:0031089	platelet dense granule lumen	72
+GO:0030054	cell junction	14
+			GO:0030054	cell junction	37							GO:0030054	cell junction	29	GO:0030054	cell junction	58	GO:0030054	cell junction	14	GO:0030054	cell junction	28	GO:0030054	cell junction	40	GO:0030054	cell junction	29	GO:0030054	cell junction	35
+GO:0070161	anchoring junction	14
+			GO:0070161	anchoring junction	15							GO:0070161	anchoring junction	21	GO:0070161	anchoring junction	40	GO:0070161	anchoring junction	23	GO:0070161	anchoring junction	17	GO:0070161	anchoring junction	26	GO:0070161	anchoring junction	14	GO:0070161	anchoring junction	22
+			GO:0005911	cell-cell junction	64							GO:0005911	cell-cell junction	62							GO:0005911	cell-cell junction	65	GO:0005911	cell-cell junction	92	GO:0005911	cell-cell junction	33	GO:0005911	cell-cell junction	69
+			GO:0014704	intercalated disc	108							GO:0014704	intercalated disc	101													GO:0014704	intercalated disc	79			
+																											GO:0005921	gap junction	82			
+																											GO:0005922	connexin complex	90			
+																											GO:0070160	tight junction	92			
+																											GO:0044291	cell-cell contact zone	96			
+			GO:0005912	adherens junction	109							GO:0005912	adherens junction	109																		
+GO:0099503	secretory vesicle	16
+			GO:0099503	secretory vesicle	74	GO:0099503	secretory vesicle	16				GO:0099503	secretory vesicle	68	GO:0099503	secretory vesicle	32				GO:0099503	secretory vesicle	60	GO:0099503	secretory vesicle	87	GO:0099503	secretory vesicle	60	GO:0099503	secretory vesicle	38
+GO:0065010	extracellular membrane-bounded organelle	16
+			GO:0065010	extracellular membrane-bounded organelle	29	GO:0065010	extracellular membrane-bounded organelle	20				GO:0065010	extracellular membrane-bounded organelle	53	GO:0065010	extracellular membrane-bounded organelle	16							GO:0065010	extracellular membrane-bounded organelle	60				GO:0065010	extracellular membrane-bounded organelle	77
+GO:0070062	extracellular exosome	17
+			GO:0070062	extracellular exosome	32	GO:0070062	extracellular exosome	17				GO:0070062	extracellular exosome	55	GO:0070062	extracellular exosome	20							GO:0070062	extracellular exosome	59				GO:0070062	extracellular exosome	78
+GO:0043230	extracellular organelle	17
+			GO:0043230	extracellular organelle	28	GO:0043230	extracellular organelle	19				GO:0043230	extracellular organelle	52	GO:0043230	extracellular organelle	17							GO:0043230	extracellular organelle	62				GO:0043230	extracellular organelle	75
+GO:0005581	collagen trimer	18
+			GO:0005581	collagen trimer	18	GO:0005581	collagen trimer	30				GO:0005581	collagen trimer	28	GO:0005581	collagen trimer	23				GO:0005581	collagen trimer	29	GO:0005581	collagen trimer	21	GO:0005581	collagen trimer	58			
+GO:1903561	extracellular vesicle	18
+			GO:1903561	extracellular vesicle	27	GO:1903561	extracellular vesicle	18				GO:1903561	extracellular vesicle	51	GO:1903561	extracellular vesicle	19							GO:1903561	extracellular vesicle	61				GO:1903561	extracellular vesicle	76
+GO:0098552	side of membrane	19
+			GO:0098552	side of membrane	19	GO:0098552	side of membrane	25				GO:0098552	side of membrane	22	GO:0098552	side of membrane	26				GO:0098552	side of membrane	19	GO:0098552	side of membrane	32	GO:0098552	side of membrane	28	GO:0098552	side of membrane	29
+GO:0098590	plasma membrane region	20
+			GO:0098590	plasma membrane region	35							GO:0098590	plasma membrane region	46	GO:0098590	plasma membrane region	38	GO:0098590	plasma membrane region	20	GO:0098590	plasma membrane region	32	GO:0098590	plasma membrane region	45	GO:0098590	plasma membrane region	30	GO:0098590	plasma membrane region	37
+			GO:0031528	microvillus membrane	65	GO:0031528	microvillus membrane	44				GO:0031528	microvillus membrane	74	GO:0031528	microvillus membrane	44				GO:0031528	microvillus membrane	26	GO:0031528	microvillus membrane	96	GO:0031528	microvillus membrane	46	GO:0031528	microvillus membrane	67
+						GO:0031526	brush border membrane	28							GO:0031526	brush border membrane	46				GO:0031526	brush border membrane	58									
+			GO:0016324	apical plasma membrane	39							GO:0016324	apical plasma membrane	73	GO:0016324	apical plasma membrane	29				GO:0016324	apical plasma membrane	33	GO:0016324	apical plasma membrane	53	GO:0016324	apical plasma membrane	38	GO:0016324	apical plasma membrane	50
+			GO:0031253	cell projection membrane	63	GO:0031253	cell projection membrane	34				GO:0031253	cell projection membrane	92	GO:0031253	cell projection membrane	67				GO:0031253	cell projection membrane	50	GO:0031253	cell projection membrane	84	GO:0031253	cell projection membrane	83	GO:0031253	cell projection membrane	62
+			GO:0016323	basolateral plasma membrane	56							GO:0016323	basolateral plasma membrane	81	GO:0016323	basolateral plasma membrane	62				GO:0016323	basolateral plasma membrane	48	GO:0016323	basolateral plasma membrane	98	GO:0016323	basolateral plasma membrane	53	GO:0016323	basolateral plasma membrane	65
+			GO:0031258	lamellipodium membrane	75							GO:0031258	lamellipodium membrane	75	GO:0031258	lamellipodium membrane	70				GO:0031258	lamellipodium membrane	51	GO:0031258	lamellipodium membrane	54	GO:0031258	lamellipodium membrane	56	GO:0031258	lamellipodium membrane	54
+			GO:0032587	ruffle membrane	84							GO:0032587	ruffle membrane	98							GO:0032587	ruffle membrane	56	GO:0032587	ruffle membrane	81	GO:0032587	ruffle membrane	73	GO:0032587	ruffle membrane	52
+			GO:0009925	basal plasma membrane	59							GO:0009925	basal plasma membrane	69	GO:0009925	basal plasma membrane	57				GO:0009925	basal plasma membrane	53	GO:0009925	basal plasma membrane	89	GO:0009925	basal plasma membrane	54	GO:0009925	basal plasma membrane	58
+			GO:0031527	filopodium membrane	69							GO:0031527	filopodium membrane	107	GO:0031527	filopodium membrane	78							GO:0031527	filopodium membrane	93	GO:0031527	filopodium membrane	89	GO:0031527	filopodium membrane	63
+																					GO:0016327	apicolateral plasma membrane	64									
+GO:0031983	vesicle lumen	20
+			GO:0031983	vesicle lumen	43	GO:0031983	vesicle lumen	40				GO:0031983	vesicle lumen	48	GO:0031983	vesicle lumen	28				GO:0031983	vesicle lumen	38	GO:0031983	vesicle lumen	39	GO:0031983	vesicle lumen	37	GO:0031983	vesicle lumen	20
+			GO:0060205	cytoplasmic vesicle lumen	46	GO:0060205	cytoplasmic vesicle lumen	39				GO:0060205	cytoplasmic vesicle lumen	54	GO:0060205	cytoplasmic vesicle lumen	27				GO:0060205	cytoplasmic vesicle lumen	37	GO:0060205	cytoplasmic vesicle lumen	46	GO:0060205	cytoplasmic vesicle lumen	41	GO:0060205	cytoplasmic vesicle lumen	24
+GO:0031410	cytoplasmic vesicle	21
+			GO:0031410	cytoplasmic vesicle	89	GO:0031410	cytoplasmic vesicle	21				GO:0031410	cytoplasmic vesicle	102	GO:0031410	cytoplasmic vesicle	37							GO:0031410	cytoplasmic vesicle	77	GO:0031410	cytoplasmic vesicle	84	GO:0031410	cytoplasmic vesicle	32
+GO:0044306	neuron projection terminus	21
+																		GO:0044306	neuron projection terminus	21												
+GO:0098797	plasma membrane protein complex	21
+			GO:0098797	plasma membrane protein complex	33							GO:0098797	plasma membrane protein complex	24	GO:0098797	plasma membrane protein complex	80				GO:0098797	plasma membrane protein complex	31	GO:0098797	plasma membrane protein complex	27	GO:0098797	plasma membrane protein complex	24	GO:0098797	plasma membrane protein complex	21
+GO:0097708	intracellular vesicle	22
+			GO:0097708	intracellular vesicle	81	GO:0097708	intracellular vesicle	22				GO:0097708	intracellular vesicle	95	GO:0097708	intracellular vesicle	35							GO:0097708	intracellular vesicle	74	GO:0097708	intracellular vesicle	74	GO:0097708	intracellular vesicle	31
+GO:0045177	apical part of cell	22
+			GO:0045177	apical part of cell	42							GO:0045177	apical part of cell	77	GO:0045177	apical part of cell	31	GO:0045177	apical part of cell	22	GO:0045177	apical part of cell	30	GO:0045177	apical part of cell	38	GO:0045177	apical part of cell	32	GO:0045177	apical part of cell	59
+						GO:0005903	brush border	46							GO:0005903	brush border	68															
+GO:0030666	endocytic vesicle membrane	24
+			GO:0030666	endocytic vesicle membrane	85	GO:0030666	endocytic vesicle membrane	24				GO:0030666	endocytic vesicle membrane	90	GO:0030666	endocytic vesicle membrane	50							GO:0030666	endocytic vesicle membrane	47				GO:0030666	endocytic vesicle membrane	43
+			GO:0030669	clathrin-coated endocytic vesicle membrane	66							GO:0030669	clathrin-coated endocytic vesicle membrane	72	GO:0030669	clathrin-coated endocytic vesicle membrane	45							GO:0030669	clathrin-coated endocytic vesicle membrane	37	GO:0030669	clathrin-coated endocytic vesicle membrane	93	GO:0030669	clathrin-coated endocytic vesicle membrane	39
+GO:0005902	microvillus	24
+			GO:0005902	microvillus	49	GO:0005902	microvillus	38				GO:0005902	microvillus	66	GO:0005902	microvillus	24				GO:0005902	microvillus	24	GO:0005902	microvillus	70	GO:0005902	microvillus	45	GO:0005902	microvillus	48
+GO:0045202	synapse	25
+												GO:0045202	synapse	87				GO:0045202	synapse	25												
+			GO:0031594	neuromuscular junction	91							GO:0031594	neuromuscular junction	59													GO:0031594	neuromuscular junction	69			
+			GO:0098685	Schaffer collateral - CA1 synapse	106							GO:0098685	Schaffer collateral - CA1 synapse	108													GO:0098685	Schaffer collateral - CA1 synapse	80			
+			GO:0043083	synaptic cleft	94							GO:0043083	synaptic cleft	91																		
+												GO:0098978	glutamatergic synapse	103																		
+GO:0030139	endocytic vesicle	26
+			GO:0030139	endocytic vesicle	96	GO:0030139	endocytic vesicle	26				GO:0030139	endocytic vesicle	105	GO:0030139	endocytic vesicle	48							GO:0030139	endocytic vesicle	51				GO:0030139	endocytic vesicle	41
+			GO:0045334	clathrin-coated endocytic vesicle	73							GO:0045334	clathrin-coated endocytic vesicle	85	GO:0045334	clathrin-coated endocytic vesicle	49							GO:0045334	clathrin-coated endocytic vesicle	49				GO:0045334	clathrin-coated endocytic vesicle	42
+GO:0070013	intracellular organelle lumen	28
+												GO:0070013	intracellular organelle lumen	33							GO:0070013	intracellular organelle lumen	73	GO:0070013	intracellular organelle lumen	28	GO:0070013	intracellular organelle lumen	34	GO:0070013	intracellular organelle lumen	56
+GO:0031974	membrane-enclosed lumen	29
+												GO:0031974	membrane-enclosed lumen	32							GO:0031974	membrane-enclosed lumen	71	GO:0031974	membrane-enclosed lumen	29	GO:0031974	membrane-enclosed lumen	35	GO:0031974	membrane-enclosed lumen	57
+GO:0043233	organelle lumen	30
+												GO:0043233	organelle lumen	34							GO:0043233	organelle lumen	72	GO:0043233	organelle lumen	30	GO:0043233	organelle lumen	36	GO:0043233	organelle lumen	55
+GO:0043202	lysosomal lumen	33
+			GO:0043202	lysosomal lumen	54							GO:0043202	lysosomal lumen	36	GO:0043202	lysosomal lumen	33				GO:0043202	lysosomal lumen	40	GO:0043202	lysosomal lumen	67	GO:0043202	lysosomal lumen	57			
+GO:0030659	cytoplasmic vesicle membrane	36
+						GO:0030659	cytoplasmic vesicle membrane	36																								
+			GO:0030665	clathrin-coated vesicle membrane	97										GO:0030665	clathrin-coated vesicle membrane	63							GO:0030665	clathrin-coated vesicle membrane	71				GO:0030665	clathrin-coated vesicle membrane	64
+GO:0110165	cellular anatomical structure	36
+			GO:0110165	cellular anatomical structure	76							GO:0110165	cellular anatomical structure	44	GO:0110165	cellular anatomical structure	72				GO:0110165	cellular anatomical structure	36	GO:0110165	cellular anatomical structure	63	GO:0110165	cellular anatomical structure	47			
+GO:0045178	basal part of cell	39
+			GO:0045178	basal part of cell	50							GO:0045178	basal part of cell	65	GO:0045178	basal part of cell	52				GO:0045178	basal part of cell	39	GO:0045178	basal part of cell	57	GO:0045178	basal part of cell	48	GO:0045178	basal part of cell	49
+GO:0072562	blood microparticle	40
+			GO:0072562	blood microparticle	70							GO:0072562	blood microparticle	70	GO:0072562	blood microparticle	41				GO:0072562	blood microparticle	43	GO:0072562	blood microparticle	80	GO:0072562	blood microparticle	72	GO:0072562	blood microparticle	40
+GO:0012506	vesicle membrane	41
+						GO:0012506	vesicle membrane	41																								
+GO:0005768	endosome	42
+						GO:0005768	endosome	42																								
+			GO:0031904	endosome lumen	86	GO:0031904	endosome lumen	50				GO:0031904	endosome lumen	82	GO:0031904	endosome lumen	71							GO:0031904	endosome lumen	68						
+GO:1905286	serine-type peptidase complex	42
+			GO:1905286	serine-type peptidase complex	87							GO:1905286	serine-type peptidase complex	80	GO:1905286	serine-type peptidase complex	66				GO:1905286	serine-type peptidase complex	42	GO:1905286	serine-type peptidase complex	69	GO:1905286	serine-type peptidase complex	62	GO:1905286	serine-type peptidase complex	47
+			GO:1905370	serine-type endopeptidase complex	99							GO:1905370	serine-type endopeptidase complex	106	GO:1905370	serine-type endopeptidase complex	79				GO:1905370	serine-type endopeptidase complex	59	GO:1905370	serine-type endopeptidase complex	94	GO:1905370	serine-type endopeptidase complex	88	GO:1905370	serine-type endopeptidase complex	60
+GO:0098858	actin-based cell projection	43
+			GO:0098858	actin-based cell projection	61	GO:0098858	actin-based cell projection	47				GO:0098858	actin-based cell projection	78	GO:0098858	actin-based cell projection	43				GO:0098858	actin-based cell projection	52	GO:0098858	actin-based cell projection	91	GO:0098858	actin-based cell projection	66	GO:0098858	actin-based cell projection	71
+			GO:0030175	filopodium	78							GO:0030175	filopodium	89																		
+GO:0005575	cellular_component	45
+			GO:0005575	cellular_component	77							GO:0005575	cellular_component	45	GO:0005575	cellular_component	77				GO:0005575	cellular_component	49	GO:0005575	cellular_component	79	GO:0005575	cellular_component	50			
+GO:0031256	leading edge membrane	45
+			GO:0031256	leading edge membrane	83							GO:0031256	leading edge membrane	97							GO:0031256	leading edge membrane	62	GO:0031256	leading edge membrane	76	GO:0031256	leading edge membrane	85	GO:0031256	leading edge membrane	45
+GO:1904090	peptidase inhibitor complex	47
+			GO:1904090	peptidase inhibitor complex	88							GO:1904090	peptidase inhibitor complex	83	GO:1904090	peptidase inhibitor complex	54				GO:1904090	peptidase inhibitor complex	47	GO:1904090	peptidase inhibitor complex	72	GO:1904090	peptidase inhibitor complex	64	GO:1904090	peptidase inhibitor complex	53
+GO:0005775	vacuolar lumen	51
+			GO:0005775	vacuolar lumen	80							GO:0005775	vacuolar lumen	64	GO:0005775	vacuolar lumen	51				GO:0005775	vacuolar lumen	69				GO:0005775	vacuolar lumen	94			
+GO:0098588	bounding membrane of organelle	52
+						GO:0098588	bounding membrane of organelle	52																								
+GO:0005905	clathrin-coated pit	56
+												GO:0005905	clathrin-coated pit	99	GO:0005905	clathrin-coated pit	56				GO:0005905	clathrin-coated pit	61	GO:0005905	clathrin-coated pit	82						
+GO:0005794	Golgi apparatus	60
+			GO:0005794	Golgi apparatus	107							GO:0005794	Golgi apparatus	63	GO:0005794	Golgi apparatus	60							GO:0005794	Golgi apparatus	88	GO:0005794	Golgi apparatus	95			
+GO:0030027	lamellipodium	63
+			GO:0030027	lamellipodium	67							GO:0030027	lamellipodium	113							GO:0030027	lamellipodium	74				GO:0030027	lamellipodium	63			
+GO:0032991	protein-containing complex	65
+																								GO:0032991	protein-containing complex	65						
+GO:0042995	cell projection	65
+			GO:0042995	cell projection	98							GO:0042995	cell projection	93													GO:0042995	cell projection	65			
+GO:0016020	membrane	66
+																					GO:0016020	membrane	66									
+GO:0120025	plasma membrane bounded cell projection	67
+			GO:0120025	plasma membrane bounded cell projection	104							GO:0120025	plasma membrane bounded cell projection	104													GO:0120025	plasma membrane bounded cell projection	67			
+GO:0031252	cell leading edge	68
+			GO:0031252	cell leading edge	68							GO:0031252	cell leading edge	111													GO:0031252	cell leading edge	71	GO:0031252	cell leading edge	73
+			GO:0001726	ruffle	82																			GO:0001726	ruffle	99	GO:0001726	ruffle	81			
+GO:0019898	extrinsic component of membrane	68
+			GO:0019898	extrinsic component of membrane	105							GO:0019898	extrinsic component of membrane	86													GO:0019898	extrinsic component of membrane	68			
+																											GO:0005942	phosphatidylinositol 3-kinase complex	77			
+			GO:0019897	extrinsic component of plasma membrane	103							GO:0019897	extrinsic component of plasma membrane	84																		
+GO:1990909	Wnt signalosome	71
+												GO:1990909	Wnt signalosome	71																		
+GO:1902911	protein kinase complex	75
+																											GO:1902911	protein kinase complex	75			
+GO:0098862	cluster of actin-based cell projections	76
+															GO:0098862	cluster of actin-based cell projections	76															
+GO:0030136	clathrin-coated vesicle	81
+															GO:0030136	clathrin-coated vesicle	81							GO:0030136	clathrin-coated vesicle	100						
+GO:0150005	enzyme activator complex	82
+															GO:0150005	enzyme activator complex	82															
+GO:0032432	actin filament bundle	83
+			GO:0032432	actin filament bundle	101							GO:0032432	actin filament bundle	100	GO:0032432	actin filament bundle	83															
+GO:0031981	nuclear lumen	90
+																								GO:0031981	nuclear lumen	90						
+GO:0098796	membrane protein complex	91
+												GO:0098796	membrane protein complex	112													GO:0098796	membrane protein complex	91			
+GO:0015629	actin cytoskeleton	102
+			GO:0015629	actin cytoskeleton	102																											

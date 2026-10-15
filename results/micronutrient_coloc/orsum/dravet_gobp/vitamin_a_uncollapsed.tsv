@@ -1,0 +1,385 @@
+native	name	p_value	term_size	intersection_size
+GO:0007399	nervous system development	1.6646086368276222e-14	2484	63
+GO:0007417	central nervous system development	5.269782923659651e-12	991	37
+GO:0022008	neurogenesis	5.269782923659651e-12	1698	48
+GO:0048731	system development	7.66222011965889e-11	3756	71
+GO:0048699	generation of neurons	1.8135039090290032e-10	1464	42
+GO:0007275	multicellular organism development	2.9005742123182797e-10	4372	76
+GO:0009653	anatomical structure morphogenesis	4.877711917533577e-10	2508	55
+GO:0061564	axon development	1.139700747273589e-09	499	24
+GO:0030182	neuron differentiation	1.4974342408306621e-09	1385	39
+GO:0010975	regulation of neuron projection development	1.4974342408306621e-09	419	22
+GO:0050767	regulation of neurogenesis	1.76064932864083e-09	340	20
+GO:0048667	cell morphogenesis involved in neuron differentiation	1.827767246175071e-09	569	25
+GO:0000902	cell morphogenesis	1.9978324897067e-09	962	32
+GO:0030900	forebrain development	1.9978324897067e-09	389	21
+GO:0007409	axonogenesis	2.6075792949908225e-09	441	22
+GO:0031175	neuron projection development	2.6075792949908225e-09	977	32
+GO:0007420	brain development	3.6990199058476597e-09	703	27
+GO:0048666	neuron development	3.8883525291611975e-09	1122	34
+GO:0051960	regulation of nervous system development	5.432340717301651e-09	417	21
+GO:0048812	neuron projection morphogenesis	1.097788935808057e-08	634	25
+GO:0021537	telencephalon development	1.097788935808057e-08	266	17
+GO:0060322	head development	1.2012098128198973e-08	749	27
+GO:0120039	plasma membrane bounded cell projection morphogenesis	1.647983648096063e-08	650	25
+GO:0048858	cell projection morphogenesis	1.8560662504565554e-08	655	25
+GO:0032502	developmental process	2.8345412292006852e-08	5877	85
+GO:0021953	central nervous system neuron differentiation	2.8345412292006852e-08	211	15
+GO:0021543	pallium development	4.253179852073418e-08	183	14
+GO:0007611	learning or memory	4.2957278945204094e-08	256	16
+GO:0050890	cognition	4.8945820474960804e-08	299	17
+GO:0048856	anatomical structure development	4.991371502584632e-08	5395	80
+GO:0007610	behavior	5.043796259685548e-08	640	24
+GO:0050768	negative regulation of neurogenesis	5.539728786049126e-08	126	12
+GO:0050808	synapse organization	9.171667359327895e-08	553	22
+GO:0051961	negative regulation of nervous system development	9.77999584720898e-08	133	12
+GO:0050770	regulation of axonogenesis	1.301454345502759e-07	137	12
+GO:0042063	gliogenesis	1.301454345502759e-07	323	17
+GO:0021761	limbic system development	2.7019054279010087e-07	116	11
+GO:0007612	learning	3.4909987210518654e-07	150	12
+GO:0032501	multicellular organismal process	3.8870380587189396e-07	6433	87
+GO:0001764	neuron migration	4.0566516938506605e-07	187	13
+GO:0120035	regulation of plasma membrane bounded cell projection organization	4.501219032660655e-07	610	22
+GO:0031344	regulation of cell projection organization	6.82860062832152e-07	625	22
+GO:0034330	cell junction organization	7.459966398061072e-07	807	25
+GO:0010001	glial cell differentiation	1.184092859196941e-06	246	14
+GO:0099536	synaptic signaling	1.184092859196941e-06	766	24
+GO:0050807	regulation of synapse organization	1.6393762075846589e-06	296	15
+GO:0098916	anterograde trans-synaptic signaling	2.139180837948917e-06	732	23
+GO:0050803	regulation of synapse structure or activity	2.139180837948917e-06	303	15
+GO:0007268	chemical synaptic transmission	2.139180837948917e-06	732	23
+GO:0007416	synapse assembly	2.2380745557658486e-06	261	14
+GO:0048869	cellular developmental process	2.2610596561682237e-06	3964	62
+GO:0030154	cell differentiation	2.2610596561682237e-06	3963	62
+GO:0021766	hippocampus development	2.2623854529455745e-06	86	9
+GO:0099537	trans-synaptic signaling	2.3106741378930855e-06	739	23
+GO:0021782	glial cell development	4.614980734912112e-06	124	10
+GO:0021954	central nervous system neuron development	4.683683059978187e-06	94	9
+GO:0099177	regulation of trans-synaptic signaling	4.701683695881457e-06	479	18
+GO:0050804	modulation of chemical synaptic transmission	4.701683695881457e-06	478	18
+GO:0021987	cerebral cortex development	4.701683695881457e-06	125	10
+GO:0034329	cell junction assembly	7.110057468044192e-06	493	18
+GO:0007267	cell-cell signaling	1.0499534878753074e-05	1223	29
+GO:0050769	positive regulation of neurogenesis	1.2319139181369338e-05	216	12
+GO:0051962	positive regulation of nervous system development	1.5736595864284526e-05	265	13
+GO:0010976	positive regulation of neuron projection development	1.6215651481697805e-05	144	10
+GO:0099173	postsynapse organization	2.2719855456945513e-05	230	12
+GO:0016358	dendrite development	2.2719855456945513e-05	230	12
+GO:0120036	plasma membrane bounded cell projection organization	2.489848776259893e-05	1510	32
+GO:0010977	negative regulation of neuron projection development	3.897751143567717e-05	123	9
+GO:2000177	regulation of neural precursor cell proliferation	3.960271434909344e-05	91	8
+GO:0048167	regulation of synaptic plasticity	4.3122100181370766e-05	202	11
+GO:0030030	cell projection organization	4.428765164682482e-05	1554	32
+GO:0010721	negative regulation of cell development	4.832565379429896e-05	249	12
+GO:0061387	regulation of extent of cell growth	5.6413663554265215e-05	96	8
+GO:0016477	cell migration	7.283313315832376e-05	1434	30
+GO:0048588	developmental cell growth	7.42166642699916e-05	215	11
+GO:0008361	regulation of cell size	8.182331610715893e-05	175	10
+GO:0065008	regulation of biological quality	9.103954861102924e-05	2744	45
+GO:0099175	regulation of postsynapse organization	0.00010043541156982661	140	9
+GO:0048675	axon extension	0.00013647963641270623	109	8
+GO:0048468	cell development	0.00014889321847326862	2615	43
+GO:0050771	negative regulation of axonogenesis	0.00014889321847326862	51	6
+GO:0018958	phenol-containing compound metabolic process	0.00014889321847326862	111	8
+GO:0031346	positive regulation of cell projection organization	0.00014889321847326862	332	13
+GO:0050793	regulation of developmental process	0.0001714626604942252	2269	39
+GO:0045595	regulation of cell differentiation	0.00019099308806273642	1434	29
+GO:0050877	nervous system process	0.00019099308806273642	1125	25
+GO:0060284	regulation of cell development	0.00019393475945617445	769	20
+GO:0048638	regulation of developmental growth	0.00020572460504386777	292	12
+GO:0007613	memory	0.00020572460504386777	117	8
+GO:0061351	neural precursor cell proliferation	0.00023509587351491106	158	9
+GO:0022603	regulation of anatomical structure morphogenesis	0.0002378112632313885	782	20
+GO:0007158	neuron cell-cell adhesion	0.00026233760229562214	16	4
+GO:0007156	homophilic cell-cell adhesion	0.000307810408754231	164	9
+GO:0048870	cell motility	0.00031064590045140654	1642	31
+GO:0021819	layer formation in cerebral cortex	0.0003300923693720475	17	4
+GO:0023052	signaling	0.0003854464278195036	5723	72
+GO:0022029	telencephalon cell migration	0.00043714600840882655	63	6
+GO:0007154	cell communication	0.00047878701991390196	5758	72
+GO:0031345	negative regulation of cell projection organization	0.0004843741960098532	175	9
+GO:0051130	positive regulation of cellular component organization	0.0004843741960098532	1045	23
+GO:0021885	forebrain cell migration	0.0005501192449161264	66	6
+GO:0048813	dendrite morphogenesis	0.0006014693420073824	138	8
+GO:0060560	developmental growth involved in morphogenesis	0.0006014693420073824	227	10
+GO:0051093	negative regulation of developmental process	0.0006433518262216435	845	20
+GO:2000026	regulation of multicellular organismal development	0.0006817006966952217	1305	26
+GO:0051094	positive regulation of developmental process	0.0007253308520363337	1231	25
+GO:0016049	cell growth	0.000789962066187242	458	14
+GO:0007405	neuroblast proliferation	0.000789962066187242	71	6
+GO:1902692	regulation of neuroblast proliferation	0.000789962066187242	43	5
+GO:0097104	postsynaptic membrane assembly	0.0008735501921006771	8	3
+GO:0010720	positive regulation of cell development	0.0010449547016116525	410	13
+GO:0051591	response to cAMP	0.0011155292872511537	76	6
+GO:0046683	response to organophosphorus	0.00113352931157521	112	7
+GO:0045596	negative regulation of cell differentiation	0.0012417258658148087	609	16
+GO:0051128	regulation of cellular component organization	0.001296785263114655	2321	37
+GO:0048513	animal organ development	0.0013099447520866486	2697	41
+GO:0022038	corpus callosum development	0.0013531653717818897	25	4
+GO:0031102	neuron projection regeneration	0.0013891408313556472	49	5
+GO:0030516	regulation of axon extension	0.0014046162555060233	80	6
+GO:0048708	astrocyte differentiation	0.0014942047655079876	81	6
+GO:0021795	cerebral cortex cell migration	0.0014952758886035632	50	5
+GO:0051963	regulation of synapse assembly	0.0014992588065109638	161	8
+GO:2000178	negative regulation of neural precursor cell proliferation	0.0014992588065109638	26	4
+GO:0048589	developmental growth	0.0014992588065109638	623	16
+GO:2000179	positive regulation of neural precursor cell proliferation	0.0015941544824049254	51	5
+GO:0040008	regulation of growth	0.0016528134648677634	562	15
+GO:0072359	circulatory system development	0.0016904361729215688	1071	22
+GO:1990138	neuron projection extension	0.0017257293794537857	165	8
+GO:0001963	synaptic transmission, dopaminergic	0.0019485655198906904	28	4
+GO:0001558	regulation of cell growth	0.0019661677413537948	382	12
+GO:0007406	negative regulation of neuroblast proliferation	0.0021221882564650446	11	3
+GO:0022030	telencephalon glial cell migration	0.002178331127067521	29	4
+GO:0021801	cerebral cortex radial glia-guided migration	0.002178331127067521	29	4
+GO:0040007	growth	0.00232952867454586	868	19
+GO:0021510	spinal cord development	0.0025496347212503804	91	6
+GO:0045597	positive regulation of cell differentiation	0.002560382741205416	801	18
+GO:0038026	reelin-mediated signaling pathway	0.0026892729358415457	12	3
+GO:0060996	dendritic spine development	0.0028139670239731647	93	6
+GO:0007166	cell surface receptor signaling pathway	0.0030126061857421267	2531	38
+GO:0030517	negative regulation of axon extension	0.003073460630642013	32	4
+GO:0060291	long-term synaptic potentiation	0.00309807797278266	95	6
+GO:0023051	regulation of signaling	0.004050429115663955	3255	45
+GO:0009887	animal organ morphogenesis	0.004142559087046703	912	19
+GO:1900006	positive regulation of dendrite development	0.004182130526573594	14	3
+GO:0042462	eye photoreceptor cell development	0.004209504929378819	35	4
+GO:0007628	adult walking behavior	0.004209504929378819	35	4
+GO:0061771	response to caloric restriction	0.00440067915999291	3	2
+GO:0048709	oligodendrocyte differentiation	0.004849453599987922	104	6
+GO:0048639	positive regulation of developmental growth	0.00513018811569929	149	7
+GO:0014002	astrocyte development	0.00513018811569929	37	4
+GO:0051241	negative regulation of multicellular organismal process	0.00516448693481663	1011	20
+GO:0048857	neural nucleus development	0.00516448693481663	68	5
+GO:0001523	retinoid metabolic process	0.00516448693481663	68	5
+GO:0030534	adult behavior	0.005421718245271332	151	7
+GO:0048678	response to axon injury	0.005448267198729659	69	5
+GO:0021799	cerebral cortex radially oriented cell migration	0.005448267198729659	38	4
+GO:0090659	walking behavior	0.005993758882073454	39	4
+GO:0050772	positive regulation of axonogenesis	0.006123783809030166	71	5
+GO:0050806	positive regulation of synaptic transmission	0.00615854187024764	155	7
+GO:0016101	diterpenoid metabolic process	0.006452834944923258	72	5
+GO:0001941	postsynaptic membrane organization	0.006452834944923258	40	4
+GO:0090596	sensory organ morphogenesis	0.0069700400993349615	264	9
+GO:0007165	signal transduction	0.006974858485901469	5266	63
+GO:1900271	regulation of long-term synaptic potentiation	0.006974858485901469	41	4
+GO:1901698	response to nitrogen compound	0.0069822061123666805	883	18
+GO:0010646	regulation of cell communication	0.0074359688475546795	3262	44
+GO:0061001	regulation of dendritic spine morphogenesis	0.007477510079480807	42	4
+GO:0014044	Schwann cell development	0.007477510079480807	42	4
+GO:0021536	diencephalon development	0.007859999059285716	76	5
+GO:0031103	axon regeneration	0.008048149550654051	43	4
+GO:0042220	response to cocaine	0.008048149550654051	43	4
+GO:1905475	regulation of protein localization to membrane	0.008306537878207234	165	7
+GO:0032880	regulation of protein localization	0.008673889591845183	825	17
+GO:0048670	regulation of collateral sprouting	0.008938508571870346	19	3
+GO:0001504	neurotransmitter uptake	0.009337361979623987	45	4
+GO:0051239	regulation of multicellular organismal process	0.009337361979623987	2705	38
+GO:0097061	dendritic spine organization	0.009457565519308193	80	5
+GO:0021879	forebrain neuron differentiation	0.009457565519308193	80	5
+GO:0016339	calcium-dependent cell-cell adhesion	0.00997330343035477	46	4
+GO:0048143	astrocyte activation	0.010103973062978708	20	3
+GO:0032535	regulation of cellular component size	0.010120603300857199	343	10
+GO:0007411	axon guidance	0.010594855968667154	227	8
+GO:0046189	phenol-containing compound biosynthetic process	0.010594855968667154	47	4
+GO:0008306	associative learning	0.010725568369495262	83	5
+GO:0099068	postsynapse assembly	0.010725568369495262	83	5
+GO:0097485	neuron projection guidance	0.010725568369495262	228	8
+GO:0014037	Schwann cell differentiation	0.011218218852023348	48	4
+GO:0072574	hepatocyte proliferation	0.011218218852023348	21	3
+GO:1905167	positive regulation of lysosomal protein catabolic process	0.011285509687705367	5	2
+GO:0045927	positive regulation of growth	0.011437576320370537	231	8
+GO:0007422	peripheral nervous system development	0.01151547999913693	85	5
+GO:0048013	ephrin receptor signaling pathway	0.01151547999913693	85	5
+GO:0006721	terpenoid metabolic process	0.01151547999913693	85	5
+GO:0042461	photoreceptor cell development	0.011721087822446971	49	4
+GO:0048593	camera-type eye morphogenesis	0.012141437351788043	130	6
+GO:0021675	nerve development	0.012478680807184953	87	5
+GO:0014074	response to purine-containing compound	0.012478680807184953	131	6
+GO:0021872	forebrain generation of neurons	0.012478680807184953	87	5
+GO:0007423	sensory organ development	0.012735273699160004	562	13
+GO:0044331	cell-cell adhesion mediated by cadherin	0.013173832968908743	51	4
+GO:0001754	eye photoreceptor cell differentiation	0.013173832968908743	51	4
+GO:2000145	regulation of cell motility	0.013285362584330012	949	18
+GO:0038084	vascular endothelial growth factor signaling pathway	0.013336472217051362	89	5
+GO:0060341	regulation of cellular localization	0.013336472217051362	496	12
+GO:0070887	cellular response to chemical stimulus	0.013336472217051362	2004	30
+GO:0048640	negative regulation of developmental growth	0.013336472217051362	89	5
+GO:0072657	protein localization to membrane	0.0133474484019117	428	11
+GO:0042438	melanin biosynthetic process	0.0133474484019117	23	3
+GO:0072384	organelle transport along microtubule	0.013692759038484536	90	5
+GO:1901699	cellular response to nitrogen compound	0.013692759038484536	643	14
+GO:1902903	regulation of supramolecular fiber organization	0.013692759038484536	364	10
+GO:0106027	neuron projection organization	0.014286866270111517	91	5
+GO:0060998	regulation of dendritic spine development	0.014382264639695523	53	4
+GO:0048679	regulation of axon regeneration	0.014463967555412452	24	3
+GO:0016055	Wnt signaling pathway	0.014463967555412452	435	11
+GO:0014013	regulation of gliogenesis	0.014463967555412452	92	5
+GO:0070445	regulation of oligodendrocyte progenitor proliferation	0.014463967555412452	6	2
+GO:1900451	positive regulation of glutamate receptor signaling pathway	0.014463967555412452	6	2
+GO:1990384	hyaloid vascular plexus regression	0.014463967555412452	6	2
+GO:0006582	melanin metabolic process	0.014463967555412452	24	3
+GO:0007155	cell adhesion	0.01529132023459859	1393	23
+GO:0003008	system process	0.01529132023459859	1845	28
+GO:0051179	localization	0.01529132023459859	4911	58
+GO:0051716	cellular response to stimulus	0.015708753649200786	6502	72
+GO:0044550	secondary metabolite biosynthetic process	0.015822183555426604	25	3
+GO:0050896	response to stimulus	0.016080509366146193	7694	82
+GO:0031547	brain-derived neurotrophic factor receptor signaling pathway	0.01653344048016272	56	4
+GO:0034332	adherens junction organization	0.01653344048016272	56	4
+GO:0051129	negative regulation of cellular component organization	0.0166757689665812	663	14
+GO:0050773	regulation of dendrite development	0.0166757689665812	96	5
+GO:0030334	regulation of cell migration	0.0166757689665812	898	17
+GO:1901888	regulation of cell junction assembly	0.016850417452358647	253	8
+GO:0070570	regulation of neuron projection regeneration	0.017021655785980302	26	3
+GO:0047497	mitochondrion transport along microtubule	0.017021655785980302	26	3
+GO:0034643	establishment of mitochondrion localization, microtubule-mediated	0.017021655785980302	26	3
+GO:0031110	regulation of microtubule polymerization or depolymerization	0.01702457791810629	97	5
+GO:0060997	dendritic spine morphogenesis	0.01702457791810629	57	4
+GO:0048514	blood vessel morphogenesis	0.017342088659995956	593	13
+GO:0001654	eye development	0.01738406907637454	382	10
+GO:0021549	cerebellum development	0.01758007168723083	98	5
+GO:0035239	tube morphogenesis	0.01758007168723083	826	16
+GO:0040012	regulation of locomotion	0.01758007168723083	988	18
+GO:0008347	glial cell migration	0.017692475679486695	58	4
+GO:0021796	cerebral cortex regionalization	0.017938189360897354	7	2
+GO:0070444	oligodendrocyte progenitor proliferation	0.017938189360897354	7	2
+GO:1904352	positive regulation of protein catabolic process in the vacuole	0.017938189360897354	7	2
+GO:0046785	microtubule polymerization	0.017938189360897354	99	5
+GO:0150063	visual system development	0.01803186568737698	386	10
+GO:0010996	response to auditory stimulus	0.01803186568737698	27	3
+GO:0042552	myelination	0.01831657820159535	148	6
+GO:0071709	membrane assembly	0.01831657820159535	59	4
+GO:0006720	isoprenoid metabolic process	0.01831657820159535	100	5
+GO:0007043	cell-cell junction assembly	0.01831657820159535	148	6
+GO:0031099	regeneration	0.01888285004023481	149	6
+GO:0043113	receptor clustering	0.0191325811382512	60	4
+GO:0048668	collateral sprouting	0.01922621791367127	28	3
+GO:0007272	ensheathment of neurons	0.01922621791367127	150	6
+GO:0008366	axon ensheathment	0.01922621791367127	150	6
+GO:0002052	positive regulation of neuroblast proliferation	0.01922621791367127	28	3
+GO:0001568	blood vessel development	0.01928620191401266	682	14
+GO:0048880	sensory system development	0.01928620191401266	392	10
+GO:0030902	hindbrain development	0.02026231735565359	152	6
+GO:0032292	peripheral nervous system axon ensheathment	0.02075462241611988	29	3
+GO:0035791	platelet-derived growth factor receptor-beta signaling pathway	0.02075462241611988	62	4
+GO:0042221	response to chemical	0.02075462241611988	3288	42
+GO:0022011	myelination in peripheral nervous system	0.02075462241611988	29	3
+GO:0023057	negative regulation of signaling	0.02134884487546352	1360	22
+GO:0032879	regulation of localization	0.021601520303229794	1819	27
+GO:1990416	cellular response to brain-derived neurotrophic factor stimulus	0.021601520303229794	8	2
+GO:0051965	positive regulation of synapse assembly	0.021601520303229794	63	4
+GO:0150094	amyloid-beta clearance by cellular catabolic process	0.021601520303229794	8	2
+GO:1901701	cellular response to oxygen-containing compound	0.021601520303229794	1101	19
+GO:0035295	tube development	0.022103823096117976	1020	18
+GO:0001964	startle response	0.022252694075965432	30	3
+GO:0060042	retina morphogenesis in camera-type eye	0.02237230900188894	64	4
+GO:0043010	camera-type eye development	0.02237230900188894	336	9
+GO:0031113	regulation of microtubule polymerization	0.02237230900188894	64	4
+GO:0022037	metencephalon development	0.02335305006289985	108	5
+GO:0048592	eye morphogenesis	0.02389248063356648	159	6
+GO:0051654	establishment of mitochondrion localization	0.023963982105556916	31	3
+GO:0070507	regulation of microtubule cytoskeleton organization	0.024482098191760497	160	6
+GO:0048511	rhythmic process	0.024511756925348096	277	8
+GO:0044091	membrane biogenesis	0.024525310284723614	66	4
+GO:0015711	organic anion transport	0.024627029030054523	410	10
+GO:0035924	cellular response to vascular endothelial growth factor stimulus	0.025540448407407153	111	5
+GO:0060219	camera-type eye photoreceptor cell differentiation	0.025540448407407153	32	3
+GO:0010594	regulation of endothelial cell migration	0.025540448407407153	163	6
+GO:0001944	vasculature development	0.025540448407407153	713	14
+GO:0045109	intermediate filament organization	0.025540448407407153	32	3
+GO:0046548	retinal rod cell development	0.025540448407407153	9	2
+GO:0031223	auditory behavior	0.025540448407407153	9	2
+GO:0031915	positive regulation of synaptic plasticity	0.025540448407407153	9	2
+GO:0031116	positive regulation of microtubule polymerization	0.025540448407407153	32	3
+GO:2000347	positive regulation of hepatocyte proliferation	0.025540448407407153	9	2
+GO:1900449	regulation of glutamate receptor signaling pathway	0.025540448407407153	9	2
+GO:1902513	regulation of organelle transport along microtubule	0.025540448407407153	9	2
+GO:0046530	photoreceptor cell differentiation	0.026072643764016322	68	4
+GO:1902905	positive regulation of supramolecular fiber organization	0.02688155102953217	165	6
+GO:0030336	negative regulation of cell migration	0.02688155102953217	284	8
+GO:0007616	long-term memory	0.02688155102953217	33	3
+GO:0042127	regulation of cell population proliferation	0.027538466394776768	1492	23
+GO:0051402	neuron apoptotic process	0.027825317382034847	286	8
+GO:1901700	response to oxygen-containing compound	0.027825317382034847	1494	23
+GO:0031016	pancreas development	0.028316394181832762	70	4
+GO:0009410	response to xenobiotic stimulus	0.028727031912472566	354	9
+GO:0044087	regulation of cellular component biogenesis	0.028727031912472566	971	17
+GO:0042391	regulation of membrane potential	0.02902412583352009	424	10
+GO:0042756	drinking behavior	0.02946665795205268	10	2
+GO:0048149	behavioral response to ethanol	0.02946665795205268	10	2
+GO:1900378	positive regulation of secondary metabolite biosynthetic process	0.02946665795205268	10	2
+GO:0090042	tubulin deacetylation	0.02946665795205268	10	2
+GO:0019614	catechol-containing compound catabolic process	0.02946665795205268	10	2
+GO:0048755	branching morphogenesis of a nerve	0.02946665795205268	10	2
+GO:0050650	chondroitin sulfate proteoglycan biosynthetic process	0.02946665795205268	10	2
+GO:0042424	catecholamine catabolic process	0.02946665795205268	10	2
+GO:0042420	dopamine catabolic process	0.02946665795205268	10	2
+GO:0048023	positive regulation of melanin biosynthetic process	0.02946665795205268	10	2
+GO:0003206	cardiac chamber morphogenesis	0.029822415517442004	118	5
+GO:0051641	cellular localization	0.029822415517442004	2268	31
+GO:0098810	neurotransmitter reuptake	0.029822415517442004	35	3
+GO:0040011	locomotion	0.030357089474462907	1153	19
+GO:0042471	ear morphogenesis	0.03073498634630845	119	5
+GO:0051640	organelle localization	0.03103517448474495	579	12
+GO:0051493	regulation of cytoskeleton organization	0.03103517448474495	504	11
+GO:0008284	positive regulation of cell population proliferation	0.032040091465405644	820	15
+GO:2000146	negative regulation of cell motility	0.032513377859296845	297	8
+GO:0045664	regulation of neuron differentiation	0.03284605443635122	175	6
+GO:0009968	negative regulation of signal transduction	0.03376944424203097	1255	20
+GO:0007638	mechanosensory behavior	0.033895264661895186	11	2
+GO:0043523	regulation of neuron apoptotic process	0.033895264661895186	236	7
+GO:0048671	negative regulation of collateral sprouting	0.033895264661895186	11	2
+GO:0031112	positive regulation of microtubule polymerization or depolymerization	0.033895264661895186	37	3
+GO:2000739	regulation of mesenchymal stem cell differentiation	0.033895264661895186	11	2
+GO:2001223	negative regulation of neuron migration	0.033895264661895186	11	2
+GO:0065007	biological regulation	0.033895264661895186	10724	104
+GO:0060999	positive regulation of dendritic spine development	0.035508674358687396	38	3
+GO:0014014	negative regulation of gliogenesis	0.035508674358687396	38	3
+GO:0021517	ventral spinal cord development	0.035508674358687396	38	3
+GO:0051656	establishment of organelle localization	0.035508674358687396	371	9
+GO:1904646	cellular response to amyloid-beta	0.035508674358687396	38	3
+GO:0051495	positive regulation of cytoskeleton organization	0.03615970745928277	180	6
+GO:0048863	stem cell differentiation	0.036808836296255566	241	7
+GO:0010648	negative regulation of cell communication	0.03718781975515399	1361	21
+GO:2000008	regulation of protein localization to cell surface	0.037792471056422666	39	3
+GO:0007167	enzyme-linked receptor protein signaling pathway	0.0381721644095503	925	16
+GO:0048712	negative regulation of astrocyte differentiation	0.03861028579954361	12	2
+GO:0072497	mesenchymal stem cell differentiation	0.03861028579954361	12	2
+GO:0051583	dopamine uptake involved in synaptic transmission	0.03861028579954361	12	2
+GO:0019336	phenol-containing compound catabolic process	0.03861028579954361	12	2
+GO:1905165	regulation of lysosomal protein catabolic process	0.03861028579954361	12	2
+GO:0046549	retinal cone cell development	0.03861028579954361	12	2
+GO:0021983	pituitary gland development	0.03968885768258424	40	3
+GO:0003007	heart morphogenesis	0.03986862486807479	246	7
+GO:0009719	response to endogenous stimulus	0.03986862486807479	1373	21
+GO:0009611	response to wounding	0.040059545333441936	528	11
+GO:0040013	negative regulation of locomotion	0.040059545333441936	312	8
+GO:0043279	response to alkaloid	0.04080379055360158	81	4
+GO:0007169	cell surface receptor protein tyrosine kinase signaling pathway	0.040808071332285666	607	12
+GO:0015872	dopamine transport	0.041735666595806534	41	3
+GO:0046942	carboxylic acid transport	0.043385671804490995	317	8
+GO:0015849	organic acid transport	0.043385671804490995	317	8
+GO:0021978	telencephalon regionalization	0.04376289086206925	13	2
+GO:0050665	hydrogen peroxide biosynthetic process	0.04376289086206925	13	2
+GO:0048681	negative regulation of axon regeneration	0.04376289086206925	13	2
+GO:0042417	dopamine metabolic process	0.04382245452231414	42	3
+GO:0031111	negative regulation of microtubule polymerization or depolymerization	0.04382245452231414	42	3
+GO:0048585	negative regulation of response to stimulus	0.04483643613592762	1577	23
+GO:0032886	regulation of microtubule-based process	0.04545470238129217	254	7
+GO:0048519	negative regulation of biological process	0.04545598783551988	4787	54
+GO:0008344	adult locomotory behavior	0.04671544502365437	85	4
+GO:0048523	negative regulation of cellular process	0.04761883631464409	4577	52
+GO:0051234	establishment of localization	0.04824138409935337	4252	49
+GO:0031109	microtubule polymerization or depolymerization	0.04824138409935337	137	5
+GO:0060033	anatomical structure regression	0.04851514397232102	14	2
+GO:0034638	phosphatidylcholine catabolic process	0.04851514397232102	14	2
+GO:0060134	prepulse inhibition	0.04851514397232102	14	2
+GO:0050654	chondroitin sulfate proteoglycan metabolic process	0.04851514397232102	14	2
+GO:0048935	peripheral nervous system neuron development	0.04851514397232102	14	2
+GO:2000345	regulation of hepatocyte proliferation	0.04851514397232102	14	2
+GO:0070571	negative regulation of neuron projection regeneration	0.04851514397232102	14	2
+GO:1904350	regulation of protein catabolic process in the vacuole	0.04851514397232102	14	2
+GO:0006810	transport	0.04973974781214115	4046	47
+GO:0050673	epithelial cell proliferation	0.049851144944896376	399	9
+GO:0050678	regulation of epithelial cell proliferation	0.049851144944896376	328	8

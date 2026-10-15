@@ -1,0 +1,1761 @@
+source	target	edge_type	combined_z	role	line_color	line_width	p_value	intersection_size
+folic acid	LDLR	coloc	23.60898654294638	micronutrient seed	#2a78d6	1.0		
+folic acid	GPD1	coloc	11.178429374341748	bridge	#2a78d6	1.0		
+folic acid	LPAR1	coloc	8.605365498783929	bridge	#2a78d6	1.0		
+folic acid	FGF11	coloc	10.932773986501784	bridge	#2a78d6	1.0		
+folic acid	F2RL1	coloc	7.904118093792278	bridge	#2a78d6	1.0		
+folic acid	SLC18B1	coloc	7.904117655739917	bridge	#2a78d6	1.0		
+folic acid	ANO3	coloc	6.341740340439883	bridge	#2a78d6	1.0		
+folic acid	HPN	coloc	11.662736035297556	bridge	#2a78d6	1.0		
+folic acid	LRRN1	coloc	9.529450942456936	bridge	#2a78d6	1.0		
+folic acid	PLCL2	coloc	12.506997032561527	bridge	#2a78d6	1.0		
+folic acid	CSMD1	coloc	10.055673601833162	bridge	#2a78d6	1.0		
+folic acid	RAET1E	coloc	7.867726703620321	bridge	#2a78d6	1.0		
+folic acid	RBFOX3	coloc	7.338826850474445	bridge	#2a78d6	1.0		
+folic acid	LRP1	coloc	9.578814476984839	bridge	#2a78d6	1.0		
+folic acid	SNTA1	coloc	8.064615334185145	bridge	#2a78d6	1.0		
+folic acid	BDNF	coloc	7.0462237956473714	bridge	#2a78d6	1.0		
+folic acid	TTYH2	coloc	4.779526276535676	bridge	#2a78d6	1.0		
+folic acid	ARRDC4	coloc	7.069829721534538	bridge	#2a78d6	1.0		
+folic acid	FRMD5	coloc	8.568961832107608	bridge	#2a78d6	1.0		
+folic acid	CADM1	coloc	5.734250612697345	bridge	#2a78d6	1.0		
+folic acid	CBLN4	coloc	5.7711176639244774	bridge	#2a78d6	1.0		
+folic acid	SYT14	coloc	5.510614532828626	bridge	#2a78d6	1.0		
+folic acid	SYT16	coloc	5.5106138296183165	bridge	#2a78d6	1.0		
+folic acid	NMNAT3	coloc	5.148084181666645	bridge	#2a78d6	1.0		
+folic acid	PDE4D	coloc	7.0818266382444275	bridge	#2a78d6	1.0		
+folic acid	NXPH2	coloc	5.574005215028024	bridge	#2a78d6	1.0		
+folic acid	TTLL11	coloc	5.404827638909993	bridge	#2a78d6	1.0		
+folic acid	FAT4	coloc	5.584997829305997	bridge	#2a78d6	1.0		
+folic acid	CDH24	coloc	4.322514540201211	bridge	#2a78d6	1.0		
+folic acid	ROR1	coloc	4.640498070163621	bridge	#2a78d6	1.0		
+folic acid	KCNJ1	coloc	5.497437953403539	bridge	#2a78d6	1.0		
+folic acid	TRPC7	coloc	4.8535977635478345	bridge	#2a78d6	1.0		
+folic acid	MMP16	coloc	6.708038510452237	bridge	#2a78d6	1.0		
+folic acid	CDH6	coloc	3.982775222308447	bridge	#2a78d6	1.0		
+folic acid	PRPH	coloc	4.874255695120997	bridge	#2a78d6	1.0		
+folic acid	PLEKHG2	coloc	3.888318260606451	bridge	#2a78d6	1.0		
+folic acid	CBLN3	coloc	3.8636459632756353	bridge	#2a78d6	1.0		
+folic acid	EPHB2	coloc	3.8901017782133716	bridge	#2a78d6	1.0		
+folic acid	BEX1	coloc	7.204951953412545	bridge	#2a78d6	1.0		
+folic acid	IL17RE	coloc	4.13296212504944	bridge	#2a78d6	1.0		
+folic acid	LRP8	coloc	8.875237176190947	bridge	#2a78d6	1.0		
+folic acid	IGSF9	coloc	6.931710230717823	bridge	#2a78d6	1.0		
+folic acid	VLDLR	coloc	4.2733533257425	bridge	#2a78d6	1.0		
+folic acid	ABCC2	coloc	7.062502342408901	bridge	#2a78d6	1.0		
+folic acid	SLC29A4	coloc	4.844168962764561	bridge	#2a78d6	1.0		
+folic acid	HAAO	coloc	4.936207260582372	bridge	#2a78d6	1.0		
+folic acid	VASH1	coloc	7.723127802174375	bridge	#2a78d6	1.0		
+folic acid	CPED1	coloc	6.327828560380199	bridge	#2a78d6	1.0		
+folic acid	SEMA3A	coloc	5.079028385799198	bridge	#2a78d6	1.0		
+folic acid	DMD	coloc	5.695186532994859	bridge	#2a78d6	1.0		
+folic acid	UPK1A	coloc	6.532641909191011	bridge	#2a78d6	1.0		
+folic acid	ACVR1C	coloc	10.048371044098337	bridge	#2a78d6	1.0		
+folic acid	CDH3	coloc	3.8323915220787446	bridge	#2a78d6	1.0		
+folic acid	CPT1A	coloc	4.492898253164301	bridge	#2a78d6	1.0		
+folic acid	EEF1A2	coloc	9.513347686064764	bridge	#2a78d6	1.0		
+folic acid	ANKRD24	coloc	4.5611462143483825	bridge	#2a78d6	1.0		
+folic acid	PLXNA1	coloc	3.4726666517723683	bridge	#2a78d6	1.0		
+folic acid	SLC6A12	coloc	3.5034896394938677	bridge	#2a78d6	1.0		
+folic acid	APC2	coloc	8.650964472411072	bridge	#2a78d6	1.0		
+folic acid	SPOCK3	coloc	3.531991711754483	bridge	#2a78d6	1.0		
+folic acid	APLP1	coloc	9.926342724696966	bridge	#2a78d6	1.0		
+folic acid	SHISA6	coloc	6.123753174673032	bridge	#2a78d6	1.0		
+folic acid	SLC6A13	coloc	4.833516910918098	bridge	#2a78d6	1.0		
+folic acid	ABCC9	coloc	4.318222298258703	bridge	#2a78d6	1.0		
+folic acid	PSEN1	coloc	5.978095633148897	bridge	#2a78d6	1.0		
+folic acid	SMPD2	coloc	3.720579179606403	bridge	#2a78d6	1.0		
+folic acid	PDE4A	coloc	4.465861403607879	bridge	#2a78d6	1.0		
+folic acid	KIAA1217	coloc	3.5787857154592446	bridge	#2a78d6	1.0		
+folic acid	MUSK	coloc	4.18193599632977	bridge	#2a78d6	1.0		
+folic acid	C16orf74	coloc	5.717643993413331	bridge	#2a78d6	1.0		
+folic acid	DIRAS1	coloc	9.573503730901553	bridge	#2a78d6	1.0		
+folic acid	TRIM58	coloc	4.048635087985357	bridge	#2a78d6	1.0		
+folic acid	IGSF21	coloc	10.333257979280393	bridge	#2a78d6	1.0		
+folic acid	CPXM2	coloc	6.009504281553118	bridge	#2a78d6	1.0		
+folic acid	NRP2	coloc	7.504489741658965	bridge	#2a78d6	1.0		
+folic acid	PLA2R1	coloc	3.2820625301269946	bridge	#2a78d6	1.0		
+folic acid	GSTM5	coloc	5.537483478365292	bridge	#2a78d6	1.0		
+folic acid	NPHS1	coloc	4.180491294669164	bridge	#2a78d6	1.0		
+folic acid	MAOB	coloc	4.615926961114413	bridge	#2a78d6	1.0		
+folic acid	CELF6	coloc	4.65738226269475	bridge	#2a78d6	1.0		
+folic acid	SLC1A4	coloc	5.427596407737691	bridge	#2a78d6	1.0		
+folic acid	TSC22D3	coloc	4.427364586940294	bridge	#2a78d6	1.0		
+folic acid	KCNG1	coloc	4.324508505160375	bridge	#2a78d6	1.0		
+folic acid	SLC12A3	coloc	3.7332134713789187	bridge	#2a78d6	1.0		
+folic acid	CERS1	coloc	16.809166134121106	bridge	#2a78d6	1.0		
+folic acid	MCTP2	coloc	3.581228224706247	bridge	#2a78d6	1.0		
+folic acid	FZD8	coloc	3.2694738308327267	bridge	#2a78d6	1.0		
+folic acid	HRK	coloc	4.409522152352096	bridge	#2a78d6	1.0		
+folic acid	SULT4A1	coloc	4.093429246879789	bridge	#2a78d6	1.0		
+folic acid	MMP17	coloc	5.849197840497922	bridge	#2a78d6	1.0		
+folic acid	SPOCK1	coloc	4.9994738733173385	bridge	#2a78d6	1.0		
+folic acid	PPFIBP2	coloc	3.6601973446449367	bridge	#2a78d6	1.0		
+folic acid	TMEFF2	coloc	4.887556546276665	bridge	#2a78d6	1.0		
+folic acid	GLS2	coloc	3.477977133657151	bridge	#2a78d6	1.0		
+folic acid	BTNL2	coloc	4.179980367833064	bridge	#2a78d6	1.0		
+folic acid	VWC2L	coloc	5.197431677206527	bridge	#2a78d6	1.0		
+folic acid	TNFSF12-TNFSF13	coloc	3.9906267524495305	bridge	#2a78d6	1.0		
+folic acid	SLC13A4	coloc	4.722675640020586	bridge	#2a78d6	1.0		
+folic acid	OPRD1	coloc	3.472955192415513	bridge	#2a78d6	1.0		
+folic acid	CLCNKA	coloc	5.4179619828485635	bridge	#2a78d6	1.0		
+folic acid	SLC26A7	coloc	3.5654012282419294	bridge	#2a78d6	1.0		
+folic acid	FZD1	coloc	3.472578265242499	bridge	#2a78d6	1.0		
+folic acid	DSEL	coloc	4.629713759299186	bridge	#2a78d6	1.0		
+folic acid	GJB1	coloc	5.093851067749081	bridge	#2a78d6	1.0		
+folic acid	MLKL	coloc	4.355246374769044	bridge	#2a78d6	1.0		
+folic acid	HAS1	coloc	3.4082370448507313	bridge	#2a78d6	1.0		
+folic acid	B3GALT2	coloc	3.606533313831018	bridge	#2a78d6	1.0		
+folic acid	ADGRA3	coloc	3.122088738637213	bridge	#2a78d6	1.0		
+folic acid	ATP4A	coloc	3.1618228398151373	bridge	#2a78d6	1.0		
+folic acid	SPHKAP	coloc	3.867526082307085	bridge	#2a78d6	1.0		
+folic acid	SLC9A6	coloc	3.933162238661496	bridge	#2a78d6	1.0		
+folic acid	SMLR1	coloc	4.0404345897240015	bridge	#2a78d6	1.0		
+folic acid	SVBP	coloc	6.058544481328596	bridge	#2a78d6	1.0		
+folic acid	CDH2	coloc	4.773523940581804	bridge	#2a78d6	1.0		
+folic acid	SLIT3	coloc	3.516079516692012	bridge	#2a78d6	1.0		
+folic acid	SLC38A3	coloc	3.77532141844781	bridge	#2a78d6	1.0		
+folic acid	SLC16A8	coloc	5.444859171377668	bridge	#2a78d6	1.0		
+folic acid	ACE	coloc	3.6656547980624317	bridge	#2a78d6	1.0		
+folic acid	ERICH2	coloc	5.074268359774167	bridge	#2a78d6	1.0		
+folic acid	BCHE	coloc	3.523703778596242	bridge	#2a78d6	1.0		
+folic acid	SEMA4G	coloc	4.273707455375951	bridge	#2a78d6	1.0		
+folic acid	GO:0005886	enriched			#2a78d6	2.0	1.925706373741612e-10	73.0
+folic acid	GO:0071944	enriched			#2a78d6	2.0	1.925706373741612e-10	76.0
+folic acid	GO:0098590	enriched			#2a78d6	2.0	3.715207854957143e-08	31.0
+folic acid	GO:0030054	enriched			#2a78d6	2.0	8.567074662627716e-08	43.0
+folic acid	GO:0045202	enriched			#2a78d6	2.0	7.553563104267554e-07	33.0
+iron	ATP6V1G2	coloc	19.338529345711702	micronutrient seed	#eb6834	1.0		
+iron	SLC22A17	coloc	13.022381441828193	micronutrient seed	#eb6834	1.0		
+iron	SCNN1B	coloc	9.135382376025019	bridge	#eb6834	1.0		
+iron	PCDH7	coloc	8.239044236863974	bridge	#eb6834	1.0		
+iron	HPN	coloc	11.216126604219578	bridge	#eb6834	1.0		
+iron	AK6	coloc	9.547599788584613	bridge	#eb6834	1.0		
+iron	PPP2R2C	coloc	5.4100532697032016	bridge	#eb6834	1.0		
+iron	ATL1	coloc	6.411344039954517	bridge	#eb6834	1.0		
+iron	ARHGEF10L	coloc	5.35224698550932	bridge	#eb6834	1.0		
+iron	SPTB	coloc	7.512949212812512	bridge	#eb6834	1.0		
+iron	MPZ	coloc	20.07000809291268	bridge	#eb6834	1.0		
+iron	RBFOX3	coloc	6.6570682949880675	bridge	#eb6834	1.0		
+iron	ANK1	coloc	9.555987878717936	bridge	#eb6834	1.0		
+iron	ITPK1	coloc	8.494409554652147	bridge	#eb6834	1.0		
+iron	LRP1	coloc	13.018617054403704	bridge	#eb6834	1.0		
+iron	NUDT11	coloc	11.664647242111048	bridge	#eb6834	1.0		
+iron	CSN3	coloc	6.915003943481511	bridge	#eb6834	1.0		
+iron	ABHD14A	coloc	4.94437158193804	bridge	#eb6834	1.0		
+iron	PNMA8B	coloc	9.798281758265704	bridge	#eb6834	1.0		
+iron	TESC	coloc	7.157234888440788	bridge	#eb6834	1.0		
+iron	ELAVL2	coloc	5.8715343799137285	bridge	#eb6834	1.0		
+iron	SLC4A11	coloc	5.076572929559235	bridge	#eb6834	1.0		
+iron	PCDHAC2	coloc	4.8745884748543205	bridge	#eb6834	1.0		
+iron	KIAA0319	coloc	5.299087802065251	bridge	#eb6834	1.0		
+iron	ORAI3	coloc	10.06468267219236	bridge	#eb6834	1.0		
+iron	KCNQ5	coloc	5.591607017127783	bridge	#eb6834	1.0		
+iron	NRSN2	coloc	7.186771816141926	bridge	#eb6834	1.0		
+iron	SYNDIG1	coloc	4.7204893326403665	bridge	#eb6834	1.0		
+iron	KCNK1	coloc	5.151759271968165	bridge	#eb6834	1.0		
+iron	SYT2	coloc	4.424168832595501	bridge	#eb6834	1.0		
+iron	MELTF	coloc	6.30491944390107	bridge	#eb6834	1.0		
+iron	SYVN1	coloc	9.095131435096555	bridge	#eb6834	1.0		
+iron	RNF112	coloc	5.532372223873304	bridge	#eb6834	1.0		
+iron	TBC1D24	coloc	4.992271325145236	bridge	#eb6834	1.0		
+iron	C19orf18	coloc	7.071196857963676	bridge	#eb6834	1.0		
+iron	ATP1A2	coloc	8.69873109061743	bridge	#eb6834	1.0		
+iron	TRO	coloc	17.613089066096922	bridge	#eb6834	1.0		
+iron	SCAMP5	coloc	4.790114817077591	bridge	#eb6834	1.0		
+iron	TTLL11	coloc	8.186007689869674	bridge	#eb6834	1.0		
+iron	CDH19	coloc	9.946523607289473	bridge	#eb6834	1.0		
+iron	MAP6	coloc	3.8254636839683354	bridge	#eb6834	1.0		
+iron	VAMP2	coloc	4.044041929920794	bridge	#eb6834	1.0		
+iron	NRGN	coloc	6.9102194111882635	bridge	#eb6834	1.0		
+iron	SERINC5	coloc	5.411179551414661	bridge	#eb6834	1.0		
+iron	RIMS4	coloc	3.73682180484478	bridge	#eb6834	1.0		
+iron	TMEM132E	coloc	3.7368217868078655	bridge	#eb6834	1.0		
+iron	PLPP4	coloc	4.192948106863752	bridge	#eb6834	1.0		
+iron	RAB12	coloc	3.8724557747301125	bridge	#eb6834	1.0		
+iron	ABCC2	coloc	5.4440158127662635	bridge	#eb6834	1.0		
+iron	HAAO	coloc	7.130362623962836	bridge	#eb6834	1.0		
+iron	CPED1	coloc	5.816498902395862	bridge	#eb6834	1.0		
+iron	PI16	coloc	4.142155261809313	bridge	#eb6834	1.0		
+iron	ATP1B1	coloc	5.594062324224983	bridge	#eb6834	1.0		
+iron	NTRK2	coloc	8.632770348928005	bridge	#eb6834	1.0		
+iron	SLC26A4	coloc	4.767808379503952	bridge	#eb6834	1.0		
+iron	MT3	coloc	4.024120166882649	bridge	#eb6834	1.0		
+iron	CPT1A	coloc	3.8947259619955505	bridge	#eb6834	1.0		
+iron	TMEM47	coloc	5.151691608495737	bridge	#eb6834	1.0		
+iron	ORAI2	coloc	4.736572399950381	bridge	#eb6834	1.0		
+iron	CALY	coloc	4.465867299766606	bridge	#eb6834	1.0		
+iron	EEF1A2	coloc	5.227407763361873	bridge	#eb6834	1.0		
+iron	FAM131C	coloc	5.901410382335162	bridge	#eb6834	1.0		
+iron	SV2A	coloc	8.762866323473073	bridge	#eb6834	1.0		
+iron	ARL15	coloc	11.762223367227325	bridge	#eb6834	1.0		
+iron	KCNK9	coloc	3.9185416830415636	bridge	#eb6834	1.0		
+iron	TMEM35A	coloc	6.60940281496052	bridge	#eb6834	1.0		
+iron	SCG5	coloc	4.935517559441384	bridge	#eb6834	1.0		
+iron	PLPPR1	coloc	4.180358069654452	bridge	#eb6834	1.0		
+iron	INKA1	coloc	6.23899334597543	bridge	#eb6834	1.0		
+iron	TTC9B	coloc	6.940261915693885	bridge	#eb6834	1.0		
+iron	PSEN1	coloc	6.280181236806129	bridge	#eb6834	1.0		
+iron	PHAF1	coloc	3.4213634072653396	bridge	#eb6834	1.0		
+iron	ROGDI	coloc	5.167903114636133	bridge	#eb6834	1.0		
+iron	PRRT1	coloc	4.142194685720684	bridge	#eb6834	1.0		
+iron	ICAM5	coloc	3.6291528522461483	bridge	#eb6834	1.0		
+iron	NIM1K	coloc	5.829900492535336	bridge	#eb6834	1.0		
+iron	MTURN	coloc	3.8333831239824865	bridge	#eb6834	1.0		
+iron	TRIM58	coloc	6.937305298470484	bridge	#eb6834	1.0		
+iron	SLC6A17	coloc	3.2861220198727694	bridge	#eb6834	1.0		
+iron	SLC2A13	coloc	5.305882334035013	bridge	#eb6834	1.0		
+iron	TAGLN3	coloc	4.1198142996111065	bridge	#eb6834	1.0		
+iron	SNCB	coloc	3.225290845256923	bridge	#eb6834	1.0		
+iron	FKRP	coloc	5.524879525394698	bridge	#eb6834	1.0		
+iron	TMEM30B	coloc	4.787235154129488	bridge	#eb6834	1.0		
+iron	MAOB	coloc	3.5319924051879856	bridge	#eb6834	1.0		
+iron	SGK2	coloc	3.99284245525137	bridge	#eb6834	1.0		
+iron	RCAN2	coloc	6.592671562870121	bridge	#eb6834	1.0		
+iron	SLC18A2	coloc	3.4662802765348064	bridge	#eb6834	1.0		
+iron	PMP2	coloc	3.304691356808664	bridge	#eb6834	1.0		
+iron	SYNGR3	coloc	3.5495282017614187	bridge	#eb6834	1.0		
+iron	SLC30A4	coloc	4.734275441651509	bridge	#eb6834	1.0		
+iron	ADAM22	coloc	3.2938320036807474	bridge	#eb6834	1.0		
+iron	MCTP2	coloc	11.201547613948163	bridge	#eb6834	1.0		
+iron	ISM2	coloc	4.538323125439261	bridge	#eb6834	1.0		
+iron	FAIM2	coloc	7.995235587959332	bridge	#eb6834	1.0		
+iron	HRK	coloc	4.897619328856793	bridge	#eb6834	1.0		
+iron	ATP8A2	coloc	3.320914919923602	bridge	#eb6834	1.0		
+iron	NAP1L3	coloc	9.623926917496997	bridge	#eb6834	1.0		
+iron	SLC34A2	coloc	3.8321453407571955	bridge	#eb6834	1.0		
+iron	GUCA1A	coloc	5.249455434868584	bridge	#eb6834	1.0		
+iron	ACOT6	coloc	6.400614673808948	bridge	#eb6834	1.0		
+iron	MMP17	coloc	3.8203839045026826	bridge	#eb6834	1.0		
+iron	NCDN	coloc	3.045290486806986	bridge	#eb6834	1.0		
+iron	LANCL2	coloc	4.291695918497729	bridge	#eb6834	1.0		
+iron	NPAS4	coloc	3.0027206076458732	bridge	#eb6834	1.0		
+iron	BTNL2	coloc	4.756039823892688	bridge	#eb6834	1.0		
+iron	TNFSF12-TNFSF13	coloc	4.429185392536003	bridge	#eb6834	1.0		
+iron	CAMK1	coloc	3.355523382825478	bridge	#eb6834	1.0		
+iron	ACHE	coloc	7.271246697692189	bridge	#eb6834	1.0		
+iron	PRIMA1	coloc	7.27124666404181	bridge	#eb6834	1.0		
+iron	PRRT2	coloc	4.45853500748243	bridge	#eb6834	1.0		
+iron	LINGO2	coloc	4.673686055076699	bridge	#eb6834	1.0		
+iron	CALN1	coloc	5.859370946599351	bridge	#eb6834	1.0		
+iron	TYRP1	coloc	3.7339860516850245	bridge	#eb6834	1.0		
+iron	DRD2	coloc	4.129231727015243	bridge	#eb6834	1.0		
+iron	CLDN20	coloc	4.470687148291228	bridge	#eb6834	1.0		
+iron	CERS4	coloc	3.4825745973903	bridge	#eb6834	1.0		
+iron	SGCB	coloc	5.707704265254449	bridge	#eb6834	1.0		
+iron	SLC30A10	coloc	3.2712908329710055	bridge	#eb6834	1.0		
+iron	CLTRN	coloc	3.0008118862822304	bridge	#eb6834	1.0		
+iron	ZNF501	coloc	5.160949610383255	bridge	#eb6834	1.0		
+iron	HAPLN4	coloc	3.4626198402352957	bridge	#eb6834	1.0		
+iron	SYNGR4	coloc	3.9576771670549684	bridge	#eb6834	1.0		
+iron	MOG	coloc	4.729157972076918	bridge	#eb6834	1.0		
+iron	ATP4A	coloc	6.740771866652467	bridge	#eb6834	1.0		
+iron	GABBR1	coloc	6.608316951812661	bridge	#eb6834	1.0		
+iron	SLC9A6	coloc	6.525466688655376	bridge	#eb6834	1.0		
+iron	ATP10B	coloc	3.958276955096054	bridge	#eb6834	1.0		
+iron	SMLR1	coloc	3.432822335312239	bridge	#eb6834	1.0		
+iron	JAKMIP1	coloc	6.4677525663738376	bridge	#eb6834	1.0		
+iron	LHFPL6	coloc	4.235864852802581	bridge	#eb6834	1.0		
+iron	LGI3	coloc	3.833844157072518	bridge	#eb6834	1.0		
+iron	DAGLA	coloc	3.0852987141107446	bridge	#eb6834	1.0		
+iron	STRIT1	coloc	3.430742079627733	bridge	#eb6834	1.0		
+iron	TPSG1	coloc	5.495377140449732	bridge	#eb6834	1.0		
+iron	TRPM7	coloc	3.2114045452655926	bridge	#eb6834	1.0		
+iron	SLC38A3	coloc	4.201893659224178	bridge	#eb6834	1.0		
+iron	ACE	coloc	7.726332734933149	bridge	#eb6834	1.0		
+iron	ERICH2	coloc	5.311218860958478	bridge	#eb6834	1.0		
+iron	SMIM5	coloc	3.2975625827701256	bridge	#eb6834	1.0		
+iron	TEX48	coloc	3.4247577807078953	bridge	#eb6834	1.0		
+iron	ZNF441	coloc	3.42475761810164	bridge	#eb6834	1.0		
+iron	GO:0008021	enriched			#eb6834	2.0	3.395867045359665e-14	21.0
+iron	GO:0070382	enriched			#eb6834	2.0	8.234797683982118e-14	21.0
+iron	GO:0045202	enriched			#eb6834	2.0	2.230280226464164e-12	46.0
+iron	GO:0030672	enriched			#eb6834	2.0	3.0695057881766e-11	15.0
+iron	GO:0099501	enriched			#eb6834	2.0	3.0695057881766e-11	15.0
+keto diet	SCN1A	coloc	8.216488693995444	disease seed	#1baf7a	1.0		
+keto diet	SCN1B	coloc	12.435981881029148	disease seed	#1baf7a	1.0		
+keto diet	GABRG2	coloc	8.578720358091942	disease seed	#1baf7a	1.0		
+keto diet	KCNJ11	coloc	25.849757454363505	micronutrient seed	#1baf7a	1.0		
+keto diet	KCNA1	coloc	13.940064681934823	micronutrient seed	#1baf7a	1.0		
+keto diet	GAD1	coloc	27.257038343114242	micronutrient seed	#1baf7a	1.0		
+keto diet	ABCC8	coloc	15.575412852729457	micronutrient seed	#1baf7a	1.0		
+keto diet	ERBB4	coloc	18.264248021579725	micronutrient seed	#1baf7a	1.0		
+keto diet	GPD1	coloc	9.471679788595022	bridge	#1baf7a	1.0		
+keto diet	PCDHB2	coloc	9.805989831551669	bridge	#1baf7a	1.0		
+keto diet	PCDHB3	coloc	13.858408510116	bridge	#1baf7a	1.0		
+keto diet	PCDHB9	coloc	9.697779847031347	bridge	#1baf7a	1.0		
+keto diet	PCDHB8	coloc	9.97190569015756	bridge	#1baf7a	1.0		
+keto diet	PCDHB16	coloc	13.933123065564153	bridge	#1baf7a	1.0		
+keto diet	PCDHB13	coloc	6.846961619928286	bridge	#1baf7a	1.0		
+keto diet	ANO3	coloc	9.997824232897614	bridge	#1baf7a	1.0		
+keto diet	TENM3	coloc	6.375784135245212	bridge	#1baf7a	1.0		
+keto diet	UNC5C	coloc	8.042290541330642	bridge	#1baf7a	1.0		
+keto diet	LRRC52	coloc	5.940615854978094	bridge	#1baf7a	1.0		
+keto diet	PCDHB7	coloc	5.404190608755417	bridge	#1baf7a	1.0		
+keto diet	RET	coloc	6.63889959148549	bridge	#1baf7a	1.0		
+keto diet	SCN5A	coloc	5.932147474651344	bridge	#1baf7a	1.0		
+keto diet	KCNMA1	coloc	6.226441487319982	bridge	#1baf7a	1.0		
+keto diet	RNF130	coloc	9.000940422027151	bridge	#1baf7a	1.0		
+keto diet	PAK5	coloc	5.276638910943577	bridge	#1baf7a	1.0		
+keto diet	KHDRBS2	coloc	5.005268762592957	bridge	#1baf7a	1.0		
+keto diet	KCNJ5	coloc	5.555751945515136	bridge	#1baf7a	1.0		
+keto diet	OPA3	coloc	7.417892077178006	bridge	#1baf7a	1.0		
+keto diet	PPM1E	coloc	7.574860624807656	bridge	#1baf7a	1.0		
+keto diet	TRPC5	coloc	6.037903548683329	bridge	#1baf7a	1.0		
+keto diet	TRPM6	coloc	5.513477140626101	bridge	#1baf7a	1.0		
+keto diet	SCN7A	coloc	4.876198946037337	bridge	#1baf7a	1.0		
+keto diet	CHAT	coloc	7.913275278728421	bridge	#1baf7a	1.0		
+keto diet	PCDHB5	coloc	5.367194883072566	bridge	#1baf7a	1.0		
+keto diet	RXRG	coloc	4.568458241150071	bridge	#1baf7a	1.0		
+keto diet	PCDHB6	coloc	4.8465205641889915	bridge	#1baf7a	1.0		
+keto diet	ELAVL2	coloc	5.193979486819179	bridge	#1baf7a	1.0		
+keto diet	PCDHAC2	coloc	11.439508519814364	bridge	#1baf7a	1.0		
+keto diet	RELN	coloc	5.697931736972796	bridge	#1baf7a	1.0		
+keto diet	KIAA0319	coloc	6.002209381638574	bridge	#1baf7a	1.0		
+keto diet	SLITRK5	coloc	4.765313134321583	bridge	#1baf7a	1.0		
+keto diet	TLCD3A	coloc	4.498530763421048	bridge	#1baf7a	1.0		
+keto diet	SRRM4	coloc	6.27189178553759	bridge	#1baf7a	1.0		
+keto diet	ORAI3	coloc	8.24839845395311	bridge	#1baf7a	1.0		
+keto diet	SLC8A1	coloc	4.424063626111233	bridge	#1baf7a	1.0		
+keto diet	KCNQ5	coloc	4.589629583277746	bridge	#1baf7a	1.0		
+keto diet	CPT1C	coloc	6.332867206231003	bridge	#1baf7a	1.0		
+keto diet	SYNDIG1	coloc	6.923534166007493	bridge	#1baf7a	1.0		
+keto diet	ARRDC4	coloc	6.495720952202933	bridge	#1baf7a	1.0		
+keto diet	FRMD5	coloc	4.5301722202062	bridge	#1baf7a	1.0		
+keto diet	KCNK1	coloc	6.317432068684338	bridge	#1baf7a	1.0		
+keto diet	NCS1	coloc	5.0864926134090105	bridge	#1baf7a	1.0		
+keto diet	PCDHB10	coloc	6.87240416386777	bridge	#1baf7a	1.0		
+keto diet	SYVN1	coloc	4.524395425047799	bridge	#1baf7a	1.0		
+keto diet	FGF12	coloc	5.59651474585039	bridge	#1baf7a	1.0		
+keto diet	CNNM1	coloc	4.357873856190027	bridge	#1baf7a	1.0		
+keto diet	SYT14	coloc	6.3404941333961755	bridge	#1baf7a	1.0		
+keto diet	SYT16	coloc	6.340493385592103	bridge	#1baf7a	1.0		
+keto diet	MARCHF11	coloc	4.412154234907947	bridge	#1baf7a	1.0		
+keto diet	ICA1	coloc	6.066108062034742	bridge	#1baf7a	1.0		
+keto diet	PCSK1	coloc	6.489796903003935	bridge	#1baf7a	1.0		
+keto diet	ASTN2	coloc	6.153802662113308	bridge	#1baf7a	1.0		
+keto diet	KCNK3	coloc	6.302470728493665	bridge	#1baf7a	1.0		
+keto diet	CA11	coloc	7.282823455378846	bridge	#1baf7a	1.0		
+keto diet	CHD5	coloc	4.111975381488524	bridge	#1baf7a	1.0		
+keto diet	C1QL3	coloc	9.39166236874851	bridge	#1baf7a	1.0		
+keto diet	ANK2	coloc	7.681345933764302	bridge	#1baf7a	1.0		
+keto diet	EPHA10	coloc	4.659901448452941	bridge	#1baf7a	1.0		
+keto diet	TRO	coloc	5.700045160357432	bridge	#1baf7a	1.0		
+keto diet	AQP4	coloc	3.9923967532162226	bridge	#1baf7a	1.0		
+keto diet	AGBL4	coloc	4.326610055695489	bridge	#1baf7a	1.0		
+keto diet	KIF1A	coloc	4.326610783710488	bridge	#1baf7a	1.0		
+keto diet	B4GALNT1	coloc	7.74945479259309	bridge	#1baf7a	1.0		
+keto diet	SEZ6	coloc	3.9741762111813186	bridge	#1baf7a	1.0		
+keto diet	MAPK10	coloc	4.600884504459474	bridge	#1baf7a	1.0		
+keto diet	PVALB	coloc	4.564627505735368	bridge	#1baf7a	1.0		
+keto diet	PEX5L	coloc	6.488218948708731	bridge	#1baf7a	1.0		
+keto diet	DCX	coloc	5.572882235004223	bridge	#1baf7a	1.0		
+keto diet	VWA5B2	coloc	4.34070418032838	bridge	#1baf7a	1.0		
+keto diet	SLC17A7	coloc	3.8946075643815354	bridge	#1baf7a	1.0		
+keto diet	NXPH3	coloc	4.455415426252962	bridge	#1baf7a	1.0		
+keto diet	KCNJ1	coloc	4.5547017651892485	bridge	#1baf7a	1.0		
+keto diet	TRPC7	coloc	4.332411135539218	bridge	#1baf7a	1.0		
+keto diet	CDH6	coloc	4.777335465186089	bridge	#1baf7a	1.0		
+keto diet	RAB3A	coloc	4.257123907744105	bridge	#1baf7a	1.0		
+keto diet	CDK5R1	coloc	3.965949458494653	bridge	#1baf7a	1.0		
+keto diet	KCNRG	coloc	6.659666164661357	bridge	#1baf7a	1.0		
+keto diet	MCF2L	coloc	6.42229374813974	bridge	#1baf7a	1.0		
+keto diet	ADGRB3	coloc	5.2727614518143975	bridge	#1baf7a	1.0		
+keto diet	ANKS1B	coloc	5.074590880577833	bridge	#1baf7a	1.0		
+keto diet	KCNE4	coloc	4.732853206616257	bridge	#1baf7a	1.0		
+keto diet	KCNT2	coloc	4.695210699910167	bridge	#1baf7a	1.0		
+keto diet	IGSF9	coloc	4.37972939506252	bridge	#1baf7a	1.0		
+keto diet	RIMS4	coloc	4.3547306734226385	bridge	#1baf7a	1.0		
+keto diet	TMEM132E	coloc	4.354729971764004	bridge	#1baf7a	1.0		
+keto diet	MAGEE1	coloc	5.313627852957488	bridge	#1baf7a	1.0		
+keto diet	KIAA1549L	coloc	5.934469462906627	bridge	#1baf7a	1.0		
+keto diet	KCNC1	coloc	5.346910448602818	bridge	#1baf7a	1.0		
+keto diet	KCNS1	coloc	3.7913424917724514	bridge	#1baf7a	1.0		
+keto diet	ST8SIA2	coloc	6.915889453259392	bridge	#1baf7a	1.0		
+keto diet	FAM131A	coloc	4.205771848498682	bridge	#1baf7a	1.0		
+keto diet	PHYHIP	coloc	4.205773141758182	bridge	#1baf7a	1.0		
+keto diet	RASL11B	coloc	3.775867497334873	bridge	#1baf7a	1.0		
+keto diet	KCNK10	coloc	5.386264772308004	bridge	#1baf7a	1.0		
+keto diet	HAAO	coloc	4.446631852344116	bridge	#1baf7a	1.0		
+keto diet	THRB	coloc	4.222525140040205	bridge	#1baf7a	1.0		
+keto diet	CPED1	coloc	15.179343698595918	bridge	#1baf7a	1.0		
+keto diet	ASIC1	coloc	6.855040402163124	bridge	#1baf7a	1.0		
+keto diet	PCP4	coloc	5.357966629901645	bridge	#1baf7a	1.0		
+keto diet	KCNE1	coloc	5.403702148046696	bridge	#1baf7a	1.0		
+keto diet	MAPK4	coloc	4.6643168095362055	bridge	#1baf7a	1.0		
+keto diet	KCNJ4	coloc	4.106276889978805	bridge	#1baf7a	1.0		
+keto diet	KCNV2	coloc	3.9416853896198103	bridge	#1baf7a	1.0		
+keto diet	CPLX1	coloc	4.733005534097127	bridge	#1baf7a	1.0		
+keto diet	NSG2	coloc	4.3573696584322885	bridge	#1baf7a	1.0		
+keto diet	ADCY8	coloc	5.129061104767821	bridge	#1baf7a	1.0		
+keto diet	KCNIP2	coloc	4.719446521681665	bridge	#1baf7a	1.0		
+keto diet	HTR3B	coloc	3.990028146149957	bridge	#1baf7a	1.0		
+keto diet	NOL4	coloc	4.374685489170683	bridge	#1baf7a	1.0		
+keto diet	CSPG5	coloc	3.69073410435738	bridge	#1baf7a	1.0		
+keto diet	NPAS3	coloc	5.11183077782504	bridge	#1baf7a	1.0		
+keto diet	KCNA6	coloc	3.628116024786669	bridge	#1baf7a	1.0		
+keto diet	P2RX2	coloc	5.946134472607673	bridge	#1baf7a	1.0		
+keto diet	KCTD8	coloc	4.8485579837589095	bridge	#1baf7a	1.0		
+keto diet	TSPAN6	coloc	5.727179785782434	bridge	#1baf7a	1.0		
+keto diet	ASTN1	coloc	3.7141131772371745	bridge	#1baf7a	1.0		
+keto diet	C1QL2	coloc	8.404894863133277	bridge	#1baf7a	1.0		
+keto diet	CALB2	coloc	3.5351442545570033	bridge	#1baf7a	1.0		
+keto diet	SHC3	coloc	3.594315928552408	bridge	#1baf7a	1.0		
+keto diet	MYRIP	coloc	3.5325425086277424	bridge	#1baf7a	1.0		
+keto diet	ITPKA	coloc	5.7680263081823275	bridge	#1baf7a	1.0		
+keto diet	SYT11	coloc	4.096962116321456	bridge	#1baf7a	1.0		
+keto diet	CBLN1	coloc	3.603028920085721	bridge	#1baf7a	1.0		
+keto diet	PTPRN	coloc	4.19018402852612	bridge	#1baf7a	1.0		
+keto diet	CNTNAP2	coloc	3.6166840071064734	bridge	#1baf7a	1.0		
+keto diet	CPT1A	coloc	7.49195416035625	bridge	#1baf7a	1.0		
+keto diet	GABRA2	coloc	3.7187142777490316	bridge	#1baf7a	1.0		
+keto diet	CDH12	coloc	5.199761979925275	bridge	#1baf7a	1.0		
+keto diet	CLCN1	coloc	7.459089997596511	bridge	#1baf7a	1.0		
+keto diet	KCNH7	coloc	3.842783843227296	bridge	#1baf7a	1.0		
+keto diet	SVOP	coloc	4.06836826593392	bridge	#1baf7a	1.0		
+keto diet	FSTL5	coloc	3.472436402439878	bridge	#1baf7a	1.0		
+keto diet	RGS8	coloc	3.683149132904912	bridge	#1baf7a	1.0		
+keto diet	CALY	coloc	4.517244074308967	bridge	#1baf7a	1.0		
+keto diet	EEF1A2	coloc	4.110629594388337	bridge	#1baf7a	1.0		
+keto diet	ANKRD24	coloc	6.533578561064482	bridge	#1baf7a	1.0		
+keto diet	SCGN	coloc	6.67795229606674	bridge	#1baf7a	1.0		
+keto diet	SLC6A12	coloc	3.6404319754815075	bridge	#1baf7a	1.0		
+keto diet	PTPRN2	coloc	3.9260996198364335	bridge	#1baf7a	1.0		
+keto diet	UNC13A	coloc	4.209715662939822	bridge	#1baf7a	1.0		
+keto diet	CADM4	coloc	4.086860411574163	bridge	#1baf7a	1.0		
+keto diet	SLC1A6	coloc	4.747346204350645	bridge	#1baf7a	1.0		
+keto diet	SPOCK3	coloc	3.426936587734407	bridge	#1baf7a	1.0		
+keto diet	KCNH8	coloc	3.5372323571718107	bridge	#1baf7a	1.0		
+keto diet	CPXM1	coloc	4.942662316633152	bridge	#1baf7a	1.0		
+keto diet	KCNK12	coloc	7.957162155856363	bridge	#1baf7a	1.0		
+keto diet	TMEM151B	coloc	3.9225018064999944	bridge	#1baf7a	1.0		
+keto diet	LRRC26	coloc	3.48800967062352	bridge	#1baf7a	1.0		
+keto diet	HCN4	coloc	4.262025873938791	bridge	#1baf7a	1.0		
+keto diet	SEMA4F	coloc	4.3770280220768205	bridge	#1baf7a	1.0		
+keto diet	RYR3	coloc	4.196479662420358	bridge	#1baf7a	1.0		
+keto diet	LGI1	coloc	4.164161105339441	bridge	#1baf7a	1.0		
+keto diet	GLRA1	coloc	3.6251001193598666	bridge	#1baf7a	1.0		
+keto diet	GABRQ	coloc	3.524844213931916	bridge	#1baf7a	1.0		
+keto diet	CCM2L	coloc	5.960190345593113	bridge	#1baf7a	1.0		
+keto diet	ETV1	coloc	4.006782807505058	bridge	#1baf7a	1.0		
+keto diet	SLC6A13	coloc	5.9075539028171935	bridge	#1baf7a	1.0		
+keto diet	OPALIN	coloc	4.586283272571872	bridge	#1baf7a	1.0		
+keto diet	KCNH6	coloc	3.7446797098617965	bridge	#1baf7a	1.0		
+keto diet	NETO1	coloc	3.3462439695887136	bridge	#1baf7a	1.0		
+keto diet	SCG5	coloc	6.325263531155616	bridge	#1baf7a	1.0		
+keto diet	CRYM	coloc	7.734841789329044	bridge	#1baf7a	1.0		
+keto diet	PLPPR1	coloc	5.250355532829501	bridge	#1baf7a	1.0		
+keto diet	KAZN	coloc	5.128579592387766	bridge	#1baf7a	1.0		
+keto diet	CDKL5	coloc	3.675442513184542	bridge	#1baf7a	1.0		
+keto diet	MAP2	coloc	3.7669192844527446	bridge	#1baf7a	1.0		
+keto diet	ABCC9	coloc	7.238645753895499	bridge	#1baf7a	1.0		
+keto diet	RASL11A	coloc	4.172369791587593	bridge	#1baf7a	1.0		
+keto diet	WSCD2	coloc	4.172369073706439	bridge	#1baf7a	1.0		
+keto diet	KCNV1	coloc	3.8388650119201513	bridge	#1baf7a	1.0		
+keto diet	EEF1AKMT4	coloc	4.368990675367025	bridge	#1baf7a	1.0		
+keto diet	GRIK4	coloc	3.6451595074333274	bridge	#1baf7a	1.0		
+keto diet	ATP6V1G2	coloc	4.444295968001545	bridge	#1baf7a	1.0		
+keto diet	CACNA1D	coloc	3.873283998119941	bridge	#1baf7a	1.0		
+keto diet	KCNS2	coloc	4.558594080687656	bridge	#1baf7a	1.0		
+keto diet	FRRS1L	coloc	3.3225851210102513	bridge	#1baf7a	1.0		
+keto diet	CNR1	coloc	6.6779502809399025	bridge	#1baf7a	1.0		
+keto diet	OLFM3	coloc	3.9344833783562305	bridge	#1baf7a	1.0		
+keto diet	NEUROD1	coloc	3.7903016501813047	bridge	#1baf7a	1.0		
+keto diet	VWA3B	coloc	4.412556527149914	bridge	#1baf7a	1.0		
+keto diet	SLC17A8	coloc	3.3765087222238885	bridge	#1baf7a	1.0		
+keto diet	LGI2	coloc	3.471986951703984	bridge	#1baf7a	1.0		
+keto diet	ATRNL1	coloc	3.6494885848488803	bridge	#1baf7a	1.0		
+keto diet	LAMP5	coloc	3.878530868168711	bridge	#1baf7a	1.0		
+keto diet	ST8SIA5	coloc	4.42732444285837	bridge	#1baf7a	1.0		
+keto diet	SYT5	coloc	3.9022591994696945	bridge	#1baf7a	1.0		
+keto diet	TRIL	coloc	4.8445491262398175	bridge	#1baf7a	1.0		
+keto diet	CADM2	coloc	4.225474512193127	bridge	#1baf7a	1.0		
+keto diet	NRG3	coloc	3.5561804837015725	bridge	#1baf7a	1.0		
+keto diet	CMKLR2	coloc	3.3655786072781018	bridge	#1baf7a	1.0		
+keto diet	HTR2A	coloc	3.365579296328037	bridge	#1baf7a	1.0		
+keto diet	TAGLN3	coloc	3.3267441248145384	bridge	#1baf7a	1.0		
+keto diet	CHGA	coloc	7.11325620900071	bridge	#1baf7a	1.0		
+keto diet	PLA2R1	coloc	5.75882652355457	bridge	#1baf7a	1.0		
+keto diet	SLC32A1	coloc	3.5960886692348053	bridge	#1baf7a	1.0		
+keto diet	CRYBG3	coloc	4.6829654241077865	bridge	#1baf7a	1.0		
+keto diet	SV2B	coloc	4.183086723812123	bridge	#1baf7a	1.0		
+keto diet	PCSK2	coloc	3.276368871176506	bridge	#1baf7a	1.0		
+keto diet	RIMS2	coloc	3.5387820494216067	bridge	#1baf7a	1.0		
+keto diet	PSD2	coloc	3.3592049993534294	bridge	#1baf7a	1.0		
+keto diet	FRMPD4	coloc	5.007644803209631	bridge	#1baf7a	1.0		
+keto diet	RGS7	coloc	4.0600663672692745	bridge	#1baf7a	1.0		
+keto diet	SLC7A10	coloc	3.715152752933589	bridge	#1baf7a	1.0		
+keto diet	NPY5R	coloc	6.8781746934421	bridge	#1baf7a	1.0		
+keto diet	KCNH2	coloc	3.4017928513956344	bridge	#1baf7a	1.0		
+keto diet	PARM1	coloc	4.7001074261988425	bridge	#1baf7a	1.0		
+keto diet	SYNPR	coloc	3.9404535314427047	bridge	#1baf7a	1.0		
+keto diet	SYN3	coloc	3.3308152851416493	bridge	#1baf7a	1.0		
+keto diet	FEZF2	coloc	3.24736902870761	bridge	#1baf7a	1.0		
+keto diet	MAOB	coloc	4.600376831491584	bridge	#1baf7a	1.0		
+keto diet	CALB1	coloc	4.96876037751535	bridge	#1baf7a	1.0		
+keto diet	PCLO	coloc	3.1852843432577	bridge	#1baf7a	1.0		
+keto diet	NEGR1	coloc	5.591676743513851	bridge	#1baf7a	1.0		
+keto diet	IGLON5	coloc	5.591676331521707	bridge	#1baf7a	1.0		
+keto diet	ABCD2	coloc	6.050918033410977	bridge	#1baf7a	1.0		
+keto diet	KCNC4	coloc	3.42233030461822	bridge	#1baf7a	1.0		
+keto diet	SLC6A3	coloc	4.075043641207326	bridge	#1baf7a	1.0		
+keto diet	SGK2	coloc	4.109031174995963	bridge	#1baf7a	1.0		
+keto diet	WSCD1	coloc	3.044582676488577	bridge	#1baf7a	1.0		
+keto diet	SSTR2	coloc	3.167335875437882	bridge	#1baf7a	1.0		
+keto diet	SLC47A2	coloc	3.6365325963859356	bridge	#1baf7a	1.0		
+keto diet	SLC1A1	coloc	3.2500678721702525	bridge	#1baf7a	1.0		
+keto diet	ASIC2	coloc	3.0811172689627013	bridge	#1baf7a	1.0		
+keto diet	CACNA2D1	coloc	3.452890982969073	bridge	#1baf7a	1.0		
+keto diet	INA	coloc	3.964378005061068	bridge	#1baf7a	1.0		
+keto diet	SLC18A2	coloc	3.1479471120501117	bridge	#1baf7a	1.0		
+keto diet	SYN2	coloc	3.057122407397475	bridge	#1baf7a	1.0		
+keto diet	CARTPT	coloc	3.9572408870491236	bridge	#1baf7a	1.0		
+keto diet	MPP2	coloc	3.528642945584818	bridge	#1baf7a	1.0		
+keto diet	KCNG1	coloc	4.444121695845617	bridge	#1baf7a	1.0		
+keto diet	GRIN2C	coloc	3.8630353365470866	bridge	#1baf7a	1.0		
+keto diet	KCNG4	coloc	3.4653617779310846	bridge	#1baf7a	1.0		
+keto diet	AP3B2	coloc	3.7100153695885307	bridge	#1baf7a	1.0		
+keto diet	VSNL1	coloc	3.596122379685269	bridge	#1baf7a	1.0		
+keto diet	SNPH	coloc	3.083264103243835	bridge	#1baf7a	1.0		
+keto diet	SUSD4	coloc	3.7140422759940845	bridge	#1baf7a	1.0		
+keto diet	SLC12A3	coloc	3.2316644631972413	bridge	#1baf7a	1.0		
+keto diet	GABRB2	coloc	3.1264950772681024	bridge	#1baf7a	1.0		
+keto diet	L1CAM	coloc	3.212633666066376	bridge	#1baf7a	1.0		
+keto diet	NCAN	coloc	3.916701038024683	bridge	#1baf7a	1.0		
+keto diet	RNF215	coloc	3.178309096471393	bridge	#1baf7a	1.0		
+keto diet	KCNC3	coloc	3.3667403288759905	bridge	#1baf7a	1.0		
+keto diet	SLC30A3	coloc	4.570290355223812	bridge	#1baf7a	1.0		
+keto diet	KCNA5	coloc	3.0253410320627556	bridge	#1baf7a	1.0		
+keto diet	GABRG3	coloc	4.045433240536058	bridge	#1baf7a	1.0		
+keto diet	GRIN2A	coloc	3.29541631630624	bridge	#1baf7a	1.0		
+keto diet	KCNN1	coloc	3.4606482094598294	bridge	#1baf7a	1.0		
+keto diet	ATP8A2	coloc	3.3031704463896316	bridge	#1baf7a	1.0		
+keto diet	GPR149	coloc	4.490509631702701	bridge	#1baf7a	1.0		
+keto diet	XKR7	coloc	3.3185852495509476	bridge	#1baf7a	1.0		
+keto diet	GPR6	coloc	3.9223070069774555	bridge	#1baf7a	1.0		
+keto diet	NAP1L3	coloc	4.522461049530069	bridge	#1baf7a	1.0		
+keto diet	PTPRT	coloc	3.9989756020993537	bridge	#1baf7a	1.0		
+keto diet	SLC34A2	coloc	3.576153734354757	bridge	#1baf7a	1.0		
+keto diet	PENK	coloc	3.241231989420896	bridge	#1baf7a	1.0		
+keto diet	KCNJ6	coloc	3.4963104560894056	bridge	#1baf7a	1.0		
+keto diet	NPY	coloc	5.207724192542769	bridge	#1baf7a	1.0		
+keto diet	SST	coloc	5.045771268969107	bridge	#1baf7a	1.0		
+keto diet	ACOT6	coloc	3.843258233672366	bridge	#1baf7a	1.0		
+keto diet	TPPP	coloc	3.2956581791657906	bridge	#1baf7a	1.0		
+keto diet	CHRM2	coloc	3.009312118434718	bridge	#1baf7a	1.0		
+keto diet	ADCYAP1	coloc	3.2733432192939285	bridge	#1baf7a	1.0		
+keto diet	PTPRD	coloc	5.3234917260826045	bridge	#1baf7a	1.0		
+keto diet	SLC13A5	coloc	8.154875477108607	bridge	#1baf7a	1.0		
+keto diet	PGM2L1	coloc	4.5252656551562325	bridge	#1baf7a	1.0		
+keto diet	FAM241B	coloc	4.155501858244276	bridge	#1baf7a	1.0		
+keto diet	ATCAY	coloc	4.886557383449989	bridge	#1baf7a	1.0		
+keto diet	CPLX2	coloc	3.245351276174226	bridge	#1baf7a	1.0		
+keto diet	UNC13C	coloc	3.501267062194659	bridge	#1baf7a	1.0		
+keto diet	EID2	coloc	5.676983185199201	bridge	#1baf7a	1.0		
+keto diet	GLS2	coloc	5.8567739932713545	bridge	#1baf7a	1.0		
+keto diet	GFRA2	coloc	3.413808085130086	bridge	#1baf7a	1.0		
+keto diet	TLCD3B	coloc	3.0575728559665407	bridge	#1baf7a	1.0		
+keto diet	PRSS12	coloc	4.263447403479219	bridge	#1baf7a	1.0		
+keto diet	RASGRF1	coloc	3.1257803531899304	bridge	#1baf7a	1.0		
+keto diet	NETO2	coloc	3.4892156032525277	bridge	#1baf7a	1.0		
+keto diet	KCNJ3	coloc	3.3500690641231277	bridge	#1baf7a	1.0		
+keto diet	IGSF9B	coloc	4.093737573755173	bridge	#1baf7a	1.0		
+keto diet	KCNH4	coloc	4.123823913387693	bridge	#1baf7a	1.0		
+keto diet	CLCNKA	coloc	3.39828023672363	bridge	#1baf7a	1.0		
+keto diet	HTR1B	coloc	5.999606740697052	bridge	#1baf7a	1.0		
+keto diet	KCNA4	coloc	4.760807614110069	bridge	#1baf7a	1.0		
+keto diet	PGLYRP3	coloc	3.0942228256110162	bridge	#1baf7a	1.0		
+keto diet	KCNH1	coloc	3.0342768386224317	bridge	#1baf7a	1.0		
+keto diet	CACNB2	coloc	3.0831014856933114	bridge	#1baf7a	1.0		
+keto diet	PROX1	coloc	4.072633349863241	bridge	#1baf7a	1.0		
+keto diet	CALN1	coloc	4.4951031855879116	bridge	#1baf7a	1.0		
+keto diet	SLCO1C1	coloc	3.141152162816299	bridge	#1baf7a	1.0		
+keto diet	PI15	coloc	4.104337910165077	bridge	#1baf7a	1.0		
+keto diet	EID2B	coloc	4.382545483242845	bridge	#1baf7a	1.0		
+keto diet	BRINP2	coloc	3.868388099918454	bridge	#1baf7a	1.0		
+keto diet	SSTR1	coloc	3.4911698140118235	bridge	#1baf7a	1.0		
+keto diet	HAS1	coloc	4.021523517867719	bridge	#1baf7a	1.0		
+keto diet	RAB26	coloc	3.040630134847218	bridge	#1baf7a	1.0		
+keto diet	MYT1	coloc	3.8393433141516424	bridge	#1baf7a	1.0		
+keto diet	HSD17B6	coloc	3.2512048919657954	bridge	#1baf7a	1.0		
+keto diet	KCNT1	coloc	4.056787260740935	bridge	#1baf7a	1.0		
+keto diet	ANKRD6	coloc	4.699080760700154	bridge	#1baf7a	1.0		
+keto diet	KCNA2	coloc	4.096615201609473	bridge	#1baf7a	1.0		
+keto diet	MOG	coloc	3.5055841518478372	bridge	#1baf7a	1.0		
+keto diet	CYP46A1	coloc	3.462820416203495	bridge	#1baf7a	1.0		
+keto diet	FXYD2	coloc	3.642868956002483	bridge	#1baf7a	1.0		
+keto diet	CYB5D2	coloc	5.005466747982406	bridge	#1baf7a	1.0		
+keto diet	CMTM5	coloc	5.183123499740836	bridge	#1baf7a	1.0		
+keto diet	GPC5	coloc	4.013497875903171	bridge	#1baf7a	1.0		
+keto diet	INPP5J	coloc	6.6538012548328815	bridge	#1baf7a	1.0		
+keto diet	ADRA2C	coloc	3.701013407673927	bridge	#1baf7a	1.0		
+keto diet	HPCAL4	coloc	3.0199277426883966	bridge	#1baf7a	1.0		
+keto diet	MGAT3	coloc	4.633899276432187	bridge	#1baf7a	1.0		
+keto diet	KCNF1	coloc	3.1645283411793903	bridge	#1baf7a	1.0		
+keto diet	PTPRR	coloc	3.3444366106084966	bridge	#1baf7a	1.0		
+keto diet	MYRF	coloc	5.723809341204178	bridge	#1baf7a	1.0		
+keto diet	KCNJ8	coloc	7.632088439139897	bridge	#1baf7a	1.0		
+keto diet	KCNQ3	coloc	3.0833995562506495	bridge	#1baf7a	1.0		
+keto diet	MOBP	coloc	3.34479452704091	bridge	#1baf7a	1.0		
+keto diet	RTN4RL2	coloc	3.1001473872489718	bridge	#1baf7a	1.0		
+keto diet	FA2H	coloc	3.7368392976301346	bridge	#1baf7a	1.0		
+keto diet	F8A1	coloc	6.095469251340094	bridge	#1baf7a	1.0		
+keto diet	GO:0045202	enriched			#1baf7a	2.0	5.398815196877776e-59	143.0
+keto diet	GO:0034702	enriched			#1baf7a	2.0	8.756404424318809e-50	70.0
+keto diet	GO:0030054	enriched			#1baf7a	2.0	4.634882534838676e-47	154.0
+keto diet	REAC:R-HSA-112316	enriched			#1baf7a	2.0	4.757843285881194e-44	69.0
+keto diet	GO:1902495	enriched			#1baf7a	2.0	4.416344464499965e-43	72.0
+vitamin A	RET	coloc	47.92994876552735	micronutrient seed	#e87ba4	1.0		
+vitamin A	LRP1	coloc	43.783217609343346	micronutrient seed	#e87ba4	1.0		
+vitamin A	RXRG	coloc	33.004358315220934	micronutrient seed	#e87ba4	1.0		
+vitamin A	PNPLA4	coloc	38.90795725110377	micronutrient seed	#e87ba4	1.0		
+vitamin A	NEFH	coloc	36.36917853558322	micronutrient seed	#e87ba4	1.0		
+vitamin A	LRP8	coloc	31.15334639752748	micronutrient seed	#e87ba4	1.0		
+vitamin A	NTRK2	coloc	27.423339076810088	micronutrient seed	#e87ba4	1.0		
+vitamin A	MAP2	coloc	35.24317561337967	micronutrient seed	#e87ba4	1.0		
+vitamin A	LDLR	coloc	27.88268028447111	micronutrient seed	#e87ba4	1.0		
+vitamin A	MAPT	coloc	24.554103669592674	micronutrient seed	#e87ba4	1.0		
+vitamin A	PRKCB	coloc	30.652982525951757	micronutrient seed	#e87ba4	1.0		
+vitamin A	PAX6	coloc	16.433587430918966	micronutrient seed	#e87ba4	1.0		
+vitamin A	GPC5	coloc	11.031313005048846	micronutrient seed	#e87ba4	1.0		
+vitamin A	GFAP	coloc	17.6432430489366	micronutrient seed	#e87ba4	1.0		
+vitamin A	GPD1	coloc	16.58624513878655	bridge	#e87ba4	1.0		
+vitamin A	PCDHGC5	coloc	13.157450892811363	bridge	#e87ba4	1.0		
+vitamin A	LPAR1	coloc	10.075780218313673	bridge	#e87ba4	1.0		
+vitamin A	FGF11	coloc	8.32013802823033	bridge	#e87ba4	1.0		
+vitamin A	FREM2	coloc	9.724263782100206	bridge	#e87ba4	1.0		
+vitamin A	PTPRS	coloc	12.987989537125529	bridge	#e87ba4	1.0		
+vitamin A	PTN	coloc	8.636565968402884	bridge	#e87ba4	1.0		
+vitamin A	HPN	coloc	10.408254315090058	bridge	#e87ba4	1.0		
+vitamin A	FGF13	coloc	6.895311874843414	bridge	#e87ba4	1.0		
+vitamin A	CSMD1	coloc	9.224811955364418	bridge	#e87ba4	1.0		
+vitamin A	ARHGEF10L	coloc	7.044022563269132	bridge	#e87ba4	1.0		
+vitamin A	ABHD14A	coloc	14.821378394320975	bridge	#e87ba4	1.0		
+vitamin A	SLC4A11	coloc	6.552503714561975	bridge	#e87ba4	1.0		
+vitamin A	BDNF	coloc	10.389978351317213	bridge	#e87ba4	1.0		
+vitamin A	SIRT2	coloc	5.99733277753211	bridge	#e87ba4	1.0		
+vitamin A	KIAA0319	coloc	5.444086084021462	bridge	#e87ba4	1.0		
+vitamin A	AKAP6	coloc	6.66037367189643	bridge	#e87ba4	1.0		
+vitamin A	CADM1	coloc	6.015228758457622	bridge	#e87ba4	1.0		
+vitamin A	XKR6	coloc	6.968784544711058	bridge	#e87ba4	1.0		
+vitamin A	SYT14	coloc	8.269486685341898	bridge	#e87ba4	1.0		
+vitamin A	SYT16	coloc	8.269485917061315	bridge	#e87ba4	1.0		
+vitamin A	ASTN2	coloc	6.197572420877284	bridge	#e87ba4	1.0		
+vitamin A	B4GALNT1	coloc	4.905581230311927	bridge	#e87ba4	1.0		
+vitamin A	CDH6	coloc	5.739555804348605	bridge	#e87ba4	1.0		
+vitamin A	CDK5R1	coloc	5.450662299898543	bridge	#e87ba4	1.0		
+vitamin A	UCHL1	coloc	4.288448736143824	bridge	#e87ba4	1.0		
+vitamin A	PRPH	coloc	4.438216075418426	bridge	#e87ba4	1.0		
+vitamin A	ADGRG6	coloc	4.175590878840694	bridge	#e87ba4	1.0		
+vitamin A	FAM72A	coloc	6.606461320969976	bridge	#e87ba4	1.0		
+vitamin A	MAP6	coloc	5.072921202774987	bridge	#e87ba4	1.0		
+vitamin A	ANKS1B	coloc	3.8259479940963854	bridge	#e87ba4	1.0		
+vitamin A	EPHB2	coloc	6.862674295154245	bridge	#e87ba4	1.0		
+vitamin A	TRIM67	coloc	5.81581800275416	bridge	#e87ba4	1.0		
+vitamin A	VLDLR	coloc	9.567788695516162	bridge	#e87ba4	1.0		
+vitamin A	ZBTB12	coloc	7.964191334592764	bridge	#e87ba4	1.0		
+vitamin A	RAB12	coloc	4.107232234934967	bridge	#e87ba4	1.0		
+vitamin A	ZNF804A	coloc	5.425905253694505	bridge	#e87ba4	1.0		
+vitamin A	THRB	coloc	6.240959388029552	bridge	#e87ba4	1.0		
+vitamin A	VASH1	coloc	5.755515749860687	bridge	#e87ba4	1.0		
+vitamin A	CPED1	coloc	6.108993930438822	bridge	#e87ba4	1.0		
+vitamin A	PCP4	coloc	3.8990081693207714	bridge	#e87ba4	1.0		
+vitamin A	RORB	coloc	4.294963909449967	bridge	#e87ba4	1.0		
+vitamin A	TMEM40	coloc	4.459457442758135	bridge	#e87ba4	1.0		
+vitamin A	ANOS1	coloc	4.702052269867695	bridge	#e87ba4	1.0		
+vitamin A	SLC26A4	coloc	4.168507773939052	bridge	#e87ba4	1.0		
+vitamin A	B3GAT1	coloc	8.321568664688684	bridge	#e87ba4	1.0		
+vitamin A	MPPED2	coloc	4.682591624796635	bridge	#e87ba4	1.0		
+vitamin A	MAP1B	coloc	3.961326718725649	bridge	#e87ba4	1.0		
+vitamin A	ATP2B3	coloc	5.716009733708339	bridge	#e87ba4	1.0		
+vitamin A	CDH3	coloc	4.5787232817063	bridge	#e87ba4	1.0		
+vitamin A	NLGN3	coloc	5.81408916812475	bridge	#e87ba4	1.0		
+vitamin A	PCDHGB6	coloc	4.4405411588053045	bridge	#e87ba4	1.0		
+vitamin A	CDK5	coloc	4.462378189471504	bridge	#e87ba4	1.0		
+vitamin A	NPTX2	coloc	4.39248348282765	bridge	#e87ba4	1.0		
+vitamin A	APLP1	coloc	3.4893486642448637	bridge	#e87ba4	1.0		
+vitamin A	FAR2	coloc	4.92611850398514	bridge	#e87ba4	1.0		
+vitamin A	SLCO5A1	coloc	4.173734976967114	bridge	#e87ba4	1.0		
+vitamin A	SHISA6	coloc	5.042988423710509	bridge	#e87ba4	1.0		
+vitamin A	EGR4	coloc	4.08876294140778	bridge	#e87ba4	1.0		
+vitamin A	DUOX1	coloc	4.479858665420826	bridge	#e87ba4	1.0		
+vitamin A	CRHBP	coloc	5.974781168810346	bridge	#e87ba4	1.0		
+vitamin A	CPXM2	coloc	4.194066473405902	bridge	#e87ba4	1.0		
+vitamin A	NRP2	coloc	5.032827490626477	bridge	#e87ba4	1.0		
+vitamin A	CITED1	coloc	3.232767532153719	bridge	#e87ba4	1.0		
+vitamin A	GSTM5	coloc	5.314123684016451	bridge	#e87ba4	1.0		
+vitamin A	FKRP	coloc	4.067592638787399	bridge	#e87ba4	1.0		
+vitamin A	SMIM1	coloc	3.854981604219838	bridge	#e87ba4	1.0		
+vitamin A	MAOB	coloc	4.466558376702564	bridge	#e87ba4	1.0		
+vitamin A	ANGPT4	coloc	5.749011095536408	bridge	#e87ba4	1.0		
+vitamin A	TSC22D3	coloc	3.6120777780756756	bridge	#e87ba4	1.0		
+vitamin A	SLC6A3	coloc	3.643640158251967	bridge	#e87ba4	1.0		
+vitamin A	SGK2	coloc	12.394902161252036	bridge	#e87ba4	1.0		
+vitamin A	SLC18A2	coloc	3.6958746610540962	bridge	#e87ba4	1.0		
+vitamin A	FZD8	coloc	6.482283964994699	bridge	#e87ba4	1.0		
+vitamin A	HRK	coloc	4.6204676629389025	bridge	#e87ba4	1.0		
+vitamin A	FABP7	coloc	4.10927640003148	bridge	#e87ba4	1.0		
+vitamin A	SST	coloc	6.5462052820127035	bridge	#e87ba4	1.0		
+vitamin A	MMP17	coloc	3.321118510574162	bridge	#e87ba4	1.0		
+vitamin A	SPOCK1	coloc	4.364212684681516	bridge	#e87ba4	1.0		
+vitamin A	SLC13A5	coloc	3.7301186156169526	bridge	#e87ba4	1.0		
+vitamin A	FOXP2	coloc	4.6416049357339535	bridge	#e87ba4	1.0		
+vitamin A	PCDHGA4	coloc	7.095081677794534	bridge	#e87ba4	1.0		
+vitamin A	TMEFF2	coloc	3.819564137820703	bridge	#e87ba4	1.0		
+vitamin A	NPAS4	coloc	7.498126577966807	bridge	#e87ba4	1.0		
+vitamin A	BTNL2	coloc	3.5789769419172233	bridge	#e87ba4	1.0		
+vitamin A	NETO2	coloc	3.659431252976233	bridge	#e87ba4	1.0		
+vitamin A	TNFSF12-TNFSF13	coloc	6.135650533118451	bridge	#e87ba4	1.0		
+vitamin A	SEC14L5	coloc	3.3743159103774274	bridge	#e87ba4	1.0		
+vitamin A	PALMD	coloc	3.2608672584667846	bridge	#e87ba4	1.0		
+vitamin A	FZD1	coloc	5.131452663204765	bridge	#e87ba4	1.0		
+vitamin A	DSEL	coloc	3.4654283228853338	bridge	#e87ba4	1.0		
+vitamin A	PROX1	coloc	4.296815255375583	bridge	#e87ba4	1.0		
+vitamin A	ZIC3	coloc	3.295756614920366	bridge	#e87ba4	1.0		
+vitamin A	TYRP1	coloc	3.1471210385833457	bridge	#e87ba4	1.0		
+vitamin A	DRD2	coloc	3.291700969317663	bridge	#e87ba4	1.0		
+vitamin A	SLC30A10	coloc	3.675588425342222	bridge	#e87ba4	1.0		
+vitamin A	CHGB	coloc	3.1790993668303127	bridge	#e87ba4	1.0		
+vitamin A	B3GAT2	coloc	5.3932813150179575	bridge	#e87ba4	1.0		
+vitamin A	KCNA3	coloc	3.28772901840889	bridge	#e87ba4	1.0		
+vitamin A	DNAJC12	coloc	3.0978871762253712	bridge	#e87ba4	1.0		
+vitamin A	RGS17	coloc	3.9890431416709116	bridge	#e87ba4	1.0		
+vitamin A	CPE	coloc	3.360053084599845	bridge	#e87ba4	1.0		
+vitamin A	HSD17B6	coloc	5.147347561363799	bridge	#e87ba4	1.0		
+vitamin A	NDRG2	coloc	3.3871910228755993	bridge	#e87ba4	1.0		
+vitamin A	CRISP2	coloc	4.479315020411987	bridge	#e87ba4	1.0		
+vitamin A	CYP46A1	coloc	4.28967478232903	bridge	#e87ba4	1.0		
+vitamin A	PGBD5	coloc	7.521060020343855	bridge	#e87ba4	1.0		
+vitamin A	ID4	coloc	5.969915546963774	bridge	#e87ba4	1.0		
+vitamin A	CRABP1	coloc	5.635667536905271	bridge	#e87ba4	1.0		
+vitamin A	LHFPL6	coloc	4.05530811849625	bridge	#e87ba4	1.0		
+vitamin A	ANO8	coloc	4.584142846950035	bridge	#e87ba4	1.0		
+vitamin A	SVBP	coloc	4.721539884621107	bridge	#e87ba4	1.0		
+vitamin A	CDH2	coloc	3.29188726521819	bridge	#e87ba4	1.0		
+vitamin A	SLC12A8	coloc	6.607746906009632	bridge	#e87ba4	1.0		
+vitamin A	CDH11	coloc	5.081715757837988	bridge	#e87ba4	1.0		
+vitamin A	ADGRG1	coloc	3.239281816236263	bridge	#e87ba4	1.0		
+vitamin A	ELAVL3	coloc	4.743326298472232	bridge	#e87ba4	1.0		
+vitamin A	SP9	coloc	3.985193153566674	bridge	#e87ba4	1.0		
+vitamin A	PLA2G5	coloc	3.2331607530273274	bridge	#e87ba4	1.0		
+vitamin A	RNFT2	coloc	4.880908139194725	bridge	#e87ba4	1.0		
+vitamin A	ERICH2	coloc	3.3279132961170057	bridge	#e87ba4	1.0		
+vitamin A	TEX48	coloc	6.27071001761358	bridge	#e87ba4	1.0		
+vitamin A	ZNF441	coloc	6.270709621662872	bridge	#e87ba4	1.0		
+vitamin A	ZIC1	coloc	3.5170743713302937	bridge	#e87ba4	1.0		
+vitamin A	GO:0007399	enriched			#e87ba4	2.0	1.6646086368276222e-14	63.0
+vitamin A	GO:0022008	enriched			#e87ba4	2.0	5.269782923659651e-12	48.0
+vitamin A	GO:0007417	enriched			#e87ba4	2.0	5.269782923659651e-12	37.0
+vitamin A	GO:0048731	enriched			#e87ba4	2.0	7.66222011965889e-11	71.0
+vitamin A	GO:0048699	enriched			#e87ba4	2.0	1.8135039090290032e-10	42.0
+vitamin B12	MAOB	coloc	17.062810686526195	micronutrient seed	#eda100	1.0		
+vitamin B12	LDLR	coloc	20.411551058095988	micronutrient seed	#eda100	1.0		
+vitamin B12	LDLRAP1	coloc	12.969873903370786	micronutrient seed	#eda100	1.0		
+vitamin B12	GPD1	coloc	12.787251724661198	bridge	#eda100	1.0		
+vitamin B12	FGF11	coloc	8.880256275390774	bridge	#eda100	1.0		
+vitamin B12	SLC18B1	coloc	6.57449080844063	bridge	#eda100	1.0		
+vitamin B12	HPN	coloc	9.730440576885773	bridge	#eda100	1.0		
+vitamin B12	LRRC52	coloc	6.623405752612162	bridge	#eda100	1.0		
+vitamin B12	DNAJC6	coloc	6.285436283484645	bridge	#eda100	1.0		
+vitamin B12	TRPC6	coloc	5.335250261088256	bridge	#eda100	1.0		
+vitamin B12	ANK1	coloc	5.533928490209047	bridge	#eda100	1.0		
+vitamin B12	FAM110B	coloc	6.357948568738426	bridge	#eda100	1.0		
+vitamin B12	REEP1	coloc	5.052630770295345	bridge	#eda100	1.0		
+vitamin B12	CRB1	coloc	4.6945684573923705	bridge	#eda100	1.0		
+vitamin B12	LRP1	coloc	13.92452811643593	bridge	#eda100	1.0		
+vitamin B12	LCLAT1	coloc	5.097074496525306	bridge	#eda100	1.0		
+vitamin B12	FGF14	coloc	5.449751276002801	bridge	#eda100	1.0		
+vitamin B12	ABHD14A	coloc	4.579130950708989	bridge	#eda100	1.0		
+vitamin B12	NTN4	coloc	10.252186220876096	bridge	#eda100	1.0		
+vitamin B12	TSPAN7	coloc	6.8509227474406735	bridge	#eda100	1.0		
+vitamin B12	PCDHA3	coloc	8.365272857434508	bridge	#eda100	1.0		
+vitamin B12	KIAA0319	coloc	7.872467082296595	bridge	#eda100	1.0		
+vitamin B12	ARRDC4	coloc	5.698861100334252	bridge	#eda100	1.0		
+vitamin B12	FRMD5	coloc	7.06003082111487	bridge	#eda100	1.0		
+vitamin B12	MELTF	coloc	4.639063441337219	bridge	#eda100	1.0		
+vitamin B12	SYT14	coloc	6.424894919386097	bridge	#eda100	1.0		
+vitamin B12	RGS4	coloc	5.630074857169917	bridge	#eda100	1.0		
+vitamin B12	ATP1A2	coloc	4.963514438151249	bridge	#eda100	1.0		
+vitamin B12	MAST4	coloc	7.365795862199205	bridge	#eda100	1.0		
+vitamin B12	ATP2B2	coloc	4.6071299132664665	bridge	#eda100	1.0		
+vitamin B12	TTLL11	coloc	5.357033650654618	bridge	#eda100	1.0		
+vitamin B12	IGDCC4	coloc	5.367164031346569	bridge	#eda100	1.0		
+vitamin B12	KCNIP3	coloc	4.228465650843848	bridge	#eda100	1.0		
+vitamin B12	KCNJ1	coloc	7.314527522523884	bridge	#eda100	1.0		
+vitamin B12	TRPC7	coloc	7.73913481105961	bridge	#eda100	1.0		
+vitamin B12	CDH6	coloc	4.2774936402401975	bridge	#eda100	1.0		
+vitamin B12	PRPH	coloc	3.9329419830361942	bridge	#eda100	1.0		
+vitamin B12	SEPTIN4	coloc	5.189320873062532	bridge	#eda100	1.0		
+vitamin B12	LRRN3	coloc	8.371835849651935	bridge	#eda100	1.0		
+vitamin B12	LRP8	coloc	4.707092994381725	bridge	#eda100	1.0		
+vitamin B12	VLDLR	coloc	5.0238063165161995	bridge	#eda100	1.0		
+vitamin B12	PODXL2	coloc	7.300571821936064	bridge	#eda100	1.0		
+vitamin B12	SERPINI1	coloc	4.758223519892221	bridge	#eda100	1.0		
+vitamin B12	ABCC2	coloc	4.712649228190699	bridge	#eda100	1.0		
+vitamin B12	HAAO	coloc	5.258207251478709	bridge	#eda100	1.0		
+vitamin B12	TSPOAP1	coloc	5.269832280995415	bridge	#eda100	1.0		
+vitamin B12	VASH1	coloc	8.622277855993413	bridge	#eda100	1.0		
+vitamin B12	EPHB6	coloc	5.498002057543237	bridge	#eda100	1.0		
+vitamin B12	CHN1	coloc	3.8899082052896468	bridge	#eda100	1.0		
+vitamin B12	UPK1A	coloc	4.68391724838239	bridge	#eda100	1.0		
+vitamin B12	MCF2	coloc	3.643370313222576	bridge	#eda100	1.0		
+vitamin B12	SLC26A4	coloc	5.037103598429573	bridge	#eda100	1.0		
+vitamin B12	PRKAR1B	coloc	3.948503561692673	bridge	#eda100	1.0		
+vitamin B12	PDE1A	coloc	6.2475029486861	bridge	#eda100	1.0		
+vitamin B12	RUNDC3B	coloc	9.18548569370443	bridge	#eda100	1.0		
+vitamin B12	ARHGEF25	coloc	5.5984050663757285	bridge	#eda100	1.0		
+vitamin B12	SGIP1	coloc	5.674766172988165	bridge	#eda100	1.0		
+vitamin B12	SYPL2	coloc	3.7530532288095517	bridge	#eda100	1.0		
+vitamin B12	MAP6D1	coloc	4.494009808142353	bridge	#eda100	1.0		
+vitamin B12	KCNMB3	coloc	4.419799708627198	bridge	#eda100	1.0		
+vitamin B12	FAR2	coloc	7.872853543583099	bridge	#eda100	1.0		
+vitamin B12	PSEN1	coloc	3.8051348738040027	bridge	#eda100	1.0		
+vitamin B12	SMPD2	coloc	6.853744592401133	bridge	#eda100	1.0		
+vitamin B12	EEF1AKMT4	coloc	4.63257840437459	bridge	#eda100	1.0		
+vitamin B12	PHAF1	coloc	3.598872072893283	bridge	#eda100	1.0		
+vitamin B12	IRAG1	coloc	3.8238130929812937	bridge	#eda100	1.0		
+vitamin B12	PDE2A	coloc	8.547182620271277	bridge	#eda100	1.0		
+vitamin B12	KCNMB1	coloc	4.187975226675398	bridge	#eda100	1.0		
+vitamin B12	SLC18A3	coloc	5.269307085611017	bridge	#eda100	1.0		
+vitamin B12	PAQR5	coloc	5.4195021386037014	bridge	#eda100	1.0		
+vitamin B12	CPXM2	coloc	3.746514460464973	bridge	#eda100	1.0		
+vitamin B12	NRP2	coloc	4.409659380705239	bridge	#eda100	1.0		
+vitamin B12	PAPPA2	coloc	6.940111644733494	bridge	#eda100	1.0		
+vitamin B12	PLA2R1	coloc	3.4112399487360143	bridge	#eda100	1.0		
+vitamin B12	GSTM5	coloc	6.2942730451218285	bridge	#eda100	1.0		
+vitamin B12	GUCY1A2	coloc	8.172787765519148	bridge	#eda100	1.0		
+vitamin B12	SLC7A10	coloc	5.4251914602136635	bridge	#eda100	1.0		
+vitamin B12	NPHS1	coloc	4.26434876327396	bridge	#eda100	1.0		
+vitamin B12	FUT9	coloc	5.241506814187932	bridge	#eda100	1.0		
+vitamin B12	CHRNA6	coloc	3.3443856029027743	bridge	#eda100	1.0		
+vitamin B12	ANGPT4	coloc	5.324309182103289	bridge	#eda100	1.0		
+vitamin B12	SLC1A4	coloc	3.7633822864198634	bridge	#eda100	1.0		
+vitamin B12	ABCD2	coloc	4.975799828245611	bridge	#eda100	1.0		
+vitamin B12	ABCC8	coloc	3.3475521071556806	bridge	#eda100	1.0		
+vitamin B12	GRK4	coloc	3.583346388021867	bridge	#eda100	1.0		
+vitamin B12	SGK2	coloc	3.7774290571220073	bridge	#eda100	1.0		
+vitamin B12	SLC1A1	coloc	4.304091377147983	bridge	#eda100	1.0		
+vitamin B12	TMEM255B	coloc	10.625752987725983	bridge	#eda100	1.0		
+vitamin B12	SLC30A4	coloc	3.3333960418401536	bridge	#eda100	1.0		
+vitamin B12	SLC12A3	coloc	3.0545724447434033	bridge	#eda100	1.0		
+vitamin B12	SLC12A1	coloc	6.756781202948345	bridge	#eda100	1.0		
+vitamin B12	PDZRN4	coloc	3.216869047033518	bridge	#eda100	1.0		
+vitamin B12	SLC34A2	coloc	3.751732783935081	bridge	#eda100	1.0		
+vitamin B12	MMP17	coloc	5.708189208047329	bridge	#eda100	1.0		
+vitamin B12	TPPP	coloc	4.929940449177792	bridge	#eda100	1.0		
+vitamin B12	KCNMB4	coloc	4.287672809637769	bridge	#eda100	1.0		
+vitamin B12	PPFIBP2	coloc	3.1722272118629715	bridge	#eda100	1.0		
+vitamin B12	PCDHGA4	coloc	6.4945942872043725	bridge	#eda100	1.0		
+vitamin B12	PCSK4	coloc	6.901818697554719	bridge	#eda100	1.0		
+vitamin B12	TMEM128	coloc	3.3831285772636894	bridge	#eda100	1.0		
+vitamin B12	VWC2L	coloc	6.199897639001683	bridge	#eda100	1.0		
+vitamin B12	TNFSF12-TNFSF13	coloc	5.49609638902527	bridge	#eda100	1.0		
+vitamin B12	OPRD1	coloc	3.612492870525339	bridge	#eda100	1.0		
+vitamin B12	ACHE	coloc	3.5451377457039035	bridge	#eda100	1.0		
+vitamin B12	PRIMA1	coloc	4.205699896334186	bridge	#eda100	1.0		
+vitamin B12	S100G	coloc	3.064201391861436	bridge	#eda100	1.0		
+vitamin B12	PGLYRP3	coloc	4.1112666064408785	bridge	#eda100	1.0		
+vitamin B12	DSEL	coloc	3.2588572716673836	bridge	#eda100	1.0		
+vitamin B12	GJB1	coloc	4.8995379144150375	bridge	#eda100	1.0		
+vitamin B12	LIN7A	coloc	4.473571568142268	bridge	#eda100	1.0		
+vitamin B12	CACNA1I	coloc	3.414690376663359	bridge	#eda100	1.0		
+vitamin B12	CALML3	coloc	4.060133706215821	bridge	#eda100	1.0		
+vitamin B12	SYT9	coloc	4.022001676068196	bridge	#eda100	1.0		
+vitamin B12	LAYN	coloc	10.144701377419597	bridge	#eda100	1.0		
+vitamin B12	PLA2G4F	coloc	3.4029159083520453	bridge	#eda100	1.0		
+vitamin B12	TAFA4	coloc	3.1773169970237194	bridge	#eda100	1.0		
+vitamin B12	CPE	coloc	3.395826357021057	bridge	#eda100	1.0		
+vitamin B12	REM1	coloc	3.7402933609908957	bridge	#eda100	1.0		
+vitamin B12	IGSF3	coloc	3.563493952735261	bridge	#eda100	1.0		
+vitamin B12	HSD17B6	coloc	4.78139607894974	bridge	#eda100	1.0		
+vitamin B12	NDRG2	coloc	3.982142943295789	bridge	#eda100	1.0		
+vitamin B12	B3GALT2	coloc	3.7767237328615715	bridge	#eda100	1.0		
+vitamin B12	PCDH17	coloc	3.245014777880088	bridge	#eda100	1.0		
+vitamin B12	CTAGE8	coloc	3.1688605527527467	bridge	#eda100	1.0		
+vitamin B12	PDE4C	coloc	5.933958923659595	bridge	#eda100	1.0		
+vitamin B12	GPC5	coloc	3.4143985262070715	bridge	#eda100	1.0		
+vitamin B12	FXYD1	coloc	4.047000252195526	bridge	#eda100	1.0		
+vitamin B12	SEPSECS	coloc	6.056694783937862	bridge	#eda100	1.0		
+vitamin B12	ATP10B	coloc	4.854100724309791	bridge	#eda100	1.0		
+vitamin B12	UST	coloc	3.90601988312769	bridge	#eda100	1.0		
+vitamin B12	SVBP	coloc	6.228472389799385	bridge	#eda100	1.0		
+vitamin B12	TACR1	coloc	3.1364440273802514	bridge	#eda100	1.0		
+vitamin B12	PDE6B	coloc	4.072023867114054	bridge	#eda100	1.0		
+vitamin B12	TPCN2	coloc	4.928391646603983	bridge	#eda100	1.0		
+vitamin B12	SLC38A3	coloc	3.1100843104898925	bridge	#eda100	1.0		
+vitamin B12	PLA2G5	coloc	3.2603699711449483	bridge	#eda100	1.0		
+vitamin B12	ACE	coloc	4.142871652553836	bridge	#eda100	1.0		
+vitamin B12	ERICH2	coloc	5.75691226668772	bridge	#eda100	1.0		
+vitamin B12	BCHE	coloc	3.7234871051212837	bridge	#eda100	1.0		
+vitamin B12	TEX48	coloc	3.9142172048178243	bridge	#eda100	1.0		
+vitamin B12	CDH17	coloc	3.237790102609947	bridge	#eda100	1.0		
+vitamin B12	GO:0016020	enriched			#eda100	2.0	1.6386269665783624e-10	112.0
+vitamin B12	GO:0005886	enriched			#eda100	2.0	3.3305109107729635e-10	81.0
+vitamin B12	GO:0071944	enriched			#eda100	2.0	7.918052014326788e-10	83.0
+vitamin B12	GO:0098590	enriched			#eda100	2.0	2.3322235011773064e-08	34.0
+vitamin B12	REAC:R-HSA-418346	enriched			#eda100	2.0	3.600817499639938e-08	11.0
+vitamin B6	GAD1	coloc	18.73827680940196	micronutrient seed	#7b5ad1	1.0		
+vitamin B6	GAD2	coloc	14.433553671066466	micronutrient seed	#7b5ad1	1.0		
+vitamin B6	ACHE	coloc	16.088158081909043	micronutrient seed	#7b5ad1	1.0		
+vitamin B6	BCHE	coloc	9.611996760323676	micronutrient seed	#7b5ad1	1.0		
+vitamin B6	GPD1	coloc	17.42580317874044	bridge	#7b5ad1	1.0		
+vitamin B6	NDN	coloc	14.508839163028362	bridge	#7b5ad1	1.0		
+vitamin B6	PCDHGC5	coloc	17.432933684376636	bridge	#7b5ad1	1.0		
+vitamin B6	RABIF	coloc	12.60526400762789	bridge	#7b5ad1	1.0		
+vitamin B6	F2RL1	coloc	8.446948480298223	bridge	#7b5ad1	1.0		
+vitamin B6	HPN	coloc	15.990993793366924	bridge	#7b5ad1	1.0		
+vitamin B6	BRK1	coloc	6.04103522897691	bridge	#7b5ad1	1.0		
+vitamin B6	CSMD1	coloc	6.470829849391111	bridge	#7b5ad1	1.0		
+vitamin B6	PAK5	coloc	8.733730941218537	bridge	#7b5ad1	1.0		
+vitamin B6	CYS1	coloc	7.346271774081012	bridge	#7b5ad1	1.0		
+vitamin B6	PPM1E	coloc	8.258570965840466	bridge	#7b5ad1	1.0		
+vitamin B6	SCN7A	coloc	8.553157906392858	bridge	#7b5ad1	1.0		
+vitamin B6	SCN11A	coloc	7.922670967964695	bridge	#7b5ad1	1.0		
+vitamin B6	LHFPL4	coloc	4.533121934092364	bridge	#7b5ad1	1.0		
+vitamin B6	DSCAML1	coloc	4.476085673979041	bridge	#7b5ad1	1.0		
+vitamin B6	RXRG	coloc	5.1226242376009665	bridge	#7b5ad1	1.0		
+vitamin B6	PKIB	coloc	5.176584239771226	bridge	#7b5ad1	1.0		
+vitamin B6	ELAVL2	coloc	4.778955364987612	bridge	#7b5ad1	1.0		
+vitamin B6	DNAJC28	coloc	12.191572684562333	bridge	#7b5ad1	1.0		
+vitamin B6	DRAXIN	coloc	7.18175098932694	bridge	#7b5ad1	1.0		
+vitamin B6	SORCS1	coloc	5.55914163187171	bridge	#7b5ad1	1.0		
+vitamin B6	ATP1A3	coloc	6.2752870625147175	bridge	#7b5ad1	1.0		
+vitamin B6	KIAA0319	coloc	6.3702462613196795	bridge	#7b5ad1	1.0		
+vitamin B6	SRRM4	coloc	8.047877822750845	bridge	#7b5ad1	1.0		
+vitamin B6	NEFH	coloc	6.22131408608883	bridge	#7b5ad1	1.0		
+vitamin B6	KCNK1	coloc	4.231058069751077	bridge	#7b5ad1	1.0		
+vitamin B6	NCS1	coloc	6.515312782779899	bridge	#7b5ad1	1.0		
+vitamin B6	FGF12	coloc	5.526555860333046	bridge	#7b5ad1	1.0		
+vitamin B6	CNNM1	coloc	4.815361488993655	bridge	#7b5ad1	1.0		
+vitamin B6	ICA1	coloc	5.447335983647343	bridge	#7b5ad1	1.0		
+vitamin B6	TBC1D24	coloc	10.904607922615158	bridge	#7b5ad1	1.0		
+vitamin B6	C1QL3	coloc	8.412861804521796	bridge	#7b5ad1	1.0		
+vitamin B6	ANK2	coloc	4.646847310180715	bridge	#7b5ad1	1.0		
+vitamin B6	EPHA3	coloc	6.010535436918714	bridge	#7b5ad1	1.0		
+vitamin B6	PKNOX2	coloc	7.286160349720741	bridge	#7b5ad1	1.0		
+vitamin B6	PVALB	coloc	4.505151789239729	bridge	#7b5ad1	1.0		
+vitamin B6	DCX	coloc	5.030082322620058	bridge	#7b5ad1	1.0		
+vitamin B6	MAPK8IP1	coloc	5.041900309025909	bridge	#7b5ad1	1.0		
+vitamin B6	CHRNA1	coloc	4.461192642967371	bridge	#7b5ad1	1.0		
+vitamin B6	CDK5R1	coloc	4.077138512553058	bridge	#7b5ad1	1.0		
+vitamin B6	UCHL1	coloc	6.765708316206246	bridge	#7b5ad1	1.0		
+vitamin B6	NGB	coloc	3.8524333078462583	bridge	#7b5ad1	1.0		
+vitamin B6	TLN2	coloc	4.8157449574344975	bridge	#7b5ad1	1.0		
+vitamin B6	ADRA1A	coloc	4.193313676577692	bridge	#7b5ad1	1.0		
+vitamin B6	MPP3	coloc	6.575968388286344	bridge	#7b5ad1	1.0		
+vitamin B6	SERPINI1	coloc	5.116670595410848	bridge	#7b5ad1	1.0		
+vitamin B6	PLPP4	coloc	8.033389183075021	bridge	#7b5ad1	1.0		
+vitamin B6	ST8SIA2	coloc	4.064522223564753	bridge	#7b5ad1	1.0		
+vitamin B6	HAAO	coloc	5.326706156723487	bridge	#7b5ad1	1.0		
+vitamin B6	THRB	coloc	4.04269010947571	bridge	#7b5ad1	1.0		
+vitamin B6	CPED1	coloc	4.563970115250713	bridge	#7b5ad1	1.0		
+vitamin B6	ASIC1	coloc	4.308632968052672	bridge	#7b5ad1	1.0		
+vitamin B6	CLSTN2	coloc	4.285529187866718	bridge	#7b5ad1	1.0		
+vitamin B6	PLPPR4	coloc	4.061401600560019	bridge	#7b5ad1	1.0		
+vitamin B6	PI16	coloc	3.624428297556779	bridge	#7b5ad1	1.0		
+vitamin B6	MAPK4	coloc	4.4193888052540276	bridge	#7b5ad1	1.0		
+vitamin B6	INSYN1	coloc	5.3355167155276035	bridge	#7b5ad1	1.0		
+vitamin B6	DMD	coloc	5.301984203489572	bridge	#7b5ad1	1.0		
+vitamin B6	PCDH11X	coloc	3.865972697157595	bridge	#7b5ad1	1.0		
+vitamin B6	CSPG5	coloc	3.6617979293819296	bridge	#7b5ad1	1.0		
+vitamin B6	NPAS3	coloc	3.8692404819234394	bridge	#7b5ad1	1.0		
+vitamin B6	NTRK2	coloc	4.160922651487489	bridge	#7b5ad1	1.0		
+vitamin B6	KCTD8	coloc	4.569097694671243	bridge	#7b5ad1	1.0		
+vitamin B6	GRIN3A	coloc	4.968431253951914	bridge	#7b5ad1	1.0		
+vitamin B6	C1QL2	coloc	8.290966695421805	bridge	#7b5ad1	1.0		
+vitamin B6	PDE10A	coloc	3.8273596946870936	bridge	#7b5ad1	1.0		
+vitamin B6	ITPKA	coloc	6.650337372068645	bridge	#7b5ad1	1.0		
+vitamin B6	SCG2	coloc	4.042668666235065	bridge	#7b5ad1	1.0		
+vitamin B6	CBLN1	coloc	4.446285902569261	bridge	#7b5ad1	1.0		
+vitamin B6	PTPRN	coloc	3.6546631843435216	bridge	#7b5ad1	1.0		
+vitamin B6	NLGN3	coloc	3.659509775306633	bridge	#7b5ad1	1.0		
+vitamin B6	GABRA2	coloc	3.7703868906205997	bridge	#7b5ad1	1.0		
+vitamin B6	CHRNA5	coloc	9.215118445802167	bridge	#7b5ad1	1.0		
+vitamin B6	FSTL5	coloc	5.572379751611009	bridge	#7b5ad1	1.0		
+vitamin B6	DGKB	coloc	4.591846748788079	bridge	#7b5ad1	1.0		
+vitamin B6	CDH9	coloc	3.8214196116830803	bridge	#7b5ad1	1.0		
+vitamin B6	EEF1A2	coloc	6.274972006948545	bridge	#7b5ad1	1.0		
+vitamin B6	LYNX1	coloc	4.21874134196856	bridge	#7b5ad1	1.0		
+vitamin B6	HCN4	coloc	3.8317588487163556	bridge	#7b5ad1	1.0		
+vitamin B6	PLP1	coloc	3.413364618791334	bridge	#7b5ad1	1.0		
+vitamin B6	SHISA6	coloc	3.6951531423181567	bridge	#7b5ad1	1.0		
+vitamin B6	SLC6A13	coloc	4.431504430166212	bridge	#7b5ad1	1.0		
+vitamin B6	OPALIN	coloc	3.377335486261356	bridge	#7b5ad1	1.0		
+vitamin B6	SCG5	coloc	4.386457318960812	bridge	#7b5ad1	1.0		
+vitamin B6	CRYM	coloc	3.3686668504247135	bridge	#7b5ad1	1.0		
+vitamin B6	KCTD16	coloc	4.33947066264646	bridge	#7b5ad1	1.0		
+vitamin B6	CDKL5	coloc	3.4165275936879844	bridge	#7b5ad1	1.0		
+vitamin B6	SNAP25	coloc	3.537305380933594	bridge	#7b5ad1	1.0		
+vitamin B6	INKA1	coloc	3.3279258685932365	bridge	#7b5ad1	1.0		
+vitamin B6	PTPRZ1	coloc	6.682046138349339	bridge	#7b5ad1	1.0		
+vitamin B6	PSEN1	coloc	3.977732754329971	bridge	#7b5ad1	1.0		
+vitamin B6	PDE4A	coloc	4.460096276949382	bridge	#7b5ad1	1.0		
+vitamin B6	EEF1AKMT4	coloc	4.649587763290016	bridge	#7b5ad1	1.0		
+vitamin B6	NCAM2	coloc	3.763830796947102	bridge	#7b5ad1	1.0		
+vitamin B6	KIAA1217	coloc	8.09955102506413	bridge	#7b5ad1	1.0		
+vitamin B6	NAPB	coloc	4.342168042676786	bridge	#7b5ad1	1.0		
+vitamin B6	NLGN1	coloc	3.9841405727661603	bridge	#7b5ad1	1.0		
+vitamin B6	LUZP2	coloc	5.6943064135872765	bridge	#7b5ad1	1.0		
+vitamin B6	VWA3B	coloc	4.121113593395506	bridge	#7b5ad1	1.0		
+vitamin B6	SLC17A8	coloc	3.5596504196844485	bridge	#7b5ad1	1.0		
+vitamin B6	SLC18A3	coloc	4.347995805212129	bridge	#7b5ad1	1.0		
+vitamin B6	RIMBP2	coloc	3.490349950133402	bridge	#7b5ad1	1.0		
+vitamin B6	B3GNTL1	coloc	5.943033525169722	bridge	#7b5ad1	1.0		
+vitamin B6	SLC32A1	coloc	3.4805044275248607	bridge	#7b5ad1	1.0		
+vitamin B6	CITED1	coloc	5.397683079045116	bridge	#7b5ad1	1.0		
+vitamin B6	HLF	coloc	3.791212476388774	bridge	#7b5ad1	1.0		
+vitamin B6	FRMPD4	coloc	5.614409236244393	bridge	#7b5ad1	1.0		
+vitamin B6	GUCY1A2	coloc	5.7672261894488	bridge	#7b5ad1	1.0		
+vitamin B6	PLCB3	coloc	7.117449355009496	bridge	#7b5ad1	1.0		
+vitamin B6	SYNPR	coloc	3.2260616618681115	bridge	#7b5ad1	1.0		
+vitamin B6	MAOB	coloc	3.753354260717836	bridge	#7b5ad1	1.0		
+vitamin B6	CALB1	coloc	3.4396137859177123	bridge	#7b5ad1	1.0		
+vitamin B6	PPP1R17	coloc	3.5838816445230526	bridge	#7b5ad1	1.0		
+vitamin B6	DNAJC5G	coloc	3.072517767805734	bridge	#7b5ad1	1.0		
+vitamin B6	NTN1	coloc	5.951463412647756	bridge	#7b5ad1	1.0		
+vitamin B6	INA	coloc	3.390879991316634	bridge	#7b5ad1	1.0		
+vitamin B6	SLC18A2	coloc	6.106362513968168	bridge	#7b5ad1	1.0		
+vitamin B6	SYNGR3	coloc	3.090008326198727	bridge	#7b5ad1	1.0		
+vitamin B6	ADRA2B	coloc	3.1063555266678384	bridge	#7b5ad1	1.0		
+vitamin B6	SLC30A3	coloc	3.3687965655082768	bridge	#7b5ad1	1.0		
+vitamin B6	SLC12A1	coloc	5.347723402508012	bridge	#7b5ad1	1.0		
+vitamin B6	FABP7	coloc	5.411675453986551	bridge	#7b5ad1	1.0		
+vitamin B6	MMP17	coloc	5.439840644461879	bridge	#7b5ad1	1.0		
+vitamin B6	CHRM2	coloc	3.545619438542904	bridge	#7b5ad1	1.0		
+vitamin B6	ADCYAP1	coloc	4.654916203133579	bridge	#7b5ad1	1.0		
+vitamin B6	PTPRD	coloc	4.269799967589764	bridge	#7b5ad1	1.0		
+vitamin B6	MYO3A	coloc	3.177829702573481	bridge	#7b5ad1	1.0		
+vitamin B6	GPHN	coloc	4.6955080657386405	bridge	#7b5ad1	1.0		
+vitamin B6	DIRAS2	coloc	3.0533234315372786	bridge	#7b5ad1	1.0		
+vitamin B6	NEUROD2	coloc	3.0785886163809493	bridge	#7b5ad1	1.0		
+vitamin B6	NEUROD6	coloc	3.210395648572422	bridge	#7b5ad1	1.0		
+vitamin B6	UNC13C	coloc	3.0507949360497992	bridge	#7b5ad1	1.0		
+vitamin B6	CYB561D1	coloc	5.597046912152303	bridge	#7b5ad1	1.0		
+vitamin B6	DNAJC5B	coloc	3.206117143141098	bridge	#7b5ad1	1.0		
+vitamin B6	SCG3	coloc	3.7636665362219426	bridge	#7b5ad1	1.0		
+vitamin B6	CEACAM21	coloc	4.081253335621643	bridge	#7b5ad1	1.0		
+vitamin B6	PRSS12	coloc	5.674654113932	bridge	#7b5ad1	1.0		
+vitamin B6	VWC2L	coloc	4.013114993524413	bridge	#7b5ad1	1.0		
+vitamin B6	TNFSF12-TNFSF13	coloc	4.448559347035197	bridge	#7b5ad1	1.0		
+vitamin B6	PRIMA1	coloc	7.0167425580388745	bridge	#7b5ad1	1.0		
+vitamin B6	IGSF9B	coloc	5.331276401961948	bridge	#7b5ad1	1.0		
+vitamin B6	PROX1	coloc	5.549075995210027	bridge	#7b5ad1	1.0		
+vitamin B6	CALN1	coloc	3.8162848265084643	bridge	#7b5ad1	1.0		
+vitamin B6	PANX2	coloc	4.4132529361578134	bridge	#7b5ad1	1.0		
+vitamin B6	MLKL	coloc	6.854216744345873	bridge	#7b5ad1	1.0		
+vitamin B6	TIAM2	coloc	4.19144956402025	bridge	#7b5ad1	1.0		
+vitamin B6	SLC30A10	coloc	3.889998747837721	bridge	#7b5ad1	1.0		
+vitamin B6	CHGB	coloc	3.8197317528968395	bridge	#7b5ad1	1.0		
+vitamin B6	LY6H	coloc	3.64455855288384	bridge	#7b5ad1	1.0		
+vitamin B6	RGS17	coloc	3.496139505554637	bridge	#7b5ad1	1.0		
+vitamin B6	EFNB3	coloc	5.58644185955358	bridge	#7b5ad1	1.0		
+vitamin B6	HAPLN4	coloc	3.170154073189255	bridge	#7b5ad1	1.0		
+vitamin B6	SPIN2A	coloc	3.132528557918574	bridge	#7b5ad1	1.0		
+vitamin B6	IGSF3	coloc	6.302201452655621	bridge	#7b5ad1	1.0		
+vitamin B6	HSD17B6	coloc	5.440335959454057	bridge	#7b5ad1	1.0		
+vitamin B6	MOG	coloc	3.3942036372135043	bridge	#7b5ad1	1.0		
+vitamin B6	SLC9A3	coloc	3.3049133382355076	bridge	#7b5ad1	1.0		
+vitamin B6	LRRC14B	coloc	3.3049132289529024	bridge	#7b5ad1	1.0		
+vitamin B6	CYP46A1	coloc	4.395720867240161	bridge	#7b5ad1	1.0		
+vitamin B6	ATP4A	coloc	3.5534814217338146	bridge	#7b5ad1	1.0		
+vitamin B6	CTAGE8	coloc	6.894896407032202	bridge	#7b5ad1	1.0		
+vitamin B6	MIA2	coloc	6.89489568292458	bridge	#7b5ad1	1.0		
+vitamin B6	CMTM5	coloc	3.6909024990007095	bridge	#7b5ad1	1.0		
+vitamin B6	PGBD5	coloc	4.1914410024006115	bridge	#7b5ad1	1.0		
+vitamin B6	CHRM1	coloc	3.4730494368668534	bridge	#7b5ad1	1.0		
+vitamin B6	SMLR1	coloc	3.9528822254742995	bridge	#7b5ad1	1.0		
+vitamin B6	NTF4	coloc	3.37792686700136	bridge	#7b5ad1	1.0		
+vitamin B6	SLC22A17	coloc	4.801737288266137	bridge	#7b5ad1	1.0		
+vitamin B6	TACR1	coloc	4.280839099995565	bridge	#7b5ad1	1.0		
+vitamin B6	MYRF	coloc	3.7525093902627824	bridge	#7b5ad1	1.0		
+vitamin B6	CLIP3	coloc	3.612524145552037	bridge	#7b5ad1	1.0		
+vitamin B6	TAC4	coloc	3.4190364633106185	bridge	#7b5ad1	1.0		
+vitamin B6	CRAMP1	coloc	4.513324085124983	bridge	#7b5ad1	1.0		
+vitamin B6	FAM163A	coloc	4.512011902291116	bridge	#7b5ad1	1.0		
+vitamin B6	ADRA1B	coloc	3.280770347461122	bridge	#7b5ad1	1.0		
+vitamin B6	SLC38A3	coloc	3.322193251692617	bridge	#7b5ad1	1.0		
+vitamin B6	SP9	coloc	3.056606447926111	bridge	#7b5ad1	1.0		
+vitamin B6	CASK	coloc	4.009363009278904	bridge	#7b5ad1	1.0		
+vitamin B6	ACE	coloc	3.12216046745132	bridge	#7b5ad1	1.0		
+vitamin B6	DRD5	coloc	3.296742324492039	bridge	#7b5ad1	1.0		
+vitamin B6	AK5	coloc	4.2068004212818595	bridge	#7b5ad1	1.0		
+vitamin B6	CRB2	coloc	4.705577514737708	bridge	#7b5ad1	1.0		
+vitamin B6	ZIC1	coloc	3.878938007177565	bridge	#7b5ad1	1.0		
+vitamin B6	ESRRG	coloc	3.5068477731857817	bridge	#7b5ad1	1.0		
+vitamin B6	CDH17	coloc	5.000796237439396	bridge	#7b5ad1	1.0		
+vitamin B6	GO:0045202	enriched			#7b5ad1	2.0	1.1650696741392557e-33	83.0
+vitamin B6	GO:0030054	enriched			#7b5ad1	2.0	2.1257395454171047e-27	90.0
+vitamin B6	GO:0099536	enriched			#7b5ad1	2.0	5.614727292471266e-26	55.0
+vitamin B6	GO:0098916	enriched			#7b5ad1	2.0	1.334483561431465e-23	51.0
+vitamin B6	GO:0007268	enriched			#7b5ad1	2.0	1.334483561431465e-23	51.0
+vitamin C	ABCC2	coloc	19.958166103286608	micronutrient seed	#00a3b5	1.0		
+vitamin C	MAPK6	coloc	19.478265701003895	bridge	#00a3b5	1.0		
+vitamin C	LPAR1	coloc	9.127012113558987	bridge	#00a3b5	1.0		
+vitamin C	PCDHB8	coloc	10.102957109606589	bridge	#00a3b5	1.0		
+vitamin C	SCNN1B	coloc	7.302401823046764	bridge	#00a3b5	1.0		
+vitamin C	FREM2	coloc	7.296110696713655	bridge	#00a3b5	1.0		
+vitamin C	HPN	coloc	9.27556493260069	bridge	#00a3b5	1.0		
+vitamin C	SLC5A11	coloc	9.606277814759668	bridge	#00a3b5	1.0		
+vitamin C	FGF13	coloc	5.686116400532868	bridge	#00a3b5	1.0		
+vitamin C	C3orf33	coloc	8.510716104043551	bridge	#00a3b5	1.0		
+vitamin C	CSMD1	coloc	10.418431516258819	bridge	#00a3b5	1.0		
+vitamin C	RAET1E	coloc	5.245337629881979	bridge	#00a3b5	1.0		
+vitamin C	PLEKHA6	coloc	9.49407402434895	bridge	#00a3b5	1.0		
+vitamin C	RNF130	coloc	7.18800225196276	bridge	#00a3b5	1.0		
+vitamin C	ARHGEF10L	coloc	12.37757550781764	bridge	#00a3b5	1.0		
+vitamin C	MPZ	coloc	19.706971642611443	bridge	#00a3b5	1.0		
+vitamin C	ITPK1	coloc	6.461727013736177	bridge	#00a3b5	1.0		
+vitamin C	CSN3	coloc	5.910660770845923	bridge	#00a3b5	1.0		
+vitamin C	NTN4	coloc	6.100566313829113	bridge	#00a3b5	1.0		
+vitamin C	SLC4A11	coloc	8.59989006797219	bridge	#00a3b5	1.0		
+vitamin C	BDNF	coloc	6.090772014953638	bridge	#00a3b5	1.0		
+vitamin C	DNAJC28	coloc	4.595501570744328	bridge	#00a3b5	1.0		
+vitamin C	PCDHAC2	coloc	7.224431205602161	bridge	#00a3b5	1.0		
+vitamin C	KIAA0319	coloc	7.129622414689753	bridge	#00a3b5	1.0		
+vitamin C	CPT1C	coloc	8.920508314308261	bridge	#00a3b5	1.0		
+vitamin C	KCNK1	coloc	5.587448177928573	bridge	#00a3b5	1.0		
+vitamin C	SYVN1	coloc	9.296688072286216	bridge	#00a3b5	1.0		
+vitamin C	C19orf18	coloc	6.580285986786758	bridge	#00a3b5	1.0		
+vitamin C	PDE4D	coloc	4.0449069619699625	bridge	#00a3b5	1.0		
+vitamin C	NXPH2	coloc	4.861763702040856	bridge	#00a3b5	1.0		
+vitamin C	SLC45A3	coloc	6.959724714798163	bridge	#00a3b5	1.0		
+vitamin C	ROR1	coloc	5.308137219759921	bridge	#00a3b5	1.0		
+vitamin C	PCDH15	coloc	3.9929490295013723	bridge	#00a3b5	1.0		
+vitamin C	NEDD4	coloc	7.952702986549014	bridge	#00a3b5	1.0		
+vitamin C	KCNJ1	coloc	4.982210094010914	bridge	#00a3b5	1.0		
+vitamin C	CDH19	coloc	9.494045045254182	bridge	#00a3b5	1.0		
+vitamin C	SEPTIN4	coloc	5.404228974081618	bridge	#00a3b5	1.0		
+vitamin C	NGB	coloc	6.123946033001101	bridge	#00a3b5	1.0		
+vitamin C	TRIM67	coloc	6.981631799340027	bridge	#00a3b5	1.0		
+vitamin C	CDHR3	coloc	3.8502044749220947	bridge	#00a3b5	1.0		
+vitamin C	BEX1	coloc	4.46349609626109	bridge	#00a3b5	1.0		
+vitamin C	KCNMB2	coloc	4.351305452368402	bridge	#00a3b5	1.0		
+vitamin C	RIMS4	coloc	4.95469088969665	bridge	#00a3b5	1.0		
+vitamin C	TMEM132E	coloc	4.954690618009884	bridge	#00a3b5	1.0		
+vitamin C	ADRA1A	coloc	4.334140389032194	bridge	#00a3b5	1.0		
+vitamin C	PODXL2	coloc	4.282890185825828	bridge	#00a3b5	1.0		
+vitamin C	PLPP4	coloc	5.309039384614732	bridge	#00a3b5	1.0		
+vitamin C	SLC29A4	coloc	10.449699185915625	bridge	#00a3b5	1.0		
+vitamin C	HAAO	coloc	6.792904858286454	bridge	#00a3b5	1.0		
+vitamin C	CPED1	coloc	5.663016223075763	bridge	#00a3b5	1.0		
+vitamin C	PI16	coloc	5.638357836368833	bridge	#00a3b5	1.0		
+vitamin C	SEMA3A	coloc	6.756193906547992	bridge	#00a3b5	1.0		
+vitamin C	AJAP1	coloc	5.825587316676986	bridge	#00a3b5	1.0		
+vitamin C	DIO2	coloc	4.444648885386589	bridge	#00a3b5	1.0		
+vitamin C	RAPGEFL1	coloc	4.669542049558262	bridge	#00a3b5	1.0		
+vitamin C	UPK1A	coloc	7.857609358421892	bridge	#00a3b5	1.0		
+vitamin C	SLC26A4	coloc	7.464847047574588	bridge	#00a3b5	1.0		
+vitamin C	PDE1A	coloc	3.570870544532548	bridge	#00a3b5	1.0		
+vitamin C	ITPR1	coloc	5.290349826674176	bridge	#00a3b5	1.0		
+vitamin C	TMEM47	coloc	8.265016687297205	bridge	#00a3b5	1.0		
+vitamin C	SGIP1	coloc	3.7556005396241146	bridge	#00a3b5	1.0		
+vitamin C	ANKRD24	coloc	3.6893626505312933	bridge	#00a3b5	1.0		
+vitamin C	SYPL2	coloc	7.056688173308577	bridge	#00a3b5	1.0		
+vitamin C	CPXM1	coloc	6.585408450928854	bridge	#00a3b5	1.0		
+vitamin C	CNTNAP3B	coloc	7.45559859790002	bridge	#00a3b5	1.0		
+vitamin C	PLP1	coloc	4.726289559418157	bridge	#00a3b5	1.0		
+vitamin C	TMEM35A	coloc	3.5459798755498437	bridge	#00a3b5	1.0		
+vitamin C	SHISA6	coloc	4.766887683576543	bridge	#00a3b5	1.0		
+vitamin C	SLC6A13	coloc	3.976866484085986	bridge	#00a3b5	1.0		
+vitamin C	SGCZ	coloc	4.49073433650232	bridge	#00a3b5	1.0		
+vitamin C	INKA1	coloc	6.160587685302233	bridge	#00a3b5	1.0		
+vitamin C	PSEN1	coloc	4.212068728159566	bridge	#00a3b5	1.0		
+vitamin C	SV2C	coloc	4.455258768275319	bridge	#00a3b5	1.0		
+vitamin C	NIM1K	coloc	5.923642970665335	bridge	#00a3b5	1.0		
+vitamin C	MTURN	coloc	5.246010154148065	bridge	#00a3b5	1.0		
+vitamin C	KLHL32	coloc	3.7093969119279087	bridge	#00a3b5	1.0		
+vitamin C	ELOVL4	coloc	3.423994640619277	bridge	#00a3b5	1.0		
+vitamin C	NRP2	coloc	3.651519537828016	bridge	#00a3b5	1.0		
+vitamin C	HLF	coloc	3.3177666545482465	bridge	#00a3b5	1.0		
+vitamin C	GSTM5	coloc	5.846522706734161	bridge	#00a3b5	1.0		
+vitamin C	KCNE5	coloc	5.2677126504605	bridge	#00a3b5	1.0		
+vitamin C	TMEM30B	coloc	4.932951020192235	bridge	#00a3b5	1.0		
+vitamin C	SMIM1	coloc	6.516828033590443	bridge	#00a3b5	1.0		
+vitamin C	STOML3	coloc	4.758102225528893	bridge	#00a3b5	1.0		
+vitamin C	MAOB	coloc	4.271307548971311	bridge	#00a3b5	1.0		
+vitamin C	CELF6	coloc	5.592113982297726	bridge	#00a3b5	1.0		
+vitamin C	SLC1A4	coloc	7.244873410478108	bridge	#00a3b5	1.0		
+vitamin C	ABCC8	coloc	3.636435189537234	bridge	#00a3b5	1.0		
+vitamin C	TSC22D3	coloc	3.3607112626065683	bridge	#00a3b5	1.0		
+vitamin C	PPP1R17	coloc	3.235095251191177	bridge	#00a3b5	1.0		
+vitamin C	SLC47A2	coloc	5.174494247949303	bridge	#00a3b5	1.0		
+vitamin C	SLC1A1	coloc	5.184654532392426	bridge	#00a3b5	1.0		
+vitamin C	LDLR	coloc	3.5180033085188263	bridge	#00a3b5	1.0		
+vitamin C	SLC30A4	coloc	4.154846715573433	bridge	#00a3b5	1.0		
+vitamin C	JHY	coloc	3.2249322176376154	bridge	#00a3b5	1.0		
+vitamin C	SLC12A3	coloc	4.141447660878512	bridge	#00a3b5	1.0		
+vitamin C	MCTP2	coloc	5.094023570089633	bridge	#00a3b5	1.0		
+vitamin C	SLC12A1	coloc	7.5578578120386	bridge	#00a3b5	1.0		
+vitamin C	HRK	coloc	4.2741123805140955	bridge	#00a3b5	1.0		
+vitamin C	GAD2	coloc	7.210598899931268	bridge	#00a3b5	1.0		
+vitamin C	SLC34A2	coloc	3.064875397221382	bridge	#00a3b5	1.0		
+vitamin C	NRIP3	coloc	6.153070520408014	bridge	#00a3b5	1.0		
+vitamin C	LRP11	coloc	5.9386304805397385	bridge	#00a3b5	1.0		
+vitamin C	MMP17	coloc	3.2984532769213413	bridge	#00a3b5	1.0		
+vitamin C	MAGEA10	coloc	3.3728861541180475	bridge	#00a3b5	1.0		
+vitamin C	CYB561D1	coloc	4.40733903623246	bridge	#00a3b5	1.0		
+vitamin C	DCHS2	coloc	3.787522507172669	bridge	#00a3b5	1.0		
+vitamin C	TMEM128	coloc	3.859631323128612	bridge	#00a3b5	1.0		
+vitamin C	NETO2	coloc	3.3557714321150933	bridge	#00a3b5	1.0		
+vitamin C	SLC16A14	coloc	3.1138868011281793	bridge	#00a3b5	1.0		
+vitamin C	TNFSF12-TNFSF13	coloc	4.546553517211749	bridge	#00a3b5	1.0		
+vitamin C	S100G	coloc	4.8513508325232495	bridge	#00a3b5	1.0		
+vitamin C	UGT8	coloc	3.2261438258812167	bridge	#00a3b5	1.0		
+vitamin C	ADAM29	coloc	7.71304058427252	bridge	#00a3b5	1.0		
+vitamin C	SLC26A7	coloc	4.023801821162271	bridge	#00a3b5	1.0		
+vitamin C	GJB1	coloc	5.855546116596692	bridge	#00a3b5	1.0		
+vitamin C	CALN1	coloc	3.6637950258014826	bridge	#00a3b5	1.0		
+vitamin C	CLDN20	coloc	4.989540686991017	bridge	#00a3b5	1.0		
+vitamin C	MLKL	coloc	3.2118190276309533	bridge	#00a3b5	1.0		
+vitamin C	SYT9	coloc	3.860250017613012	bridge	#00a3b5	1.0		
+vitamin C	CERS4	coloc	3.3431832992356334	bridge	#00a3b5	1.0		
+vitamin C	SGCB	coloc	5.842606698187562	bridge	#00a3b5	1.0		
+vitamin C	SLC10A6	coloc	3.5275377513875616	bridge	#00a3b5	1.0		
+vitamin C	SLC30A10	coloc	3.7122369691094756	bridge	#00a3b5	1.0		
+vitamin C	PPP1R9A	coloc	3.215681186118763	bridge	#00a3b5	1.0		
+vitamin C	SPZ1	coloc	3.8957227563800547	bridge	#00a3b5	1.0		
+vitamin C	SLC16A2	coloc	3.4752091755240175	bridge	#00a3b5	1.0		
+vitamin C	TLL2	coloc	3.5395224198360675	bridge	#00a3b5	1.0		
+vitamin C	HAPLN4	coloc	3.2236369930609103	bridge	#00a3b5	1.0		
+vitamin C	B3GALT2	coloc	5.437603412835885	bridge	#00a3b5	1.0		
+vitamin C	SLC9A3	coloc	3.509346096128045	bridge	#00a3b5	1.0		
+vitamin C	LRRC14B	coloc	3.5093464746663043	bridge	#00a3b5	1.0		
+vitamin C	ADGRA3	coloc	6.999103597528744	bridge	#00a3b5	1.0		
+vitamin C	CTAGE8	coloc	5.06065494544024	bridge	#00a3b5	1.0		
+vitamin C	MIA2	coloc	5.06065481342289	bridge	#00a3b5	1.0		
+vitamin C	GPC5	coloc	3.26291349376551	bridge	#00a3b5	1.0		
+vitamin C	NUDT12	coloc	4.017316033439309	bridge	#00a3b5	1.0		
+vitamin C	SMLR1	coloc	7.240592743572385	bridge	#00a3b5	1.0		
+vitamin C	LHFPL6	coloc	3.12755790463779	bridge	#00a3b5	1.0		
+vitamin C	UST	coloc	5.603653329595711	bridge	#00a3b5	1.0		
+vitamin C	ABCA4	coloc	3.3791581595090214	bridge	#00a3b5	1.0		
+vitamin C	SLC28A2	coloc	4.511994470684075	bridge	#00a3b5	1.0		
+vitamin C	ARX	coloc	3.1208314907654993	bridge	#00a3b5	1.0		
+vitamin C	DLK2	coloc	3.1479185316329668	bridge	#00a3b5	1.0		
+vitamin C	CDH11	coloc	3.4865343865416034	bridge	#00a3b5	1.0		
+vitamin C	SLC38A3	coloc	3.375737955227007	bridge	#00a3b5	1.0		
+vitamin C	PLA2G5	coloc	4.705984598691362	bridge	#00a3b5	1.0		
+vitamin C	SLC10A4	coloc	6.6392844375191835	bridge	#00a3b5	1.0		
+vitamin C	CARF	coloc	3.416601297058531	bridge	#00a3b5	1.0		
+vitamin C	ERICH2	coloc	5.471081939330819	bridge	#00a3b5	1.0		
+vitamin C	CTXN3	coloc	3.5662509601300734	bridge	#00a3b5	1.0		
+vitamin C	GO:0005886	enriched			#00a3b5	2.0	3.650223297491316e-11	87.0
+vitamin C	GO:0071944	enriched			#00a3b5	2.0	3.650223297491316e-11	90.0
+vitamin C	GO:0016324	enriched			#00a3b5	2.0	3.650223297491316e-11	23.0
+vitamin C	GO:0045177	enriched			#00a3b5	2.0	1.9310586180447308e-10	24.0
+vitamin C	REAC:R-HSA-425407	enriched			#00a3b5	2.0	8.376680556852804e-10	18.0
+vitamin D	SEMA3B	coloc	14.581514231692877	micronutrient seed	#8c6239	1.0		
+vitamin D	LDLRAP1	coloc	14.958514203001705	micronutrient seed	#8c6239	1.0		
+vitamin D	ADGRG1	coloc	17.428990441896374	micronutrient seed	#8c6239	1.0		
+vitamin D	GPD1	coloc	10.157263072475224	bridge	#8c6239	1.0		
+vitamin D	LPAR1	coloc	7.561173126273073	bridge	#8c6239	1.0		
+vitamin D	FGF11	coloc	11.001638099865252	bridge	#8c6239	1.0		
+vitamin D	F2RL1	coloc	8.597056797606879	bridge	#8c6239	1.0		
+vitamin D	SLC18B1	coloc	8.597058121570472	bridge	#8c6239	1.0		
+vitamin D	PTN	coloc	6.764554704397889	bridge	#8c6239	1.0		
+vitamin D	HPN	coloc	9.398444739228394	bridge	#8c6239	1.0		
+vitamin D	AK6	coloc	10.18086446894863	bridge	#8c6239	1.0		
+vitamin D	SPTBN2	coloc	10.684735665996318	bridge	#8c6239	1.0		
+vitamin D	FGF13	coloc	8.855678539796694	bridge	#8c6239	1.0		
+vitamin D	CSMD1	coloc	9.336888952810499	bridge	#8c6239	1.0		
+vitamin D	PLEKHA6	coloc	5.043984143466367	bridge	#8c6239	1.0		
+vitamin D	PLXNA4	coloc	6.523243821033766	bridge	#8c6239	1.0		
+vitamin D	CSMD3	coloc	6.477732302411402	bridge	#8c6239	1.0		
+vitamin D	LRP1	coloc	10.541253630320611	bridge	#8c6239	1.0		
+vitamin D	FGF14	coloc	8.509652158750525	bridge	#8c6239	1.0		
+vitamin D	RXRG	coloc	7.002976349867261	bridge	#8c6239	1.0		
+vitamin D	BDNF	coloc	6.263152141388984	bridge	#8c6239	1.0		
+vitamin D	DNAJC28	coloc	5.675591098126674	bridge	#8c6239	1.0		
+vitamin D	TTYH2	coloc	5.32622916823115	bridge	#8c6239	1.0		
+vitamin D	ARRDC4	coloc	4.4805624335196805	bridge	#8c6239	1.0		
+vitamin D	FRMD5	coloc	5.540363070141551	bridge	#8c6239	1.0		
+vitamin D	PDE4D	coloc	5.854573463880767	bridge	#8c6239	1.0		
+vitamin D	S100B	coloc	5.879300962046602	bridge	#8c6239	1.0		
+vitamin D	SLC45A3	coloc	7.027372091100154	bridge	#8c6239	1.0		
+vitamin D	PLEKHG6	coloc	5.925133628858236	bridge	#8c6239	1.0		
+vitamin D	TTLL11	coloc	7.538537228445569	bridge	#8c6239	1.0		
+vitamin D	KCNJ1	coloc	6.680754941144502	bridge	#8c6239	1.0		
+vitamin D	CDH19	coloc	5.714296899232203	bridge	#8c6239	1.0		
+vitamin D	CAMK4	coloc	4.391892684665266	bridge	#8c6239	1.0		
+vitamin D	MMP16	coloc	5.566754135779197	bridge	#8c6239	1.0		
+vitamin D	ASXL3	coloc	7.52959442644393	bridge	#8c6239	1.0		
+vitamin D	WNK4	coloc	9.310230468748015	bridge	#8c6239	1.0		
+vitamin D	ADGRG6	coloc	5.318668483960707	bridge	#8c6239	1.0		
+vitamin D	EPHB2	coloc	6.480411390431713	bridge	#8c6239	1.0		
+vitamin D	TRIM67	coloc	6.648485076363416	bridge	#8c6239	1.0		
+vitamin D	IL17RE	coloc	6.430696383020334	bridge	#8c6239	1.0		
+vitamin D	RIMS4	coloc	4.48878796736547	bridge	#8c6239	1.0		
+vitamin D	TMEM132E	coloc	4.488787605800159	bridge	#8c6239	1.0		
+vitamin D	VLDLR	coloc	3.8667101407527937	bridge	#8c6239	1.0		
+vitamin D	PODXL2	coloc	4.254639020663341	bridge	#8c6239	1.0		
+vitamin D	ZNF804A	coloc	3.779090282878182	bridge	#8c6239	1.0		
+vitamin D	THRB	coloc	6.248795976028623	bridge	#8c6239	1.0		
+vitamin D	CPED1	coloc	4.237442216602026	bridge	#8c6239	1.0		
+vitamin D	PI16	coloc	5.30273852430893	bridge	#8c6239	1.0		
+vitamin D	PAK6	coloc	6.33125079207946	bridge	#8c6239	1.0		
+vitamin D	DIO2	coloc	6.128590942765382	bridge	#8c6239	1.0		
+vitamin D	PTPRU	coloc	4.873346049590405	bridge	#8c6239	1.0		
+vitamin D	CHN2	coloc	6.376878325962138	bridge	#8c6239	1.0		
+vitamin D	ANOS1	coloc	5.310196589332966	bridge	#8c6239	1.0		
+vitamin D	BAALC	coloc	6.1973582013882575	bridge	#8c6239	1.0		
+vitamin D	ACVR1C	coloc	4.032582769475558	bridge	#8c6239	1.0		
+vitamin D	TSPAN6	coloc	3.9285076915796497	bridge	#8c6239	1.0		
+vitamin D	PCDHA12	coloc	6.206643592348272	bridge	#8c6239	1.0		
+vitamin D	CDH3	coloc	5.639304668110913	bridge	#8c6239	1.0		
+vitamin D	RUNDC3B	coloc	4.935859505053362	bridge	#8c6239	1.0		
+vitamin D	TMEM47	coloc	4.512508859974837	bridge	#8c6239	1.0		
+vitamin D	PCDHGB6	coloc	7.684631720815196	bridge	#8c6239	1.0		
+vitamin D	FSTL5	coloc	8.162070301704176	bridge	#8c6239	1.0		
+vitamin D	SCGN	coloc	5.355688339186658	bridge	#8c6239	1.0		
+vitamin D	CADM4	coloc	5.941551473469245	bridge	#8c6239	1.0		
+vitamin D	APC2	coloc	4.589751348511437	bridge	#8c6239	1.0		
+vitamin D	PLP1	coloc	4.55280422287033	bridge	#8c6239	1.0		
+vitamin D	SHISA6	coloc	3.651177496188924	bridge	#8c6239	1.0		
+vitamin D	RBMS3	coloc	3.4782900384154383	bridge	#8c6239	1.0		
+vitamin D	PLXNA2	coloc	4.748605535823251	bridge	#8c6239	1.0		
+vitamin D	SLC18A3	coloc	3.947796932514902	bridge	#8c6239	1.0		
+vitamin D	NRP2	coloc	6.064804958684837	bridge	#8c6239	1.0		
+vitamin D	PAPPA2	coloc	4.088484391340479	bridge	#8c6239	1.0		
+vitamin D	CITED1	coloc	5.292297668101127	bridge	#8c6239	1.0		
+vitamin D	HLF	coloc	3.6493813506408324	bridge	#8c6239	1.0		
+vitamin D	SLC6A2	coloc	3.8151249604735797	bridge	#8c6239	1.0		
+vitamin D	MAOB	coloc	5.698143452915245	bridge	#8c6239	1.0		
+vitamin D	CALB1	coloc	5.2314427859705965	bridge	#8c6239	1.0		
+vitamin D	CELF6	coloc	3.7785242129629886	bridge	#8c6239	1.0		
+vitamin D	TSC22D3	coloc	3.3386032045690643	bridge	#8c6239	1.0		
+vitamin D	GRK4	coloc	4.6011255359626935	bridge	#8c6239	1.0		
+vitamin D	SOSTDC1	coloc	5.1097465395393975	bridge	#8c6239	1.0		
+vitamin D	MAMLD1	coloc	14.16107881020807	bridge	#8c6239	1.0		
+vitamin D	LDLR	coloc	3.9888925400331834	bridge	#8c6239	1.0		
+vitamin D	MCTP2	coloc	6.205383266497791	bridge	#8c6239	1.0		
+vitamin D	FZD8	coloc	4.022053204123236	bridge	#8c6239	1.0		
+vitamin D	SLC12A1	coloc	6.259951986697658	bridge	#8c6239	1.0		
+vitamin D	HRK	coloc	6.7696654452839224	bridge	#8c6239	1.0		
+vitamin D	EFNA5	coloc	3.7743040640819654	bridge	#8c6239	1.0		
+vitamin D	PLXNB3	coloc	6.537457042449894	bridge	#8c6239	1.0		
+vitamin D	MMP17	coloc	4.929495358244421	bridge	#8c6239	1.0		
+vitamin D	RAPSN	coloc	4.279983814295141	bridge	#8c6239	1.0		
+vitamin D	KCNMB4	coloc	3.6871231061532885	bridge	#8c6239	1.0		
+vitamin D	SPEG	coloc	5.089266624750879	bridge	#8c6239	1.0		
+vitamin D	SEMA4C	coloc	3.7397956751279353	bridge	#8c6239	1.0		
+vitamin D	NPAS4	coloc	3.8598441860457227	bridge	#8c6239	1.0		
+vitamin D	SERP1	coloc	6.710762816741525	bridge	#8c6239	1.0		
+vitamin D	TNFSF12-TNFSF13	coloc	7.84318291104461	bridge	#8c6239	1.0		
+vitamin D	GDF10	coloc	4.0239358096939375	bridge	#8c6239	1.0		
+vitamin D	S100G	coloc	3.6384333794729597	bridge	#8c6239	1.0		
+vitamin D	FLRT3	coloc	3.6601779556126335	bridge	#8c6239	1.0		
+vitamin D	UGT8	coloc	5.048613399164133	bridge	#8c6239	1.0		
+vitamin D	FGD6	coloc	3.0549562225545857	bridge	#8c6239	1.0		
+vitamin D	FZD1	coloc	4.7971477487575696	bridge	#8c6239	1.0		
+vitamin D	DSEL	coloc	3.8580176925655603	bridge	#8c6239	1.0		
+vitamin D	GJB1	coloc	5.43585787858446	bridge	#8c6239	1.0		
+vitamin D	PROX1	coloc	5.607233618557291	bridge	#8c6239	1.0		
+vitamin D	CALN1	coloc	5.742387024105369	bridge	#8c6239	1.0		
+vitamin D	EFNA3	coloc	3.455134616112214	bridge	#8c6239	1.0		
+vitamin D	PTH2R	coloc	4.2354681871824695	bridge	#8c6239	1.0		
+vitamin D	PLEKHG3	coloc	3.359043233946539	bridge	#8c6239	1.0		
+vitamin D	TLL2	coloc	3.733876884364553	bridge	#8c6239	1.0		
+vitamin D	NRG2	coloc	3.324391909596503	bridge	#8c6239	1.0		
+vitamin D	MOG	coloc	4.484430156042972	bridge	#8c6239	1.0		
+vitamin D	CYP46A1	coloc	4.982533379873379	bridge	#8c6239	1.0		
+vitamin D	INPP5J	coloc	3.0677013955378847	bridge	#8c6239	1.0		
+vitamin D	SLC9A6	coloc	4.2096211993209645	bridge	#8c6239	1.0		
+vitamin D	ATP10B	coloc	4.14234824765459	bridge	#8c6239	1.0		
+vitamin D	LGI3	coloc	3.524798807468243	bridge	#8c6239	1.0		
+vitamin D	WNK3	coloc	4.890536805429967	bridge	#8c6239	1.0		
+vitamin D	MYRF	coloc	7.576559540013457	bridge	#8c6239	1.0		
+vitamin D	MOBP	coloc	4.947489340480542	bridge	#8c6239	1.0		
+vitamin D	CLIP3	coloc	3.4285579676396463	bridge	#8c6239	1.0		
+vitamin D	C4orf19	coloc	4.203219475941283	bridge	#8c6239	1.0		
+vitamin D	EPHA1	coloc	3.415436452320701	bridge	#8c6239	1.0		
+vitamin D	CDH11	coloc	3.720678738904248	bridge	#8c6239	1.0		
+vitamin D	FA2H	coloc	5.426518238392686	bridge	#8c6239	1.0		
+vitamin D	PLEKHB1	coloc	7.740357110151849	bridge	#8c6239	1.0		
+vitamin D	PLA2G5	coloc	4.841126484314334	bridge	#8c6239	1.0		
+vitamin D	ERICH2	coloc	5.0537023517598465	bridge	#8c6239	1.0		
+vitamin D	GPRIN1	coloc	5.529046940553866	bridge	#8c6239	1.0		
+vitamin D	ESRRG	coloc	3.0180526386595496	bridge	#8c6239	1.0		
+vitamin D	CDH17	coloc	3.1695397588584275	bridge	#8c6239	1.0		
+vitamin D	GO:0007399	enriched			#8c6239	2.0	1.2151938924420877e-11	57.0
+vitamin D	GO:0048731	enriched			#8c6239	2.0	4.1879544328788923e-10	68.0
+vitamin D	GO:0007275	enriched			#8c6239	2.0	1.1217886431072627e-09	73.0
+vitamin D	GO:0032502	enriched			#8c6239	2.0	1.6099990346445776e-09	86.0
+vitamin D	GO:0048856	enriched			#8c6239	2.0	3.6805317840138257e-09	81.0
+vitamin E	KCNH2	coloc	20.174821013851187	micronutrient seed	#5c8a2f	1.0		
+vitamin E	MAPK6	coloc	13.644450041773611	bridge	#5c8a2f	1.0		
+vitamin E	SDK2	coloc	9.86975978063989	bridge	#5c8a2f	1.0		
+vitamin E	GPD1	coloc	10.536220982928581	bridge	#5c8a2f	1.0		
+vitamin E	COX6A2	coloc	8.536997352116671	bridge	#5c8a2f	1.0		
+vitamin E	ROBO1	coloc	6.910690939225963	bridge	#5c8a2f	1.0		
+vitamin E	F2RL1	coloc	7.535289040251204	bridge	#5c8a2f	1.0		
+vitamin E	SLC18B1	coloc	7.535289955058889	bridge	#5c8a2f	1.0		
+vitamin E	FREM2	coloc	8.543393340769352	bridge	#5c8a2f	1.0		
+vitamin E	PCDH7	coloc	6.596283563573454	bridge	#5c8a2f	1.0		
+vitamin E	PTN	coloc	5.940907700640823	bridge	#5c8a2f	1.0		
+vitamin E	SLC5A11	coloc	9.46748837016053	bridge	#5c8a2f	1.0		
+vitamin E	RNF151	coloc	5.965526309309706	bridge	#5c8a2f	1.0		
+vitamin E	PCDHGA12	coloc	6.188480713274064	bridge	#5c8a2f	1.0		
+vitamin E	RET	coloc	10.659197865812773	bridge	#5c8a2f	1.0		
+vitamin E	CACNA1H	coloc	7.838189877137199	bridge	#5c8a2f	1.0		
+vitamin E	RAET1E	coloc	7.337108176740581	bridge	#5c8a2f	1.0		
+vitamin E	SDK1	coloc	5.886596463791972	bridge	#5c8a2f	1.0		
+vitamin E	DNAJC6	coloc	5.616600276702914	bridge	#5c8a2f	1.0		
+vitamin E	ARHGEF10L	coloc	10.76549089130858	bridge	#5c8a2f	1.0		
+vitamin E	SPTB	coloc	5.3439544876151155	bridge	#5c8a2f	1.0		
+vitamin E	DCC	coloc	6.774386598707111	bridge	#5c8a2f	1.0		
+vitamin E	MFSD6	coloc	5.709227777308439	bridge	#5c8a2f	1.0		
+vitamin E	ITPK1	coloc	5.873279862634242	bridge	#5c8a2f	1.0		
+vitamin E	NEO1	coloc	4.915753805765185	bridge	#5c8a2f	1.0		
+vitamin E	CSN3	coloc	5.2792457008492	bridge	#5c8a2f	1.0		
+vitamin E	FGF14	coloc	9.908125615072356	bridge	#5c8a2f	1.0		
+vitamin E	MTMR7	coloc	11.841350324104505	bridge	#5c8a2f	1.0		
+vitamin E	NTN4	coloc	6.888076765769992	bridge	#5c8a2f	1.0		
+vitamin E	RXRG	coloc	5.551992943416042	bridge	#5c8a2f	1.0		
+vitamin E	SORCS2	coloc	7.226887246853232	bridge	#5c8a2f	1.0		
+vitamin E	BDNF	coloc	6.566169138272005	bridge	#5c8a2f	1.0		
+vitamin E	NSG1	coloc	5.5026673040522285	bridge	#5c8a2f	1.0		
+vitamin E	PCDHA7	coloc	7.857143945897417	bridge	#5c8a2f	1.0		
+vitamin E	TTYH2	coloc	6.831152704322334	bridge	#5c8a2f	1.0		
+vitamin E	SIRT2	coloc	7.318968149874117	bridge	#5c8a2f	1.0		
+vitamin E	ELAPOR2	coloc	8.236505803265413	bridge	#5c8a2f	1.0		
+vitamin E	ORAI3	coloc	7.8946676018362165	bridge	#5c8a2f	1.0		
+vitamin E	JAM2	coloc	4.588624508955143	bridge	#5c8a2f	1.0		
+vitamin E	CADM1	coloc	4.290528369842772	bridge	#5c8a2f	1.0		
+vitamin E	KCNE2	coloc	9.647645142901482	bridge	#5c8a2f	1.0		
+vitamin E	C19orf18	coloc	7.724707391273332	bridge	#5c8a2f	1.0		
+vitamin E	KCNK3	coloc	7.556413284490588	bridge	#5c8a2f	1.0		
+vitamin E	PDE4D	coloc	4.960812822292608	bridge	#5c8a2f	1.0		
+vitamin E	EPHA3	coloc	4.036094685166661	bridge	#5c8a2f	1.0		
+vitamin E	NXPH2	coloc	4.331613978716619	bridge	#5c8a2f	1.0		
+vitamin E	SLC45A3	coloc	7.4310528915723575	bridge	#5c8a2f	1.0		
+vitamin E	LHFPL1	coloc	5.359640858333646	bridge	#5c8a2f	1.0		
+vitamin E	THSD7A	coloc	5.359640087001524	bridge	#5c8a2f	1.0		
+vitamin E	TTLL11	coloc	4.686532551927825	bridge	#5c8a2f	1.0		
+vitamin E	NR2E1	coloc	6.667617107939231	bridge	#5c8a2f	1.0		
+vitamin E	IGDCC4	coloc	5.842344833678105	bridge	#5c8a2f	1.0		
+vitamin E	MAPK10	coloc	5.389908240528891	bridge	#5c8a2f	1.0		
+vitamin E	KCNIP3	coloc	6.867572080380601	bridge	#5c8a2f	1.0		
+vitamin E	CDK5R1	coloc	6.081522375581161	bridge	#5c8a2f	1.0		
+vitamin E	PRPH	coloc	5.210035263974776	bridge	#5c8a2f	1.0		
+vitamin E	SEPTIN4	coloc	7.135894071038467	bridge	#5c8a2f	1.0		
+vitamin E	LRRC4	coloc	5.920330036608426	bridge	#5c8a2f	1.0		
+vitamin E	TRIM67	coloc	7.008888833617091	bridge	#5c8a2f	1.0		
+vitamin E	LRP8	coloc	6.252787100152057	bridge	#5c8a2f	1.0		
+vitamin E	IGSF9	coloc	7.161228716376961	bridge	#5c8a2f	1.0		
+vitamin E	VLDLR	coloc	4.769723071720137	bridge	#5c8a2f	1.0		
+vitamin E	HCN2	coloc	5.105314710815811	bridge	#5c8a2f	1.0		
+vitamin E	PODXL2	coloc	6.095134714135415	bridge	#5c8a2f	1.0		
+vitamin E	ABCC2	coloc	6.726154412586007	bridge	#5c8a2f	1.0		
+vitamin E	SLC29A4	coloc	4.866885326738041	bridge	#5c8a2f	1.0		
+vitamin E	HAAO	coloc	3.877296316702288	bridge	#5c8a2f	1.0		
+vitamin E	THRB	coloc	6.673613141290822	bridge	#5c8a2f	1.0		
+vitamin E	VASH1	coloc	8.105680264598602	bridge	#5c8a2f	1.0		
+vitamin E	CPED1	coloc	6.775630652399082	bridge	#5c8a2f	1.0		
+vitamin E	ASIC1	coloc	4.780338258621707	bridge	#5c8a2f	1.0		
+vitamin E	KCNE1	coloc	5.437725720104768	bridge	#5c8a2f	1.0		
+vitamin E	SEMA3A	coloc	4.1724011132849705	bridge	#5c8a2f	1.0		
+vitamin E	MAPK4	coloc	4.192083828957591	bridge	#5c8a2f	1.0		
+vitamin E	CHN1	coloc	3.792215714007076	bridge	#5c8a2f	1.0		
+vitamin E	PAK6	coloc	4.6943525034354465	bridge	#5c8a2f	1.0		
+vitamin E	PRKACA	coloc	5.312436685996944	bridge	#5c8a2f	1.0		
+vitamin E	RAPGEFL1	coloc	5.4303074599994785	bridge	#5c8a2f	1.0		
+vitamin E	UPK1A	coloc	4.8863897426311595	bridge	#5c8a2f	1.0		
+vitamin E	ANOS1	coloc	5.300604794222719	bridge	#5c8a2f	1.0		
+vitamin E	ADD2	coloc	4.408526705627267	bridge	#5c8a2f	1.0		
+vitamin E	MYRIP	coloc	6.487209112336158	bridge	#5c8a2f	1.0		
+vitamin E	RUNDC3B	coloc	10.952270367679823	bridge	#5c8a2f	1.0		
+vitamin E	ITPR1	coloc	4.081425071099486	bridge	#5c8a2f	1.0		
+vitamin E	CPT1A	coloc	4.051380428881188	bridge	#5c8a2f	1.0		
+vitamin E	ORAI2	coloc	10.010442350302986	bridge	#5c8a2f	1.0		
+vitamin E	KCNH7	coloc	5.842091867260167	bridge	#5c8a2f	1.0		
+vitamin E	PCDHGB6	coloc	5.698711146547583	bridge	#5c8a2f	1.0		
+vitamin E	CDK5	coloc	7.144577429278007	bridge	#5c8a2f	1.0		
+vitamin E	ANKRD24	coloc	4.680369331932758	bridge	#5c8a2f	1.0		
+vitamin E	MAP6D1	coloc	5.3096338799974445	bridge	#5c8a2f	1.0		
+vitamin E	CPXM1	coloc	3.4373309430927206	bridge	#5c8a2f	1.0		
+vitamin E	BEAN1	coloc	6.084719465230164	bridge	#5c8a2f	1.0		
+vitamin E	KCND1	coloc	7.154043532919952	bridge	#5c8a2f	1.0		
+vitamin E	RYR3	coloc	4.271945501825858	bridge	#5c8a2f	1.0		
+vitamin E	ETV1	coloc	5.509596281697125	bridge	#5c8a2f	1.0		
+vitamin E	SLCO5A1	coloc	4.235665234469007	bridge	#5c8a2f	1.0		
+vitamin E	TMEM35A	coloc	4.118307019292873	bridge	#5c8a2f	1.0		
+vitamin E	SHISA6	coloc	6.089737884334287	bridge	#5c8a2f	1.0		
+vitamin E	KCNH6	coloc	5.723653934318776	bridge	#5c8a2f	1.0		
+vitamin E	SLC4A3	coloc	4.736803816973866	bridge	#5c8a2f	1.0		
+vitamin E	INKA1	coloc	6.350284712314224	bridge	#5c8a2f	1.0		
+vitamin E	PSEN1	coloc	5.520720013588715	bridge	#5c8a2f	1.0		
+vitamin E	EGR4	coloc	3.364016951158065	bridge	#5c8a2f	1.0		
+vitamin E	UNC5B	coloc	3.628027569455584	bridge	#5c8a2f	1.0		
+vitamin E	PDE4A	coloc	4.268040456463728	bridge	#5c8a2f	1.0		
+vitamin E	EEF1AKMT4	coloc	3.711252542211511	bridge	#5c8a2f	1.0		
+vitamin E	KCNH5	coloc	4.28911732096209	bridge	#5c8a2f	1.0		
+vitamin E	NIM1K	coloc	6.174057221424973	bridge	#5c8a2f	1.0		
+vitamin E	DUOX1	coloc	3.614526058917025	bridge	#5c8a2f	1.0		
+vitamin E	MTURN	coloc	6.2617582417955155	bridge	#5c8a2f	1.0		
+vitamin E	TMEM262	coloc	4.038504233949377	bridge	#5c8a2f	1.0		
+vitamin E	TRIM58	coloc	6.600957399493386	bridge	#5c8a2f	1.0		
+vitamin E	KLHL32	coloc	6.186139999970459	bridge	#5c8a2f	1.0		
+vitamin E	DGKG	coloc	4.663066886678083	bridge	#5c8a2f	1.0		
+vitamin E	NRP2	coloc	4.820221257499721	bridge	#5c8a2f	1.0		
+vitamin E	SLC2A13	coloc	5.802633135793797	bridge	#5c8a2f	1.0		
+vitamin E	KCNG3	coloc	4.150093380887258	bridge	#5c8a2f	1.0		
+vitamin E	CITED1	coloc	3.7649830830035826	bridge	#5c8a2f	1.0		
+vitamin E	HLF	coloc	4.1238800354954	bridge	#5c8a2f	1.0		
+vitamin E	GSTM5	coloc	5.206995226102376	bridge	#5c8a2f	1.0		
+vitamin E	KCNE5	coloc	5.445023985962427	bridge	#5c8a2f	1.0		
+vitamin E	STOML3	coloc	4.406610313562319	bridge	#5c8a2f	1.0		
+vitamin E	MAOB	coloc	5.319002860597629	bridge	#5c8a2f	1.0		
+vitamin E	TBR1	coloc	4.51601211474177	bridge	#5c8a2f	1.0		
+vitamin E	CELF6	coloc	5.76596025227645	bridge	#5c8a2f	1.0		
+vitamin E	ABCD2	coloc	5.8975944862504805	bridge	#5c8a2f	1.0		
+vitamin E	ABCC8	coloc	3.1843987632674318	bridge	#5c8a2f	1.0		
+vitamin E	TSC22D3	coloc	5.356393924753783	bridge	#5c8a2f	1.0		
+vitamin E	GRK4	coloc	3.5112589550118787	bridge	#5c8a2f	1.0		
+vitamin E	SGK2	coloc	4.075488681835743	bridge	#5c8a2f	1.0		
+vitamin E	SOSTDC1	coloc	5.171861882461089	bridge	#5c8a2f	1.0		
+vitamin E	KCNAB1	coloc	3.3278310591485996	bridge	#5c8a2f	1.0		
+vitamin E	LDLR	coloc	3.8675768240346087	bridge	#5c8a2f	1.0		
+vitamin E	SLC30A4	coloc	3.9119771006721265	bridge	#5c8a2f	1.0		
+vitamin E	JHY	coloc	5.798912801236988	bridge	#5c8a2f	1.0		
+vitamin E	SLC12A3	coloc	3.432390705876422	bridge	#5c8a2f	1.0		
+vitamin E	KCNC3	coloc	3.4017913223584837	bridge	#5c8a2f	1.0		
+vitamin E	MCTP2	coloc	5.577267447263506	bridge	#5c8a2f	1.0		
+vitamin E	FZD8	coloc	4.7157532002152935	bridge	#5c8a2f	1.0		
+vitamin E	KCNA5	coloc	4.397685877765551	bridge	#5c8a2f	1.0		
+vitamin E	HRK	coloc	4.398781500865923	bridge	#5c8a2f	1.0		
+vitamin E	KCNAB3	coloc	5.912967678171408	bridge	#5c8a2f	1.0		
+vitamin E	MAPT	coloc	3.2761889627045946	bridge	#5c8a2f	1.0		
+vitamin E	SULT4A1	coloc	3.4630130375739623	bridge	#5c8a2f	1.0		
+vitamin E	MMP17	coloc	3.5317428598171645	bridge	#5c8a2f	1.0		
+vitamin E	KCNMB4	coloc	4.93657767204813	bridge	#5c8a2f	1.0		
+vitamin E	TMEFF2	coloc	5.2515786320670905	bridge	#5c8a2f	1.0		
+vitamin E	GLS2	coloc	3.573138322033396	bridge	#5c8a2f	1.0		
+vitamin E	ASIC3	coloc	8.16174159509339	bridge	#5c8a2f	1.0		
+vitamin E	CAMKK1	coloc	4.917167837000236	bridge	#5c8a2f	1.0		
+vitamin E	DCHS2	coloc	3.2368292784557497	bridge	#5c8a2f	1.0		
+vitamin E	DIP2B	coloc	5.213706894175605	bridge	#5c8a2f	1.0		
+vitamin E	VWC2L	coloc	3.8234773392082535	bridge	#5c8a2f	1.0		
+vitamin E	SLC16A14	coloc	4.884492807477362	bridge	#5c8a2f	1.0		
+vitamin E	TNFSF12-TNFSF13	coloc	4.555049948898174	bridge	#5c8a2f	1.0		
+vitamin E	CAMK1	coloc	3.6297328766777466	bridge	#5c8a2f	1.0		
+vitamin E	ACHE	coloc	3.8437228134419907	bridge	#5c8a2f	1.0		
+vitamin E	PALMD	coloc	3.3071901033498854	bridge	#5c8a2f	1.0		
+vitamin E	S100G	coloc	4.1320110166824495	bridge	#5c8a2f	1.0		
+vitamin E	NCAM1	coloc	3.752960155986557	bridge	#5c8a2f	1.0		
+vitamin E	KCNH4	coloc	5.9692919269338915	bridge	#5c8a2f	1.0		
+vitamin E	NRL	coloc	3.094708168482509	bridge	#5c8a2f	1.0		
+vitamin E	LONRF1	coloc	4.346758431129191	bridge	#5c8a2f	1.0		
+vitamin E	ROM1	coloc	3.8713060677829088	bridge	#5c8a2f	1.0		
+vitamin E	FZD1	coloc	4.355815552877585	bridge	#5c8a2f	1.0		
+vitamin E	NYNRIN	coloc	3.259525778262963	bridge	#5c8a2f	1.0		
+vitamin E	PKIA	coloc	4.269129982311042	bridge	#5c8a2f	1.0		
+vitamin E	DSEL	coloc	3.4407668817993837	bridge	#5c8a2f	1.0		
+vitamin E	GJB1	coloc	4.8252621814851695	bridge	#5c8a2f	1.0		
+vitamin E	PROX1	coloc	3.4657675107574746	bridge	#5c8a2f	1.0		
+vitamin E	CLDN20	coloc	4.937149516963981	bridge	#5c8a2f	1.0		
+vitamin E	CACNB4	coloc	4.414560572034848	bridge	#5c8a2f	1.0		
+vitamin E	CALML3	coloc	3.674609001032878	bridge	#5c8a2f	1.0		
+vitamin E	MLKL	coloc	3.611627543084036	bridge	#5c8a2f	1.0		
+vitamin E	SLC10A6	coloc	3.301964060417073	bridge	#5c8a2f	1.0		
+vitamin E	KCNH3	coloc	5.202137639780224	bridge	#5c8a2f	1.0		
+vitamin E	SLC30A10	coloc	3.860432510051771	bridge	#5c8a2f	1.0		
+vitamin E	DNAJC12	coloc	3.137534117175445	bridge	#5c8a2f	1.0		
+vitamin E	TMEM19	coloc	3.0275231435784424	bridge	#5c8a2f	1.0		
+vitamin E	SPZ1	coloc	4.612670717104917	bridge	#5c8a2f	1.0		
+vitamin E	PPP3R2	coloc	3.9098199169083796	bridge	#5c8a2f	1.0		
+vitamin E	HSD17B6	coloc	3.00014888502229	bridge	#5c8a2f	1.0		
+vitamin E	ADTRP	coloc	4.667309659818711	bridge	#5c8a2f	1.0		
+vitamin E	B3GALT2	coloc	6.360755928450654	bridge	#5c8a2f	1.0		
+vitamin E	TPH1	coloc	3.107386535197882	bridge	#5c8a2f	1.0		
+vitamin E	CACNA2D2	coloc	3.7527578419734686	bridge	#5c8a2f	1.0		
+vitamin E	ADGRA3	coloc	3.3101126524895235	bridge	#5c8a2f	1.0		
+vitamin E	CYP46A1	coloc	4.715926566887445	bridge	#5c8a2f	1.0		
+vitamin E	CMTM5	coloc	5.480103359807651	bridge	#5c8a2f	1.0		
+vitamin E	ETNPPL	coloc	7.307082622643566	bridge	#5c8a2f	1.0		
+vitamin E	SPHKAP	coloc	4.367212984513407	bridge	#5c8a2f	1.0		
+vitamin E	ARL10	coloc	3.753340078731272	bridge	#5c8a2f	1.0		
+vitamin E	ATP10B	coloc	5.782236843014793	bridge	#5c8a2f	1.0		
+vitamin E	SMLR1	coloc	3.2288798425795457	bridge	#5c8a2f	1.0		
+vitamin E	NKAIN4	coloc	3.3126804427113963	bridge	#5c8a2f	1.0		
+vitamin E	SVBP	coloc	6.351797736885087	bridge	#5c8a2f	1.0		
+vitamin E	ABCA4	coloc	3.466065209933723	bridge	#5c8a2f	1.0		
+vitamin E	SLC28A2	coloc	3.704300889606849	bridge	#5c8a2f	1.0		
+vitamin E	SLC22A6	coloc	3.0276743196354023	bridge	#5c8a2f	1.0		
+vitamin E	CDH11	coloc	3.443722694378213	bridge	#5c8a2f	1.0		
+vitamin E	PLA2G5	coloc	4.472995066129497	bridge	#5c8a2f	1.0		
+vitamin E	CARF	coloc	3.708538207531817	bridge	#5c8a2f	1.0		
+vitamin E	ERICH2	coloc	4.990266637257219	bridge	#5c8a2f	1.0		
+vitamin E	C1orf105	coloc	3.0608919241049084	bridge	#5c8a2f	1.0		
+vitamin E	GO:0005886	enriched			#5c8a2f	2.0	1.921335406890241e-15	119.0
+vitamin E	GO:0071944	enriched			#5c8a2f	2.0	1.892525223228215e-14	121.0
+vitamin E	GO:0034702	enriched			#5c8a2f	2.0	1.275642607542859e-13	28.0
+vitamin E	GO:0034703	enriched			#5c8a2f	2.0	2.049609603389623e-12	22.0
+vitamin E	GO:0034705	enriched			#5c8a2f	2.0	3.6412848483522845e-12	16.0
+zinc	MT3	coloc	20.006348424552293	micronutrient seed	#c2185b	1.0		
+zinc	GLRA1	coloc	19.11178224420591	micronutrient seed	#c2185b	1.0		
+zinc	SLC30A4	coloc	13.844147634073025	micronutrient seed	#c2185b	1.0		
+zinc	SLC30A3	coloc	14.824950304104277	micronutrient seed	#c2185b	1.0		
+zinc	GPD1	coloc	15.960659703809982	bridge	#c2185b	1.0		
+zinc	PTPRS	coloc	7.54281516482406	bridge	#c2185b	1.0		
+zinc	NTN3	coloc	7.323843121405258	bridge	#c2185b	1.0		
+zinc	FGF13	coloc	5.8661280939811595	bridge	#c2185b	1.0		
+zinc	SDCBP	coloc	6.888974449962608	bridge	#c2185b	1.0		
+zinc	CACNA1H	coloc	5.794398868887278	bridge	#c2185b	1.0		
+zinc	C3orf33	coloc	15.592273364213435	bridge	#c2185b	1.0		
+zinc	EPHA8	coloc	8.959586652565266	bridge	#c2185b	1.0		
+zinc	CSMD1	coloc	7.925709837835687	bridge	#c2185b	1.0		
+zinc	FAM171A2	coloc	9.200364930229364	bridge	#c2185b	1.0		
+zinc	OPA3	coloc	6.602553988239585	bridge	#c2185b	1.0		
+zinc	ANK1	coloc	8.775685771803843	bridge	#c2185b	1.0		
+zinc	LRFN1	coloc	7.794389458707461	bridge	#c2185b	1.0		
+zinc	FGF14	coloc	5.270333796539514	bridge	#c2185b	1.0		
+zinc	ABHD14A	coloc	6.113518233148179	bridge	#c2185b	1.0		
+zinc	NTN4	coloc	6.965725659649754	bridge	#c2185b	1.0		
+zinc	RXRG	coloc	4.912871419537703	bridge	#c2185b	1.0		
+zinc	SORCS2	coloc	4.973305641456387	bridge	#c2185b	1.0		
+zinc	DRAXIN	coloc	4.557510377011847	bridge	#c2185b	1.0		
+zinc	TTYH2	coloc	4.917601621096306	bridge	#c2185b	1.0		
+zinc	SIRT2	coloc	4.66307180863544	bridge	#c2185b	1.0		
+zinc	KIAA0319	coloc	5.791541207905642	bridge	#c2185b	1.0		
+zinc	SLITRK5	coloc	4.907619545950592	bridge	#c2185b	1.0		
+zinc	UBE2QL1	coloc	5.626965856859923	bridge	#c2185b	1.0		
+zinc	ARRDC4	coloc	10.449915379010767	bridge	#c2185b	1.0		
+zinc	RNF112	coloc	5.649743856723092	bridge	#c2185b	1.0		
+zinc	C19orf18	coloc	4.300665291841284	bridge	#c2185b	1.0		
+zinc	RRAD	coloc	4.649472704687238	bridge	#c2185b	1.0		
+zinc	ANK2	coloc	4.456139227384276	bridge	#c2185b	1.0		
+zinc	SCAMP5	coloc	4.494342157507674	bridge	#c2185b	1.0		
+zinc	SEZ6	coloc	5.572221876360572	bridge	#c2185b	1.0		
+zinc	TTLL11	coloc	7.048428437521678	bridge	#c2185b	1.0		
+zinc	MAPK10	coloc	5.079660425232401	bridge	#c2185b	1.0		
+zinc	CDH19	coloc	7.363116028096471	bridge	#c2185b	1.0		
+zinc	SEPTIN3	coloc	4.221580931442726	bridge	#c2185b	1.0		
+zinc	MMP16	coloc	5.504039829383863	bridge	#c2185b	1.0		
+zinc	RAB3A	coloc	3.866599750887783	bridge	#c2185b	1.0		
+zinc	SEPTIN4	coloc	5.494957966169711	bridge	#c2185b	1.0		
+zinc	NGB	coloc	10.426043690908095	bridge	#c2185b	1.0		
+zinc	VAMP2	coloc	8.601280347005591	bridge	#c2185b	1.0		
+zinc	DAB1	coloc	3.948912353026768	bridge	#c2185b	1.0		
+zinc	FXYD7	coloc	4.458546004768265	bridge	#c2185b	1.0		
+zinc	NRGN	coloc	6.293576926074496	bridge	#c2185b	1.0		
+zinc	SERPINI1	coloc	4.083317409793441	bridge	#c2185b	1.0		
+zinc	VASH1	coloc	4.595051903887299	bridge	#c2185b	1.0		
+zinc	CHRFAM7A	coloc	5.047017702725053	bridge	#c2185b	1.0		
+zinc	PI16	coloc	6.026290846697189	bridge	#c2185b	1.0		
+zinc	ATP1B1	coloc	4.036668252232892	bridge	#c2185b	1.0		
+zinc	PRKACA	coloc	3.831768245524325	bridge	#c2185b	1.0		
+zinc	HTR3B	coloc	4.666094497432992	bridge	#c2185b	1.0		
+zinc	UPK1A	coloc	4.970259993639218	bridge	#c2185b	1.0		
+zinc	SLC26A4	coloc	3.657977725824069	bridge	#c2185b	1.0		
+zinc	CHRNA7	coloc	3.6913980627840957	bridge	#c2185b	1.0		
+zinc	ZNF536	coloc	3.586069597869839	bridge	#c2185b	1.0		
+zinc	CPT1A	coloc	6.451044703185898	bridge	#c2185b	1.0		
+zinc	ORAI2	coloc	4.6604563483391575	bridge	#c2185b	1.0		
+zinc	SGIP1	coloc	4.01212680160944	bridge	#c2185b	1.0		
+zinc	CALY	coloc	3.822541187727262	bridge	#c2185b	1.0		
+zinc	ANKRD24	coloc	6.317344621687832	bridge	#c2185b	1.0		
+zinc	SLC1A6	coloc	4.520351013904445	bridge	#c2185b	1.0		
+zinc	SLC7A14	coloc	7.43640548678402	bridge	#c2185b	1.0		
+zinc	KCNK2	coloc	3.579053117198875	bridge	#c2185b	1.0		
+zinc	FAR2	coloc	5.626586547335193	bridge	#c2185b	1.0		
+zinc	PLP1	coloc	5.1335070738152035	bridge	#c2185b	1.0		
+zinc	ARL15	coloc	5.227881902905641	bridge	#c2185b	1.0		
+zinc	SHISA6	coloc	4.039562176070452	bridge	#c2185b	1.0		
+zinc	SLC6A13	coloc	3.611645100832419	bridge	#c2185b	1.0		
+zinc	PLPPR1	coloc	3.65156089623402	bridge	#c2185b	1.0		
+zinc	KCTD16	coloc	5.602476688622439	bridge	#c2185b	1.0		
+zinc	INKA1	coloc	4.068316487143175	bridge	#c2185b	1.0		
+zinc	AMPH	coloc	4.073989175016764	bridge	#c2185b	1.0		
+zinc	SLC6A11	coloc	3.6292748102647763	bridge	#c2185b	1.0		
+zinc	NIM1K	coloc	3.94155033760547	bridge	#c2185b	1.0		
+zinc	FXYD6	coloc	5.448362479535655	bridge	#c2185b	1.0		
+zinc	MTURN	coloc	3.8721260299072795	bridge	#c2185b	1.0		
+zinc	TMEM262	coloc	3.241290327289271	bridge	#c2185b	1.0		
+zinc	BSCL2	coloc	5.281458987017077	bridge	#c2185b	1.0		
+zinc	C16orf74	coloc	7.884125998360804	bridge	#c2185b	1.0		
+zinc	ATRNL1	coloc	4.1635840630253975	bridge	#c2185b	1.0		
+zinc	ELOVL4	coloc	3.4075491647686538	bridge	#c2185b	1.0		
+zinc	MAGEC3	coloc	3.3224372256532333	bridge	#c2185b	1.0		
+zinc	DOC2A	coloc	3.9031017838836957	bridge	#c2185b	1.0		
+zinc	SLC6A17	coloc	4.865115512855196	bridge	#c2185b	1.0		
+zinc	NRP2	coloc	4.224073441925894	bridge	#c2185b	1.0		
+zinc	SLC2A13	coloc	4.179426689062607	bridge	#c2185b	1.0		
+zinc	SH3GL2	coloc	3.3247981041842176	bridge	#c2185b	1.0		
+zinc	TRPV3	coloc	5.080126126120933	bridge	#c2185b	1.0		
+zinc	GSTM5	coloc	4.639285839837	bridge	#c2185b	1.0		
+zinc	FKRP	coloc	5.66757930656921	bridge	#c2185b	1.0		
+zinc	RGS9	coloc	4.247431280725238	bridge	#c2185b	1.0		
+zinc	SMIM1	coloc	5.608779529839887	bridge	#c2185b	1.0		
+zinc	CELF6	coloc	6.006924544470885	bridge	#c2185b	1.0		
+zinc	RCVRN	coloc	4.5867756233006745	bridge	#c2185b	1.0		
+zinc	SLC1A4	coloc	4.040074654175987	bridge	#c2185b	1.0		
+zinc	ABCC8	coloc	4.259566168418881	bridge	#c2185b	1.0		
+zinc	TSC22D3	coloc	5.049455869641496	bridge	#c2185b	1.0		
+zinc	SOSTDC1	coloc	3.3978431705348227	bridge	#c2185b	1.0		
+zinc	OTOF	coloc	5.609195517041521	bridge	#c2185b	1.0		
+zinc	SLC1A1	coloc	4.275740452745796	bridge	#c2185b	1.0		
+zinc	ATP1B2	coloc	3.033792654560203	bridge	#c2185b	1.0		
+zinc	SYNGR3	coloc	4.301158101974218	bridge	#c2185b	1.0		
+zinc	LDLR	coloc	3.8341857129470243	bridge	#c2185b	1.0		
+zinc	JHY	coloc	3.7231621025889416	bridge	#c2185b	1.0		
+zinc	DLGAP3	coloc	4.348342006108916	bridge	#c2185b	1.0		
+zinc	MCTP2	coloc	4.30278694043819	bridge	#c2185b	1.0		
+zinc	VAMP1	coloc	6.940130777076138	bridge	#c2185b	1.0		
+zinc	HRK	coloc	6.223478213854535	bridge	#c2185b	1.0		
+zinc	EVA1C	coloc	4.965141746159809	bridge	#c2185b	1.0		
+zinc	NTNG1	coloc	3.822325236078183	bridge	#c2185b	1.0		
+zinc	PDE6A	coloc	3.2342559098671324	bridge	#c2185b	1.0		
+zinc	TPPP	coloc	3.637742761746201	bridge	#c2185b	1.0		
+zinc	TMEFF2	coloc	3.1489396987821587	bridge	#c2185b	1.0		
+zinc	GLS2	coloc	3.8298958500654163	bridge	#c2185b	1.0		
+zinc	MORN1	coloc	4.083945134133914	bridge	#c2185b	1.0		
+zinc	NRL	coloc	4.33142464966175	bridge	#c2185b	1.0		
+zinc	HTR1B	coloc	3.4044612284458067	bridge	#c2185b	1.0		
+zinc	FZD1	coloc	3.112140621104011	bridge	#c2185b	1.0		
+zinc	FHIT	coloc	5.771596664044064	bridge	#c2185b	1.0		
+zinc	PKIA	coloc	3.7264431730710714	bridge	#c2185b	1.0		
+zinc	SCRG1	coloc	3.017229688508377	bridge	#c2185b	1.0		
+zinc	TYRP1	coloc	4.5956665699619625	bridge	#c2185b	1.0		
+zinc	SLC36A2	coloc	4.76735262971682	bridge	#c2185b	1.0		
+zinc	MANBAL	coloc	6.132257671409094	bridge	#c2185b	1.0		
+zinc	SLC1A2	coloc	3.4121786363917734	bridge	#c2185b	1.0		
+zinc	PI15	coloc	4.43596127347413	bridge	#c2185b	1.0		
+zinc	IL1RAPL2	coloc	3.169081328109268	bridge	#c2185b	1.0		
+zinc	CLDN20	coloc	3.525529821573155	bridge	#c2185b	1.0		
+zinc	RLBP1	coloc	4.120698415112013	bridge	#c2185b	1.0		
+zinc	GP1BB	coloc	4.377600457596554	bridge	#c2185b	1.0		
+zinc	HTR1D	coloc	3.7760908258426147	bridge	#c2185b	1.0		
+zinc	ST7L	coloc	5.1159425618043475	bridge	#c2185b	1.0		
+zinc	SLC10A6	coloc	3.972618648523029	bridge	#c2185b	1.0		
+zinc	CRYBA1	coloc	7.419540767316624	bridge	#c2185b	1.0		
+zinc	SLC30A10	coloc	7.539809137620101	bridge	#c2185b	1.0		
+zinc	KCNA3	coloc	3.301174431871549	bridge	#c2185b	1.0		
+zinc	DNAJC12	coloc	3.050788377955462	bridge	#c2185b	1.0		
+zinc	RGS17	coloc	3.545515707316875	bridge	#c2185b	1.0		
+zinc	PDE6G	coloc	3.22546759860782	bridge	#c2185b	1.0		
+zinc	CLTRN	coloc	5.076021425820372	bridge	#c2185b	1.0		
+zinc	NRIP2	coloc	5.511164694747276	bridge	#c2185b	1.0		
+zinc	RAPGEF3	coloc	3.0871141833374383	bridge	#c2185b	1.0		
+zinc	SLC16A2	coloc	5.313605622468784	bridge	#c2185b	1.0		
+zinc	MOG	coloc	4.333435731127876	bridge	#c2185b	1.0		
+zinc	CTAGE8	coloc	4.614527538082582	bridge	#c2185b	1.0		
+zinc	MIA2	coloc	4.614526751399128	bridge	#c2185b	1.0		
+zinc	ETNPPL	coloc	3.9616444079138335	bridge	#c2185b	1.0		
+zinc	ARL10	coloc	5.462935075754662	bridge	#c2185b	1.0		
+zinc	NTF4	coloc	3.4717007191555695	bridge	#c2185b	1.0		
+zinc	GFAP	coloc	3.139740090457905	bridge	#c2185b	1.0		
+zinc	LDLRAP1	coloc	3.219128517401563	bridge	#c2185b	1.0		
+zinc	CDH11	coloc	3.0087075115246686	bridge	#c2185b	1.0		
+zinc	CRYBB1	coloc	4.361988132545748	bridge	#c2185b	1.0		
+zinc	SLC38A3	coloc	3.6819011947297287	bridge	#c2185b	1.0		
+zinc	SLC16A8	coloc	3.2754503304247846	bridge	#c2185b	1.0		
+zinc	C19orf25	coloc	6.139900028444105	bridge	#c2185b	1.0		
+zinc	MAG	coloc	3.148361542973171	bridge	#c2185b	1.0		
+zinc	ERICH2	coloc	5.202713128031054	bridge	#c2185b	1.0		
+zinc	UCN	coloc	4.860002175713155	bridge	#c2185b	1.0		
+zinc	TMPPE	coloc	4.047973934809124	bridge	#c2185b	1.0		
+zinc	GO:0045202	enriched			#c2185b	2.0	5.058207237339349e-16	56.0
+zinc	GO:0030054	enriched			#c2185b	2.0	3.464140297570353e-13	63.0
+zinc	GO:0098793	enriched			#c2185b	2.0	3.6207626696910874e-13	32.0
+zinc	GO:0043005	enriched			#c2185b	2.0	2.2161117921546097e-11	43.0
+zinc	GO:0005886	enriched			#c2185b	2.0	3.4118195003371814e-11	92.0

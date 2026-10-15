@@ -1,0 +1,239 @@
+Representing term id	Representing term name	Representing term rank	folic acid term id	folic acid term name	folic acid term rank	iron term id	iron term name	iron term rank	keto diet term id	keto diet term name	keto diet term rank	vitamin A term id	vitamin A term name	vitamin A term rank	vitamin B12 term id	vitamin B12 term name	vitamin B12 term rank	vitamin B6 term id	vitamin B6 term name	vitamin B6 term rank	vitamin C term id	vitamin C term name	vitamin C term rank	vitamin D term id	vitamin D term name	vitamin D term rank	vitamin E term id	vitamin E term name	vitamin E term rank	zinc term id	zinc term name	zinc term rank
+GO:0005886	plasma membrane	1
+			GO:0005886	plasma membrane	1	GO:0005886	plasma membrane	12	GO:0005886	plasma membrane	10	GO:0005886	plasma membrane	17	GO:0005886	plasma membrane	2	GO:0005886	plasma membrane	13	GO:0005886	plasma membrane	1	GO:0005886	plasma membrane	1	GO:0005886	plasma membrane	1	GO:0005886	plasma membrane	5
+GO:0008021	synaptic vesicle	1
+						GO:0008021	synaptic vesicle	1	GO:0008021	synaptic vesicle	37				GO:0008021	synaptic vesicle	14	GO:0008021	synaptic vesicle	27	GO:0008021	synaptic vesicle	13	GO:0008021	synaptic vesicle	21				GO:0008021	synaptic vesicle	10
+						GO:0030672	synaptic vesicle membrane	4	GO:0030672	synaptic vesicle membrane	33				GO:0030672	synaptic vesicle membrane	16	GO:0030672	synaptic vesicle membrane	32				GO:0030672	synaptic vesicle membrane	29				GO:0030672	synaptic vesicle membrane	13
+						GO:0099501	exocytic vesicle membrane	5	GO:0099501	exocytic vesicle membrane	34				GO:0099501	exocytic vesicle membrane	17	GO:0099501	exocytic vesicle membrane	33				GO:0099501	exocytic vesicle membrane	30				GO:0099501	exocytic vesicle membrane	14
+GO:0045202	synapse	1
+			GO:0045202	synapse	5	GO:0045202	synapse	3	GO:0045202	synapse	1	GO:0045202	synapse	5	GO:0045202	synapse	7	GO:0045202	synapse	1	GO:0045202	synapse	8	GO:0045202	synapse	4	GO:0045202	synapse	13	GO:0045202	synapse	1
+			GO:0098793	presynapse	15	GO:0098793	presynapse	7	GO:0098793	presynapse	12	GO:0098793	presynapse	18	GO:0098793	presynapse	9	GO:0098793	presynapse	5	GO:0098793	presynapse	10	GO:0098793	presynapse	9				GO:0098793	presynapse	3
+			GO:0097060	synaptic membrane	20	GO:0097060	synaptic membrane	34	GO:0097060	synaptic membrane	14	GO:0097060	synaptic membrane	36	GO:0097060	synaptic membrane	21	GO:0097060	synaptic membrane	4							GO:0097060	synaptic membrane	22	GO:0097060	synaptic membrane	8
+			GO:0044309	neuron spine	41	GO:0044309	neuron spine	35	GO:0044309	neuron spine	59	GO:0044309	neuron spine	9				GO:0044309	neuron spine	59							GO:0044309	neuron spine	37			
+			GO:0098794	postsynapse	40	GO:0098794	postsynapse	18	GO:0098794	postsynapse	18	GO:0098794	postsynapse	11	GO:0098794	postsynapse	38	GO:0098794	postsynapse	9				GO:0098794	postsynapse	22	GO:0098794	postsynapse	15	GO:0098794	postsynapse	16
+						GO:0043197	dendritic spine	42	GO:0043197	dendritic spine	58	GO:0043197	dendritic spine	10				GO:0043197	dendritic spine	57							GO:0043197	dendritic spine	36			
+			GO:0045211	postsynaptic membrane	17	GO:0045211	postsynaptic membrane	49	GO:0045211	postsynaptic membrane	24	GO:0045211	postsynaptic membrane	30	GO:0045211	postsynaptic membrane	34	GO:0045211	postsynaptic membrane	10							GO:0045211	postsynaptic membrane	28	GO:0045211	postsynaptic membrane	17
+						GO:0098984	neuron to neuron synapse	64	GO:0098984	neuron to neuron synapse	36	GO:0098984	neuron to neuron synapse	21				GO:0098984	neuron to neuron synapse	18							GO:0098984	neuron to neuron synapse	24	GO:0098984	neuron to neuron synapse	48
+			GO:0098978	glutamatergic synapse	19	GO:0098978	glutamatergic synapse	39	GO:0098978	glutamatergic synapse	32	GO:0098978	glutamatergic synapse	25				GO:0098978	glutamatergic synapse	19				GO:0098978	glutamatergic synapse	18				GO:0098978	glutamatergic synapse	23
+						GO:0014069	postsynaptic density	71	GO:0014069	postsynaptic density	47	GO:0014069	postsynaptic density	28				GO:0014069	postsynaptic density	43							GO:0014069	postsynaptic density	18	GO:0014069	postsynaptic density	70
+						GO:0032279	asymmetric synapse	75	GO:0032279	asymmetric synapse	44	GO:0032279	asymmetric synapse	23				GO:0032279	asymmetric synapse	30							GO:0032279	asymmetric synapse	19	GO:0032279	asymmetric synapse	56
+						GO:0043679	axon terminus	32	GO:0043679	axon terminus	28	GO:0043679	axon terminus	31				GO:0043679	axon terminus	21				GO:0043679	axon terminus	20						
+									GO:0099572	postsynaptic specialization	41	GO:0099572	postsynaptic specialization	33				GO:0099572	postsynaptic specialization	26							GO:0099572	postsynaptic specialization	21	GO:0099572	postsynaptic specialization	83
+			GO:0042734	presynaptic membrane	42				GO:0042734	presynaptic membrane	31	GO:0042734	presynaptic membrane	41	GO:0042734	presynaptic membrane	28	GO:0042734	presynaptic membrane	40										GO:0042734	presynaptic membrane	21
+						GO:0043195	terminal bouton	62	GO:0043195	terminal bouton	50							GO:0043195	terminal bouton	23				GO:0043195	terminal bouton	27						
+									GO:0043083	synaptic cleft	57							GO:0043083	synaptic cleft	24												
+			GO:0060077	inhibitory synapse	38				GO:0060077	inhibitory synapse	56							GO:0060077	inhibitory synapse	25												
+			GO:0098839	postsynaptic density membrane	27	GO:0098839	postsynaptic density membrane	59	GO:0098839	postsynaptic density membrane	48							GO:0098839	postsynaptic density membrane	56							GO:0098839	postsynaptic density membrane	25	GO:0098839	postsynaptic density membrane	42
+			GO:0031594	neuromuscular junction	31	GO:0031594	neuromuscular junction	33										GO:0031594	neuromuscular junction	29							GO:0031594	neuromuscular junction	43			
+			GO:0099634	postsynaptic specialization membrane	36	GO:0099634	postsynaptic specialization membrane	69	GO:0099634	postsynaptic specialization membrane	43							GO:0099634	postsynaptic specialization membrane	44							GO:0099634	postsynaptic specialization membrane	29	GO:0099634	postsynaptic specialization membrane	50
+									GO:0098982	GABA-ergic synapse	40	GO:0098982	GABA-ergic synapse	38				GO:0098982	GABA-ergic synapse	31												
+						GO:0098691	dopaminergic synapse	67	GO:0098691	dopaminergic synapse	102	GO:0098691	dopaminergic synapse	32	GO:0098691	dopaminergic synapse	55															
+									GO:0060076	excitatory synapse	45							GO:0060076	excitatory synapse	34												
+									GO:0098686	hippocampal mossy fiber to CA3 synapse	72							GO:0098686	hippocampal mossy fiber to CA3 synapse	35												
+									GO:0098685	Schaffer collateral - CA1 synapse	80	GO:0098685	Schaffer collateral - CA1 synapse	37				GO:0098685	Schaffer collateral - CA1 synapse	36							GO:0098685	Schaffer collateral - CA1 synapse	39	GO:0098685	Schaffer collateral - CA1 synapse	57
+												GO:0098985	asymmetric, glutamatergic, excitatory synapse	47				GO:0098985	asymmetric, glutamatergic, excitatory synapse	41												
+									GO:0048786	presynaptic active zone	46																					
+																		GO:0099571	postsynaptic cytoskeleton	48												
+																		GO:0098981	cholinergic synapse	49												
+									GO:0044305	calyx of Held	61																					
+																		GO:0072534	perineuronal net	61												
+																		GO:0098966	perisynaptic extracellular matrix	65												
+																		GO:0099535	synapse-associated extracellular matrix	69												
+									GO:0098688	parallel fiber to Purkinje cell synapse	77																					
+																														GO:0005892	acetylcholine-gated channel complex	79
+									GO:0048787	presynaptic active zone membrane	103																					
+GO:0030424	axon	1
+			GO:0030424	axon	29	GO:0030424	axon	20	GO:0030424	axon	17	GO:0030424	axon	1				GO:0030424	axon	12				GO:0030424	axon	10	GO:0030424	axon	23	GO:0030424	axon	28
+						GO:0150034	distal axon	41	GO:0150034	distal axon	27	GO:0150034	distal axon	4				GO:0150034	distal axon	20				GO:0150034	distal axon	14				GO:0150034	distal axon	68
+									GO:0030426	growth cone	84	GO:0030426	growth cone	14				GO:0030426	growth cone	71							GO:0030426	growth cone	44			
+						GO:0044304	main axon	55	GO:0044304	main axon	60	GO:0044304	main axon	22																GO:0044304	main axon	35
+									GO:0043194	axon initial segment	55																					
+									GO:0033270	paranode region of axon	113																			GO:0033270	paranode region of axon	61
+																														GO:0030673	axolemma	75
+									GO:0044224	juxtaparanode region of axon	94																					
+									GO:0033268	node of Ranvier	108																					
+									GO:1904115	axon cytoplasm	109																					
+GO:0016020	membrane	1
+			GO:0016020	membrane	6	GO:0016020	membrane	13	GO:0016020	membrane	20	GO:0016020	membrane	26	GO:0016020	membrane	1	GO:0016020	membrane	37	GO:0016020	membrane	5	GO:0016020	membrane	6	GO:0016020	membrane	10	GO:0016020	membrane	15
+GO:0071944	cell periphery	2
+			GO:0071944	cell periphery	2	GO:0071944	cell periphery	15	GO:0071944	cell periphery	11	GO:0071944	cell periphery	20	GO:0071944	cell periphery	3	GO:0071944	cell periphery	14	GO:0071944	cell periphery	3	GO:0071944	cell periphery	3	GO:0071944	cell periphery	2	GO:0071944	cell periphery	7
+GO:0070382	exocytic vesicle	2
+						GO:0070382	exocytic vesicle	2	GO:0070382	exocytic vesicle	38				GO:0070382	exocytic vesicle	19	GO:0070382	exocytic vesicle	28	GO:0070382	exocytic vesicle	15	GO:0070382	exocytic vesicle	24				GO:0070382	exocytic vesicle	11
+GO:0034702	monoatomic ion channel complex	2
+			GO:0034702	monoatomic ion channel complex	21				GO:0034702	monoatomic ion channel complex	2				GO:0034702	monoatomic ion channel complex	12	GO:0034702	monoatomic ion channel complex	50							GO:0034702	monoatomic ion channel complex	3	GO:0034702	monoatomic ion channel complex	31
+									GO:0034703	cation channel complex	8				GO:0034703	cation channel complex	23										GO:0034703	cation channel complex	4	GO:0034703	cation channel complex	45
+									GO:0034705	potassium channel complex	7				GO:0034705	potassium channel complex	24										GO:0034705	potassium channel complex	5			
+									GO:0008076	voltage-gated potassium channel complex	9				GO:0008076	voltage-gated potassium channel complex	30										GO:0008076	voltage-gated potassium channel complex	6			
+									GO:0034704	calcium channel complex	111																GO:0034704	calcium channel complex	26			
+																											GO:0005891	voltage-gated calcium channel complex	41			
+									GO:0034707	chloride channel complex	52																					
+									GO:0001518	voltage-gated sodium channel complex	75							GO:0001518	voltage-gated sodium channel complex	67												
+									GO:1902711	GABA-A receptor complex	71																					
+									GO:0034706	sodium channel complex	76																					
+									GO:0098878	neurotransmitter receptor complex	87																			GO:0098878	neurotransmitter receptor complex	91
+									GO:0008328	ionotropic glutamate receptor complex	91																					
+									GO:1990454	L-type voltage-gated calcium channel complex	93																					
+GO:0036477	somatodendritic compartment	2
+			GO:0036477	somatodendritic compartment	33	GO:0036477	somatodendritic compartment	21	GO:0036477	somatodendritic compartment	13	GO:0036477	somatodendritic compartment	2	GO:0036477	somatodendritic compartment	60	GO:0036477	somatodendritic compartment	7				GO:0036477	somatodendritic compartment	16	GO:0036477	somatodendritic compartment	32	GO:0036477	somatodendritic compartment	29
+						GO:0043025	neuronal cell body	53	GO:0043025	neuronal cell body	26	GO:0043025	neuronal cell body	6				GO:0043025	neuronal cell body	38										GO:0043025	neuronal cell body	51
+						GO:0030425	dendrite	29	GO:0030425	dendrite	15	GO:0030425	dendrite	12				GO:0030425	dendrite	16							GO:0030425	dendrite	30	GO:0030425	dendrite	37
+						GO:0097447	dendritic tree	30	GO:0097447	dendritic tree	16	GO:0097447	dendritic tree	13				GO:0097447	dendritic tree	17							GO:0097447	dendritic tree	31	GO:0097447	dendritic tree	38
+						GO:0043204	perikaryon	52	GO:0043204	perikaryon	35	GO:0043204	perikaryon	16				GO:0043204	perikaryon	47							GO:0043204	perikaryon	33	GO:0043204	perikaryon	24
+									GO:0043198	dendritic shaft	69	GO:0043198	dendritic shaft	43										GO:0043198	dendritic shaft	28						
+									GO:0032809	neuronal cell body membrane	62																					
+									GO:0032590	dendrite membrane	63																					
+									GO:0044292	dendrite terminus	92							GO:0044292	dendrite terminus	66												
+									GO:0097440	apical dendrite	82																			GO:0097440	apical dendrite	89
+GO:0030054	cell junction	2
+			GO:0030054	cell junction	4	GO:0030054	cell junction	8	GO:0030054	cell junction	3	GO:0030054	cell junction	8	GO:0030054	cell junction	5	GO:0030054	cell junction	2	GO:0030054	cell junction	7	GO:0030054	cell junction	2	GO:0030054	cell junction	16	GO:0030054	cell junction	2
+GO:0016324	apical plasma membrane	2
+			GO:0016324	apical plasma membrane	18	GO:0016324	apical plasma membrane	31							GO:0016324	apical plasma membrane	11	GO:0016324	apical plasma membrane	70	GO:0016324	apical plasma membrane	2				GO:0016324	apical plasma membrane	27	GO:0016324	apical plasma membrane	44
+						GO:0031526	brush border membrane	46													GO:0031526	brush border membrane	9									
+GO:0098590	plasma membrane region	3
+			GO:0098590	plasma membrane region	3	GO:0098590	plasma membrane region	19	GO:0098590	plasma membrane region	25	GO:0098590	plasma membrane region	34	GO:0098590	plasma membrane region	4	GO:0098590	plasma membrane region	6	GO:0098590	plasma membrane region	6	GO:0098590	plasma membrane region	13	GO:0098590	plasma membrane region	11	GO:0098590	plasma membrane region	9
+			GO:0016323	basolateral plasma membrane	10										GO:0016323	basolateral plasma membrane	39				GO:0016323	basolateral plasma membrane	17							GO:0016323	basolateral plasma membrane	60
+			GO:0009925	basal plasma membrane	12										GO:0009925	basal plasma membrane	29													GO:0009925	basal plasma membrane	55
+																											GO:0044853	plasma membrane raft	42			
+									GO:0005901	caveola	106				GO:0005901	caveola	50															
+						GO:0031253	cell projection membrane	70	GO:0031253	cell projection membrane	100							GO:0031253	cell projection membrane	60												
+									GO:0032589	neuron projection membrane	67																					
+									GO:1902710	GABA receptor complex	73																					
+																														GO:0042622	photoreceptor outer segment membrane	80
+GO:0043005	neuron projection	3
+			GO:0043005	neuron projection	30	GO:0043005	neuron projection	14	GO:0043005	neuron projection	6	GO:0043005	neuron projection	3	GO:0043005	neuron projection	51	GO:0043005	neuron projection	3				GO:0043005	neuron projection	23	GO:0043005	neuron projection	14	GO:0043005	neuron projection	4
+						GO:0044306	neuron projection terminus	26	GO:0044306	neuron projection terminus	30	GO:0044306	neuron projection terminus	27				GO:0044306	neuron projection terminus	15				GO:0044306	neuron projection terminus	25				GO:0044306	neuron projection terminus	43
+																														GO:0097381	photoreceptor disc membrane	90
+									GO:0120111	neuron projection cytoplasm	96																					
+GO:1902495	transmembrane transporter complex	4
+			GO:1902495	transmembrane transporter complex	26				GO:1902495	transmembrane transporter complex	4				GO:1902495	transmembrane transporter complex	13	GO:1902495	transmembrane transporter complex	52							GO:1902495	transmembrane transporter complex	8	GO:1902495	transmembrane transporter complex	33
+						GO:0090533	cation-transporting ATPase complex	44	GO:0090533	cation-transporting ATPase complex	95				GO:0090533	cation-transporting ATPase complex	53													GO:0090533	cation-transporting ATPase complex	78
+						GO:0098533	ATPase dependent transmembrane transport complex	45	GO:0098533	ATPase dependent transmembrane transport complex	101				GO:0098533	ATPase dependent transmembrane transport complex	57													GO:0098533	ATPase dependent transmembrane transport complex	88
+						GO:0005890	sodium:potassium-exchanging ATPase complex	58							GO:0005890	sodium:potassium-exchanging ATPase complex	45													GO:0005890	sodium:potassium-exchanging ATPase complex	65
+GO:0045177	apical part of cell	4
+			GO:0045177	apical part of cell	9	GO:0045177	apical part of cell	37							GO:0045177	apical part of cell	8				GO:0045177	apical part of cell	4				GO:0045177	apical part of cell	20	GO:0045177	apical part of cell	41
+						GO:0005903	brush border	72													GO:0005903	brush border	16									
+GO:1990351	transporter complex	5
+			GO:1990351	transporter complex	32	GO:1990351	transporter complex	54	GO:1990351	transporter complex	5				GO:1990351	transporter complex	10	GO:1990351	transporter complex	54							GO:1990351	transporter complex	7	GO:1990351	transporter complex	36
+						GO:1990531	phospholipid-translocating ATPase complex	38																								
+GO:0005911	cell-cell junction	5
+			GO:0005911	cell-cell junction	24										GO:0005911	cell-cell junction	37							GO:0005911	cell-cell junction	5						
+			GO:0005912	adherens junction	34																			GO:0005912	adherens junction	11						
+									GO:0014704	intercalated disc	85	GO:0014704	intercalated disc	48																GO:0014704	intercalated disc	87
+									GO:0044291	cell-cell contact zone	78																					
+GO:0030133	transport vesicle	6
+						GO:0030133	transport vesicle	6	GO:0030133	transport vesicle	42				GO:0030133	transport vesicle	31	GO:0030133	transport vesicle	46										GO:0030133	transport vesicle	22
+						GO:0030658	transport vesicle membrane	9	GO:0030658	transport vesicle membrane	39				GO:0030658	transport vesicle membrane	25	GO:0030658	transport vesicle membrane	39										GO:0030658	transport vesicle membrane	20
+GO:0098797	plasma membrane protein complex	6
+			GO:0098797	plasma membrane protein complex	7	GO:0098797	plasma membrane protein complex	56	GO:0098797	plasma membrane protein complex	22	GO:0098797	plasma membrane protein complex	40	GO:0098797	plasma membrane protein complex	6	GO:0098797	plasma membrane protein complex	45	GO:0098797	plasma membrane protein complex	12	GO:0098797	plasma membrane protein complex	15	GO:0098797	plasma membrane protein complex	9	GO:0098797	plasma membrane protein complex	32
+			GO:0016342	catenin complex	11							GO:0016342	catenin complex	29							GO:0016342	catenin complex	18	GO:0016342	catenin complex	8						
+			GO:0016010	dystrophin-associated glycoprotein complex	39																											
+															GO:0030128	clathrin coat of endocytic vesicle	46															
+															GO:0030122	AP-2 adaptor complex	47															
+						GO:0097648	G protein-coupled receptor complex	61																								
+																														GO:0098802	plasma membrane signaling receptor complex	77
+GO:0042995	cell projection	6
+						GO:0042995	cell projection	22	GO:0042995	cell projection	21	GO:0042995	cell projection	24				GO:0042995	cell projection	8							GO:0042995	cell projection	38	GO:0042995	cell projection	6
+GO:0044297	cell body	7
+						GO:0044297	cell body	36	GO:0044297	cell body	29	GO:0044297	cell body	7				GO:0044297	cell body	42										GO:0044297	cell body	26
+									GO:0044298	cell body membrane	65																					
+GO:0002116	semaphorin receptor complex	7
+			GO:0002116	semaphorin receptor complex	37																			GO:0002116	semaphorin receptor complex	7						
+GO:0009986	cell surface	8
+			GO:0009986	cell surface	8				GO:0009986	cell surface	104	GO:0009986	cell surface	39	GO:0009986	cell surface	20	GO:0009986	cell surface	51	GO:0009986	cell surface	14				GO:0009986	cell surface	17	GO:0009986	cell surface	82
+GO:0012506	vesicle membrane	10
+						GO:0012506	vesicle membrane	10	GO:0012506	vesicle membrane	70				GO:0012506	vesicle membrane	40	GO:0012506	vesicle membrane	58										GO:0012506	vesicle membrane	40
+						GO:0030659	cytoplasmic vesicle membrane	11	GO:0030659	cytoplasmic vesicle membrane	68				GO:0030659	cytoplasmic vesicle membrane	36	GO:0030659	cytoplasmic vesicle membrane	55										GO:0030659	cytoplasmic vesicle membrane	39
+						GO:0030669	clathrin-coated endocytic vesicle membrane	57							GO:0030669	clathrin-coated endocytic vesicle membrane	18													GO:0030669	clathrin-coated endocytic vesicle membrane	27
+						GO:0060198	clathrin-sculpted vesicle	63	GO:0060198	clathrin-sculpted vesicle	66							GO:0060198	clathrin-sculpted vesicle	22										GO:0060198	clathrin-sculpted vesicle	71
+						GO:0030665	clathrin-coated vesicle membrane	47	GO:0030665	clathrin-coated vesicle membrane	74				GO:0030665	clathrin-coated vesicle membrane	32	GO:0030665	clathrin-coated vesicle membrane	53										GO:0030665	clathrin-coated vesicle membrane	34
+															GO:0030666	endocytic vesicle membrane	42													GO:0030666	endocytic vesicle membrane	62
+						GO:0010008	endosome membrane	48																								
+						GO:0031901	early endosome membrane	51										GO:0031901	early endosome membrane	62												
+						GO:0030662	coated vesicle membrane	66	GO:0030662	coated vesicle membrane	97				GO:0030662	coated vesicle membrane	54	GO:0030662	coated vesicle membrane	64										GO:0030662	coated vesicle membrane	52
+																														GO:0055038	recycling endosome membrane	63
+GO:0120025	plasma membrane bounded cell projection	11
+						GO:0120025	plasma membrane bounded cell projection	27	GO:0120025	plasma membrane bounded cell projection	23	GO:0120025	plasma membrane bounded cell projection	19				GO:0120025	plasma membrane bounded cell projection	11							GO:0120025	plasma membrane bounded cell projection	40	GO:0120025	plasma membrane bounded cell projection	12
+GO:0098862	cluster of actin-based cell projections	11
+																					GO:0098862	cluster of actin-based cell projections	11									
+GO:0070161	anchoring junction	12
+			GO:0070161	anchoring junction	28										GO:0070161	anchoring junction	56							GO:0070161	anchoring junction	12						
+GO:0098796	membrane protein complex	12
+			GO:0098796	membrane protein complex	16				GO:0098796	membrane protein complex	19				GO:0098796	membrane protein complex	15										GO:0098796	membrane protein complex	12	GO:0098796	membrane protein complex	49
+GO:0045178	basal part of cell	13
+			GO:0045178	basal part of cell	13										GO:0045178	basal part of cell	33													GO:0045178	basal part of cell	58
+GO:0043235	receptor complex	14
+			GO:0043235	receptor complex	14				GO:0043235	receptor complex	64	GO:0043235	receptor complex	44										GO:0043235	receptor complex	17				GO:0043235	receptor complex	47
+GO:0030427	site of polarized growth	15
+									GO:0030427	site of polarized growth	86	GO:0030427	site of polarized growth	15													GO:0030427	site of polarized growth	45			
+GO:0031410	cytoplasmic vesicle	16
+						GO:0031410	cytoplasmic vesicle	16	GO:0031410	cytoplasmic vesicle	88				GO:0031410	cytoplasmic vesicle	48													GO:0031410	cytoplasmic vesicle	66
+GO:0097708	intracellular vesicle	17
+						GO:0097708	intracellular vesicle	17	GO:0097708	intracellular vesicle	89				GO:0097708	intracellular vesicle	49													GO:0097708	intracellular vesicle	67
+GO:0097386	glial cell projection	18
+									GO:0097386	glial cell projection	114	GO:0097386	glial cell projection	35																GO:0097386	glial cell projection	18
+																														GO:0097449	astrocyte projection	19
+						GO:0097450	astrocyte end-foot	60				GO:0097450	astrocyte end-foot	42																GO:0097450	astrocyte end-foot	25
+GO:0019897	extrinsic component of plasma membrane	19
+			GO:0019897	extrinsic component of plasma membrane	22																			GO:0019897	extrinsic component of plasma membrane	19						
+GO:0045334	clathrin-coated endocytic vesicle	22
+						GO:0045334	clathrin-coated endocytic vesicle	65							GO:0045334	clathrin-coated endocytic vesicle	22													GO:0045334	clathrin-coated endocytic vesicle	30
+GO:0019898	extrinsic component of membrane	23
+			GO:0019898	extrinsic component of membrane	23																											
+GO:0098588	bounding membrane of organelle	23
+						GO:0098588	bounding membrane of organelle	23							GO:0098588	bounding membrane of organelle	26													GO:0098588	bounding membrane of organelle	59
+GO:0031982	vesicle	24
+						GO:0031982	vesicle	24							GO:0031982	vesicle	41															
+GO:0005576	extracellular region	25
+			GO:0005576	extracellular region	25										GO:0005576	extracellular region	52															
+GO:0099503	secretory vesicle	25
+						GO:0099503	secretory vesicle	25	GO:0099503	secretory vesicle	79																			GO:0099503	secretory vesicle	54
+									GO:0031045	dense core granule	54	GO:0031045	dense core granule	45																		
+									GO:0098992	neuronal dense core vesicle	53																					
+GO:0005905	clathrin-coated pit	26
+															GO:0005905	clathrin-coated pit	27							GO:0005905	clathrin-coated pit	26						
+GO:0031090	organelle membrane	28
+						GO:0031090	organelle membrane	28																								
+GO:0045121	membrane raft	34
+																											GO:0045121	membrane raft	34			
+GO:0042383	sarcolemma	35
+			GO:0042383	sarcolemma	35	GO:0042383	sarcolemma	50	GO:0042383	sarcolemma	51				GO:0042383	sarcolemma	35													GO:0042383	sarcolemma	46
+									GO:0030315	T-tubule	49				GO:0030315	T-tubule	58															
+GO:0098857	membrane microdomain	35
+																											GO:0098857	membrane microdomain	35			
+GO:0012505	endomembrane system	40
+						GO:0012505	endomembrane system	40							GO:0012505	endomembrane system	43															
+GO:0005768	endosome	43
+						GO:0005768	endosome	43																						GO:0005768	endosome	86
+																														GO:0055037	recycling endosome	64
+						GO:0005769	early endosome	73										GO:0005769	early endosome	68										GO:0005769	early endosome	76
+GO:0030136	clathrin-coated vesicle	44
+						GO:0030136	clathrin-coated vesicle	74	GO:0030136	clathrin-coated vesicle	83				GO:0030136	clathrin-coated vesicle	44													GO:0030136	clathrin-coated vesicle	53
+GO:0099513	polymeric cytoskeletal fiber	46
+												GO:0099513	polymeric cytoskeletal fiber	46																		
+																		GO:0005883	neurofilament	63												
+GO:0030139	endocytic vesicle	49
+												GO:0030139	endocytic vesicle	49	GO:0030139	endocytic vesicle	59															
+GO:0043209	myelin sheath	68
+						GO:0043209	myelin sheath	68																						GO:0043209	myelin sheath	84
+																														GO:0043220	Schmidt-Lanterman incisure	69
+																														GO:0043218	compact myelin	74
+GO:0031105	septin complex	72
+																														GO:0031105	septin complex	72
+																														GO:0005940	septin ring	73
+GO:0031256	leading edge membrane	81
+									GO:0031256	leading edge membrane	81																					
+GO:0032156	septin cytoskeleton	81
+																														GO:0032156	septin cytoskeleton	81
+GO:0030135	coated vesicle	85
+									GO:0030135	coated vesicle	110																			GO:0030135	coated vesicle	85
+GO:0030018	Z disc	90
+									GO:0030018	Z disc	90																					
+GO:0043292	contractile muscle fiber	98
+									GO:0043292	contractile muscle fiber	98																					
+									GO:0031674	I band	99																					
+									GO:0030016	myofibril	105																					
+									GO:0030017	sarcomere	107																					
+GO:0005575	cellular_component	112
+									GO:0005575	cellular_component	112																					
+GO:0060187	cell pole	115
+									GO:0060187	cell pole	115																					

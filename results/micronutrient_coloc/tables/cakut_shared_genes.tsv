@@ -1,0 +1,1286 @@
+gene	n_micronutrients	micronutrients	max_combined_z	is_seed	is_disease_seed
+CXCL8	10	folic acid;iron;keto diet;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	24.671862479596125	True	False
+NFE2L2	9	folic acid;iron;keto diet;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	35.568459530939776	True	False
+GPX3	9	folic acid;iron;keto diet;vitamin A;vitamin B12;vitamin B6;vitamin D;vitamin E;zinc	26.53919087392575	True	False
+LIMS3	9	folic acid;keto diet;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	9.846419020933736	False	False
+GREB1	9	folic acid;iron;keto diet;vitamin A;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	9.352345015518617	False	False
+IL7	9	folic acid;iron;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	8.308022875480873	False	False
+IL24	9	folic acid;iron;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	5.9511883575672675	False	False
+TCIM	9	folic acid;iron;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	4.615470088687525	False	False
+CXCR4	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	67.43295396762588	True	True
+IL6	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	57.109649012265294	True	False
+HGF	8	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	50.75968424526597	True	False
+AR	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	48.623607937464904	True	False
+IL1B	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	48.37038218769168	True	False
+VCAM1	8	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	47.903738439979584	True	False
+PLAT	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	45.262898810518706	True	False
+INHBA	8	folic acid;keto diet;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	43.26731541305009	True	False
+CD44	8	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	41.988846401084544	True	False
+THBD	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	39.97048917579167	True	False
+TGM2	8	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	39.7932076875231	True	False
+SPP1	8	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	38.56232138740505	True	False
+CD36	8	folic acid;iron;keto diet;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E	37.36263295236531	True	True
+MDM2	8	folic acid;keto diet;vitamin A;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	36.807118196985314	True	False
+SOCS3	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	36.340857960020436	True	False
+CSF1	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	33.49734087055563	True	False
+CCL2	8	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	32.49459516773484	True	False
+PTGS2	8	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	28.28834780372867	True	False
+TNF	8	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	27.495928909527453	True	False
+MMP19	8	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	26.516033933239513	True	False
+VTN	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	23.818975275493166	True	False
+CYP1B1	8	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	23.67248575507975	True	False
+EDN1	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	22.93953774533557	True	False
+HNF1A	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	20.121836112494854	True	True
+SELE	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	18.891284194908668	True	False
+RBP2	8	keto diet;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	18.780506160528088	True	False
+TNFRSF11B	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	14.801365932991958	False	False
+TIMP2	8	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	14.412850884183422	False	False
+TGFBI	8	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	14.293906502138178	False	False
+IL11	8	folic acid;keto diet;vitamin A;vitamin B12;vitamin B6;vitamin D;vitamin E;zinc	13.774159354503205	False	False
+CCL15	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	13.731307625600143	False	False
+IGFBP7	8	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	13.536061251774106	False	False
+GPX2	8	folic acid;keto diet;vitamin A;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	13.42820574871752	True	False
+CLU	8	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	12.964911881099756	False	False
+NPIPB5	8	folic acid;keto diet;vitamin A;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	12.05924927455734	False	False
+NPIPB3	8	folic acid;keto diet;vitamin A;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	12.059248681666558	False	False
+MARCKS	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	11.899376596012155	False	False
+SPARC	8	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	11.605912993711248	False	False
+TGFA	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	11.357397153083847	False	False
+ETS1	8	folic acid;keto diet;vitamin A;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	10.844382097798224	False	False
+WDR17	8	folic acid;keto diet;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E	10.844382053576233	False	False
+SPHK1	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	10.574810084110807	False	False
+FGFR4	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	10.49228959322466	False	False
+KLF4	8	folic acid;keto diet;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	9.896067230608834	False	False
+BCL6	8	folic acid;keto diet;vitamin A;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	9.846417336654424	False	False
+EGR3	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	9.747318698854839	False	False
+TIMP1	8	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	9.629050392584158	False	False
+FOSB	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	9.405640207933683	False	False
+SLC23A3	8	folic acid;keto diet;vitamin A;vitamin B12;vitamin B6;vitamin D;vitamin E;zinc	8.929485597965504	False	False
+IL6ST	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	8.87122565783406	False	False
+KLF9	8	folic acid;iron;keto diet;vitamin A;vitamin C;vitamin D;vitamin E;zinc	7.829022601898287	False	False
+OSMR	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	7.4301710000977845	False	False
+NR3C1	8	folic acid;keto diet;vitamin A;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	7.406974248925014	False	False
+TFPI2	8	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	7.077105025597595	False	False
+CLDN1	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	6.774546646482857	False	False
+LBP	8	folic acid;iron;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin E;zinc	6.691872774507994	False	False
+SNAI1	8	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	6.547653896690603	False	False
+GDF7	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	6.473416168959369	False	False
+ADAM17	8	folic acid;keto diet;vitamin A;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	6.039743728944459	False	False
+AHSG	8	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	6.015282167036227	False	False
+MTTP	8	folic acid;iron;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin E;zinc	5.784774306196493	False	False
+IL1RL1	8	folic acid;iron;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E	5.60680908890557	False	False
+ADM	8	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	5.326555359163071	False	False
+PAGE4	8	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	5.298335283050579	False	False
+TGFB1	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	229.70334632144252	True	True
+BMP2	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	112.91264986584684	True	True
+JUN	7	folic acid;iron;vitamin A;vitamin C;vitamin D;vitamin E;zinc	106.8934630794688	True	False
+HIF1A	7	folic acid;iron;vitamin A;vitamin C;vitamin D;vitamin E;zinc	78.43670409947526	True	False
+SP1	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	65.58291589612736	True	False
+MMP2	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	64.50109119078371	True	False
+MET	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	59.04680430452915	True	False
+SHC1	7	folic acid;keto diet;vitamin A;vitamin C;vitamin D;vitamin E;zinc	53.84737823903436	True	False
+FN1	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	53.79878403807387	True	False
+JAG1	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	52.90996450067703	True	True
+SERPINE1	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	52.52855278507074	True	False
+PECAM1	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	51.50216728171217	True	True
+IGFBP3	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	50.19001233659725	True	False
+TFRC	7	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin E;zinc	48.02663054824933	True	False
+STAT3	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	47.47094581330103	True	False
+CAV1	7	folic acid;iron;vitamin A;vitamin C;vitamin D;vitamin E;zinc	46.90956574070632	True	False
+EGR1	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	41.3294935200559	True	False
+RXRA	7	folic acid;keto diet;vitamin A;vitamin B6;vitamin D;vitamin E;zinc	41.20590978424024	True	False
+HBEGF	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	41.10978316622461	True	False
+AREG	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	39.211461017785616	True	False
+F3	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	35.74071015700683	True	False
+FST	7	folic acid;keto diet;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E	35.55719127845913	True	True
+FOS	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	33.54885531922363	True	False
+SDC4	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	32.976822909015084	True	False
+GREM1	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	30.86913614417666	True	True
+BCL2	7	folic acid;iron;vitamin A;vitamin C;vitamin D;vitamin E;zinc	29.588505878572327	True	False
+CD9	7	folic acid;iron;vitamin A;vitamin B12;vitamin D;vitamin E;zinc	29.09725447684678	True	False
+CEBPA	7	folic acid;keto diet;vitamin A;vitamin B6;vitamin D;vitamin E;zinc	23.11128324122249	True	False
+EPO	7	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin E;zinc	22.27751411233325	True	True
+GEM	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	21.58513267521104	True	False
+THBS1	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	21.47754958940578	False	False
+PTGS1	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	19.613525230892446	True	False
+VEGFC	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	19.167313259291724	False	False
+BMP5	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	17.151675040654656	True	True
+PAQR7	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	16.381768947423836	False	False
+PDGFA	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	15.871174864774511	False	False
+PLAU	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	15.840354005572548	False	False
+EPAS1	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	14.331467911890975	False	False
+ITGB3	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	14.326676749398587	False	False
+IL1R1	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	14.108999234669541	False	False
+ITGA6	7	folic acid;iron;vitamin A;vitamin C;vitamin D;vitamin E;zinc	13.979021993030054	False	False
+LIF	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	13.78892093446019	False	False
+FLT1	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	12.613354764984482	False	False
+CPXM1	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	12.505647315174047	False	False
+PTX3	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	12.449519698708245	False	False
+VCAN	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	12.427275161177725	False	False
+NID1	7	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D;zinc	12.403658509352693	False	False
+ITGAV	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	11.900338522685725	False	False
+CCN1	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	11.74012997136418	False	False
+MMP14	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	11.308952728231946	False	False
+CX3CL1	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	11.247917778378314	False	False
+XRRA1	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	11.039948707430812	False	False
+ITGA5	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	10.49594841700099	False	False
+TPBG	7	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin E;zinc	10.432623011999535	False	False
+SERPINE2	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	10.364396478411642	False	False
+AKT2	7	folic acid;iron;vitamin A;vitamin C;vitamin D;vitamin E;zinc	10.257547736839085	False	False
+COL6A1	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	9.962321618293482	False	False
+CAV2	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	9.890785292662052	False	False
+C9orf43	7	folic acid;iron;vitamin A;vitamin C;vitamin D;vitamin E;zinc	9.482082934307199	False	False
+A2M	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	9.342418504760172	False	False
+PAPPA	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	9.332379998270495	False	False
+DLL4	7	folic acid;keto diet;vitamin A;vitamin B12;vitamin D;vitamin E;zinc	9.332083493583259	False	False
+INHBB	7	folic acid;keto diet;vitamin A;vitamin B12;vitamin D;vitamin E;zinc	9.174123132101466	False	False
+NTF3	7	folic acid;keto diet;vitamin A;vitamin B12;vitamin B6;vitamin D;vitamin E	9.159421856904379	False	False
+PDPN	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	9.140064778287144	False	False
+GAS6	7	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E	9.094565909577703	False	False
+ENPP2	7	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin E;zinc	8.650739876517756	False	False
+STAT5B	7	folic acid;keto diet;vitamin A;vitamin C;vitamin D;vitamin E;zinc	8.634583630680877	False	False
+CFH	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	8.413333938716821	False	False
+ABCA13	7	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin E;zinc	8.039120116894807	False	False
+CSF3	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	8.020083519900684	False	False
+CITED2	7	folic acid;iron;keto diet;vitamin A;vitamin D;vitamin E;zinc	7.953295815892072	False	False
+HES1	7	folic acid;keto diet;vitamin A;vitamin C;vitamin D;vitamin E;zinc	7.730733374370964	False	False
+TRIB3	7	folic acid;iron;vitamin A;vitamin C;vitamin D;vitamin E;zinc	7.071618278306202	False	False
+ATF3	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	6.986874311610698	False	False
+GAS2	7	folic acid;iron;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	6.936344571399808	False	False
+RARRES1	7	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D;zinc	6.878408274468093	False	False
+IGFBP4	7	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin E;zinc	6.8692111692059985	False	False
+STC1	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	6.837353422770314	False	False
+MMP7	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	6.563107668738266	False	False
+ITGB8	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	6.456235586628451	False	False
+AFM	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	6.233957504006587	False	False
+MSC	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	6.201144541359823	False	False
+PHLDA1	7	folic acid;keto diet;vitamin A;vitamin C;vitamin D;vitamin E;zinc	6.115833580356461	False	False
+HPGD	7	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E	5.842697250995126	False	False
+CCL11	7	folic acid;keto diet;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E	5.836594894993051	False	False
+ANXA6	7	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin E;zinc	5.808667182645772	False	False
+PGC	7	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E	5.792810695796763	False	False
+UPP1	7	folic acid;iron;vitamin A;vitamin B6;vitamin C;vitamin D;zinc	5.714846418904421	False	False
+CREM	7	folic acid;vitamin A;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	5.6844802946650494	False	False
+CH25H	7	folic acid;vitamin A;vitamin B6;vitamin C;vitamin D;vitamin E;zinc	5.590326846256258	False	False
+NNMT	7	folic acid;iron;vitamin A;vitamin B12;vitamin D;vitamin E;zinc	5.552443901842853	False	False
+LAMC2	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	5.516509609807028	False	False
+AMBP	7	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin D;zinc	5.332446311485292	False	False
+NR1D1	7	folic acid;keto diet;vitamin A;vitamin B6;vitamin C;vitamin D;zinc	4.924983988469694	False	False
+TNFRSF6B	7	folic acid;iron;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	4.541031232222249	False	False
+ORM1	7	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	4.455543095372031	False	False
+RARA	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	242.87061340464024	True	True
+ACTA2	6	folic acid;iron;vitamin A;vitamin B12;vitamin D;vitamin E	201.01539935936748	True	True
+TGFB2	6	folic acid;vitamin A;vitamin B12;vitamin D;vitamin E;zinc	145.34982462875558	True	True
+VEGFA	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	121.49870098774446	True	True
+SMAD3	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	73.97648965247055	True	False
+NCOA3	6	folic acid;keto diet;vitamin A;vitamin D;vitamin E;zinc	55.86912361349461	True	False
+SRC	6	folic acid;vitamin A;vitamin B6;vitamin D;vitamin E;zinc	51.70325616475498	True	False
+MAFB	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	50.807173161303304	True	True
+ITGB1	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	50.27168923600001	True	True
+RUNX1	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	47.77208793856396	True	False
+ALDH1A2	6	folic acid;keto diet;vitamin A;vitamin B12;vitamin C;vitamin D	47.604788450067204	True	True
+DUSP6	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	45.87225035931506	True	False
+PDGFRB	6	folic acid;vitamin A;vitamin B12;vitamin D;vitamin E;zinc	41.669729810099945	True	True
+MAPK14	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	40.13647275741201	True	False
+PDGFB	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	40.04879214745046	True	True
+WNT5A	6	folic acid;vitamin A;vitamin B12;vitamin D;vitamin E;zinc	39.56615687684167	True	True
+TP53	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	36.329266083550486	True	False
+NCOR1	6	keto diet;vitamin A;vitamin B6;vitamin C;vitamin D;vitamin E	35.068156327828035	True	False
+ID1	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	34.98441471905091	True	False
+RUNX2	6	folic acid;vitamin A;vitamin B6;vitamin C;vitamin D;vitamin E	34.91654564093495	True	False
+IGF1	6	folic acid;vitamin A;vitamin B12;vitamin D;vitamin E;zinc	32.75723053514853	True	False
+HNF4A	6	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E	30.961798038000165	True	True
+BMP6	6	folic acid;vitamin A;vitamin B12;vitamin D;vitamin E;zinc	30.615878737466044	True	False
+ID2	6	folic acid;vitamin A;vitamin B6;vitamin D;vitamin E;zinc	27.4822955299422	True	False
+TET2	6	folic acid;vitamin A;vitamin B12;vitamin C;vitamin E;zinc	27.2821371515942	True	False
+NRIP1	6	folic acid;keto diet;vitamin A;vitamin D;vitamin E;zinc	25.63737423034104	True	False
+AGRN	6	folic acid;vitamin A;vitamin B12;vitamin D;vitamin E;zinc	25.542406241778004	True	False
+MAPK8	6	keto diet;vitamin A;vitamin C;vitamin D;vitamin E;zinc	24.084747462278166	True	False
+FGF2	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	22.253297320170063	False	False
+CCL5	6	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin E	19.50269402800005	True	False
+TM4SF1	6	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;zinc	19.348956593966868	True	False
+DUSP5	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	19.24552414058832	True	False
+TIMP3	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	16.506228070402635	False	False
+CTF1	6	folic acid;iron;vitamin B12;vitamin C;vitamin E;zinc	16.305651154375337	False	False
+CCN2	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	16.239235038819324	False	False
+LOX	6	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E	16.055780097062982	False	False
+AXL	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	15.952687183166466	False	False
+ODAM	6	folic acid;vitamin B12;vitamin B6;vitamin C;vitamin D;vitamin E	15.23237780554899	False	False
+HSD17B2	6	folic acid;vitamin A;vitamin B12;vitamin D;vitamin E;zinc	15.052068842642276	True	False
+FGF1	6	folic acid;keto diet;vitamin A;vitamin B12;vitamin D;vitamin E	14.817353672955566	False	False
+TGFB3	6	folic acid;vitamin A;vitamin B12;vitamin D;vitamin E;zinc	14.790040199478971	False	False
+CDH11	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	14.61944592739461	False	False
+MFSD13A	6	folic acid;iron;vitamin C;vitamin D;vitamin E;zinc	14.337890793668706	False	False
+CUBN	6	iron;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E	13.642012205377439	True	False
+GATA6	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	13.627669866981927	False	False
+NMRK2	6	folic acid;iron;vitamin A;vitamin C;vitamin E;zinc	13.267421919567367	False	False
+FOSL1	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	13.022321523431863	False	False
+CNTD1	6	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E	12.899997323965465	False	False
+NOTCH3	6	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E	12.899996824083921	False	False
+HIC1	6	folic acid;vitamin A;vitamin B12;vitamin D;vitamin E;zinc	12.601037223029577	False	False
+CDKN1C	6	folic acid;keto diet;vitamin A;vitamin D;vitamin E;zinc	12.386214108630092	False	False
+NPNT	6	vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	12.382040877587565	False	False
+NRP1	6	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E	12.14613676582934	False	False
+GJA1	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	12.137714797529714	False	False
+IGF2	6	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E	12.036870466675095	False	False
+PRKCA	6	folic acid;vitamin A;vitamin B6;vitamin C;vitamin D;vitamin E	11.947480222700444	False	False
+DUSP4	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	11.934213430201712	False	False
+MMP11	6	folic acid;vitamin A;vitamin B12;vitamin D;vitamin E;zinc	11.934198466322556	False	False
+ESR2	6	keto diet;vitamin A;vitamin B6;vitamin C;vitamin D;vitamin E	11.78017932909849	False	False
+ADAMTS1	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	11.610855680685283	False	False
+ARNT	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	11.234028189180012	False	False
+EPHB2	6	folic acid;keto diet;vitamin A;vitamin C;vitamin D;vitamin E	11.097453154723059	False	False
+COL4A1	6	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E	10.44912037665905	False	False
+ESRRA	6	keto diet;vitamin A;vitamin B6;vitamin D;vitamin E;zinc	10.3980914555079	False	False
+SLC22A3	6	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin E	10.381041128889567	False	False
+EPHA2	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	10.338582681809859	False	False
+FOSL2	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	10.289293964504429	False	False
+PLAUR	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	10.010909274769832	False	False
+EGF	6	folic acid;keto diet;vitamin B12;vitamin D;vitamin E;zinc	10.005823653124507	False	False
+ITGB5	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	10.000553222121367	False	False
+CRABP1	6	folic acid;vitamin A;vitamin B12;vitamin C;vitamin E;zinc	9.99032815135311	False	False
+PTK2	6	folic acid;vitamin A;vitamin B12;vitamin C;vitamin E;zinc	9.902290465887889	False	False
+CISH	6	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E	9.892652690170229	False	False
+TSPAN12	6	iron;vitamin A;vitamin B6;vitamin C;vitamin E;zinc	9.794969844135009	False	False
+POSTN	6	folic acid;iron;vitamin A;vitamin B12;vitamin E;zinc	9.700492062965736	False	False
+CYP27B1	6	keto diet;vitamin A;vitamin B6;vitamin C;vitamin D;vitamin E	9.682168159742579	True	False
+NRP2	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	9.602555503676966	False	False
+DAB2	6	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D	9.100141732454658	False	False
+TFAP2A	6	keto diet;vitamin A;vitamin C;vitamin D;vitamin E;zinc	8.991176590096929	False	False
+S100A10	6	folic acid;iron;vitamin A;vitamin C;vitamin D;vitamin E	8.90587709471081	False	False
+NR4A1	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	8.885759455703777	False	False
+KLF6	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	8.858073885900655	False	False
+LTO1	6	folic acid;iron;vitamin A;vitamin D;vitamin E;zinc	8.703466231003004	False	False
+ITGA2	6	folic acid;vitamin A;vitamin B12;vitamin D;vitamin E;zinc	8.607513602091027	False	False
+LIPG	6	folic acid;vitamin A;vitamin B12;vitamin C;vitamin E;zinc	8.5083913327405	False	False
+SNAI2	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	8.457976715297962	False	False
+SHB	6	folic acid;keto diet;vitamin A;vitamin D;vitamin E;zinc	8.457461711240876	False	False
+RHOXF1	6	folic acid;vitamin A;vitamin B12;vitamin D;vitamin E;zinc	8.377548208616298	False	False
+SMAD7	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	8.369519866022374	False	False
+KLF2	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	8.31806327549951	False	False
+PGF	6	folic acid;vitamin A;vitamin B12;vitamin D;vitamin E;zinc	8.063892584893026	False	False
+DUSP1	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	8.024895737651507	False	False
+STC2	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	7.918031439705979	False	False
+KLF5	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	7.861638482080889	False	False
+RND3	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	7.833696898755141	False	False
+ETS2	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	7.759405700380873	False	False
+JAK2	6	folic acid;iron;vitamin A;vitamin C;vitamin E;zinc	7.753329237919982	False	False
+IL13RA1	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	7.699919668893421	False	False
+FGF13	6	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin D;vitamin E	7.650960172030893	False	False
+NGF	6	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E	7.6145454972236255	False	False
+PDGFC	6	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E	7.609361696332267	False	False
+TGIF1	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	7.502323929603846	False	False
+UGT2A2	6	folic acid;iron;vitamin B12;vitamin C;vitamin D;vitamin E	7.493081560813795	False	False
+CHRDL2	6	vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E;zinc	7.42406298127941	False	False
+C1S	6	folic acid;vitamin A;vitamin B12;vitamin D;vitamin E;zinc	7.393571118441622	False	False
+IL15	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	7.2857495348934656	False	False
+LILRA5	6	folic acid;iron;vitamin A;vitamin B6;vitamin C;vitamin D	7.2107155252247805	False	False
+AGT	6	folic acid;keto diet;vitamin A;vitamin B12;vitamin B6;vitamin E	7.05780594245198	False	False
+C19orf33	6	folic acid;iron;vitamin C;vitamin D;vitamin E;zinc	7.0184713924034305	False	False
+WWTR1	6	folic acid;iron;vitamin A;vitamin C;vitamin D;vitamin E	6.8987793611634505	False	False
+AGTR1	6	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin C;vitamin E	6.891114436974064	False	False
+FSTL1	6	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D	6.853552664254706	False	False
+FGF9	6	folic acid;vitamin A;vitamin B12;vitamin D;vitamin E;zinc	6.730465400435523	False	False
+NFATC1	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	6.693370069242589	False	False
+LEPR	6	folic acid;keto diet;vitamin A;vitamin B6;vitamin D;vitamin E	6.630679553712777	False	False
+GRK4	6	keto diet;vitamin B12;vitamin B6;vitamin D;vitamin E;zinc	6.619735557072249	False	False
+TK2	6	folic acid;keto diet;vitamin A;vitamin D;vitamin E;zinc	6.550366139244852	False	False
+VEGFD	6	folic acid;vitamin A;vitamin B12;vitamin D;vitamin E;zinc	6.3183297218584675	False	False
+PRRG4	6	folic acid;keto diet;vitamin A;vitamin D;vitamin E;zinc	6.242058722271767	False	False
+PPARD	6	folic acid;vitamin A;vitamin B6;vitamin C;vitamin D;vitamin E	6.189382380212252	False	False
+GH1	6	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin D;vitamin E	6.055141348347364	False	False
+ANGPTL4	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	6.012334692410639	False	False
+NEDD9	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	6.010900860779158	False	False
+PTGIS	6	folic acid;keto diet;vitamin A;vitamin B12;vitamin B6;vitamin E	5.888675679889294	False	False
+KLF10	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	5.812513024433795	False	False
+PROX1	6	keto diet;vitamin A;vitamin B6;vitamin D;vitamin E;zinc	5.780394087054355	False	False
+ASGR1	6	folic acid;iron;vitamin A;vitamin B12;vitamin C;zinc	5.727323201509903	False	False
+UGT2B11	6	keto diet;vitamin A;vitamin B6;vitamin C;vitamin D;vitamin E	5.493102635900856	False	False
+ADAMTS16	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	5.420497064269789	False	False
+SERPINH1	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	5.420497043633369	False	False
+C1QL3	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	5.420496561364391	False	False
+SLC7A9	6	folic acid;iron;vitamin A;vitamin B12;vitamin C;vitamin D	5.39448201179028	False	False
+ITGA2B	6	folic acid;iron;vitamin A;vitamin B12;vitamin D;zinc	5.313633537845432	False	False
+ABCG1	6	folic acid;iron;keto diet;vitamin D;vitamin E;zinc	5.3067439599122395	False	False
+NPIPB13	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	5.234290025001164	False	False
+PRDM1	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	5.056518577251773	False	False
+PAPPA2	6	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D;vitamin E	5.056045986455662	False	False
+ALCAM	6	folic acid;vitamin A;vitamin C;vitamin D;vitamin E;zinc	4.867354225534095	False	False
+ANGPT2	6	folic acid;vitamin A;vitamin B12;vitamin C;vitamin E;zinc	4.416519891271192	False	False
+BCAM	6	folic acid;iron;vitamin A;vitamin B12;vitamin D;vitamin E	4.372775951944646	False	False
+STAT5A	6	folic acid;keto diet;vitamin A;vitamin C;vitamin D;vitamin E	4.351862448496424	False	False
+CCND1	5	folic acid;vitamin A;vitamin D;vitamin E;zinc	250.25713515210538	False	True
+RARB	5	folic acid;keto diet;vitamin A;vitamin D;vitamin E	104.31475058560045	True	True
+ESR1	5	folic acid;vitamin A;vitamin B6;vitamin D;vitamin E	62.00140985594566	True	False
+CREBBP	5	vitamin A;vitamin B6;vitamin D;vitamin E;zinc	55.640487289259845	True	False
+HSPA5	5	folic acid;vitamin A;vitamin B12;vitamin C;vitamin E	54.09117593638293	True	False
+IGF1R	5	folic acid;vitamin A;vitamin D;vitamin E;zinc	53.14391030762947	True	False
+ITGA3	5	folic acid;vitamin A;vitamin D;vitamin E;zinc	52.29667786429185	True	True
+AKAP12	5	folic acid;vitamin A;vitamin B6;vitamin C;vitamin E	49.17885254615222	True	False
+EGFR	5	folic acid;vitamin A;vitamin D;vitamin E;zinc	46.902741079993774	True	False
+NT5E	5	folic acid;vitamin A;vitamin C;vitamin D;vitamin E	44.99616559000895	True	True
+TAGLN	5	folic acid;vitamin A;vitamin B12;vitamin E;zinc	39.82215914334007	True	False
+MYC	5	folic acid;vitamin A;vitamin C;vitamin D;vitamin E	37.11610563312267	True	False
+SDC2	5	folic acid;vitamin A;vitamin C;vitamin D;vitamin E	35.011536716018384	True	False
+HSPG2	5	folic acid;vitamin A;vitamin B12;vitamin D;vitamin E	34.43258309705897	True	False
+LRP2	5	folic acid;vitamin A;vitamin B12;vitamin C;vitamin D	32.041642964609295	True	False
+INS	5	folic acid;vitamin A;vitamin B12;vitamin D;zinc	28.208031963273985	True	False
+SOD3	5	folic acid;iron;keto diet;vitamin A;vitamin B12	26.812659708464555	True	False
+FGF7	5	folic acid;vitamin A;vitamin B12;vitamin D;vitamin E	25.545488681153483	True	True
+FOXD1	5	folic acid;vitamin A;vitamin D;vitamin E;zinc	22.908332779836947	True	True
+RSPO3	5	folic acid;iron;keto diet;vitamin D;vitamin E	20.936764981115697	True	True
+STEAP4	5	iron;keto diet;vitamin C;vitamin D;zinc	20.506175960416215	True	False
+PPARG	5	keto diet;vitamin A;vitamin B6;vitamin D;vitamin E	19.277851902415943	True	False
+SOX9	5	folic acid;vitamin A;vitamin D;vitamin E;zinc	16.117679916606036	False	False
+FZD7	5	folic acid;vitamin A;vitamin D;vitamin E;zinc	15.691959433425518	False	False
+SEMA3D	5	folic acid;vitamin B6;vitamin C;vitamin D;vitamin E	15.145946513278972	False	False
+PDGFRA	5	folic acid;vitamin A;vitamin C;vitamin D;vitamin E	15.078279461472794	False	False
+TMEM220	5	folic acid;vitamin A;vitamin D;vitamin E;zinc	14.633723625904608	False	False
+TGFBR2	5	folic acid;vitamin A;vitamin D;vitamin E;zinc	14.509104460466558	False	False
+FZD1	5	folic acid;vitamin A;vitamin D;vitamin E;zinc	12.794918839984112	False	False
+IGFBP5	5	folic acid;iron;vitamin A;vitamin D;vitamin E	12.661032082837968	False	False
+LTBP2	5	folic acid;vitamin A;vitamin D;vitamin E;zinc	12.595881032284561	False	False
+COL1A2	5	folic acid;iron;vitamin A;vitamin B12;vitamin D	12.403716607920924	False	False
+PTPN20	5	folic acid;keto diet;vitamin A;vitamin E;zinc	12.213384528383132	False	False
+BGN	5	folic acid;vitamin A;vitamin B12;vitamin D;vitamin E	11.387417457889287	False	False
+JAG2	5	folic acid;vitamin A;vitamin D;vitamin E;zinc	10.6444105602633	False	False
+MOXD1	5	folic acid;iron;vitamin A;vitamin B12;vitamin B6	10.420117659388834	False	False
+IGFBP2	5	folic acid;vitamin A;vitamin D;vitamin E;zinc	9.934843993001271	False	False
+DLL1	5	folic acid;vitamin B12;vitamin D;vitamin E;zinc	9.804834202746335	False	False
+COL4A2	5	folic acid;vitamin A;vitamin B12;vitamin D;vitamin E	9.72820704688996	False	False
+ANG	5	vitamin A;vitamin C;vitamin D;vitamin E;zinc	9.717023233794471	False	False
+FZD8	5	folic acid;vitamin A;vitamin D;vitamin E;zinc	9.361201453496921	False	False
+DSEL	5	vitamin A;vitamin C;vitamin D;vitamin E;zinc	9.266725652371113	False	False
+LEF1	5	folic acid;vitamin A;vitamin C;vitamin D;vitamin E	8.93105352552433	False	False
+TMEM45A	5	folic acid;vitamin A;vitamin C;vitamin E;zinc	8.745431158536169	False	False
+SIAH2	5	iron;keto diet;vitamin C;vitamin E;zinc	8.593079790395509	False	False
+ZBED5	5	folic acid;vitamin A;vitamin D;vitamin E;zinc	8.439305905392818	False	False
+RBBP8NL	5	folic acid;vitamin B12;vitamin C;vitamin D;vitamin E	8.403522896447251	False	False
+ASCL2	5	folic acid;iron;vitamin A;vitamin C;vitamin E	8.093892115170275	False	False
+IRS2	5	folic acid;vitamin C;vitamin D;vitamin E;zinc	7.962432347039599	False	False
+GDF3	5	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin E	7.919702844900274	False	False
+ENG	5	folic acid;vitamin A;vitamin C;vitamin D;vitamin E	7.85530744265299	False	False
+SOSTDC1	5	folic acid;vitamin A;vitamin B12;vitamin D;vitamin E	7.825836501592164	False	False
+GLIS1	5	folic acid;vitamin A;vitamin B12;vitamin D;vitamin E	7.67900148268289	False	False
+BTC	5	folic acid;keto diet;vitamin A;vitamin D;zinc	7.6361425235557645	False	False
+WNT5B	5	vitamin A;vitamin B12;vitamin D;vitamin E;zinc	7.5571803546355945	False	False
+SMIM30	5	folic acid;vitamin A;vitamin B6;vitamin C;vitamin E	7.532513129337121	False	False
+ERRFI1	5	folic acid;vitamin A;vitamin B6;vitamin C;vitamin E	7.532512811117432	False	False
+SOX4	5	folic acid;vitamin A;vitamin D;vitamin E;zinc	7.504856915557656	False	False
+UGT2A3	5	folic acid;iron;vitamin C;vitamin D;vitamin E	7.49308160819603	False	False
+VEGFB	5	folic acid;vitamin A;vitamin D;vitamin E;zinc	7.4846478533529694	False	False
+MXI1	5	folic acid;keto diet;vitamin D;vitamin E;zinc	7.371102630053955	False	False
+ESRRB	5	keto diet;vitamin A;vitamin B6;vitamin C;vitamin D	7.327849563383903	False	False
+WNT10A	5	folic acid;vitamin A;vitamin B12;vitamin D;zinc	7.053315079954586	False	False
+PLCE1	5	folic acid;vitamin A;vitamin C;vitamin D;vitamin E	6.926608687233049	False	False
+HEY2	5	keto diet;vitamin A;vitamin B12;vitamin D;vitamin E	6.679121825112784	False	False
+PRL	5	folic acid;keto diet;vitamin B12;vitamin D;vitamin E	6.625303883187322	False	False
+MAF	5	folic acid;vitamin A;vitamin D;vitamin E;zinc	6.605268664877002	False	False
+LAMA3	5	folic acid;vitamin A;vitamin B12;vitamin D;zinc	6.597859778998855	False	False
+CDH13	5	folic acid;vitamin A;vitamin B6;vitamin D;vitamin E	6.452574715787753	False	False
+WNT7B	5	folic acid;vitamin A;vitamin B12;vitamin D;zinc	6.417537459184617	False	False
+HHAT	5	folic acid;iron;vitamin C;vitamin D;vitamin E	6.281760061667987	False	False
+CRISPLD2	5	folic acid;vitamin A;vitamin D;vitamin E;zinc	6.175572730919443	False	False
+FYN	5	folic acid;keto diet;vitamin A;vitamin C;vitamin E	6.1700745978645335	False	False
+BTD	5	folic acid;keto diet;vitamin C;vitamin D;vitamin E	5.975430105352782	False	False
+GHR	5	folic acid;keto diet;vitamin A;vitamin C;vitamin E	5.9308662607226115	False	False
+FOXO1	5	folic acid;vitamin A;vitamin B6;vitamin D;vitamin E	5.915010886061613	False	False
+SRF	5	folic acid;vitamin A;vitamin D;vitamin E;zinc	5.907794654114148	False	False
+APCDD1	5	folic acid;vitamin A;vitamin B12;vitamin D;zinc	5.8988124158444375	False	False
+RALGDS	5	folic acid;vitamin B6;vitamin C;vitamin D;vitamin E	5.8491917612698145	False	False
+NCOA6	5	vitamin A;vitamin B6;vitamin D;vitamin E;zinc	5.7989073111114955	False	False
+FOXO3	5	keto diet;vitamin A;vitamin D;vitamin E;zinc	5.706077235705293	False	False
+S100A5	5	folic acid;vitamin B12;vitamin C;vitamin D;vitamin E	5.591852809404999	False	False
+RUNX3	5	vitamin A;vitamin C;vitamin D;vitamin E;zinc	5.434188404275586	False	False
+SOCS2	5	folic acid;vitamin A;vitamin C;vitamin D;vitamin E	5.398286523354576	False	False
+ACSM2A	5	folic acid;vitamin A;vitamin B12;vitamin B6;zinc	5.3897603199030355	False	False
+NFATC4	5	folic acid;vitamin A;vitamin D;vitamin E;zinc	5.3404909842990085	False	False
+SLC5A2	5	folic acid;vitamin B12;vitamin B6;vitamin C;vitamin E	5.319753993100357	False	False
+SH2B3	5	folic acid;vitamin A;vitamin C;vitamin E;zinc	5.21949538071377	False	False
+UGT1A1	5	folic acid;iron;vitamin A;vitamin C;vitamin D	5.080527118420223	False	False
+SRPX	5	folic acid;iron;vitamin A;vitamin B12;vitamin C	5.057425489518006	False	False
+NRL	5	folic acid;vitamin A;vitamin C;vitamin E;zinc	4.903196198918332	False	False
+MATK	5	keto diet;vitamin A;vitamin D;vitamin E;zinc	4.768736944258249	False	False
+SLC22A13	5	folic acid;vitamin B12;vitamin C;vitamin D;vitamin E	4.740343203070439	False	False
+SPARCL1	5	folic acid;iron;vitamin A;vitamin B12;vitamin C	4.702557406298289	False	False
+ACKR3	5	folic acid;vitamin A;vitamin C;vitamin D;vitamin E	4.658915821418937	False	False
+STEAP1	5	folic acid;vitamin B12;vitamin D;vitamin E;zinc	4.63096394801622	False	False
+MERTK	5	vitamin A;vitamin C;vitamin D;vitamin E;zinc	4.531645401402968	False	False
+LGALS4	5	folic acid;vitamin A;vitamin B12;vitamin B6;vitamin E	4.520794017484997	False	False
+PAPSS2	5	iron;vitamin A;vitamin B6;vitamin C;vitamin E	4.4564369854123855	False	False
+FSTL3	5	vitamin A;vitamin B12;vitamin D;vitamin E;zinc	4.384788472492662	False	False
+PROC	5	folic acid;vitamin A;vitamin B12;vitamin E;zinc	4.020081846457144	False	False
+ZFP36L1	5	folic acid;vitamin C;vitamin D;vitamin E;zinc	3.9344667128565827	False	False
+CTNNB1	4	folic acid;keto diet;vitamin C;vitamin E	375.1872507066181	True	True
+ATF2	4	vitamin C;vitamin D;vitamin E;zinc	94.64987814829252	True	False
+GPC3	4	folic acid;vitamin A;vitamin B12;vitamin C	90.50699104741209	True	True
+RARG	4	folic acid;vitamin A;vitamin D;vitamin E	85.64131375636559	True	True
+NR2F2	4	vitamin A;vitamin C;vitamin D;vitamin E	69.51503025686104	True	False
+GATA3	4	folic acid;vitamin A;vitamin D;vitamin E	49.50780080393646	True	True
+POU5F1	4	vitamin A;vitamin B12;vitamin C;vitamin D	48.914746261827986	True	False
+TNC	4	folic acid;vitamin A;vitamin D;zinc	45.377739691443296	True	True
+CXCL12	4	folic acid;vitamin A;vitamin B12;vitamin E	44.15953452922866	True	True
+COL1A1	4	folic acid;vitamin A;vitamin C;vitamin D	42.83575025955917	True	False
+ILK	4	folic acid;vitamin A;vitamin C;vitamin E	40.13941888388255	True	True
+GPC1	4	folic acid;vitamin A;vitamin D;vitamin E	39.28441217206739	True	False
+SFRP1	4	vitamin A;vitamin D;vitamin E;zinc	34.3595648914587	True	True
+INSR	4	folic acid;vitamin B12;vitamin D;zinc	31.884860201614227	True	False
+KDR	4	folic acid;vitamin A;vitamin D;vitamin E	30.585998788738305	True	True
+RB1	4	vitamin A;vitamin D;vitamin E;zinc	28.64041567287962	True	False
+BMPR1A	4	vitamin A;vitamin D;vitamin E;zinc	24.623978584178072	True	True
+CRABP2	4	folic acid;keto diet;vitamin A;vitamin D	24.529693203203923	True	False
+GPC6	4	vitamin A;vitamin B12;vitamin C;vitamin E	21.972690479207646	True	False
+FAM107B	4	folic acid;vitamin A;vitamin D;vitamin E	21.510563691466526	False	False
+FGFR1	4	folic acid;vitamin A;vitamin D;vitamin E	21.25654355180977	False	False
+AKT3	4	folic acid;keto diet;vitamin D;vitamin E	20.38303997934947	True	False
+SDC1	4	folic acid;vitamin A;vitamin B12;vitamin C	20.08497130094679	True	False
+RXRB	4	vitamin A;vitamin B6;vitamin D;zinc	18.98547775539668	True	False
+NPHS1	4	folic acid;vitamin A;vitamin B12;vitamin E	18.48100490980239	True	True
+NOS3	4	folic acid;keto diet;vitamin B12;vitamin B6	17.302259960785968	True	False
+HNF1B	4	folic acid;vitamin A;vitamin C;vitamin E	17.112949446233074	True	True
+GPC5	4	vitamin A;vitamin B12;vitamin C;vitamin E	13.546886000105046	True	False
+INPP4B	4	folic acid;vitamin C;vitamin D;vitamin E	13.048943041197676	True	False
+HMGB1	4	folic acid;vitamin A;vitamin E;zinc	12.945970518612878	False	False
+AMN	4	vitamin B12;vitamin C;vitamin D;vitamin E	12.823049947103522	True	False
+PXDN	4	folic acid;vitamin A;vitamin D;vitamin E	12.250840260107736	False	False
+NBPF19	4	iron;vitamin B12;vitamin C;vitamin E	11.913277619975448	False	False
+CDK6	4	folic acid;vitamin A;vitamin D;vitamin E	11.577530360590938	False	False
+SBSPON	4	iron;vitamin A;vitamin C;vitamin E	11.470566709147198	False	False
+ZEB2	4	folic acid;vitamin A;vitamin C;vitamin E	11.367439559962328	False	False
+BMP1	4	folic acid;vitamin A;vitamin D;zinc	11.358132007486825	False	False
+SMAD6	4	folic acid;vitamin A;vitamin D;vitamin E	11.345121153804532	False	False
+NRIP2	4	folic acid;vitamin A;vitamin E;zinc	11.0789450651965	False	False
+COL4A3	4	folic acid;vitamin B12;vitamin D;vitamin E	11.064844748746964	False	False
+GREM2	4	folic acid;vitamin B12;vitamin D;vitamin E	10.981220377928883	False	False
+PLAGL1	4	keto diet;vitamin A;vitamin D;vitamin E	10.801666932277676	False	False
+TIMP4	4	folic acid;keto diet;vitamin A;vitamin E	10.510323901575179	False	False
+MCAM	4	folic acid;vitamin A;vitamin C;vitamin E	10.477313188324104	False	False
+MYLK	4	folic acid;vitamin A;vitamin B12;zinc	10.345018068297781	False	False
+FBN1	4	folic acid;vitamin A;vitamin B12;zinc	10.297405265991639	False	False
+PCSK5	4	vitamin A;vitamin B12;vitamin B6;vitamin E	10.143520985926518	False	False
+FZD4	4	folic acid;vitamin A;vitamin B12;vitamin D	10.051163221335257	False	False
+CD34	4	folic acid;vitamin A;vitamin B12;vitamin E	9.899398426167995	False	False
+CYP24A1	4	vitamin A;vitamin C;vitamin D;vitamin E	9.81768016158245	True	False
+SNX15	4	folic acid;vitamin A;vitamin C;vitamin E	9.627422306905908	False	False
+SLC38A4	4	folic acid;keto diet;vitamin C;zinc	9.548405416090565	False	False
+THBS2	4	folic acid;iron;vitamin A;vitamin E	9.491480206352671	False	False
+CSPG4	4	folic acid;vitamin A;vitamin D;vitamin E	9.25056803506127	False	False
+PDGFD	4	folic acid;vitamin A;vitamin B12;zinc	8.845763726241646	False	False
+LOXL2	4	folic acid;vitamin A;vitamin D;vitamin E	8.628369529535036	False	False
+COL4A6	4	folic acid;vitamin A;vitamin B12;vitamin D	8.538038624834531	False	False
+PRSS2	4	folic acid;iron;vitamin B12;vitamin E	8.327202144807336	False	False
+C1R	4	folic acid;vitamin A;vitamin B12;zinc	8.300889865838695	False	False
+ABL2	4	folic acid;vitamin C;vitamin D;vitamin E	8.268568937334452	False	False
+HEY1	4	vitamin A;vitamin B12;vitamin D;vitamin E	8.253521407193816	False	False
+ELFN1	4	folic acid;vitamin A;vitamin D;vitamin E	8.042806298632854	False	False
+HPSE2	4	vitamin A;vitamin B12;vitamin C;vitamin E	7.8254884522243335	False	False
+STRA6	4	vitamin A;vitamin B12;vitamin E;zinc	7.825269861224985	False	False
+CPZ	4	folic acid;iron;vitamin B12;vitamin E	7.775984167079744	False	False
+GATA5	4	folic acid;keto diet;vitamin A;vitamin E	7.6831180182602905	False	False
+SERTAD4	4	folic acid;vitamin A;vitamin E;zinc	7.598853886439826	False	False
+CRLF1	4	vitamin A;vitamin C;vitamin D;vitamin E	7.57946654646113	False	False
+CTSK	4	folic acid;iron;vitamin A;vitamin D	7.380730760457027	False	False
+SMAD4	4	folic acid;vitamin A;vitamin D;vitamin E	7.3163213601999155	False	False
+BEX1	4	folic acid;iron;vitamin B6;vitamin C	7.2889869722107985	False	False
+TMEM54	4	keto diet;vitamin A;vitamin D;zinc	7.249364713932993	False	False
+EPHB4	4	folic acid;vitamin A;vitamin D;vitamin E	7.208025838726994	False	False
+SLC22A2	4	folic acid;vitamin B12;vitamin C;vitamin D	7.17061418417979	False	False
+ERBB3	4	folic acid;vitamin A;vitamin D;vitamin E	7.138256586761844	False	False
+ARSL	4	folic acid;vitamin B6;vitamin D;vitamin E	7.123306104616961	False	False
+COL6A3	4	folic acid;vitamin A;vitamin B12;zinc	7.115991315669718	False	False
+ANGPTL2	4	folic acid;vitamin A;vitamin B12;vitamin E	7.114301346252218	False	False
+ZBED3	4	folic acid;vitamin B12;vitamin B6;zinc	7.0599406856889155	False	False
+SHC2	4	folic acid;keto diet;vitamin A;vitamin E	6.975646446773375	False	False
+IGFBP6	4	folic acid;vitamin A;vitamin D;vitamin E	6.87294712729715	False	False
+PXN	4	folic acid;vitamin A;vitamin D;vitamin E	6.676173750762018	False	False
+CPA1	4	folic acid;vitamin A;vitamin B12;vitamin E	6.675338130013	False	False
+ENAM	4	folic acid;vitamin B12;vitamin C;vitamin E	6.644949260652604	False	False
+THRA	4	folic acid;vitamin A;vitamin D;vitamin E	6.559573578717104	False	False
+TEK	4	folic acid;vitamin A;vitamin B12;vitamin E	6.559201679561263	False	False
+TAL1	4	folic acid;iron;vitamin A;vitamin B12	6.461048436932107	False	False
+FBLN5	4	folic acid;iron;vitamin A;vitamin C	6.450581575696426	False	False
+KCNJ1	4	folic acid;vitamin B12;vitamin C;vitamin D	6.4501105075132	False	False
+LHFPL6	4	folic acid;iron;vitamin A;vitamin C	6.402174722461453	False	False
+ZNF641	4	vitamin C;vitamin D;vitamin E;zinc	6.395388253536836	False	False
+PDE5A	4	folic acid;vitamin C;vitamin E;zinc	6.2146163194926025	False	False
+MGP	4	folic acid;vitamin A;vitamin B12;vitamin E	6.212547364038188	False	False
+THRSP	4	folic acid;vitamin A;vitamin D;vitamin E	6.207369695315769	False	False
+S100A3	4	vitamin A;vitamin C;vitamin D;zinc	6.198596770900287	False	False
+RASL10B	4	vitamin A;vitamin C;vitamin D;vitamin E	6.1974076949248795	False	False
+CALD1	4	folic acid;vitamin A;vitamin B12;vitamin E	6.095944354723389	False	False
+CALML3	4	folic acid;vitamin A;vitamin B12;vitamin E	5.991933095823633	False	False
+ING1	4	iron;vitamin A;vitamin C;vitamin E	5.9877441699072635	False	False
+CDH3	4	folic acid;vitamin A;vitamin D;zinc	5.950059019931935	False	False
+IRF3	4	folic acid;vitamin A;vitamin C;vitamin E	5.930972934733793	False	False
+COL9A3	4	folic acid;vitamin B6;vitamin C;vitamin D	5.93032191607798	False	False
+HES6	4	iron;vitamin A;vitamin C;zinc	5.9218984060469255	False	False
+CBL	4	folic acid;vitamin B12;vitamin D;vitamin E	5.921426874119438	False	False
+ULK3	4	iron;vitamin B6;vitamin C;vitamin E	5.896165899938276	False	False
+HIF3A	4	vitamin A;vitamin B12;vitamin D;zinc	5.888380642331556	False	False
+PIK3CD	4	folic acid;vitamin A;vitamin C;vitamin D	5.840460647368759	False	False
+CCDC149	4	iron;vitamin C;vitamin E;zinc	5.816492275714064	False	False
+SRPX2	4	folic acid;vitamin A;vitamin B12;vitamin E	5.716917646682477	False	False
+NGFR	4	folic acid;vitamin A;vitamin E;zinc	5.660165686517256	False	False
+IRS1	4	folic acid;vitamin A;vitamin E;zinc	5.612151974606162	False	False
+RIN2	4	vitamin A;vitamin B12;vitamin C;zinc	5.54919890571318	False	False
+EDNRA	4	folic acid;vitamin A;vitamin B12;vitamin E	5.375102446047505	False	False
+CRYAB	4	folic acid;vitamin A;vitamin E;zinc	5.216478732577312	False	False
+PLGLB1	4	folic acid;vitamin B12;vitamin C;zinc	5.171130958870259	False	False
+USP31	4	vitamin B12;vitamin C;vitamin E;zinc	5.145864549526397	False	False
+ZBTB7C	4	folic acid;iron;vitamin C;vitamin E	5.082372890958136	False	False
+AQP1	4	folic acid;iron;vitamin B12;vitamin C	5.06330103216386	False	False
+CCN4	4	folic acid;vitamin A;vitamin E;zinc	4.985253373564513	False	False
+GRB7	4	folic acid;vitamin A;vitamin B12;vitamin D	4.967028941727656	False	False
+SERPINA6	4	folic acid;vitamin A;vitamin B12;vitamin C	4.90245705922189	False	False
+ATF4	4	vitamin A;vitamin C;vitamin D;zinc	4.881182354577397	False	False
+ETV6	4	vitamin A;vitamin C;vitamin D;zinc	4.848677802673672	False	False
+NPPA	4	keto diet;vitamin B12;vitamin B6;vitamin E	4.80840793340628	False	False
+ENPP1	4	iron;vitamin A;vitamin C;vitamin E	4.715291496803081	False	False
+IL33	4	folic acid;vitamin B12;vitamin E;zinc	4.693401536011358	False	False
+CNN3	4	folic acid;iron;vitamin A;vitamin C	4.659923433464835	False	False
+CA12	4	folic acid;vitamin D;vitamin E;zinc	4.609504868319315	False	False
+RARRES2	4	folic acid;vitamin A;vitamin B12;zinc	4.480959095721362	False	False
+C11orf71	4	iron;vitamin C;vitamin E;zinc	4.470798289980873	False	False
+SIRT6	4	iron;vitamin A;vitamin C;vitamin E	4.404460599245185	False	False
+LRRC75B	4	folic acid;keto diet;vitamin E;zinc	4.270185352488549	False	False
+SMPDL3B	4	folic acid;iron;keto diet;vitamin D	4.1645638804986955	False	False
+VAV2	4	folic acid;keto diet;vitamin A;vitamin E	4.148585173144859	False	False
+JAK1	4	folic acid;vitamin A;vitamin D;vitamin E	4.137397221465114	False	False
+HOXD8	4	vitamin B12;vitamin C;vitamin D;vitamin E	4.087745665105438	False	False
+SLC10A2	4	vitamin B12;vitamin B6;vitamin C;vitamin D	4.032807919167139	False	False
+HTRA1	4	folic acid;iron;vitamin A;vitamin C	3.962909585412713	False	False
+TGFB1I1	4	folic acid;vitamin B12;vitamin C;vitamin E	3.8576050559946795	False	False
+FGFR2	3	folic acid;vitamin A;vitamin D	120.70990055720351	True	True
+WT1	3	vitamin A;vitamin C;vitamin D	84.85898904070625	True	True
+NTRK2	3	iron;vitamin A;vitamin B6	38.545358096536226	True	False
+NCK1	3	keto diet;vitamin B6;vitamin C	33.26076898429605	True	True
+TMSB4X	3	vitamin A;vitamin B12;zinc	28.427765979205933	True	False
+BMP7	3	keto diet;vitamin A;vitamin D	27.757443497960608	True	True
+DCN	3	folic acid;vitamin A;vitamin B12	27.662743780745032	True	True
+ERBB4	3	keto diet;vitamin A;vitamin E	26.544565084287093	True	False
+NPHS2	3	folic acid;vitamin A;vitamin B12	26.48683195555269	True	True
+NES	3	vitamin A;vitamin B6;vitamin D	25.683407263503085	True	False
+GFAP	3	folic acid;vitamin A;zinc	25.59492570723274	True	False
+BMP4	3	folic acid;vitamin A;vitamin D	24.1292518252692	True	True
+BMPR2	3	vitamin A;vitamin D;vitamin E	23.747812467791796	True	True
+NCK2	3	folic acid;keto diet;vitamin E	23.455862203555235	True	True
+CDH1	3	folic acid;vitamin A;vitamin D	23.307578455040158	True	False
+GATA2	3	vitamin A;vitamin D;vitamin E	23.06089037629177	False	False
+NCOR2	3	vitamin A;vitamin D;vitamin E	22.76900855530837	True	False
+CITED1	3	vitamin A;vitamin D;vitamin E	22.210069104091474	True	True
+MYCN	3	vitamin A;vitamin D;vitamin E	21.3043983744253	True	True
+ADGRG1	3	folic acid;vitamin A;vitamin D	21.20400586368635	True	False
+RECK	3	folic acid;keto diet;vitamin A	20.502018247083033	True	False
+NRG1	3	keto diet;vitamin A;vitamin E	20.394970124971472	True	False
+GRIP1	3	vitamin A;vitamin D;vitamin E	18.412791202632572	True	True
+NCOA1	3	vitamin A;vitamin B6;vitamin D	17.512679603415346	True	False
+ETV4	3	keto diet;vitamin A;vitamin C	17.33581340417889	True	True
+COL3A1	3	folic acid;vitamin A;vitamin B12	15.564664151542845	False	False
+ITGB6	3	vitamin A;vitamin D;zinc	15.520511839343543	True	False
+GDF11	3	vitamin A;vitamin B12;vitamin E	14.212701621805383	True	True
+CDO1	3	vitamin A;vitamin B6;vitamin E	13.961578170512247	False	False
+KLK3	3	vitamin A;vitamin B12;vitamin E	13.642047046089079	True	False
+TRPC6	3	vitamin B12;vitamin D;vitamin E	13.638283408618857	False	False
+WNT9B	3	vitamin B12;vitamin D;zinc	13.58183973323694	True	True
+PAX2	3	vitamin A;vitamin B12;vitamin D	12.567424525780162	True	True
+CDH2	3	folic acid;vitamin A;vitamin E	11.675034361897001	False	False
+CHRD	3	vitamin B12;vitamin B6;vitamin D	11.551641694053718	False	False
+SCARF2	3	vitamin A;vitamin C;zinc	11.218077791935888	False	False
+ETV1	3	keto diet;vitamin A;vitamin E	10.936186340770124	False	False
+SFRP4	3	folic acid;vitamin A;vitamin B12	10.819239272449716	False	False
+EP300	3	vitamin A;vitamin D;vitamin E	10.715120229406011	False	False
+FBLN1	3	folic acid;vitamin A;zinc	10.693707131701146	False	False
+IRX3	3	vitamin A;vitamin C;vitamin E	10.263917216826734	False	False
+FGFR3	3	vitamin A;vitamin C;vitamin D	10.184997907994692	False	False
+SOX12	3	vitamin C;vitamin D;vitamin E	10.142097789158683	False	False
+SLC22A8	3	folic acid;vitamin B6;zinc	9.9072003945547	True	False
+CLIC5	3	vitamin C;vitamin D;vitamin E	9.304744957399954	False	False
+VLDLR	3	folic acid;vitamin A;vitamin B12	9.216483515731422	False	False
+CREB1	3	vitamin D;vitamin E;zinc	9.190556252635462	False	False
+ANGPT1	3	folic acid;vitamin A;vitamin B12	9.15178720110517	False	False
+COL18A1	3	folic acid;vitamin A;vitamin D	9.098339839064993	False	False
+LAMB1	3	folic acid;vitamin A;vitamin E	9.087204021658296	False	False
+FAM174B	3	vitamin A;vitamin D;vitamin E	9.003808341545046	False	False
+FRZB	3	folic acid;vitamin A;vitamin B12	8.937308744375796	False	False
+RNF43	3	iron;vitamin D;vitamin E	8.893367674171984	False	False
+COL5A1	3	folic acid;vitamin A;vitamin D	8.880753805664508	False	False
+CCM2L	3	folic acid;keto diet;vitamin A	8.870410028556273	False	False
+SMOC2	3	vitamin B12;vitamin C;zinc	8.857332556330393	False	False
+PTN	3	vitamin A;vitamin D;vitamin E	8.832256161677254	False	False
+VEPH1	3	folic acid;vitamin D;vitamin E	8.737177674263318	False	False
+FZD5	3	folic acid;keto diet;vitamin D	8.700613899897972	False	False
+FGF11	3	folic acid;vitamin B12;vitamin D	8.694537177956025	False	False
+SPRY4	3	vitamin B12;vitamin C;vitamin E	8.63347782307154	False	False
+ZNF503	3	vitamin A;vitamin C;vitamin D	8.624512227922638	False	False
+GLCE	3	vitamin A;vitamin B6;vitamin C	8.559618754690604	False	False
+LUM	3	folic acid;vitamin A;vitamin C	8.476026570964983	False	False
+FZD2	3	vitamin A;vitamin D;zinc	8.363520306119993	False	False
+PTCH1	3	vitamin A;vitamin D;vitamin E	8.357302308586803	False	False
+COL6A2	3	folic acid;vitamin A;vitamin D	8.245452091060914	False	False
+MFGE8	3	folic acid;vitamin A;vitamin D	8.175019685779244	False	False
+EPHA3	3	vitamin A;vitamin B6;vitamin E	8.102011113820417	False	False
+DDR2	3	folic acid;vitamin A;vitamin E	8.00591671602269	False	False
+GAS1	3	iron;vitamin A;vitamin C	7.977757261416754	False	False
+FLT4	3	folic acid;vitamin D;vitamin E	7.956684065740334	False	False
+PAX8	3	vitamin A;vitamin B12;vitamin D	7.910536029785603	False	False
+GJD3	3	vitamin B6;vitamin C;vitamin E	7.804419865436417	False	False
+TJP1	3	vitamin B6;vitamin C;vitamin E	7.80441918380132	False	False
+COL14A1	3	folic acid;vitamin B12;vitamin E	7.766292409238244	False	False
+HMGA1	3	keto diet;vitamin A;vitamin E	7.759774245834597	False	False
+ROBO3	3	vitamin C;vitamin E;zinc	7.755881234687335	False	False
+FOXF1	3	folic acid;vitamin A;vitamin C	7.709036571444278	False	False
+PCSK6	3	vitamin A;vitamin B12;vitamin D	7.601533613751405	False	False
+MFAP3L	3	vitamin A;vitamin B12;vitamin D	7.601532844570832	False	False
+PTPRB	3	folic acid;vitamin B12;vitamin E	7.587300547258412	False	False
+CCN3	3	folic acid;vitamin A;zinc	7.536169840278287	False	False
+SLC20A1	3	vitamin B12;vitamin C;zinc	7.521632489464726	False	False
+CPXM2	3	vitamin A;vitamin E;zinc	7.4979268256088	False	False
+BRCA1	3	vitamin C;vitamin D;vitamin E	7.481957308651664	False	False
+SOX7	3	iron;vitamin C;vitamin E	7.425697817069008	False	False
+ACVR1B	3	vitamin A;vitamin D;vitamin E	7.384528111039639	False	False
+KITLG	3	folic acid;vitamin A;zinc	7.352152827084961	False	False
+COL5A2	3	folic acid;iron;vitamin A	7.348617222291984	False	False
+DIRAS3	3	vitamin A;vitamin C;zinc	7.30202704491978	False	False
+MITF	3	vitamin A;vitamin D;vitamin E	7.265807755106771	False	False
+WNT3	3	vitamin A;vitamin B12;vitamin D	7.128949164379185	False	False
+LRATD2	3	keto diet;vitamin B6;vitamin C	7.11947884447532	False	False
+CALB1	3	keto diet;vitamin B6;vitamin D	7.099849460853896	False	False
+EGFLAM	3	folic acid;vitamin A;vitamin B12	6.968927123418381	False	False
+EFEMP1	3	folic acid;vitamin A;zinc	6.889700826880742	False	False
+TBC1D3B	3	vitamin D;vitamin E;zinc	6.818223180378785	False	False
+RASD2	3	vitamin A;vitamin D;vitamin E	6.737880189617095	False	False
+BCAR3	3	keto diet;vitamin B12;vitamin C	6.73058868293981	False	False
+THY1	3	folic acid;vitamin A;vitamin E	6.72747281851199	False	False
+RBP5	3	keto diet;vitamin B6;zinc	6.6411401393389955	False	False
+VHL	3	vitamin C;vitamin E;zinc	6.389037815682225	False	False
+PLCG1	3	folic acid;vitamin C;vitamin E	6.27586163632195	False	False
+PRRG2	3	vitamin B12;vitamin D;vitamin E	6.264015937590354	False	False
+SOX5	3	keto diet;vitamin A;vitamin B6	6.129473891976426	False	False
+NR3C2	3	keto diet;vitamin D;vitamin E	6.089974081343411	False	False
+LEFTY1	3	vitamin A;vitamin C;vitamin E	6.057512366279177	False	False
+ERBB2	3	folic acid;vitamin A;vitamin D	6.033871241980716	False	False
+TPSD1	3	vitamin A;vitamin B12;vitamin E	6.012702959486328	False	False
+THPO	3	folic acid;vitamin B12;vitamin E	5.925511779125858	False	False
+PPP1R14C	3	keto diet;vitamin D;vitamin E	5.9231624445062465	False	False
+CXXC5	3	vitamin A;vitamin B6;vitamin D	5.910673853845672	False	False
+SST	3	keto diet;vitamin A;vitamin B6	5.897365269341676	False	False
+SPRED1	3	folic acid;keto diet;vitamin E	5.8747796836265485	False	False
+GCM1	3	keto diet;vitamin B12;vitamin D	5.825996155921186	False	False
+FRK	3	folic acid;vitamin C;vitamin E	5.778938281494691	False	False
+DDR1	3	folic acid;vitamin A;vitamin D	5.756858243203095	False	False
+CTHRC1	3	folic acid;vitamin A;vitamin B12	5.714302309866842	False	False
+MYO7A	3	folic acid;vitamin B12;zinc	5.709664756902374	False	False
+UST	3	folic acid;vitamin B12;vitamin C	5.7039079100026155	False	False
+PLTP	3	folic acid;vitamin A;vitamin C	5.66906157086113	False	False
+PODXL	3	folic acid;vitamin A;vitamin E	5.661967734134469	False	False
+C4orf19	3	folic acid;vitamin B12;vitamin D	5.658004027788939	False	False
+SEMA7A	3	folic acid;vitamin C;vitamin D	5.657970614693128	False	False
+INHA	3	vitamin A;vitamin B12;vitamin B6	5.588639200749791	False	False
+SLCO4A1	3	folic acid;vitamin B12;zinc	5.490229970090814	False	False
+NEO1	3	folic acid;vitamin C;vitamin E	5.4429018290289	False	False
+ADGRG6	3	iron;vitamin A;zinc	5.397495673368408	False	False
+CMTM8	3	vitamin D;vitamin E;zinc	5.392124814649024	False	False
+CXCL14	3	folic acid;vitamin A;vitamin B12	5.3585387353844425	False	False
+DBH	3	vitamin B12;vitamin B6;zinc	5.343347139047227	False	False
+SMTN	3	folic acid;vitamin A;vitamin D	5.341063870705648	False	False
+AQP2	3	vitamin B12;vitamin E;zinc	5.3036168303290046	False	False
+FER	3	folic acid;vitamin C;vitamin E	5.213573060502956	False	False
+STK11	3	vitamin B6;vitamin D;vitamin E	5.174747179480882	False	False
+ZMYND12	3	folic acid;vitamin A;vitamin E	5.158084585613572	False	False
+ITGA1	3	vitamin A;vitamin C;vitamin D	5.113418336656115	False	False
+KMT2D	3	iron;vitamin A;vitamin D	5.093106063786516	False	False
+MEF2C	3	folic acid;vitamin A;vitamin D	4.918479565072985	False	False
+LRRIQ3	3	folic acid;vitamin E;zinc	4.913917032107677	False	False
+FMOD	3	folic acid;vitamin A;vitamin B12	4.879604878503639	False	False
+NAPSA	3	iron;vitamin A;vitamin D	4.8721810226571804	False	False
+SPRED2	3	vitamin D;vitamin E;zinc	4.849880603063359	False	False
+MEST	3	folic acid;keto diet;vitamin C	4.830941619699476	False	False
+CLEC3B	3	folic acid;vitamin B12;zinc	4.822782038815731	False	False
+MAPK7	3	folic acid;keto diet;vitamin C	4.724792992295224	False	False
+LAMA5	3	folic acid;vitamin B6;vitamin D	4.712161789714154	False	False
+BEX2	3	folic acid;iron;vitamin D	4.671338814842124	False	False
+PLEKHA6	3	folic acid;vitamin B12;vitamin D	4.669311169188087	False	False
+EDNRB	3	folic acid;vitamin B12;vitamin B6	4.652400736684248	False	False
+COL4A4	3	vitamin A;vitamin B12;vitamin D	4.619877703064291	False	False
+EFNA1	3	folic acid;vitamin D;vitamin E	4.618547455551576	False	False
+DPT	3	folic acid;vitamin B12;zinc	4.607135512341059	False	False
+CLN6	3	iron;vitamin B6;vitamin E	4.539870699548145	False	False
+PRDM2	3	vitamin C;vitamin D;vitamin E	4.446636321792998	False	False
+TSPAN8	3	folic acid;vitamin B6;vitamin D	4.436768572474492	False	False
+WASL	3	iron;vitamin B6;zinc	4.40676331146311	False	False
+ADAMTS7	3	vitamin C;vitamin D;vitamin E	4.402774107996268	False	False
+UACA	3	keto diet;vitamin B12;vitamin E	4.3463314823952945	False	False
+ITGA9	3	vitamin A;vitamin D;zinc	4.339262386641311	False	False
+NBEAL1	3	folic acid;keto diet;vitamin A	4.334535796082371	False	False
+COL7A1	3	folic acid;vitamin C;vitamin D	4.327543204531141	False	False
+ACVR1	3	vitamin A;vitamin D;vitamin E	4.3151332939622735	False	False
+CD276	3	folic acid;vitamin A;zinc	4.270192935033597	False	False
+ARSJ	3	folic acid;vitamin A;vitamin D	4.22616679654968	False	False
+FABP4	3	folic acid;vitamin A;vitamin D	4.162276709792341	False	False
+MME	3	keto diet;vitamin D;vitamin E	4.149128747592878	False	False
+GLIS2	3	folic acid;vitamin A;vitamin E	4.141390099435572	False	False
+ACTG2	3	folic acid;iron;vitamin B12	4.088069035108512	False	False
+ADAMTS9	3	folic acid;vitamin B12;vitamin C	4.0751695284898615	False	False
+ZFP41	3	folic acid;vitamin A;vitamin B12	4.034839215015111	False	False
+OCLN	3	folic acid;vitamin E;zinc	4.00844266041341	False	False
+ADAMTS12	3	folic acid;vitamin B12;zinc	3.939447432563048	False	False
+CATIP	3	iron;vitamin C;vitamin E	3.8798085557184043	False	False
+PARP4	3	vitamin B12;vitamin C;vitamin E	3.8263779052202844	False	False
+ROBO4	3	folic acid;keto diet;vitamin E	3.788512072723549	False	False
+ABCA4	3	folic acid;vitamin A;vitamin E	3.766457477495592	False	False
+SCUBE3	3	folic acid;vitamin A;vitamin E	3.554262099144234	False	False
+SELP	3	vitamin A;vitamin C;vitamin E	3.490381336097482	False	False
+FHL2	3	folic acid;vitamin A;vitamin D	3.4620457735735153	False	False
+EGLN1	2	vitamin C;zinc	131.22411920153155	True	True
+UBA52	2	iron;zinc	70.50827073243514	True	False
+DNMT1	2	folic acid;keto diet	52.72116108873264	True	False
+MGMT	2	vitamin E;zinc	39.23801498815315	True	False
+SMAD5	2	vitamin D;vitamin E	37.03535363072467	True	True
+UBE2I	2	vitamin D;vitamin E	32.369310115142326	True	False
+NOTCH1	2	folic acid;vitamin E	31.81126431251704	True	True
+DES	2	folic acid;vitamin A	29.368311568072105	True	True
+GPC4	2	vitamin A;vitamin C	28.03232609924708	True	False
+GLI2	2	vitamin A;vitamin D	24.461513236165228	True	True
+GLI3	2	vitamin A;vitamin D	24.43906621667606	True	True
+MYCL	2	vitamin D;zinc	23.957126983540856	True	False
+RBP1	2	vitamin A;vitamin B12	23.559508652624515	True	False
+LAMB2	2	vitamin A;vitamin D	22.821515935890634	True	True
+HHEX	2	vitamin A;vitamin D	21.611145515010076	True	False
+SEMA3B	2	vitamin A;vitamin D	21.153448118742464	True	False
+ETV5	2	vitamin D;vitamin E	21.147493057633096	True	True
+TCF21	2	folic acid;vitamin B12	21.146616025878014	True	True
+EGLN3	2	vitamin C;zinc	20.47621038668876	True	True
+WNT11	2	vitamin A;vitamin D	20.360308533010013	True	True
+SPRY1	2	vitamin A;zinc	20.250010960176276	True	True
+SOX17	2	vitamin A;vitamin E	18.9286198184463	True	True
+CRIM1	2	folic acid;vitamin E	17.543796073725552	True	True
+SMO	2	vitamin A;vitamin D	17.494805616005387	True	True
+GFRA1	2	keto diet;vitamin E	17.275290768580177	True	True
+GUCY1A1	2	vitamin B12;vitamin B6	17.070381807581438	True	False
+FRAS1	2	keto diet;vitamin A	17.06255749709619	True	True
+STK3	2	keto diet;vitamin B6	16.35512644966617	False	False
+MSX1	2	folic acid;vitamin A	15.116573217955647	False	False
+ADAMTS15	2	vitamin D;vitamin E	14.463023300800034	False	False
+ID4	2	vitamin A;vitamin E	14.159830345106458	False	False
+ADGRD1	2	vitamin D;vitamin E	14.14001875955827	False	False
+LAMC1	2	folic acid;vitamin A	13.717464579198618	False	False
+SHF	2	vitamin A;vitamin D	13.381845147592058	False	False
+LTBP1	2	vitamin A;vitamin B6	13.081233199636854	False	False
+ADAMTS5	2	folic acid;vitamin A	11.978251131909179	False	False
+EYA4	2	keto diet;vitamin A	11.841733941266895	False	False
+PRRX1	2	folic acid;vitamin A	11.71149285728371	False	False
+NR2F1	2	vitamin A;vitamin D	11.621415691093116	False	False
+RNF122	2	vitamin B6;vitamin D	10.95511561054113	False	False
+FIBIN	2	folic acid;vitamin B12	10.574344386515302	False	False
+HOXA11	2	keto diet;vitamin A	10.314800681590915	True	True
+DKK3	2	folic acid;vitamin E	10.252050935530344	False	False
+ZNRF3	2	iron;vitamin C	10.229014696030237	False	False
+HOXC11	2	folic acid;vitamin A	10.135846671397676	True	True
+HSH2D	2	keto diet;vitamin E	10.12972139490825	False	False
+ARMH4	2	folic acid;vitamin B12	9.913200620405407	False	False
+AGR3	2	folic acid;vitamin B6	9.807641919220638	False	False
+NCKAP5	2	folic acid;vitamin C	9.727739709603473	False	False
+NOTUM	2	vitamin A;vitamin E	9.715899553775536	False	False
+ITGB4	2	vitamin A;vitamin D	9.643658222945396	False	False
+WFIKKN1	2	vitamin B12;vitamin D	9.637181023523043	False	False
+TGFBR3	2	folic acid;vitamin A	9.612900481442914	False	False
+ACY3	2	vitamin A;zinc	9.501223310554582	False	False
+WNT2B	2	vitamin A;vitamin D	9.259134540961963	False	False
+RGMB	2	vitamin D;vitamin E	9.092673435858833	False	False
+NUDT10	2	folic acid;vitamin E	9.080010244657418	False	False
+CARM1	2	vitamin B6;vitamin D	9.039717660632395	False	False
+PPM1L	2	folic acid;vitamin B12	9.03174549962937	False	False
+DACT3	2	folic acid;vitamin E	8.80673386318055	False	False
+RNF24	2	iron;vitamin B12	8.799707012290467	False	False
+KLF8	2	vitamin C;vitamin E	8.710957777396594	False	False
+NAA80	2	folic acid;vitamin C	8.613048729582877	False	False
+CDH6	2	keto diet;vitamin A	8.51320129401825	False	False
+FBXO16	2	iron;vitamin E	8.500415384504004	False	False
+TBX2	2	vitamin A;vitamin D	8.473918057772172	False	False
+SMKR1	2	iron;keto diet	8.438260344888961	False	False
+NCAM1	2	vitamin E;zinc	8.373347238938324	False	False
+EXT1	2	vitamin A;zinc	8.239692339917383	False	False
+HLX	2	vitamin A;vitamin C	8.15811383145801	False	False
+BMP8A	2	vitamin D;vitamin E	8.076140643691694	False	False
+NID2	2	folic acid;vitamin A	8.076054909497996	False	False
+KDM4C	2	keto diet;vitamin E	7.997949641913582	False	False
+DPY19L3	2	iron;zinc	7.921648531354959	False	False
+SLC16A4	2	keto diet;vitamin C	7.91274430673659	False	False
+ENAH	2	keto diet;vitamin B6	7.882997107234054	False	False
+TCF7L1	2	keto diet;vitamin A	7.880947258521964	False	False
+FZD6	2	vitamin A;vitamin D	7.774293604987071	False	False
+IHH	2	vitamin B12;vitamin D	7.742628749237698	False	False
+KRTAP5-1	2	iron;zinc	7.695440813543748	False	False
+RILP	2	folic acid;vitamin B12	7.6666129317325105	False	False
+HS3ST3A1	2	vitamin A;vitamin E	7.626990532736773	False	False
+POU2F1	2	vitamin A;vitamin D	7.625170673011817	False	False
+HS3ST6	2	vitamin A;vitamin E	7.596661181991155	False	False
+COL4A5	2	vitamin D;vitamin E	7.520346647327028	False	False
+SULF1	2	folic acid;vitamin A	7.497895352571884	False	False
+CITED4	2	vitamin A;vitamin E	7.448548092068462	False	False
+SFRP2	2	folic acid;vitamin A	7.401470537200596	False	False
+PLA2R1	2	folic acid;keto diet	7.395684980969091	False	False
+CDH5	2	folic acid;keto diet	7.361911249612435	False	False
+MYH11	2	vitamin B12;vitamin E	7.217705339045434	False	False
+LIFR	2	folic acid;vitamin E	7.208030187459903	False	False
+CNN1	2	folic acid;vitamin B12	7.188901907946275	False	False
+FGF17	2	vitamin B12;vitamin D	7.182493058867899	False	False
+TYRP1	2	iron;zinc	7.1087356238924695	False	False
+IRX5	2	keto diet;vitamin A	7.106225954056152	False	False
+TNFRSF21	2	vitamin E;zinc	7.087424919835053	False	False
+TMEM204	2	iron;vitamin C	7.041813995682939	False	False
+TFAP2C	2	vitamin A;vitamin D	7.039767391971235	False	False
+PCBP3	2	folic acid;keto diet	6.959034826512509	False	False
+IRX1	2	vitamin A;vitamin E	6.902644959952954	False	False
+RUNX1T1	2	keto diet;vitamin D	6.873609942484052	False	False
+SMAD2	2	keto diet;vitamin D	6.859881153975683	False	False
+FSTL4	2	vitamin B12;vitamin E	6.847930604479863	False	False
+LAMA4	2	folic acid;vitamin A	6.822949004795019	False	False
+YAP1	2	vitamin A;vitamin E	6.822121879863932	False	False
+PGAP1	2	iron;keto diet	6.806303626067828	False	False
+TCF3	2	vitamin C;vitamin E	6.762688276034665	False	False
+MESP1	2	vitamin C;vitamin E	6.762686009500075	False	False
+SOX6	2	keto diet;vitamin E	6.72632722080469	False	False
+SEMA5A	2	vitamin A;vitamin E	6.696559692158507	False	False
+DNMT3A	2	vitamin C;vitamin D	6.617014669682097	False	False
+HS6ST1	2	keto diet;vitamin A	6.614106947036564	False	False
+SLC2A4	2	keto diet;vitamin B6	6.490427340732553	False	False
+TCF7L2	2	vitamin D;vitamin E	6.453409721223029	False	False
+KLF13	2	vitamin D;zinc	6.452006312400303	False	False
+PLA2G12B	2	vitamin B12;vitamin B6	6.412145629848348	False	False
+COL12A1	2	vitamin A;vitamin E	6.3609826804478935	False	False
+MFAP4	2	folic acid;vitamin B12	6.346222240693238	False	False
+TBX3	2	keto diet;vitamin A	6.295539263434136	False	False
+COL26A1	2	iron;zinc	6.284767037937506	False	False
+C12orf60	2	folic acid;vitamin D	6.275989364917648	False	False
+RCHY1	2	iron;vitamin B6	6.268816359627918	False	False
+CCDC107	2	iron;vitamin C	6.267460925443013	False	False
+GSK3B	2	vitamin C;vitamin E	6.228525631304567	False	False
+ASB16	2	folic acid;iron	6.226566463924884	False	False
+HS3ST3B1	2	vitamin A;vitamin E	6.220607809980516	False	False
+DNAJC22	2	vitamin B12;vitamin B6	6.2119272483940176	False	False
+DOK5	2	folic acid;vitamin E	6.2018251407437335	False	False
+DNASE1	2	vitamin A;vitamin B12	6.197985298705893	False	False
+ERG	2	vitamin E;zinc	6.190350410123371	False	False
+CCDC24	2	keto diet;vitamin B6	6.178264469885533	False	False
+SH3D19	2	iron;zinc	6.151715908360179	False	False
+ROCK2	2	vitamin A;vitamin E	6.088346795621618	False	False
+SLC16A2	2	vitamin E;zinc	6.077782406173293	False	False
+ISLR	2	folic acid;iron	6.046852309493124	False	False
+NEU3	2	vitamin A;vitamin E	6.041660908360985	False	False
+HESX1	2	keto diet;vitamin A	6.019886455455251	False	False
+EFNB1	2	vitamin A;zinc	5.954115925181157	False	False
+B3GAT1	2	vitamin A;vitamin E	5.937154089824712	False	False
+BCAR1	2	folic acid;vitamin E	5.931049644637697	False	False
+DCBLD2	2	folic acid;keto diet	5.9048420989082215	False	False
+GJC2	2	vitamin A;vitamin E	5.901351782519122	False	False
+IGSF9	2	folic acid;vitamin E	5.90107499379503	False	False
+TSKU	2	vitamin A;vitamin C	5.879438727849831	False	False
+P4HA1	2	vitamin C;zinc	5.866591147173799	False	False
+RGS5	2	vitamin B12;vitamin C	5.864324501190397	False	False
+PNMA8A	2	vitamin A;vitamin C	5.848364175347737	False	False
+EPHB3	2	vitamin D;vitamin E	5.822565239472947	False	False
+EDN2	2	folic acid;vitamin D	5.773453765444945	False	False
+POU2F2	2	vitamin A;vitamin D	5.761687815786792	False	False
+PKNOX1	2	folic acid;vitamin C	5.751254609682253	False	False
+BAMBI	2	vitamin A;vitamin D	5.678909144630912	False	False
+ACVR2A	2	vitamin D;vitamin E	5.645770701896752	False	False
+EMX1	2	vitamin A;vitamin D	5.582853186948753	False	False
+PROM1	2	folic acid;iron	5.539441255131243	False	False
+MECOM	2	vitamin A;vitamin D	5.531589217062066	False	False
+PIK3R1	2	vitamin A;vitamin E	5.526990241965485	False	False
+PLOD2	2	folic acid;vitamin A	5.4970604980887625	False	False
+TYRO3	2	vitamin C;vitamin D	5.494919612228603	False	False
+TGIF2	2	vitamin A;vitamin D	5.46591143248476	False	False
+NR6A1	2	vitamin A;vitamin B6	5.457134554234494	False	False
+MAST4	2	vitamin B12;vitamin D	5.380479738691361	False	False
+TMEM47	2	iron;vitamin C	5.372891601054712	False	False
+MXRA5	2	folic acid;vitamin B12	5.357902778038141	False	False
+ACTN1	2	vitamin A;vitamin D	5.357466242327505	False	False
+NTN4	2	vitamin C;vitamin E	5.345999384892231	False	False
+TMCO4	2	folic acid;vitamin E	5.3196402933823865	False	False
+TPM1	2	folic acid;vitamin A	5.30052624708212	False	False
+SOST	2	vitamin B12;vitamin D	5.231113361624375	False	False
+AOPEP	2	vitamin A;vitamin D	5.210676999178847	False	False
+GASK1B	2	folic acid;iron	5.135985095811202	False	False
+ELK3	2	vitamin A;vitamin D	5.120341786479838	False	False
+BMPR1B	2	vitamin D;vitamin E	5.0905946351443365	False	False
+EPHA1	2	vitamin D;vitamin E	5.073512950930275	False	False
+MYOF	2	vitamin A;vitamin D	5.059513251086633	False	False
+COL15A1	2	folic acid;vitamin A	5.027204204779345	False	False
+TRIB2	2	vitamin D;vitamin E	5.002507852611333	False	False
+MTSS1	2	folic acid;keto diet	4.973902193495069	False	False
+GAREM1	2	folic acid;vitamin E	4.961046234841876	False	False
+FLI1	2	vitamin A;vitamin D	4.932201993845769	False	False
+TCF4	2	folic acid;vitamin E	4.87448301851174	False	False
+NR2F6	2	vitamin A;vitamin D	4.837745034277285	False	False
+DRD2	2	iron;vitamin B6	4.8374409680456845	False	False
+SPON1	2	folic acid;vitamin B12	4.830175711212858	False	False
+PRM2	2	vitamin A;vitamin B12	4.759485823720541	False	False
+BNC2	2	folic acid;keto diet	4.732869799689102	False	False
+KLF7	2	vitamin D;vitamin E	4.721103592250236	False	False
+AVPR2	2	vitamin B12;vitamin D	4.705013592720235	False	False
+DMD	2	folic acid;vitamin B6	4.697421541833698	False	False
+SATB2	2	vitamin B12;vitamin D	4.692604465377694	False	False
+PNRC1	2	vitamin A;vitamin E	4.6336742060458205	False	False
+RHPN2	2	vitamin A;vitamin B12	4.6266306022209855	False	False
+CDH16	2	vitamin C;vitamin D	4.617425709270095	False	False
+ABCA9	2	folic acid;vitamin B6	4.512290886897154	False	False
+CADM1	2	folic acid;vitamin A	4.489229783784847	False	False
+SVEP1	2	folic acid;vitamin B12	4.483653893443137	False	False
+LARGE1	2	vitamin A;vitamin E	4.472402262841106	False	False
+CDHR5	2	vitamin A;vitamin B12	4.41397263855561	False	False
+PRPH	2	vitamin A;vitamin E	4.410352670906642	False	False
+LAMA2	2	vitamin B12;vitamin C	4.390386523486647	False	False
+PLXNA2	2	keto diet;vitamin D	4.349488560324521	False	False
+NEDD4	2	vitamin C;vitamin D	4.344528266924793	False	False
+CRTC2	2	vitamin C;vitamin E	4.330011483992608	False	False
+ACE	2	vitamin B12;vitamin B6	4.3201865461888955	False	False
+AEBP1	2	folic acid;vitamin B12	4.293233832582963	False	False
+GUCD1	2	keto diet;vitamin B6	4.244254127337624	False	False
+PRXL2C	2	folic acid;vitamin B12	4.232355820770634	False	False
+LYVE1	2	folic acid;vitamin E	4.227773741275259	False	False
+FBLN2	2	folic acid;vitamin A	4.211942991280285	False	False
+CX3CR1	2	vitamin A;vitamin B6	4.20948686992391	False	False
+CALCA	2	keto diet;vitamin B6	4.195262300577763	False	False
+NFIC	2	vitamin A;vitamin D	4.172393910237647	False	False
+SOCS5	2	folic acid;keto diet	4.167746191165561	False	False
+MPDZ	2	vitamin B6;vitamin C	4.158640103519107	False	False
+KBTBD3	2	keto diet;vitamin D	4.149129421522284	False	False
+CEBPG	2	vitamin E;zinc	4.109385298538815	False	False
+AMER1	2	vitamin A;vitamin C	4.1024105871062995	False	False
+SEMA4G	2	folic acid;vitamin C	4.087434249584393	False	False
+CRISPLD1	2	folic acid;vitamin B12	4.067546089180928	False	False
+PAGR1	2	vitamin A;vitamin D	4.0262206341482685	False	False
+PHF8	2	vitamin A;vitamin D	3.970697769471522	False	False
+PRKACA	2	vitamin B6;vitamin E	3.944735265798948	False	False
+CD109	2	iron;vitamin A	3.9084820245487997	False	False
+GCG	2	vitamin B6;vitamin E	3.8831868533870786	False	False
+SORCS1	2	vitamin A;vitamin B6	3.8810309294287824	False	False
+HNF4G	2	vitamin A;vitamin B6	3.8608549538254353	False	False
+SDCBP	2	vitamin A;zinc	3.800790109823976	False	False
+SLC34A1	2	vitamin B12;zinc	3.7951843483053045	False	False
+JAM2	2	vitamin B12;vitamin E	3.770927734764502	False	False
+TIE1	2	folic acid;vitamin B12	3.7510166018639617	False	False
+PLXNA1	2	folic acid;vitamin A	3.7356406544824012	False	False
+UMOD	2	folic acid;vitamin B12	3.602938052725232	False	False
+CLOCK	2	vitamin D;vitamin E	3.588539786693739	False	False
+L1CAM	2	keto diet;vitamin B6	3.5807772901769557	False	False
+PCOLCE	2	folic acid;vitamin A	3.5568826621688565	False	False
+COL16A1	2	vitamin A;vitamin D	3.5439558183536515	False	False
+TOX3	2	keto diet;vitamin B6	3.5316552273864525	False	False
+PCOLCE2	2	folic acid;vitamin A	3.5245818608749917	False	False
+CD248	2	folic acid;vitamin B12	3.5138096901710725	False	False
+ZNF441	2	vitamin A;vitamin B12	3.511728954056892	False	False
+DPYSL3	2	iron;vitamin C	3.4792715300542505	False	False
+PLPP3	2	vitamin B12;zinc	3.459791371523947	False	False
+ASPN	2	folic acid;vitamin B12	3.3994829132889985	False	False
+SCUBE2	2	vitamin D;vitamin E	3.353457157154227	False	False
+MFAP2	2	folic acid;vitamin A	3.3119451440621557	False	False
+IL13RA2	2	vitamin B6;vitamin C	3.273427234449264	False	False
+SATB1	2	vitamin B12;vitamin D	3.269977553268807	False	False
+YY1	1	vitamin E	96.27211304189491	True	False
+FOXC1	1	vitamin A	89.82999446773037	False	True
+RPS27A	1	iron	68.86630735057528	True	False
+UBB	1	iron	60.001140328624956	True	False
+CDK4	1	vitamin E	49.786487244343704	True	False
+HDAC1	1	keto diet	40.37227793511664	True	False
+OSR1	1	zinc	27.620265731324416	True	True
+ZNF462	1	vitamin D	27.466944725900156	True	False
+NOTCH2	1	vitamin A	27.39705851486095	True	True
+FAT4	1	folic acid	25.045380025416357	True	True
+HDAC2	1	keto diet	24.374271599728164	True	False
+COL13A1	1	vitamin D	22.77049541919568	True	False
+PIK3C2G	1	keto diet	22.423666972918284	False	False
+PCP4	1	keto diet	20.895657336130817	False	False
+CTDNEP1	1	vitamin B12	20.487375683575422	True	True
+FREM2	1	vitamin A	18.82330130167081	True	True
+TSHZ3	1	vitamin D	18.499145801655082	True	True
+ROBO1	1	vitamin E	17.050916904046463	True	True
+SEMA3F	1	vitamin D	16.32304506113963	True	False
+SHH	1	vitamin A	16.316675557134	True	True
+FOXC2	1	zinc	16.09381447848517	True	True
+DACT2	1	vitamin B12	15.993253280200523	False	False
+REN	1	vitamin D	15.957725162635995	True	True
+VANGL2	1	zinc	15.439706146113716	True	True
+TRPC4	1	vitamin E	14.172048869503643	False	False
+SMAD1	1	vitamin E	13.7779984541523	True	True
+JCAD	1	vitamin B12	13.061857275723353	False	False
+TNNT2	1	folic acid	13.04426442637478	True	False
+GGACT	1	vitamin B12	12.789783700640232	False	False
+HOXD11	1	vitamin A	12.76768717223075	True	True
+MOB3B	1	vitamin E	11.256503638753612	False	False
+DNAAF8	1	keto diet	11.160661174193104	False	False
+KRTAP5-8	1	vitamin A	10.534434220271901	False	False
+LGR6	1	iron	10.471049973963206	False	False
+PLAC9	1	folic acid	10.02584351647742	False	False
+VWA8	1	keto diet	9.52016394935305	False	False
+RPRM	1	vitamin D	9.410680872112495	False	False
+LRP6	1	vitamin A	9.372895323304974	False	False
+EEPD1	1	iron	9.357823230683953	False	False
+ALX1	1	vitamin A	9.158507622794849	False	False
+KCNK3	1	vitamin E	9.147664924928375	False	False
+SLIT3	1	folic acid	9.109820681425562	False	False
+SLC25A12	1	vitamin C	9.049494229050296	False	False
+LDB2	1	vitamin B12	8.830657852923693	False	False
+GARIN5A	1	vitamin E	8.697085400277212	False	False
+PTPN11	1	vitamin E	8.697085311645104	False	False
+FAM107A	1	zinc	8.618720174950397	False	False
+SEMA3C	1	vitamin A	8.584156271157566	False	False
+CCN6	1	vitamin D	8.497056910434596	False	False
+RASSF6	1	zinc	8.382504126572169	False	False
+RPS14	1	folic acid	8.382320448725451	False	False
+MFAP5	1	folic acid	8.347543598741265	False	False
+EFNB2	1	vitamin A	8.291335651082578	False	False
+SLC25A21	1	keto diet	8.256388189405659	False	False
+ATOH7	1	vitamin A	8.051175042252359	False	False
+PLEKHB1	1	vitamin D	7.87790787040441	False	False
+TTC22	1	vitamin B12	7.731090361966649	False	False
+TCF15	1	folic acid	7.69679376209194	False	False
+FRS2	1	vitamin E	7.687056348855186	False	False
+HOXC10	1	vitamin E	7.571719535495107	False	False
+CSRNP3	1	keto diet	7.497961452025904	False	False
+HPSE	1	vitamin A	7.348115579917677	False	False
+RYK	1	zinc	7.340451475201489	False	False
+SOS1	1	folic acid	7.290474927550699	False	False
+CNTNAP3B	1	vitamin C	7.285367610953816	False	False
+NUMB	1	vitamin D	7.215593671179466	False	False
+MATN2	1	vitamin D	7.050694158038538	False	False
+ETNK2	1	vitamin E	6.983070609506668	False	False
+PIK3CB	1	vitamin E	6.982903056902695	False	False
+BVES	1	vitamin E	6.974254302170474	False	False
+ANKRD6	1	keto diet	6.967385315542022	False	False
+FAT1	1	vitamin C	6.869669912931078	False	False
+MAP6	1	vitamin A	6.867810401096231	False	False
+H1-0	1	vitamin A	6.796531596802688	False	False
+TMEM184A	1	vitamin B12	6.777762436622466	False	False
+UFSP1	1	vitamin C	6.743660738213736	False	False
+IFFO2	1	vitamin D	6.668719997407372	False	False
+SLC25A13	1	keto diet	6.59615597397381	False	False
+PTPRK	1	vitamin B6	6.505517930349873	False	False
+PTPRD	1	keto diet	6.450981003243274	False	False
+CILK1	1	vitamin B6	6.423236338068839	False	False
+PPP1R1B	1	vitamin B6	6.319333601859914	False	False
+TSHZ1	1	vitamin A	6.279171586591499	False	False
+TLE2	1	vitamin E	6.271977744677072	False	False
+WTIP	1	vitamin A	6.108367004486054	False	False
+GPR176	1	keto diet	6.0904284782487625	False	False
+EEA1	1	iron	6.071551495991393	False	False
+MEGF6	1	vitamin D	6.06949101696312	False	False
+MAML1	1	keto diet	6.030047299038866	False	False
+B3GALT6	1	vitamin A	5.971817318722424	False	False
+LGR4	1	vitamin B12	5.964965495949768	False	False
+TOX	1	keto diet	5.880180528713413	False	False
+GALNT18	1	vitamin A	5.8688041939851034	False	False
+MSS51	1	vitamin D	5.842289161772955	False	False
+SOCS7	1	vitamin C	5.815022629681171	False	False
+NTAQ1	1	zinc	5.741672874802852	False	False
+PIK3CA	1	vitamin E	5.7343620000428315	False	False
+HOXA7	1	vitamin A	5.723719164627962	False	False
+IRX2	1	vitamin A	5.716043990404727	False	False
+MAML3	1	vitamin D	5.688633367881325	False	False
+TGFBR1	1	vitamin E	5.687307010606564	False	False
+HOXB6	1	iron	5.65402813722374	False	False
+HOXA6	1	keto diet	5.623836822661154	False	False
+EBF1	1	vitamin C	5.621158124865259	False	False
+DISP1	1	keto diet	5.578262632042819	False	False
+HOXC6	1	vitamin E	5.577415248570473	False	False
+ARHGAP29	1	vitamin A	5.555717307082397	False	False
+FAM72A	1	vitamin A	5.518433139227357	False	False
+UNC5C	1	keto diet	5.479332926620868	False	False
+SOX18	1	vitamin B6	5.467633344600078	False	False
+CLRN3	1	folic acid	5.436556302227303	False	False
+SHC3	1	vitamin E	5.424994263978187	False	False
+CHRDL1	1	vitamin B12	5.366974248229773	False	False
+TBX19	1	keto diet	5.3348719120937504	False	False
+SYNPO	1	vitamin A	5.310919970193103	False	False
+KDM5B	1	vitamin D	5.310629701818782	False	False
+BARX2	1	vitamin A	5.300383949759342	False	False
+PTH1R	1	vitamin D	5.28477551791982	False	False
+TWSG1	1	vitamin D	5.259132484674086	False	False
+JUP	1	vitamin A	5.247548699610193	False	False
+LRP5	1	vitamin A	5.241640892137695	False	False
+HDAC5	1	vitamin D	5.239153859319782	False	False
+CLDN11	1	vitamin D	5.238754291808465	False	False
+NFIA	1	vitamin E	5.237029245403351	False	False
+OSR2	1	vitamin C	5.221516360999377	False	False
+MCF2	1	vitamin B12	5.183352672582078	False	False
+NFIB	1	folic acid	5.179723595122417	False	False
+ITGA11	1	zinc	5.1710270091684345	False	False
+SYNC	1	vitamin A	5.153090288652206	False	False
+AVIL	1	vitamin D	5.134373500867705	False	False
+SALL3	1	vitamin C	5.037355424616146	False	False
+HOXB9	1	vitamin A	5.030666811153385	False	False
+LRRIQ1	1	vitamin B12	4.984537060164142	False	False
+GPR39	1	folic acid	4.984107052309224	False	False
+DSCAML1	1	vitamin B6	4.950812902467297	False	False
+MYO10	1	folic acid	4.945668995955372	False	False
+GRB10	1	folic acid	4.93180493026044	False	False
+DACH1	1	keto diet	4.922886062082229	False	False
+OLFML1	1	folic acid	4.9017087727466935	False	False
+TSHZ2	1	vitamin B12	4.893849600029977	False	False
+NPY1R	1	vitamin B6	4.888360313574688	False	False
+SPAG4	1	vitamin A	4.861844477560302	False	False
+CTNNBIP1	1	vitamin E	4.8562249321990185	False	False
+HDAC11	1	keto diet	4.853311635276097	False	False
+POU5F1B	1	vitamin E	4.8393185571276325	False	False
+PALMD	1	iron	4.817203795412285	False	False
+EEF1AKMT1	1	zinc	4.811573276170576	False	False
+ZNF423	1	vitamin A	4.770727461435181	False	False
+CSRP2	1	folic acid	4.7674111784891124	False	False
+RHPN1	1	vitamin E	4.76739986715648	False	False
+PCDH17	1	vitamin B12	4.750309118966273	False	False
+LIPH	1	folic acid	4.734171526287506	False	False
+HECTD3	1	vitamin E	4.728264637321714	False	False
+COP1	1	vitamin E	4.698686018602837	False	False
+ITGA7	1	vitamin A	4.687305891079284	False	False
+NECTIN1	1	vitamin B12	4.669225091562716	False	False
+RXFP1	1	keto diet	4.6459837819757945	False	False
+ARTN	1	vitamin D	4.613931984008198	False	False
+PTPRU	1	vitamin D	4.598536816686928	False	False
+POU6F1	1	vitamin D	4.580439657404844	False	False
+HOXB7	1	vitamin E	4.5802108206094525	False	False
+TRPC1	1	keto diet	4.569494993623008	False	False
+PTCH2	1	vitamin B12	4.561257788467427	False	False
+KCNE4	1	keto diet	4.550766590224976	False	False
+ADGRA3	1	iron	4.51980846053676	False	False
+DUSP9	1	vitamin E	4.506936025193481	False	False
+TRPS1	1	vitamin D	4.4980031381662835	False	False
+ACVR2B	1	vitamin E	4.48916191015772	False	False
+PRSS23	1	vitamin A	4.478804917367271	False	False
+HSBP1L1	1	vitamin A	4.478061714422137	False	False
+COL9A2	1	vitamin D	4.475198650931429	False	False
+NRCAM	1	keto diet	4.471301202568667	False	False
+HOXB3	1	vitamin A	4.457195259199185	False	False
+EFS	1	vitamin A	4.45676430425919	False	False
+ADGRL4	1	vitamin B12	4.453110695683444	False	False
+ADPRH	1	vitamin C	4.441651019189024	False	False
+PKHD1	1	vitamin B12	4.440757315755651	False	False
+ATRNL1	1	keto diet	4.427706682318635	False	False
+DTX3	1	vitamin E	4.360146942057472	False	False
+NOSTRIN	1	folic acid	4.349360733029662	False	False
+PORCN	1	vitamin A	4.343227438843708	False	False
+NRTN	1	vitamin D	4.332346158442506	False	False
+LONRF3	1	vitamin E	4.3097718435052546	False	False
+TRIP10	1	vitamin A	4.281920359921789	False	False
+SOX15	1	vitamin A	4.27155507275242	False	False
+COL11A2	1	vitamin D	4.244990844787901	False	False
+NDNF	1	vitamin E	4.2435206014280284	False	False
+STAC	1	vitamin B12	4.166071996328853	False	False
+LHX6	1	vitamin A	4.1580025240715335	False	False
+ACVRL1	1	folic acid	4.152366844076886	False	False
+DOCK1	1	vitamin A	4.1523165210060995	False	False
+LYPD1	1	keto diet	4.125020032071715	False	False
+NOCT	1	keto diet	4.121247870840116	False	False
+SULF2	1	vitamin A	4.106545815130048	False	False
+UNC5B	1	vitamin C	4.102350489260057	False	False
+CTNNA1	1	vitamin E	4.101670568580497	False	False
+PTPRG	1	folic acid	4.072331033102188	False	False
+ZNF711	1	vitamin A	4.032523848804785	False	False
+MYCT1	1	vitamin B12	4.027803923926345	False	False
+CEMIP2	1	folic acid	3.9711485899947925	False	False
+ARID1A	1	vitamin D	3.9439928981658054	False	False
+ITIH5	1	zinc	3.9142536408033948	False	False
+SKI	1	vitamin A	3.9115088622362375	False	False
+PDE8B	1	vitamin B6	3.9107085190257944	False	False
+ZFYVE28	1	zinc	3.8967547965905323	False	False
+WLS	1	iron	3.8699639517027418	False	False
+FLRT3	1	keto diet	3.816948267419524	False	False
+RPS6KB2	1	vitamin A	3.7578315024250077	False	False
+TMEM119	1	vitamin B12	3.754802042304389	False	False
+FAM217B	1	vitamin A	3.754447148647132	False	False
+C12orf75	1	zinc	3.7512888036008456	False	False
+TMEM150C	1	vitamin B12	3.741884515130754	False	False
+NAV2	1	vitamin C	3.7337837186194345	False	False
+ARNT2	1	vitamin A	3.730903932735674	False	False
+SMAD9	1	vitamin E	3.720987616606581	False	False
+CLCNKB	1	vitamin B12	3.7203330452262353	False	False
+MDFIC	1	zinc	3.718328435237368	False	False
+TLN2	1	vitamin B6	3.7180352511998724	False	False
+MAPK11	1	vitamin B6	3.715609408445296	False	False
+ADAMTS2	1	folic acid	3.697199856536798	False	False
+NEURL1B	1	keto diet	3.6841974946223894	False	False
+ARHGAP23	1	vitamin B12	3.682083414801752	False	False
+EPHB1	1	keto diet	3.6785735144960903	False	False
+RERGL	1	vitamin B12	3.669456050328625	False	False
+PIK3R5	1	vitamin A	3.659879438016996	False	False
+VSTM4	1	folic acid	3.6566634109927487	False	False
+SORBS2	1	vitamin B6	3.6494057281221455	False	False
+FAM149A	1	vitamin B6	3.6494051020159075	False	False
+ZFP64	1	vitamin B12	3.6478141676011515	False	False
+ANKS1B	1	keto diet	3.6252486176275354	False	False
+EVC2	1	iron	3.6160997571099	False	False
+MLLT3	1	vitamin D	3.613075164077816	False	False
+KMT2C	1	vitamin B12	3.6088286940791106	False	False
+CHL1	1	vitamin D	3.6006631122680246	False	False
+SCN7A	1	keto diet	3.5870391061893243	False	False
+SMARCD3	1	vitamin B6	3.5740469344369346	False	False
+FERMT1	1	vitamin D	3.572662758334015	False	False
+NFIX	1	vitamin A	3.569418968117652	False	False
+FAM171B	1	zinc	3.5670682483408607	False	False
+TLE1	1	vitamin E	3.5607945452343888	False	False
+HECW1	1	vitamin C	3.544845166973619	False	False
+TCF7	1	vitamin E	3.54150010481871	False	False
+LYPD6	1	zinc	3.537251160562775	False	False
+DRD4	1	zinc	3.523758143066313	False	False
+PXDC1	1	vitamin B12	3.5217800939244706	False	False
+SOS2	1	vitamin E	3.5199370527608633	False	False
+PNRC2	1	vitamin A	3.510411310287349	False	False
+CA4	1	folic acid	3.4963712779925125	False	False
+PTPRS	1	vitamin A	3.4834877121525585	False	False
+KIF27	1	vitamin C	3.4785106090839846	False	False
+RASA1	1	vitamin E	3.4471896512310853	False	False
+MMP15	1	vitamin D	3.440295063062209	False	False
+KAT2B	1	vitamin E	3.4385186040784808	False	False
+CHD7	1	vitamin D	3.438422605188165	False	False
+SPON2	1	vitamin D	3.4318362454684244	False	False
+ADGRF5	1	vitamin B12	3.4307912284834674	False	False
+CA13	1	vitamin C	3.4231639112141017	False	False
+PIK3R2	1	vitamin E	3.411254143673684	False	False
+KLF11	1	zinc	3.406386180020557	False	False
+OVOL1	1	vitamin D	3.3949585426549254	False	False
+FAM83F	1	iron	3.388442468400324	False	False
+AMOTL2	1	vitamin C	3.3845130420551377	False	False
+HRAS	1	iron	3.3752282614044145	False	False
+NACC2	1	keto diet	3.37343828064231	False	False
+PDGFRL	1	vitamin B12	3.3637620983402043	False	False
+HEG1	1	folic acid	3.358668765477652	False	False
+PSORS1C1	1	vitamin D	3.3504319685841586	False	False
+PRKAA2	1	vitamin E	3.3492210976064345	False	False
+SHANK3	1	vitamin C	3.3193721617451595	False	False
+COL21A1	1	folic acid	3.30744776098389	False	False
+PTGER3	1	vitamin E	3.3017405559973034	False	False
+LTK	1	keto diet	3.2956258610855675	False	False
+DOK4	1	folic acid	3.294613522609752	False	False
+LMO2	1	vitamin A	3.28493410951154	False	False
+P3H3	1	zinc	3.2658434839066555	False	False
+OLFML3	1	folic acid	3.260283378285291	False	False
+POLR2J3	1	vitamin B6	3.2586181238835015	False	False
+EPHB6	1	vitamin B12	3.258546693472147	False	False
+MMRN2	1	folic acid	3.2408984608530913	False	False
+NPR1	1	folic acid	3.2283118203264745	False	False
+DIXDC1	1	iron	3.220847385484019	False	False
+TFCP2L1	1	vitamin D	3.211875787592236	False	False
+DAG1	1	vitamin A	3.1995073164259034	False	False
+MLPH	1	vitamin D	3.197224922609698	False	False
+PDE1B	1	vitamin B6	3.188677633169499	False	False
+ITGBL1	1	vitamin A	3.186242620880075	False	False
+AKAP5	1	zinc	3.1652052237181114	False	False
+TBL1X	1	vitamin C	3.158431987230131	False	False
+ADGRL3	1	keto diet	3.1510726365157624	False	False
+UBXN1	1	keto diet	3.148800083941106	False	False
+NREP	1	vitamin D	3.117379386474906	False	False
+RGL1	1	iron	3.1147111969887438	False	False
+SVIP	1	iron	3.1070853625715804	False	False
+HACE1	1	vitamin A	3.1019216962140246	False	False
+TAC1	1	vitamin A	3.0875592013068394	False	False
+ARRB2	1	vitamin D	3.077735705573148	False	False
+ZSWIM8	1	vitamin C	3.07582789722963	False	False
+PLXNB3	1	vitamin D	3.0647099326108402	False	False
+SPOCK1	1	vitamin A	3.059419501175009	False	False
+NUAK1	1	vitamin C	3.0570284883812513	False	False
+FARP1	1	vitamin A	3.0431631280762863	False	False
+CILP	1	zinc	3.032068908590062	False	False
+SLC2A9	1	vitamin C	3.018653538760264	False	False
+OLIG1	1	vitamin A	3.014706565173976	False	False
+SYT17	1	iron	3.012301206199281	False	False

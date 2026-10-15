@@ -1,0 +1,348 @@
+native	name	p_value	term_size	intersection_size
+GO:0099536	synaptic signaling	5.614727292471266e-26	766	55
+GO:0007268	chemical synaptic transmission	1.334483561431465e-23	732	51
+GO:0098916	anterograde trans-synaptic signaling	1.334483561431465e-23	732	51
+GO:0099537	trans-synaptic signaling	1.5596650447141636e-23	739	51
+GO:0007267	cell-cell signaling	2.852020794322974e-22	1223	62
+GO:0099177	regulation of trans-synaptic signaling	3.738211730943531e-17	479	36
+GO:0050804	modulation of chemical synaptic transmission	3.738211730943531e-17	478	36
+GO:0050808	synapse organization	1.805654281035961e-13	553	34
+GO:0007399	nervous system development	8.356192636257873e-13	2484	72
+GO:0034330	cell junction organization	1.2277498976851565e-11	807	38
+GO:0050803	regulation of synapse structure or activity	1.4437076079990652e-10	303	23
+GO:0048731	system development	3.3911315608490783e-10	3756	86
+GO:0099173	postsynapse organization	3.60286699003905e-10	230	20
+GO:0007154	cell communication	3.6232409242127766e-10	5758	112
+GO:0050807	regulation of synapse organization	5.348932564192723e-10	296	22
+GO:0007275	multicellular organism development	1.2120734651990866e-09	4372	93
+GO:0023052	signaling	1.5125663102736152e-09	5723	110
+GO:0050877	nervous system process	2.4619974403190193e-09	1125	41
+GO:0003008	system process	3.3997338382500584e-09	1845	54
+GO:0065008	regulation of biological quality	6.084417767061806e-09	2744	68
+GO:0042391	regulation of membrane potential	1.1606547896218723e-08	424	24
+GO:0032501	multicellular organismal process	3.564225826429031e-08	6433	115
+GO:0048666	neuron development	1.0179490177504416e-07	1122	38
+GO:0031175	neuron projection development	1.1931619549429087e-07	977	35
+GO:0022008	neurogenesis	1.553832228429387e-07	1698	48
+GO:0061564	axon development	2.5040596830182687e-07	499	24
+GO:0030182	neuron differentiation	2.633011418957856e-07	1385	42
+GO:0007610	behavior	3.6302304610770597e-07	640	27
+GO:0048699	generation of neurons	3.960976688714778e-07	1464	43
+GO:0140352	export from cell	7.830326383175196e-07	856	31
+GO:0048856	anatomical structure development	1.3224074707515683e-06	5395	98
+GO:0006836	neurotransmitter transport	1.3224074707515683e-06	208	15
+GO:0095500	acetylcholine receptor signaling pathway	2.085144750940153e-06	43	8
+GO:0048858	cell projection morphogenesis	2.085144750940153e-06	655	26
+GO:1905145	cellular response to acetylcholine	2.8913703863765607e-06	45	8
+GO:0007611	learning or memory	2.8913703863765607e-06	256	16
+GO:0035725	sodium ion transmembrane transport	3.0877123010573985e-06	162	13
+GO:0007416	synapse assembly	3.5875297118416287e-06	261	16
+GO:0048812	neuron projection morphogenesis	3.8558458844069625e-06	634	25
+GO:0050890	cognition	3.8558458844069625e-06	299	17
+GO:1905144	response to acetylcholine	4.155277173925292e-06	48	8
+GO:0006811	monoatomic ion transport	4.155277173925292e-06	1147	35
+GO:0032940	secretion by cell	4.155277173925292e-06	783	28
+GO:0060078	regulation of postsynaptic membrane potential	4.249223077504517e-06	140	12
+GO:0098926	postsynaptic signal transduction	4.607034821819897e-06	49	8
+GO:0048167	regulation of synaptic plasticity	4.677248556842016e-06	202	14
+GO:0046903	secretion	4.92360356832569e-06	894	30
+GO:0120039	plasma membrane bounded cell projection morphogenesis	5.192219353730083e-06	650	25
+GO:0006812	monoatomic cation transport	5.859094060667883e-06	955	31
+GO:0048667	cell morphogenesis involved in neuron differentiation	7.123897886383871e-06	569	23
+GO:0007612	learning	7.864250985758176e-06	150	12
+GO:0032502	developmental process	8.619885095402707e-06	5877	101
+GO:0010646	regulation of cell communication	9.37307510830765e-06	3262	67
+GO:0034329	cell junction assembly	1.0291054733980506e-05	493	21
+GO:0006814	sodium ion transport	1.0644629477270501e-05	219	14
+GO:0051960	regulation of nervous system development	1.4221386278904972e-05	417	19
+GO:0000902	cell morphogenesis	1.9719395510764837e-05	962	30
+GO:0030030	cell projection organization	2.746973107353481e-05	1554	40
+GO:0099175	regulation of postsynapse organization	2.7548976186976032e-05	140	11
+GO:0007409	axonogenesis	3.1088647597178585e-05	441	19
+GO:0034220	monoatomic ion transmembrane transport	3.1687885352770084e-05	933	29
+GO:0099504	synaptic vesicle cycle	3.202359605361737e-05	207	13
+GO:0120036	plasma membrane bounded cell projection organization	3.333040131922164e-05	1510	39
+GO:0099643	signal release from synapse	4.012083265452821e-05	147	11
+GO:0030001	metal ion transport	4.012083265452821e-05	788	26
+GO:0007269	neurotransmitter secretion	4.012083265452821e-05	147	11
+GO:0044057	regulation of system process	5.7590657337714306e-05	509	20
+GO:0010975	regulation of neuron projection development	5.7590657337714306e-05	419	18
+GO:0023051	regulation of signaling	7.801573593103274e-05	3255	64
+GO:0051963	regulation of synapse assembly	9.287444673272535e-05	161	11
+GO:0098655	monoatomic cation transmembrane transport	9.781613917113614e-05	778	25
+GO:0055085	transmembrane transport	0.00010829600075221214	1408	36
+GO:0099003	vesicle-mediated transport in synapse	0.0001556640403326753	242	13
+GO:0099068	postsynapse assembly	0.0001767489090112326	83	8
+GO:0003013	circulatory system process	0.00019378726173495801	555	20
+GO:0023061	signal release	0.0002148062299592943	464	18
+GO:0120035	regulation of plasma membrane bounded cell projection organization	0.0002186805983601764	610	21
+GO:0006810	transport	0.00023061922174953087	4046	73
+GO:1901888	regulation of cell junction assembly	0.00023061922174953087	253	13
+GO:0051130	positive regulation of cellular component organization	0.00023061922174953087	1045	29
+GO:0051965	positive regulation of synapse assembly	0.0002517756962852313	63	7
+GO:0008015	blood circulation	0.00025921024280785434	473	18
+GO:0031344	regulation of cell projection organization	0.0002941847920919933	625	21
+GO:0051962	positive regulation of nervous system development	0.00036187982922628373	265	13
+GO:0060047	heart contraction	0.00037468015993274284	227	12
+GO:0001504	neurotransmitter uptake	0.00037794257572222557	45	6
+GO:0008038	neuron recognition	0.0004256402106345546	46	6
+GO:0003015	heart process	0.0005345874111931625	236	12
+GO:1904862	inhibitory synapse assembly	0.000554739047424355	29	5
+GO:0007274	neuromuscular synaptic transmission	0.000554739047424355	29	5
+GO:0001508	action potential	0.0005698063346880944	164	10
+GO:0016079	synaptic vesicle exocytosis	0.0005698580939656314	100	8
+GO:0051234	establishment of localization	0.0006211746793143236	4252	74
+GO:0097107	postsynaptic density assembly	0.0006249103456471197	30	5
+GO:0007271	synaptic transmission, cholinergic	0.0006249103456471197	30	5
+GO:0045777	positive regulation of blood pressure	0.000723082192345404	31	5
+GO:0035249	synaptic transmission, glutamatergic	0.000723082192345404	104	8
+GO:0065007	biological regulation	0.0007654003908365791	10724	147
+GO:0031346	positive regulation of cell projection organization	0.0007654003908365791	332	14
+GO:0007158	neuron cell-cell adhesion	0.0007766323191477814	16	4
+GO:0045055	regulated exocytosis	0.0008064885735244376	210	11
+GO:0051128	regulation of cellular component organization	0.0010235366955985573	2321	47
+GO:0050789	regulation of biological process	0.0010254204597884057	10374	143
+GO:0003073	regulation of systemic arterial blood pressure	0.001114595842336324	82	7
+GO:0099084	postsynaptic specialization organization	0.001114595842336324	56	6
+GO:0008306	associative learning	0.0011944075013770165	83	7
+GO:0072578	neurotransmitter-gated ion channel clustering	0.001198969009252598	18	4
+GO:0051179	localization	0.0012714462764696198	4911	81
+GO:0098700	neurotransmitter loading into synaptic vesicle	0.0013278109889210507	7	3
+GO:0007417	central nervous system development	0.0013829406547692595	991	26
+GO:0098698	postsynaptic specialization assembly	0.001534604192477127	37	5
+GO:0007165	signal transduction	0.0015555048939680431	5266	85
+GO:0140029	exocytic process	0.0017567138763586495	89	7
+GO:0050806	positive regulation of synaptic transmission	0.0017677819688714186	155	9
+GO:0032222	regulation of synaptic transmission, cholinergic	0.0019969263297002202	8	3
+GO:0106030	neuron projection fasciculation	0.0020885630786975896	21	4
+GO:0007413	axonal fasciculation	0.0020885630786975896	21	4
+GO:1904861	excitatory synapse assembly	0.0021024753133009875	40	5
+GO:0001941	postsynaptic membrane organization	0.0021024753133009875	40	5
+GO:1903522	regulation of blood circulation	0.0021141713739853485	238	11
+GO:0060048	cardiac muscle contraction	0.002546576908883408	128	8
+GO:0006941	striated muscle contraction	0.0025508141823509054	164	9
+GO:0097105	presynaptic membrane assembly	0.002777314479208995	9	3
+GO:0060041	retina development in camera-type eye	0.0028820499345020277	167	9
+GO:0001994	norepinephrine-epinephrine vasoconstriction involved in regulation of systemic arterial blood pressure	0.0030171559387776265	2	2
+GO:0051630	acetylcholine uptake	0.0030171559387776265	2	2
+GO:0006540	gamma-aminobutyrate shunt	0.0030171559387776265	2	2
+GO:0050767	regulation of neurogenesis	0.0030872190459156168	340	13
+GO:0003044	regulation of systemic arterial blood pressure mediated by a chemical signal	0.0030872190459156168	44	5
+GO:0007200	phospholipase C-activating G protein-coupled receptor signaling pathway	0.0030967379557268505	133	8
+GO:0007626	locomotory behavior	0.0031965475334162744	210	10
+GO:0050954	sensory perception of mechanical stimulus	0.003240508742061182	171	9
+GO:0051588	regulation of neurotransmitter transport	0.0033260913045970414	101	7
+GO:1901890	positive regulation of cell junction assembly	0.0035111927464320366	102	7
+GO:1901698	response to nitrogen compound	0.0035285986991410484	883	23
+GO:0097090	presynaptic membrane organization	0.003558558710237078	10	3
+GO:0050770	regulation of axonogenesis	0.003607986541366365	137	8
+GO:0016082	synaptic vesicle priming	0.003612968642692051	25	4
+GO:0048588	developmental cell growth	0.003650448446666836	215	10
+GO:0097106	postsynaptic density organization	0.003908579041538325	47	5
+GO:0007423	sensory organ development	0.0046650622124951	562	17
+GO:0010996	response to auditory stimulus	0.0047862026040799135	27	4
+GO:0048675	axon extension	0.004969265220279439	109	7
+GO:0007605	sensory perception of sound	0.005066730473878396	145	8
+GO:0050896	response to stimulus	0.005076060673537888	7694	111
+GO:0006936	muscle contraction	0.005087418450219634	315	12
+GO:0044087	regulation of cellular component biogenesis	0.005087418450219634	971	24
+GO:0015800	acidic amino acid transport	0.005091207051206526	78	6
+GO:0099565	chemical synaptic transmission, postsynaptic	0.005334459839334403	111	7
+GO:0050771	negative regulation of axonogenesis	0.005351108041184308	51	5
+GO:0042310	vasoconstriction	0.005351108041184308	79	6
+GO:0001764	neuron migration	0.005489294572623868	187	9
+GO:0031644	regulation of nervous system process	0.005489294572623868	112	7
+GO:0060075	regulation of resting membrane potential	0.0056005253423067	12	3
+GO:0016358	dendrite development	0.0056005253423067	230	10
+GO:0086001	cardiac muscle cell action potential	0.0056005253423067	80	6
+GO:0042063	gliogenesis	0.005985095715490538	323	12
+GO:0099172	presynapse organization	0.006058155045717641	53	5
+GO:0060998	regulation of dendritic spine development	0.006058155045717641	53	5
+GO:0048468	cell development	0.006058155045717641	2615	48
+GO:0006937	regulation of muscle contraction	0.006238498159320268	152	8
+GO:0006887	exocytosis	0.006367481384672991	327	12
+GO:0003407	neural retina development	0.006367481384672991	83	6
+GO:0008016	regulation of heart contraction	0.006367481384672991	193	9
+GO:0015837	amine transport	0.006367481384672991	83	6
+GO:0071875	adrenergic receptor signaling pathway	0.006367481384672991	30	4
+GO:0007613	memory	0.006567571770499226	117	7
+GO:0006581	acetylcholine catabolic process	0.006711676817373524	3	2
+GO:0099185	postsynaptic intermediate filament cytoskeleton organization	0.006711676817373524	3	2
+GO:0097195	pilomotor reflex	0.006711676817373524	3	2
+GO:0098900	regulation of action potential	0.00674773542308719	55	5
+GO:0051932	synaptic transmission, GABAergic	0.007299560615940639	56	5
+GO:0021766	hippocampus development	0.007401418841369225	86	6
+GO:0032230	positive regulation of synaptic transmission, GABAergic	0.008160683659636306	14	3
+GO:0050775	positive regulation of dendrite morphogenesis	0.009649892450253527	34	4
+GO:0106027	neuron projection organization	0.009733917753129546	91	6
+GO:1990138	neuron projection extension	0.009733917753129546	165	8
+GO:0019229	regulation of vasoconstriction	0.009733917753129546	60	5
+GO:0098657	import into cell	0.009733917753129546	906	22
+GO:0003012	muscle system process	0.010305052853802933	399	13
+GO:0051954	positive regulation of amine transport	0.010384402248040703	35	4
+GO:0098810	neurotransmitter reuptake	0.010384402248040703	35	4
+GO:0008217	regulation of blood pressure	0.010629332772131468	168	8
+GO:0060996	dendritic spine development	0.010629332772131468	93	6
+GO:0090257	regulation of muscle system process	0.010878391263831907	211	9
+GO:0010770	positive regulation of cell morphogenesis	0.01133130227446623	36	4
+GO:0099550	trans-synaptic signaling, modulating synaptic transmission	0.011489564451454737	16	3
+GO:0003321	positive regulation of blood pressure by epinephrine-norepinephrine	0.011921104100607411	4	2
+GO:0016080	synaptic vesicle targeting	0.011921104100607411	4	2
+GO:0002038	positive regulation of L-glutamate import across plasma membrane	0.011921104100607411	4	2
+GO:0060042	retina morphogenesis in camera-type eye	0.012200230112281715	64	5
+GO:0001990	regulation of systemic arterial blood pressure by hormone	0.012200230112281715	37	4
+GO:0051961	negative regulation of nervous system development	0.012260363224891256	133	7
+GO:0006813	potassium ion transport	0.012666253199206582	217	9
+GO:0051716	cellular response to stimulus	0.012728810790403392	6502	95
+GO:0060999	positive regulation of dendritic spine development	0.013240607171605915	38	4
+GO:0030154	cell differentiation	0.013590924807665123	3963	64
+GO:0048869	cellular developmental process	0.013615882913514739	3964	64
+GO:0007186	G protein-coupled receptor signaling pathway	0.013838927191074981	938	22
+GO:0065009	regulation of molecular function	0.014408294526424207	1004	23
+GO:0048813	dendrite morphogenesis	0.0146286583430447	138	7
+GO:1901699	cellular response to nitrogen compound	0.014955080393182779	643	17
+GO:0048857	neural nucleus development	0.01509411105551659	68	5
+GO:0099151	regulation of postsynaptic density assembly	0.01509411105551659	18	3
+GO:0007420	brain development	0.015101272880512044	703	18
+GO:0060079	excitatory postsynaptic potential	0.015348129409413342	102	6
+GO:0044089	positive regulation of cellular component biogenesis	0.015703264006877406	478	14
+GO:0055117	regulation of cardiac muscle contraction	0.015783680092800158	69	5
+GO:0090066	regulation of anatomical structure size	0.015865398433523463	479	14
+GO:0021543	pallium development	0.01623356112092387	183	8
+GO:0055078	sodium ion homeostasis	0.016435992227926837	41	4
+GO:0071805	potassium ion transmembrane transport	0.016962564409746556	185	8
+GO:0008291	acetylcholine metabolic process	0.016962564409746556	5	2
+GO:0006105	succinate metabolic process	0.016962564409746556	5	2
+GO:0097746	blood vessel diameter maintenance	0.016962564409746556	144	7
+GO:0097112	gamma-aminobutyric acid receptor clustering	0.016962564409746556	5	2
+GO:0086046	membrane depolarization during SA node cell action potential	0.016962564409746556	5	2
+GO:1905702	regulation of inhibitory synapse assembly	0.016962564409746556	5	2
+GO:0150099	neuron-glial cell signaling	0.016962564409746556	5	2
+GO:0048839	inner ear development	0.016962564409746556	186	8
+GO:0035094	response to nicotine	0.016962564409746556	42	4
+GO:0035296	regulation of tube diameter	0.016962564409746556	144	7
+GO:0061001	regulation of dendritic spine morphogenesis	0.016962564409746556	42	4
+GO:0051939	gamma-aminobutyric acid import	0.016962564409746556	5	2
+GO:0035150	regulation of tube size	0.017432920621879906	145	7
+GO:0050794	regulation of cellular process	0.0175695042113437	9997	133
+GO:0007157	heterophilic cell-cell adhesion	0.01813446328923686	43	4
+GO:1990573	potassium ion import across plasma membrane	0.01813446328923686	43	4
+GO:0099054	presynapse assembly	0.01813446328923686	43	4
+GO:0051952	regulation of amine transport	0.018319098888915194	73	5
+GO:0071880	adenylate cyclase-activating adrenergic receptor signaling pathway	0.018319098888915194	20	3
+GO:0043523	regulation of neuron apoptotic process	0.01897046454021228	236	9
+GO:0098739	import across plasma membrane	0.01897046454021228	236	9
+GO:0051402	neuron apoptotic process	0.01999472326687252	286	10
+GO:0019226	transmission of nerve impulse	0.02032062193339706	75	5
+GO:0007213	G protein-coupled acetylcholine receptor signaling pathway	0.02074374881822745	21	3
+GO:0030534	adult behavior	0.020901794975184136	151	7
+GO:0021762	substantia nigra development	0.022462981829718814	46	4
+GO:0097120	receptor localization to synapse	0.022462981829718814	77	5
+GO:0051957	positive regulation of amino acid transport	0.02248703567626335	22	3
+GO:0002016	regulation of blood volume by renin-angiotensin	0.02248703567626335	6	2
+GO:0001993	regulation of systemic arterial blood pressure by norepinephrine-epinephrine	0.02248703567626335	6	2
+GO:0060004	reflex	0.02248703567626335	22	3
+GO:0032224	positive regulation of synaptic transmission, cholinergic	0.02248703567626335	6	2
+GO:0099150	regulation of postsynaptic specialization assembly	0.02248703567626335	22	3
+GO:0009449	gamma-aminobutyric acid biosynthetic process	0.02248703567626335	6	2
+GO:0006865	amino acid transport	0.02248703567626335	154	7
+GO:0098907	regulation of SA node cell action potential	0.02248703567626335	6	2
+GO:1904889	regulation of excitatory synapse assembly	0.02248703567626335	22	3
+GO:1905874	regulation of postsynaptic density organization	0.02248703567626335	22	3
+GO:0086003	cardiac muscle cell contraction	0.022648442615932157	78	5
+GO:0098815	modulation of excitatory postsynaptic potential	0.022998518121088735	47	4
+GO:0015695	organic cation transport	0.023156063405762706	115	6
+GO:0021761	limbic system development	0.024099447034036707	116	6
+GO:0060322	head development	0.024508626065950553	749	18
+GO:0030813	positive regulation of nucleotide catabolic process	0.024851704681925	23	3
+GO:0045821	positive regulation of glycolytic process	0.024851704681925	23	3
+GO:0033123	positive regulation of purine nucleotide catabolic process	0.024851704681925	23	3
+GO:0098771	inorganic ion homeostasis	0.02522488866004206	404	12
+GO:0090102	cochlea development	0.02602003528478901	49	4
+GO:0051049	regulation of transport	0.027275668483153548	1480	29
+GO:0051641	cellular localization	0.027863926001500783	2268	40
+GO:0043524	negative regulation of neuron apoptotic process	0.02806585271494859	162	7
+GO:0045924	regulation of female receptivity	0.028293418263111932	7	2
+GO:0070474	positive regulation of uterine smooth muscle contraction	0.028293418263111932	7	2
+GO:0006538	L-glutamate catabolic process	0.028293418263111932	7	2
+GO:0021707	cerebellar granule cell differentiation	0.028293418263111932	7	2
+GO:0015870	acetylcholine transport	0.028293418263111932	7	2
+GO:0045760	positive regulation of action potential	0.028293418263111932	7	2
+GO:0060180	female mating behavior	0.028293418263111932	7	2
+GO:0003018	vascular process in circulatory system	0.028293418263111932	255	9
+GO:0021684	cerebellar granular layer formation	0.028293418263111932	7	2
+GO:0099545	trans-synaptic signaling by trans-synaptic complex	0.028293418263111932	7	2
+GO:0060073	micturition	0.028293418263111932	7	2
+GO:0046928	regulation of neurotransmitter secretion	0.02863553800203691	84	5
+GO:0043583	ear development	0.029231976924098683	210	8
+GO:0051050	positive regulation of transport	0.029231976924098683	767	18
+GO:0003081	regulation of systemic arterial blood pressure by renin-angiotensin	0.02935060156282894	25	3
+GO:0010977	negative regulation of neuron projection development	0.02935060156282894	123	6
+GO:1902905	positive regulation of supramolecular fiber organization	0.02935060156282894	165	7
+GO:0045666	positive regulation of neuron differentiation	0.029403572014344223	85	5
+GO:0008344	adult locomotory behavior	0.029403572014344223	85	5
+GO:0089718	amino acid import across plasma membrane	0.029650562049967882	52	4
+GO:0050805	negative regulation of synaptic transmission	0.029650562049967882	52	4
+GO:0006942	regulation of striated muscle contraction	0.030612657621576396	86	5
+GO:0051590	positive regulation of neurotransmitter transport	0.032106564546786426	26	3
+GO:0050768	negative regulation of neurogenesis	0.03228325924967329	126	6
+GO:0090596	sensory organ morphogenesis	0.032752204138969114	264	9
+GO:0050769	positive regulation of neurogenesis	0.03323743694801725	216	8
+GO:0051899	membrane depolarization	0.03323743694801725	88	5
+GO:0021537	telencephalon development	0.03407260712016876	266	9
+GO:0021683	cerebellar granular layer morphogenesis	0.034199933209394566	8	2
+GO:0007197	adenylate cyclase-inhibiting G protein-coupled acetylcholine receptor signaling pathway	0.034199933209394566	8	2
+GO:0001975	response to amphetamine	0.034199933209394566	27	3
+GO:0009448	gamma-aminobutyric acid metabolic process	0.034199933209394566	8	2
+GO:0007207	phospholipase C-activating G protein-coupled acetylcholine receptor signaling pathway	0.034199933209394566	8	2
+GO:0007217	tachykinin receptor signaling pathway	0.034199933209394566	8	2
+GO:0097104	postsynaptic membrane assembly	0.034199933209394566	8	2
+GO:0086010	membrane depolarization during action potential	0.034199933209394566	27	3
+GO:1901374	acetate ester transport	0.034199933209394566	8	2
+GO:0086002	cardiac muscle cell action potential involved in contraction	0.03653220165941852	56	4
+GO:0006940	regulation of smooth muscle contraction	0.03653220165941852	56	4
+GO:0048513	animal organ development	0.03658639154686937	2697	45
+GO:0033555	multicellular organismal response to stress	0.03663460556971448	91	5
+GO:0010817	regulation of hormone levels	0.03693276338468833	489	13
+GO:0045664	regulation of neuron differentiation	0.037028805828558296	175	7
+GO:0045987	positive regulation of smooth muscle contraction	0.03706988973002156	28	3
+GO:0007215	glutamate receptor signaling pathway	0.03806619758604845	57	4
+GO:0060997	dendritic spine morphogenesis	0.03806619758604845	57	4
+GO:0008037	cell recognition	0.039011719394622314	133	6
+GO:0008347	glial cell migration	0.04027072355374086	58	4
+GO:0099170	postsynaptic modulation of chemical synaptic transmission	0.040350349652687134	29	3
+GO:1902093	positive regulation of flagellated sperm motility	0.04091812513548213	9	2
+GO:0002036	regulation of L-glutamate import across plasma membrane	0.04091812513548213	9	2
+GO:0061000	negative regulation of dendritic spine development	0.04091812513548213	9	2
+GO:0060560	developmental growth involved in morphogenesis	0.04091812513548213	227	8
+GO:0070472	regulation of uterine smooth muscle contraction	0.04091812513548213	9	2
+GO:0070471	uterine smooth muscle contraction	0.04091812513548213	9	2
+GO:2000155	positive regulation of cilium-dependent cell motility	0.04091812513548213	9	2
+GO:0010248	establishment or maintenance of transmembrane electrochemical gradient	0.04091812513548213	9	2
+GO:0035235	ionotropic glutamate receptor signaling pathway	0.043218919388123285	30	3
+GO:0050773	regulation of dendrite development	0.04345954906385879	96	5
+GO:0043113	receptor clustering	0.04379649027741341	60	4
+GO:0019725	cellular homeostasis	0.043972060427867644	684	16
+GO:0002027	regulation of heart rate	0.0449921239144076	97	5
+GO:0070050	neuron cellular homeostasis	0.04603636977346507	61	4
+GO:0021549	cerebellum development	0.04655700893010232	98	5
+GO:0055075	potassium ion homeostasis	0.04655700893010232	31	3
+GO:0042221	response to chemical	0.04735479126239173	3288	52
+GO:0006198	cAMP catabolic process	0.04806585520131597	10	2
+GO:0051933	amino acid neurotransmitter reuptake	0.04806585520131597	10	2
+GO:0003353	positive regulation of cilium movement	0.04806585520131597	10	2
+GO:0097113	AMPA glutamate receptor clustering	0.04806585520131597	10	2
+GO:0097688	glutamate receptor clustering	0.04806585520131597	10	2
+GO:0006939	smooth muscle contraction	0.04806585520131597	99	5
+GO:0062111	zinc ion import into organelle	0.04806585520131597	10	2
+GO:0060052	neurofilament cytoskeleton organization	0.04806585520131597	10	2
+GO:0042756	drinking behavior	0.04806585520131597	10	2
+GO:2000463	positive regulation of excitatory postsynaptic potential	0.04818407361335892	32	3
+GO:0042472	inner ear morphogenesis	0.04818407361335892	100	5
+GO:0070887	cellular response to chemical stimulus	0.04818407361335892	2004	35
+GO:0048384	retinoic acid receptor signaling pathway	0.04818407361335892	32	3
+GO:0060219	camera-type eye photoreceptor cell differentiation	0.04818407361335892	32	3
+GO:0030517	negative regulation of axon extension	0.04818407361335892	32	3
+GO:0032228	regulation of synaptic transmission, GABAergic	0.04818407361335892	32	3
+GO:0007617	mating behavior	0.04818407361335892	32	3
+GO:0048814	regulation of dendrite morphogenesis	0.04851649504481729	63	4

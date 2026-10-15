@@ -1,0 +1,1182 @@
+Representing term id	Representing term name	Representing term rank	folic acid term id	folic acid term name	folic acid term rank	iron term id	iron term name	iron term rank	keto diet term id	keto diet term name	keto diet term rank	vitamin A term id	vitamin A term name	vitamin A term rank	vitamin B12 term id	vitamin B12 term name	vitamin B12 term rank	vitamin B6 term id	vitamin B6 term name	vitamin B6 term rank	vitamin C term id	vitamin C term name	vitamin C term rank	vitamin D term id	vitamin D term name	vitamin D term rank	vitamin E term id	vitamin E term name	vitamin E term rank	zinc term id	zinc term name	zinc term rank
+GO:0034330	cell junction organization	1
+			GO:0034330	cell junction organization	1	GO:0034330	cell junction organization	65	GO:0034330	cell junction organization	38	GO:0034330	cell junction organization	43	GO:0034330	cell junction organization	89	GO:0034330	cell junction organization	10				GO:0034330	cell junction organization	7	GO:0034330	cell junction organization	43	GO:0034330	cell junction organization	92
+			GO:0050808	synapse organization	2	GO:0050808	synapse organization	72	GO:0050808	synapse organization	22	GO:0050808	synapse organization	33	GO:0050808	synapse organization	126	GO:0050808	synapse organization	8				GO:0050808	synapse organization	22	GO:0050808	synapse organization	61	GO:0050808	synapse organization	127
+			GO:0034329	cell junction assembly	9	GO:0034329	cell junction assembly	97	GO:0034329	cell junction assembly	90	GO:0034329	cell junction assembly	60				GO:0034329	cell junction assembly	54				GO:0034329	cell junction assembly	14	GO:0034329	cell junction assembly	121			
+			GO:0099173	postsynapse organization	106				GO:0099173	postsynapse organization	169	GO:0099173	postsynapse organization	65				GO:0099173	postsynapse organization	13				GO:0099173	postsynapse organization	156						
+			GO:0050807	regulation of synapse organization	22				GO:0050807	regulation of synapse organization	156	GO:0050807	regulation of synapse organization	46				GO:0050807	regulation of synapse organization	15				GO:0050807	regulation of synapse organization	62	GO:0050807	regulation of synapse organization	155			
+			GO:0007043	cell-cell junction assembly	18							GO:0007043	cell-cell junction assembly	244										GO:0007043	cell-cell junction assembly	67						
+			GO:0007416	synapse assembly	44	GO:0007416	synapse assembly	109	GO:0007416	synapse assembly	34	GO:0007416	synapse assembly	50				GO:0007416	synapse assembly	38				GO:0007416	synapse assembly	24	GO:0007416	synapse assembly	119			
+			GO:0045216	cell-cell junction organization	26																			GO:0045216	cell-cell junction organization	75						
+			GO:0001941	postsynaptic membrane organization	51							GO:0001941	postsynaptic membrane organization	159				GO:0001941	postsynaptic membrane organization	117												
+									GO:0099175	regulation of postsynapse organization	216	GO:0099175	regulation of postsynapse organization	78				GO:0099175	regulation of postsynapse organization	59												
+			GO:0051963	regulation of synapse assembly	99				GO:0051963	regulation of synapse assembly	316	GO:0051963	regulation of synapse assembly	121				GO:0051963	regulation of synapse assembly	70				GO:0051963	regulation of synapse assembly	86						
+									GO:0099068	postsynapse assembly	184	GO:0099068	postsynapse assembly	183				GO:0099068	postsynapse assembly	74												
+			GO:1901888	regulation of cell junction assembly	135							GO:1901888	regulation of cell junction assembly	226				GO:1901888	regulation of cell junction assembly	79												
+									GO:0051965	positive regulation of synapse assembly	242	GO:0051965	positive regulation of synapse assembly	260				GO:0051965	positive regulation of synapse assembly	81				GO:0051965	positive regulation of synapse assembly	140						
+			GO:0034332	adherens junction organization	83							GO:0034332	adherens junction organization	222										GO:0034332	adherens junction organization	122						
+									GO:1904862	inhibitory synapse assembly	174							GO:1904862	inhibitory synapse assembly	89												
+									GO:0097107	postsynaptic density assembly	246							GO:0097107	postsynaptic density assembly	94												
+									GO:0099084	postsynaptic specialization organization	291							GO:0099084	postsynaptic specialization organization	105												
+																		GO:0072578	neurotransmitter-gated ion channel clustering	107												
+									GO:0098698	postsynaptic specialization assembly	289							GO:0098698	postsynaptic specialization assembly	110												
+									GO:1904861	excitatory synapse assembly	302							GO:1904861	excitatory synapse assembly	116												
+									GO:1901890	positive regulation of cell junction assembly	296							GO:1901890	positive regulation of cell junction assembly	128												
+																		GO:0097090	presynaptic membrane organization	130												
+									GO:0097106	postsynaptic density organization	253							GO:0097106	postsynaptic density organization	134												
+																		GO:0099172	presynapse organization	152												
+									GO:0061001	regulation of dendritic spine morphogenesis	321	GO:0061001	regulation of dendritic spine morphogenesis	165				GO:0061001	regulation of dendritic spine morphogenesis	205												
+												GO:0097061	dendritic spine organization	175																		
+									GO:0099558	maintenance of synapse structure	181																					
+																		GO:0099151	regulation of postsynaptic density assembly	192												
+																		GO:0099054	presynapse assembly	210												
+																		GO:0099150	regulation of postsynaptic specialization assembly	223												
+																		GO:1904889	regulation of excitatory synapse assembly	225												
+																		GO:1905874	regulation of postsynaptic density organization	226												
+									GO:0060997	dendritic spine morphogenesis	389	GO:0060997	dendritic spine morphogenesis	231				GO:0060997	dendritic spine morphogenesis	268												
+																														GO:0099560	synaptic membrane adhesion	234
+									GO:0034331	cell junction maintenance	275																					
+																		GO:0097113	AMPA glutamate receptor clustering	287												
+																		GO:0097688	glutamate receptor clustering	288												
+									GO:1990709	presynaptic active zone organization	308																					
+									GO:0060074	synapse maturation	313																					
+									GO:0090128	regulation of synapse maturation	326																					
+									GO:0061003	positive regulation of dendritic spine morphogenesis	399																					
+GO:0006810	transport	1
+			GO:0006810	transport	57	GO:0006810	transport	1	GO:0006810	transport	18	GO:0006810	transport	369	GO:0006810	transport	4	GO:0006810	transport	78	GO:0006810	transport	45				GO:0006810	transport	27	GO:0006810	transport	16
+GO:0071805	potassium ion transmembrane transport	1
+			GO:0071805	potassium ion transmembrane transport	71	GO:0071805	potassium ion transmembrane transport	67	GO:0071805	potassium ion transmembrane transport	1				GO:0071805	potassium ion transmembrane transport	11	GO:0071805	potassium ion transmembrane transport	200	GO:0071805	potassium ion transmembrane transport	36	GO:0071805	potassium ion transmembrane transport	183	GO:0071805	potassium ion transmembrane transport	1			
+									GO:1901379	regulation of potassium ion transmembrane transport	97																GO:1901379	regulation of potassium ion transmembrane transport	38			
+			GO:1990573	potassium ion import across plasma membrane	59	GO:1990573	potassium ion import across plasma membrane	82	GO:1990573	potassium ion import across plasma membrane	44				GO:1990573	potassium ion import across plasma membrane	39	GO:1990573	potassium ion import across plasma membrane	209	GO:1990573	potassium ion import across plasma membrane	51				GO:1990573	potassium ion import across plasma membrane	99			
+									GO:0097623	potassium ion export across plasma membrane	102																GO:0097623	potassium ion export across plasma membrane	46			
+									GO:1901380	negative regulation of potassium ion transmembrane transport	409																GO:1901380	negative regulation of potassium ion transmembrane transport	49			
+																											GO:1903817	negative regulation of voltage-gated potassium channel activity	105			
+																											GO:1901017	negative regulation of potassium ion transmembrane transporter activity	117			
+									GO:1901381	positive regulation of potassium ion transmembrane transport	286																GO:1901381	positive regulation of potassium ion transmembrane transport	181			
+GO:0007399	nervous system development	1
+			GO:0007399	nervous system development	6	GO:0007399	nervous system development	28	GO:0007399	nervous system development	17	GO:0007399	nervous system development	1	GO:0007399	nervous system development	57	GO:0007399	nervous system development	9	GO:0007399	nervous system development	35	GO:0007399	nervous system development	1	GO:0007399	nervous system development	9	GO:0007399	nervous system development	26
+GO:0006811	monoatomic ion transport	1
+			GO:0006811	monoatomic ion transport	4	GO:0006811	monoatomic ion transport	7	GO:0006811	monoatomic ion transport	7				GO:0006811	monoatomic ion transport	1	GO:0006811	monoatomic ion transport	42	GO:0006811	monoatomic ion transport	4				GO:0006811	monoatomic ion transport	8	GO:0006811	monoatomic ion transport	6
+			GO:0006813	potassium ion transport	98	GO:0006813	potassium ion transport	55	GO:0006813	potassium ion transport	2				GO:0006813	potassium ion transport	10	GO:0006813	potassium ion transport	182	GO:0006813	potassium ion transport	59				GO:0006813	potassium ion transport	5	GO:0006813	potassium ion transport	172
+			GO:0034220	monoatomic ion transmembrane transport	3	GO:0034220	monoatomic ion transmembrane transport	19	GO:0034220	monoatomic ion transmembrane transport	3				GO:0034220	monoatomic ion transmembrane transport	2	GO:0034220	monoatomic ion transmembrane transport	61	GO:0034220	monoatomic ion transmembrane transport	5				GO:0034220	monoatomic ion transmembrane transport	6	GO:0034220	monoatomic ion transmembrane transport	13
+			GO:0006814	sodium ion transport	31	GO:0006814	sodium ion transport	10	GO:0006814	sodium ion transport	89				GO:0006814	sodium ion transport	128	GO:0006814	sodium ion transport	55	GO:0006814	sodium ion transport	2							GO:0006814	sodium ion transport	68
+			GO:0030001	metal ion transport	23	GO:0030001	metal ion transport	3	GO:0030001	metal ion transport	13				GO:0030001	metal ion transport	3	GO:0030001	metal ion transport	65	GO:0030001	metal ion transport	3				GO:0030001	metal ion transport	2	GO:0030001	metal ion transport	14
+			GO:0006812	monoatomic cation transport	24	GO:0006812	monoatomic cation transport	4	GO:0006812	monoatomic cation transport	15				GO:0006812	monoatomic cation transport	5	GO:0006812	monoatomic cation transport	49	GO:0006812	monoatomic cation transport	6				GO:0006812	monoatomic cation transport	7	GO:0006812	monoatomic cation transport	21
+			GO:0098655	monoatomic cation transmembrane transport	21	GO:0098655	monoatomic cation transmembrane transport	14	GO:0098655	monoatomic cation transmembrane transport	5				GO:0098655	monoatomic cation transmembrane transport	6	GO:0098655	monoatomic cation transmembrane transport	71	GO:0098655	monoatomic cation transmembrane transport	13				GO:0098655	monoatomic cation transmembrane transport	4	GO:0098655	monoatomic cation transmembrane transport	32
+			GO:0098656	monoatomic anion transmembrane transport	13				GO:0098656	monoatomic anion transmembrane transport	107				GO:0098656	monoatomic anion transmembrane transport	59				GO:0098656	monoatomic anion transmembrane transport	22							GO:0098656	monoatomic anion transmembrane transport	132
+			GO:0035725	sodium ion transmembrane transport	29	GO:0035725	sodium ion transmembrane transport	13	GO:0035725	sodium ion transmembrane transport	53				GO:0035725	sodium ion transmembrane transport	127	GO:0035725	sodium ion transmembrane transport	37	GO:0035725	sodium ion transmembrane transport	14	GO:0035725	sodium ion transmembrane transport	145				GO:0035725	sodium ion transmembrane transport	85
+			GO:0006820	monoatomic anion transport	28				GO:0006820	monoatomic anion transport	121				GO:0006820	monoatomic anion transport	85				GO:0006820	monoatomic anion transport	18							GO:0006820	monoatomic anion transport	157
+			GO:1902476	chloride transmembrane transport	40				GO:1902476	chloride transmembrane transport	95				GO:1902476	chloride transmembrane transport	66				GO:1902476	chloride transmembrane transport	23							GO:1902476	chloride transmembrane transport	135
+									GO:0034765	regulation of monoatomic ion transmembrane transport	24				GO:0034765	regulation of monoatomic ion transmembrane transport	125										GO:0034765	regulation of monoatomic ion transmembrane transport	138	GO:0034765	regulation of monoatomic ion transmembrane transport	130
+									GO:0043269	regulation of monoatomic ion transport	25				GO:0043269	regulation of monoatomic ion transport	121										GO:0043269	regulation of monoatomic ion transport	122	GO:0043269	regulation of monoatomic ion transport	66
+									GO:0043266	regulation of potassium ion transport	47																GO:0043266	regulation of potassium ion transport	26			
+			GO:0006821	chloride transport	54				GO:0006821	chloride transport	106				GO:0006821	chloride transport	91				GO:0006821	chloride transport	29							GO:0006821	chloride transport	160
+																														GO:1902307	positive regulation of sodium ion transmembrane transport	46
+						GO:0010248	establishment or maintenance of transmembrane electrochemical gradient	48										GO:0010248	establishment or maintenance of transmembrane electrochemical gradient	275												
+																														GO:1903276	regulation of sodium ion export across plasma membrane	48
+																														GO:1903278	positive regulation of sodium ion export across plasma membrane	49
+						GO:0006829	zinc ion transport	59																						GO:0006829	zinc ion transport	67
+						GO:0060075	regulation of resting membrane potential	61										GO:0060075	regulation of resting membrane potential	148												
+									GO:0043267	negative regulation of potassium ion transport	331																GO:0043267	negative regulation of potassium ion transport	63			
+						GO:0000041	transition metal ion transport	64																						GO:0000041	transition metal ion transport	194
+									GO:0086010	membrane depolarization during action potential	69							GO:0086010	membrane depolarization during action potential	259												
+									GO:0010765	positive regulation of sodium ion transport	372																			GO:0010765	positive regulation of sodium ion transport	74
+									GO:1904062	regulation of monoatomic cation transmembrane transport	76																GO:1904062	regulation of monoatomic cation transmembrane transport	106	GO:1904062	regulation of monoatomic cation transmembrane transport	145
+									GO:0010959	regulation of metal ion transport	99																GO:0010959	regulation of metal ion transport	79	GO:0010959	regulation of metal ion transport	80
+									GO:1902305	regulation of sodium ion transmembrane transport	392																			GO:1902305	regulation of sodium ion transmembrane transport	82
+						GO:1902600	proton transmembrane transport	83																								
+						GO:0036376	sodium ion export across plasma membrane	85																						GO:0036376	sodium ion export across plasma membrane	86
+									GO:0086012	membrane depolarization during cardiac muscle cell action potential	88																					
+																											GO:1904063	negative regulation of cation transmembrane transport	94			
+									GO:0043270	positive regulation of monoatomic ion transport	143																			GO:0043270	positive regulation of monoatomic ion transport	97
+																		GO:0062111	zinc ion import into organelle	290										GO:0062111	zinc ion import into organelle	107
+						GO:0006816	calcium ion transport	110	GO:0006816	calcium ion transport	332				GO:0006816	calcium ion transport	116													GO:0006816	calcium ion transport	134
+																											GO:0034766	negative regulation of monoatomic ion transmembrane transport	110			
+						GO:0071577	zinc ion transmembrane transport	111																						GO:0071577	zinc ion transmembrane transport	116
+									GO:0043268	positive regulation of potassium ion transport	182																GO:0043268	positive regulation of potassium ion transport	131	GO:0043268	positive regulation of potassium ion transport	119
+									GO:0099624	atrial cardiac muscle cell membrane repolarization	123																					
+																														GO:0002028	regulation of sodium ion transport	133
+									GO:1904064	positive regulation of cation transmembrane transport	159																			GO:1904064	positive regulation of cation transmembrane transport	146
+																											GO:1903514	release of sequestered calcium ion into cytosol by endoplasmic reticulum	151			
+									GO:0070588	calcium ion transmembrane transport	215																GO:0070588	calcium ion transmembrane transport	166	GO:0070588	calcium ion transmembrane transport	152
+									GO:0034767	positive regulation of monoatomic ion transmembrane transport	175																			GO:0034767	positive regulation of monoatomic ion transmembrane transport	158
+																											GO:0043271	negative regulation of monoatomic ion transport	162			
+																														GO:0051924	regulation of calcium ion transport	163
+									GO:2001259	positive regulation of cation channel activity	222																					
+									GO:0032414	positive regulation of ion transmembrane transporter activity	318																					
+									GO:0097553	calcium ion transmembrane import into cytosol	398																					
+GO:0099536	synaptic signaling	1
+						GO:0099536	synaptic signaling	12	GO:0099536	synaptic signaling	6	GO:0099536	synaptic signaling	45	GO:0099536	synaptic signaling	18	GO:0099536	synaptic signaling	1	GO:0099536	synaptic signaling	32	GO:0099536	synaptic signaling	93	GO:0099536	synaptic signaling	55	GO:0099536	synaptic signaling	4
+						GO:0099537	trans-synaptic signaling	11	GO:0099537	trans-synaptic signaling	8	GO:0099537	trans-synaptic signaling	54	GO:0099537	trans-synaptic signaling	17	GO:0099537	trans-synaptic signaling	4	GO:0099537	trans-synaptic signaling	42	GO:0099537	trans-synaptic signaling	79	GO:0099537	trans-synaptic signaling	76	GO:0099537	trans-synaptic signaling	1
+						GO:0007268	chemical synaptic transmission	18	GO:0007268	chemical synaptic transmission	9	GO:0007268	chemical synaptic transmission	49	GO:0007268	chemical synaptic transmission	15	GO:0007268	chemical synaptic transmission	2	GO:0007268	chemical synaptic transmission	40	GO:0007268	chemical synaptic transmission	76	GO:0007268	chemical synaptic transmission	70	GO:0007268	chemical synaptic transmission	3
+						GO:0098916	anterograde trans-synaptic signaling	17	GO:0098916	anterograde trans-synaptic signaling	10	GO:0098916	anterograde trans-synaptic signaling	47	GO:0098916	anterograde trans-synaptic signaling	16	GO:0098916	anterograde trans-synaptic signaling	3	GO:0098916	anterograde trans-synaptic signaling	39	GO:0098916	anterograde trans-synaptic signaling	78	GO:0098916	anterograde trans-synaptic signaling	69	GO:0098916	anterograde trans-synaptic signaling	2
+			GO:0099177	regulation of trans-synaptic signaling	88	GO:0099177	regulation of trans-synaptic signaling	33	GO:0099177	regulation of trans-synaptic signaling	36	GO:0099177	regulation of trans-synaptic signaling	57	GO:0099177	regulation of trans-synaptic signaling	21	GO:0099177	regulation of trans-synaptic signaling	6				GO:0099177	regulation of trans-synaptic signaling	46	GO:0099177	regulation of trans-synaptic signaling	37	GO:0099177	regulation of trans-synaptic signaling	35
+			GO:0050804	modulation of chemical synaptic transmission	81	GO:0050804	modulation of chemical synaptic transmission	32	GO:0050804	modulation of chemical synaptic transmission	35	GO:0050804	modulation of chemical synaptic transmission	58	GO:0050804	modulation of chemical synaptic transmission	20	GO:0050804	modulation of chemical synaptic transmission	7				GO:0050804	modulation of chemical synaptic transmission	44	GO:0050804	modulation of chemical synaptic transmission	34	GO:0050804	modulation of chemical synaptic transmission	34
+																		GO:0095500	acetylcholine receptor signaling pathway	33												
+						GO:0016079	synaptic vesicle exocytosis	37	GO:0016079	synaptic vesicle exocytosis	105							GO:0016079	synaptic vesicle exocytosis	92										GO:0016079	synaptic vesicle exocytosis	205
+						GO:0007269	neurotransmitter secretion	43	GO:0007269	neurotransmitter secretion	55				GO:0007269	neurotransmitter secretion	69	GO:0007269	neurotransmitter secretion	66										GO:0007269	neurotransmitter secretion	141
+						GO:0099643	signal release from synapse	44	GO:0099643	signal release from synapse	57				GO:0099643	signal release from synapse	70	GO:0099643	signal release from synapse	64										GO:0099643	signal release from synapse	140
+																		GO:0098926	postsynaptic signal transduction	45												
+						GO:0048167	regulation of synaptic plasticity	50	GO:0048167	regulation of synaptic plasticity	144	GO:0048167	regulation of synaptic plasticity	70				GO:0048167	regulation of synaptic plasticity	46				GO:0048167	regulation of synaptic plasticity	74	GO:0048167	regulation of synaptic plasticity	149	GO:0048167	regulation of synaptic plasticity	216
+															GO:0007271	synaptic transmission, cholinergic	55	GO:0007271	synaptic transmission, cholinergic	95												
+												GO:1900271	regulation of long-term synaptic potentiation	162										GO:1900271	regulation of long-term synaptic potentiation	87						
+																		GO:0007274	neuromuscular synaptic transmission	90												
+									GO:0035249	synaptic transmission, glutamatergic	131							GO:0035249	synaptic transmission, glutamatergic	97												
+						GO:0051932	synaptic transmission, GABAergic	103	GO:0051932	synaptic transmission, GABAergic	292							GO:0051932	synaptic transmission, GABAergic	163												
+									GO:0050806	positive regulation of synaptic transmission	369	GO:0050806	positive regulation of synaptic transmission	157				GO:0050806	positive regulation of synaptic transmission	113												
+												GO:0001963	synaptic transmission, dopaminergic	128																		
+																		GO:0016082	synaptic vesicle priming	132												
+									GO:0060291	long-term synaptic potentiation	352	GO:0060291	long-term synaptic potentiation	140																		
+									GO:0099565	chemical synaptic transmission, postsynaptic	166							GO:0099565	chemical synaptic transmission, postsynaptic	143										GO:0099565	chemical synaptic transmission, postsynaptic	153
+									GO:0060079	excitatory postsynaptic potential	154							GO:0060079	excitatory postsynaptic potential	194										GO:0060079	excitatory postsynaptic potential	209
+																		GO:0032230	positive regulation of synaptic transmission, GABAergic	165												
+																		GO:0099550	trans-synaptic signaling, modulating synaptic transmission	178												
+									GO:0098976	excitatory chemical synaptic transmission	188																					
+									GO:1901632	regulation of synaptic vesicle membrane organization	189																					
+									GO:0031630	regulation of synaptic vesicle fusion to presynaptic active zone membrane	190																					
+									GO:0016081	synaptic vesicle docking	199																					
+																		GO:0007213	G protein-coupled acetylcholine receptor signaling pathway	217												
+									GO:0098815	modulation of excitatory postsynaptic potential	254							GO:0098815	modulation of excitatory postsynaptic potential	228												
+									GO:0046928	regulation of neurotransmitter secretion	244							GO:0046928	regulation of neurotransmitter secretion	241												
+									GO:0031629	synaptic vesicle fusion to presynaptic active zone membrane	247																					
+																		GO:0050805	negative regulation of synaptic transmission	250												
+																		GO:0051590	positive regulation of neurotransmitter transport	252												
+									GO:2000300	regulation of synaptic vesicle exocytosis	255																					
+									GO:2000463	positive regulation of excitatory postsynaptic potential	265							GO:2000463	positive regulation of excitatory postsynaptic potential	293												
+																		GO:0099170	postsynaptic modulation of chemical synaptic transmission	271												
+																		GO:0032228	regulation of synaptic transmission, GABAergic	299												
+									GO:1990504	dense core granule exocytosis	322																					
+												GO:0051583	dopamine uptake involved in synaptic transmission	335																		
+									GO:0051966	regulation of synaptic transmission, glutamatergic	351																					
+									GO:0048168	regulation of neuronal synaptic plasticity	388																					
+									GO:0099171	presynaptic modulation of chemical synaptic transmission	405																					
+GO:0055085	transmembrane transport	1
+			GO:0055085	transmembrane transport	5	GO:0055085	transmembrane transport	6	GO:0055085	transmembrane transport	11				GO:0055085	transmembrane transport	8	GO:0055085	transmembrane transport	72	GO:0055085	transmembrane transport	1				GO:0055085	transmembrane transport	3	GO:0055085	transmembrane transport	8
+			GO:0098739	import across plasma membrane	38	GO:0098739	import across plasma membrane	42	GO:0098739	import across plasma membrane	101				GO:0098739	import across plasma membrane	23	GO:0098739	import across plasma membrane	214	GO:0098739	import across plasma membrane	9							GO:0098739	import across plasma membrane	29
+			GO:0003333	amino acid transmembrane transport	42				GO:0003333	amino acid transmembrane transport	298				GO:0003333	amino acid transmembrane transport	37				GO:0003333	amino acid transmembrane transport	41							GO:0003333	amino acid transmembrane transport	9
+			GO:0089718	amino acid import across plasma membrane	74	GO:0089718	amino acid import across plasma membrane	94							GO:0089718	amino acid import across plasma membrane	22	GO:0089718	amino acid import across plasma membrane	249	GO:0089718	amino acid import across plasma membrane	16							GO:0089718	amino acid import across plasma membrane	15
+			GO:1905039	carboxylic acid transmembrane transport	20				GO:1905039	carboxylic acid transmembrane transport	349				GO:1905039	carboxylic acid transmembrane transport	42				GO:1905039	carboxylic acid transmembrane transport	43							GO:1905039	carboxylic acid transmembrane transport	24
+			GO:1902475	L-alpha-amino acid transmembrane transport	113										GO:1902475	L-alpha-amino acid transmembrane transport	35													GO:1902475	L-alpha-amino acid transmembrane transport	61
+									GO:0034762	regulation of transmembrane transport	39																GO:0034762	regulation of transmembrane transport	191	GO:0034762	regulation of transmembrane transport	108
+																														GO:0015810	aspartate transmembrane transport	44
+						GO:0140115	export across plasma membrane	80	GO:0140115	export across plasma membrane	141										GO:0140115	export across plasma membrane	48				GO:0140115	export across plasma membrane	47	GO:0140115	export across plasma membrane	64
+			GO:0099587	inorganic ion import across plasma membrane	108	GO:0099587	inorganic ion import across plasma membrane	81	GO:0099587	inorganic ion import across plasma membrane	82				GO:0099587	inorganic ion import across plasma membrane	83				GO:0099587	inorganic ion import across plasma membrane	49				GO:0099587	inorganic ion import across plasma membrane	128			
+			GO:0098659	inorganic cation import across plasma membrane	107	GO:0098659	inorganic cation import across plasma membrane	79	GO:0098659	inorganic cation import across plasma membrane	83				GO:0098659	inorganic cation import across plasma membrane	84				GO:0098659	inorganic cation import across plasma membrane	52				GO:0098659	inorganic cation import across plasma membrane	129			
+																														GO:0070778	L-aspartate transmembrane transport	54
+			GO:0015813	L-glutamate transmembrane transport	118				GO:0015813	L-glutamate transmembrane transport	374				GO:0015813	L-glutamate transmembrane transport	61													GO:0015813	L-glutamate transmembrane transport	73
+																														GO:0015824	proline transport	63
+						GO:1903789	regulation of amino acid transmembrane transport	75							GO:1903789	regulation of amino acid transmembrane transport	80															
+						GO:0010958	regulation of amino acid import across plasma membrane	77							GO:0010958	regulation of amino acid import across plasma membrane	78															
+															GO:0032328	alanine transport	79													GO:0032328	alanine transport	79
+									GO:0098712	L-glutamate import across plasma membrane	386				GO:0098712	L-glutamate import across plasma membrane	88													GO:0098712	L-glutamate import across plasma membrane	144
+																														GO:0000101	sulfur amino acid transport	104
+			GO:0015808	L-alanine transport	133																									GO:0015808	L-alanine transport	105
+																														GO:0035524	proline transmembrane transport	106
+									GO:0034764	positive regulation of transmembrane transport	217																			GO:0034764	positive regulation of transmembrane transport	120
+			GO:0051933	amino acid neurotransmitter reuptake	130				GO:0051933	amino acid neurotransmitter reuptake	293							GO:0051933	amino acid neurotransmitter reuptake	285										GO:0051933	amino acid neurotransmitter reuptake	224
+			GO:0006868	glutamine transport	132																									GO:0006868	glutamine transport	222
+																											GO:0034763	negative regulation of transmembrane transport	170			
+									GO:0022898	regulation of transmembrane transporter activity	277																					
+GO:0051234	establishment of localization	2
+			GO:0051234	establishment of localization	93	GO:0051234	establishment of localization	2	GO:0051234	establishment of localization	19	GO:0051234	establishment of localization	359	GO:0051234	establishment of localization	7	GO:0051234	establishment of localization	93	GO:0051234	establishment of localization	71				GO:0051234	establishment of localization	32	GO:0051234	establishment of localization	25
+GO:0007417	central nervous system development	2
+			GO:0007417	central nervous system development	91				GO:0007417	central nervous system development	124	GO:0007417	central nervous system development	2				GO:0007417	central nervous system development	109	GO:0007417	central nervous system development	69	GO:0007417	central nervous system development	20	GO:0007417	central nervous system development	188	GO:0007417	central nervous system development	45
+			GO:0030900	forebrain development	73				GO:0030900	forebrain development	212	GO:0030900	forebrain development	14																		
+									GO:0007420	brain development	194	GO:0007420	brain development	17				GO:0007420	brain development	193				GO:0007420	brain development	101				GO:0007420	brain development	96
+									GO:0021537	telencephalon development	203	GO:0021537	telencephalon development	21				GO:0021537	telencephalon development	257												
+									GO:0021953	central nervous system neuron differentiation	250	GO:0021953	central nervous system neuron differentiation	26													GO:0021953	central nervous system neuron differentiation	83			
+									GO:0021543	pallium development	300	GO:0021543	pallium development	27				GO:0021543	pallium development	198							GO:0021543	pallium development	178			
+									GO:0021761	limbic system development	274	GO:0021761	limbic system development	37				GO:0021761	limbic system development	230							GO:0021761	limbic system development	134			
+			GO:0014002	astrocyte development	47							GO:0014002	astrocyte development	148							GO:0014002	astrocyte development	38	GO:0014002	astrocyte development	168						
+									GO:0021766	hippocampus development	251	GO:0021766	hippocampus development	53				GO:0021766	hippocampus development	164												
+									GO:0021954	central nervous system neuron development	350	GO:0021954	central nervous system neuron development	56													GO:0021954	central nervous system neuron development	96			
+												GO:0021987	cerebral cortex development	59													GO:0021987	cerebral cortex development	148			
+			GO:0048143	astrocyte activation	68							GO:0048143	astrocyte activation	178	GO:0048143	astrocyte activation	96										GO:0048143	astrocyte activation	177			
+												GO:0021795	cerebral cortex cell migration	120													GO:0021795	cerebral cortex cell migration	68			
+												GO:0048709	oligodendrocyte differentiation	146										GO:0048709	oligodendrocyte differentiation	69						
+									GO:0030902	hindbrain development	364	GO:0030902	hindbrain development	253										GO:0030902	hindbrain development	73						
+									GO:0021819	layer formation in cerebral cortex	378	GO:0021819	layer formation in cerebral cortex	95													GO:0021819	layer formation in cerebral cortex	77			
+												GO:0022029	telencephalon cell migration	97													GO:0022029	telencephalon cell migration	91			
+																								GO:0021535	cell migration in hindbrain	94						
+																								GO:0014003	oligodendrocyte development	95						
+												GO:0021885	forebrain cell migration	101													GO:0021885	forebrain cell migration	95			
+												GO:0022038	corpus callosum development	116																		
+			GO:0048708	astrocyte differentiation	147							GO:0048708	astrocyte differentiation	119																GO:0048708	astrocyte differentiation	168
+																								GO:0032291	axon ensheathment in central nervous system	120						
+																								GO:0022010	central nervous system myelination	121						
+												GO:0022030	telencephalon glial cell migration	131													GO:0022030	telencephalon glial cell migration	123			
+												GO:0021801	cerebral cortex radial glia-guided migration	132													GO:0021801	cerebral cortex radial glia-guided migration	124			
+												GO:0021879	forebrain neuron differentiation	176													GO:0021879	forebrain neuron differentiation	125			
+									GO:0021549	cerebellum development	287	GO:0021549	cerebellum development	234				GO:0021549	cerebellum development	282				GO:0021549	cerebellum development	126						
+												GO:0021510	spinal cord development	134																		
+																								GO:0021952	central nervous system projection neuron axonogenesis	139						
+			GO:0021604	cranial nerve structural organization	141																			GO:0021604	cranial nerve structural organization	177						
+									GO:0022037	metencephalon development	249	GO:0022037	metencephalon development	267										GO:0022037	metencephalon development	141						
+												GO:0021872	forebrain generation of neurons	195													GO:0021872	forebrain generation of neurons	141			
+			GO:0021561	facial nerve development	142																			GO:0021561	facial nerve development	170						
+			GO:0021610	facial nerve morphogenesis	144																			GO:0021610	facial nerve morphogenesis	172						
+												GO:0048857	neural nucleus development	150				GO:0048857	neural nucleus development	191										GO:0048857	neural nucleus development	236
+												GO:0021799	cerebral cortex radially oriented cell migration	154													GO:0021799	cerebral cortex radially oriented cell migration	157			
+																		GO:0021762	substantia nigra development	219										GO:0021762	substantia nigra development	159
+												GO:0021536	diencephalon development	167																		
+																								GO:0021955	central nervous system neuron axonogenesis	176						
+																														GO:0030901	midbrain development	191
+																														GO:0048710	regulation of astrocyte differentiation	201
+																														GO:0021932	hindbrain radial glia guided cell migration	227
+												GO:0021517	ventral spinal cord development	325																		
+												GO:0048712	negative regulation of astrocyte differentiation	333																		
+												GO:0021983	pituitary gland development	339																		
+												GO:0021978	telencephalon regionalization	349																		
+GO:0048731	system development	2
+			GO:0048731	system development	25				GO:0048731	system development	27	GO:0048731	system development	4	GO:0048731	system development	93	GO:0048731	system development	12				GO:0048731	system development	2	GO:0048731	system development	31	GO:0048731	system development	52
+GO:0022008	neurogenesis	3
+			GO:0022008	neurogenesis	16				GO:0022008	neurogenesis	62	GO:0022008	neurogenesis	3				GO:0022008	neurogenesis	25				GO:0022008	neurogenesis	6	GO:0022008	neurogenesis	20	GO:0022008	neurogenesis	51
+			GO:0048699	generation of neurons	45				GO:0048699	generation of neurons	81	GO:0048699	generation of neurons	5				GO:0048699	generation of neurons	29				GO:0048699	generation of neurons	15	GO:0048699	generation of neurons	25	GO:0048699	generation of neurons	87
+			GO:0061564	axon development	97				GO:0061564	axon development	192	GO:0061564	axon development	8				GO:0061564	axon development	26				GO:0061564	axon development	25	GO:0061564	axon development	16	GO:0061564	axon development	88
+			GO:0030182	neuron differentiation	46				GO:0030182	neuron differentiation	93	GO:0030182	neuron differentiation	9				GO:0030182	neuron differentiation	27				GO:0030182	neuron differentiation	16	GO:0030182	neuron differentiation	23	GO:0030182	neuron differentiation	101
+			GO:0010975	regulation of neuron projection development	96				GO:0010975	regulation of neuron projection development	183	GO:0010975	regulation of neuron projection development	10				GO:0010975	regulation of neuron projection development	68				GO:0010975	regulation of neuron projection development	47	GO:0010975	regulation of neuron projection development	22	GO:0010975	regulation of neuron projection development	122
+			GO:0097485	neuron projection guidance	56				GO:0097485	neuron projection guidance	283	GO:0097485	neuron projection guidance	184										GO:0097485	neuron projection guidance	41	GO:0097485	neuron projection guidance	10			
+												GO:0050767	regulation of neurogenesis	11				GO:0050767	regulation of neurogenesis	122							GO:0050767	regulation of neurogenesis	88	GO:0050767	regulation of neurogenesis	110
+			GO:0031175	neuron projection development	14				GO:0031175	neuron projection development	118	GO:0031175	neuron projection development	16				GO:0031175	neuron projection development	24	GO:0031175	neuron projection development	46	GO:0031175	neuron projection development	11	GO:0031175	neuron projection development	15	GO:0031175	neuron projection development	55
+			GO:0007411	axon guidance	104				GO:0007411	axon guidance	278	GO:0007411	axon guidance	180										GO:0007411	axon guidance	40	GO:0007411	axon guidance	11			
+			GO:0048667	cell morphogenesis involved in neuron differentiation	39				GO:0048667	cell morphogenesis involved in neuron differentiation	196	GO:0048667	cell morphogenesis involved in neuron differentiation	12				GO:0048667	cell morphogenesis involved in neuron differentiation	50	GO:0048667	cell morphogenesis involved in neuron differentiation	54	GO:0048667	cell morphogenesis involved in neuron differentiation	34	GO:0048667	cell morphogenesis involved in neuron differentiation	12	GO:0048667	cell morphogenesis involved in neuron differentiation	93
+			GO:0048666	neuron development	37				GO:0048666	neuron development	96	GO:0048666	neuron development	18				GO:0048666	neuron development	23	GO:0048666	neuron development	62	GO:0048666	neuron development	12	GO:0048666	neuron development	14	GO:0048666	neuron development	70
+			GO:0007409	axonogenesis	109				GO:0007409	axonogenesis	230	GO:0007409	axonogenesis	15				GO:0007409	axonogenesis	60				GO:0007409	axonogenesis	33	GO:0007409	axonogenesis	18	GO:0007409	axonogenesis	84
+			GO:0048812	neuron projection morphogenesis	52				GO:0048812	neuron projection morphogenesis	158	GO:0048812	neuron projection morphogenesis	20				GO:0048812	neuron projection morphogenesis	39				GO:0048812	neuron projection morphogenesis	26	GO:0048812	neuron projection morphogenesis	17	GO:0048812	neuron projection morphogenesis	95
+			GO:0016358	dendrite development	34				GO:0016358	dendrite development	191	GO:0016358	dendrite development	66				GO:0016358	dendrite development	149							GO:0016358	dendrite development	28			
+												GO:0050768	negative regulation of neurogenesis	32				GO:0050768	negative regulation of neurogenesis	253				GO:0050768	negative regulation of neurogenesis	179	GO:0050768	negative regulation of neurogenesis	48	GO:0050768	negative regulation of neurogenesis	37
+												GO:0050770	regulation of axonogenesis	35				GO:0050770	regulation of axonogenesis	131							GO:0050770	regulation of axonogenesis	78	GO:0050770	regulation of axonogenesis	131
+												GO:0042063	gliogenesis	36				GO:0042063	gliogenesis	151				GO:0042063	gliogenesis	80	GO:0042063	gliogenesis	184	GO:0042063	gliogenesis	125
+									GO:0001764	neuron migration	312	GO:0001764	neuron migration	40				GO:0001764	neuron migration	146	GO:0001764	neuron migration	70				GO:0001764	neuron migration	183	GO:0001764	neuron migration	200
+												GO:0050771	negative regulation of axonogenesis	81				GO:0050771	negative regulation of axonogenesis	144										GO:0050771	negative regulation of axonogenesis	41
+			GO:0010976	positive regulation of neuron projection development	79							GO:0010976	positive regulation of neuron projection development	64										GO:0010976	positive regulation of neuron projection development	43	GO:0010976	positive regulation of neuron projection development	86			
+												GO:0010001	glial cell differentiation	44										GO:0010001	glial cell differentiation	64				GO:0010001	glial cell differentiation	151
+			GO:0060999	positive regulation of dendritic spine development	49							GO:0060999	positive regulation of dendritic spine development	323				GO:0060999	positive regulation of dendritic spine development	184							GO:0060999	positive regulation of dendritic spine development	161			
+			GO:0021782	glial cell development	127							GO:0021782	glial cell development	55										GO:0021782	glial cell development	56				GO:0021782	glial cell development	173
+												GO:0050769	positive regulation of neurogenesis	62				GO:0050769	positive regulation of neurogenesis	255												
+			GO:0010977	negative regulation of neuron projection development	126							GO:0010977	negative regulation of neuron projection development	68				GO:0010977	negative regulation of neuron projection development	245										GO:0010977	negative regulation of neuron projection development	83
+			GO:0048846	axon extension involved in axon guidance	69																											
+												GO:0030517	negative regulation of axon extension	139				GO:0030517	negative regulation of axon extension	298										GO:0030517	negative regulation of axon extension	71
+												GO:0061387	regulation of extent of cell growth	73													GO:0061387	regulation of extent of cell growth	160	GO:0061387	regulation of extent of cell growth	128
+			GO:0060996	dendritic spine development	75							GO:0060996	dendritic spine development	137				GO:0060996	dendritic spine development	175							GO:0060996	dendritic spine development	93			
+			GO:0060998	regulation of dendritic spine development	76							GO:0060998	regulation of dendritic spine development	210				GO:0060998	regulation of dendritic spine development	153							GO:0060998	regulation of dendritic spine development	127			
+									GO:0048675	axon extension	395	GO:0048675	axon extension	79				GO:0048675	axon extension	137										GO:0048675	axon extension	149
+									GO:0008038	neuron recognition	335							GO:0008038	neuron recognition	87							GO:0008038	neuron recognition	189			
+												GO:0014013	regulation of gliogenesis	213																GO:0014013	regulation of gliogenesis	89
+												GO:0048670	regulation of collateral sprouting	172										GO:0048670	regulation of collateral sprouting	98						
+									GO:0048813	dendrite morphogenesis	207	GO:0048813	dendrite morphogenesis	102				GO:0048813	dendrite morphogenesis	189							GO:0048813	dendrite morphogenesis	114			
+																											GO:0008045	motor neuron axon guidance	102			
+												GO:0007405	neuroblast proliferation	108																		
+												GO:1902692	regulation of neuroblast proliferation	109																		
+			GO:0140059	dendrite arborization	145																						GO:0140059	dendrite arborization	113			
+																		GO:0106030	neuron projection fasciculation	114												
+																		GO:0007413	axonal fasciculation	115												
+												GO:0031102	neuron projection regeneration	117																GO:0031102	neuron projection regeneration	171
+									GO:0030516	regulation of axon extension	385	GO:0030516	regulation of axon extension	118																GO:0030516	regulation of axon extension	165
+									GO:1990138	neuron projection extension	327	GO:1990138	neuron projection extension	127				GO:1990138	neuron projection extension	168				GO:1990138	neuron projection extension	148				GO:1990138	neuron projection extension	169
+												GO:0007406	negative regulation of neuroblast proliferation	130										GO:0007406	negative regulation of neuroblast proliferation	169						
+												GO:0060219	camera-type eye photoreceptor cell differentiation	275				GO:0060219	camera-type eye photoreceptor cell differentiation	297							GO:0060219	camera-type eye photoreceptor cell differentiation	135			
+												GO:1900006	positive regulation of dendrite development	143													GO:1900006	positive regulation of dendrite development	136			
+												GO:0014014	negative regulation of gliogenesis	324													GO:0014014	negative regulation of gliogenesis	156	GO:0014014	negative regulation of gliogenesis	136
+												GO:0048668	collateral sprouting	247										GO:0048668	collateral sprouting	137						
+												GO:0042462	eye photoreceptor cell development	144																		
+																											GO:0140058	neuron projection arborization	147			
+																								GO:0048672	positive regulation of collateral sprouting	150						
+												GO:0050772	positive regulation of axonogenesis	156																		
+									GO:0050773	regulation of dendrite development	284	GO:0050773	regulation of dendrite development	224				GO:0050773	regulation of dendrite development	277							GO:0050773	regulation of dendrite development	163			
+												GO:0014044	Schwann cell development	166																		
+									GO:0050775	positive regulation of dendrite morphogenesis	380							GO:0050775	positive regulation of dendrite morphogenesis	166												
+												GO:0031103	axon regeneration	168																		
+												GO:0014037	Schwann cell differentiation	185																		
+												GO:0042461	photoreceptor cell development	191																		
+												GO:0001754	eye photoreceptor cell differentiation	198																		
+												GO:0048679	regulation of axon regeneration	211																		
+												GO:0070570	regulation of neuron projection regeneration	227																		
+												GO:0008347	glial cell migration	237				GO:0008347	glial cell migration	270												
+									GO:0045666	positive regulation of neuron differentiation	245							GO:0045666	positive regulation of neuron differentiation	247												
+												GO:0002052	positive regulation of neuroblast proliferation	250																		
+												GO:0032292	peripheral nervous system axon ensheathment	254																		
+												GO:0022011	myelination in peripheral nervous system	257																		
+									GO:0045664	regulation of neuron differentiation	347	GO:0045664	regulation of neuron differentiation	314				GO:0045664	regulation of neuron differentiation	265												
+									GO:0042551	neuron maturation	269																					
+												GO:0046548	retinal rod cell development	279																		
+												GO:0046530	photoreceptor cell differentiation	284																		
+												GO:0048755	branching morphogenesis of a nerve	300																		
+									GO:0048814	regulation of dendrite morphogenesis	324							GO:0048814	regulation of dendrite morphogenesis	301												
+												GO:0048671	negative regulation of collateral sprouting	318																		
+												GO:2001223	negative regulation of neuron migration	321																		
+												GO:0046549	retinal cone cell development	338																		
+												GO:0048681	negative regulation of axon regeneration	351																		
+												GO:0048935	peripheral nervous system neuron development	365																		
+												GO:0070571	negative regulation of neuron projection regeneration	367																		
+GO:0007275	multicellular organism development	3
+			GO:0007275	multicellular organism development	53	GO:0007275	multicellular organism development	102	GO:0007275	multicellular organism development	60	GO:0007275	multicellular organism development	6				GO:0007275	multicellular organism development	16				GO:0007275	multicellular organism development	3	GO:0007275	multicellular organism development	56	GO:0007275	multicellular organism development	103
+GO:0042391	regulation of membrane potential	4
+						GO:0042391	regulation of membrane potential	73	GO:0042391	regulation of membrane potential	4	GO:0042391	regulation of membrane potential	294	GO:0042391	regulation of membrane potential	48	GO:0042391	regulation of membrane potential	21							GO:0042391	regulation of membrane potential	13	GO:0042391	regulation of membrane potential	78
+									GO:0001508	action potential	14				GO:0001508	action potential	130	GO:0001508	action potential	91							GO:0001508	action potential	24	GO:0001508	action potential	167
+									GO:0086001	cardiac muscle cell action potential	23							GO:0086001	cardiac muscle cell action potential	150							GO:0086001	cardiac muscle cell action potential	54			
+									GO:0099622	cardiac muscle cell membrane repolarization	26																GO:0099622	cardiac muscle cell membrane repolarization	52			
+									GO:0086002	cardiac muscle cell action potential involved in contraction	28							GO:0086002	cardiac muscle cell action potential involved in contraction	260							GO:0086002	cardiac muscle cell action potential involved in contraction	137			
+									GO:0086009	membrane repolarization	33																GO:0086009	membrane repolarization	72			
+									GO:0086013	membrane repolarization during cardiac muscle cell action potential	80																GO:0086013	membrane repolarization during cardiac muscle cell action potential	35			
+									GO:0099623	regulation of cardiac muscle cell membrane repolarization	61																GO:0099623	regulation of cardiac muscle cell membrane repolarization	36			
+									GO:0086011	membrane repolarization during action potential	50																GO:0086011	membrane repolarization during action potential	41			
+									GO:0060078	regulation of postsynaptic membrane potential	65							GO:0060078	regulation of postsynaptic membrane potential	44										GO:0060078	regulation of postsynaptic membrane potential	202
+									GO:0099625	ventricular cardiac muscle cell membrane repolarization	45																GO:0099625	ventricular cardiac muscle cell membrane repolarization	62			
+									GO:0099505	regulation of presynaptic membrane potential	49																					
+									GO:0060306	regulation of membrane repolarization	68																GO:0060306	regulation of membrane repolarization	50			
+									GO:0060307	regulation of ventricular cardiac muscle cell membrane repolarization	92																GO:0060307	regulation of ventricular cardiac muscle cell membrane repolarization	51			
+									GO:0098915	membrane repolarization during ventricular cardiac muscle cell action potential	114																GO:0098915	membrane repolarization during ventricular cardiac muscle cell action potential	71			
+									GO:0086005	ventricular cardiac muscle cell action potential	111																GO:0086005	ventricular cardiac muscle cell action potential	140			
+									GO:0086014	atrial cardiac muscle cell action potential	126																					
+									GO:0086066	atrial cardiac muscle cell to AV node cell communication	127																					
+									GO:0086026	atrial cardiac muscle cell to AV node cell signaling	128																					
+									GO:0051899	membrane depolarization	136							GO:0051899	membrane depolarization	256												
+									GO:0086018	SA node cell to atrial cardiac muscle cell signaling	137																					
+									GO:0086015	SA node cell action potential	138																					
+									GO:0086070	SA node cell to atrial cardiac muscle cell communication	146																					
+									GO:0098900	regulation of action potential	213							GO:0098900	regulation of action potential	162												
+									GO:0019228	neuronal action potential	204																					
+									GO:0019227	neuronal action potential propagation	294																					
+									GO:0098870	action potential propagation	303																					
+									GO:0060081	membrane hyperpolarization	306																					
+GO:0032502	developmental process	4
+			GO:0032502	developmental process	92				GO:0032502	developmental process	132	GO:0032502	developmental process	25				GO:0032502	developmental process	52				GO:0032502	developmental process	4	GO:0032502	developmental process	84			
+GO:0140352	export from cell	5
+						GO:0140352	export from cell	5	GO:0140352	export from cell	43				GO:0140352	export from cell	28	GO:0140352	export from cell	30	GO:0140352	export from cell	34				GO:0140352	export from cell	64	GO:0140352	export from cell	18
+						GO:0032940	secretion by cell	26	GO:0032940	secretion by cell	84				GO:0032940	secretion by cell	74	GO:0032940	secretion by cell	43										GO:0032940	secretion by cell	65
+						GO:0045055	regulated exocytosis	31	GO:0045055	regulated exocytosis	129							GO:0045055	regulated exocytosis	101												
+						GO:0006887	exocytosis	38	GO:0006887	exocytosis	157							GO:0006887	exocytosis	156										GO:0006887	exocytosis	174
+						GO:0023061	signal release	46	GO:0023061	signal release	40							GO:0023061	signal release	76										GO:0023061	signal release	117
+						GO:0140029	exocytic process	57	GO:0140029	exocytic process	160							GO:0140029	exocytic process	112												
+									GO:0030073	insulin secretion	104																					
+						GO:0017156	calcium-ion regulated exocytosis	112	GO:0017156	calcium-ion regulated exocytosis	237																			GO:0017156	calcium-ion regulated exocytosis	126
+									GO:1903530	regulation of secretion by cell	119																GO:1903530	regulation of secretion by cell	185	GO:1903530	regulation of secretion by cell	148
+									GO:0030072	peptide hormone secretion	122																			GO:0030072	peptide hormone secretion	187
+									GO:0046879	hormone secretion	140																					
+																											GO:0050708	regulation of protein secretion	150			
+									GO:0009306	protein secretion	163																GO:0009306	protein secretion	194			
+									GO:0050432	catecholamine secretion	177																					
+									GO:0050433	regulation of catecholamine secretion	202																					
+									GO:0017157	regulation of exocytosis	231																					
+									GO:0090276	regulation of peptide hormone secretion	258																					
+									GO:0099500	vesicle fusion to plasma membrane	259																					
+									GO:0090278	negative regulation of peptide hormone secretion	262																					
+									GO:0050796	regulation of insulin secretion	267																					
+									GO:1903531	negative regulation of secretion by cell	276																					
+									GO:0006904	vesicle docking involved in exocytosis	288																					
+									GO:0033604	negative regulation of catecholamine secretion	305																					
+									GO:0046883	regulation of hormone secretion	307																					
+									GO:0046676	negative regulation of insulin secretion	320																					
+									GO:0014046	dopamine secretion	325																					
+									GO:0014047	glutamate secretion	345																					
+									GO:0046888	negative regulation of hormone secretion	353																					
+GO:0007267	cell-cell signaling	5
+			GO:0007267	cell-cell signaling	102	GO:0007267	cell-cell signaling	27	GO:0007267	cell-cell signaling	12	GO:0007267	cell-cell signaling	61	GO:0007267	cell-cell signaling	25	GO:0007267	cell-cell signaling	5				GO:0007267	cell-cell signaling	21	GO:0007267	cell-cell signaling	59	GO:0007267	cell-cell signaling	7
+									GO:0007214	gamma-aminobutyric acid signaling pathway	336																					
+GO:0048856	anatomical structure development	5
+			GO:0048856	anatomical structure development	60				GO:0048856	anatomical structure development	103	GO:0048856	anatomical structure development	30				GO:0048856	anatomical structure development	31				GO:0048856	anatomical structure development	5	GO:0048856	anatomical structure development	60	GO:0048856	anatomical structure development	181
+GO:0006865	amino acid transport	5
+			GO:0006865	amino acid transport	95	GO:0006865	amino acid transport	49	GO:0006865	amino acid transport	162				GO:0006865	amino acid transport	44	GO:0006865	amino acid transport	224	GO:0006865	amino acid transport	26							GO:0006865	amino acid transport	5
+			GO:0015800	acidic amino acid transport	136				GO:0015800	acidic amino acid transport	145				GO:0015800	acidic amino acid transport	92	GO:0015800	acidic amino acid transport	142	GO:0015800	acidic amino acid transport	25							GO:0015800	acidic amino acid transport	19
+						GO:0015807	L-amino acid transport	56	GO:0015807	L-amino acid transport	334				GO:0015807	L-amino acid transport	29				GO:0015807	L-amino acid transport	63							GO:0015807	L-amino acid transport	22
+						GO:0015804	neutral amino acid transport	99							GO:0015804	neutral amino acid transport	53													GO:0015804	neutral amino acid transport	27
+									GO:0051938	L-glutamate import	234				GO:0051938	L-glutamate import	40				GO:0051938	L-glutamate import	50							GO:0051938	L-glutamate import	57
+						GO:0051955	regulation of amino acid transport	74							GO:0051955	regulation of amino acid transport	75															
+						GO:0051957	positive regulation of amino acid transport	92										GO:0051957	positive regulation of amino acid transport	221												
+									GO:0015812	gamma-aminobutyric acid transport	377																			GO:0015812	gamma-aminobutyric acid transport	138
+GO:0015849	organic acid transport	7
+			GO:0015849	organic acid transport	7	GO:0015849	organic acid transport	20	GO:0015849	organic acid transport	232	GO:0015849	organic acid transport	348	GO:0015849	organic acid transport	13				GO:0015849	organic acid transport	7							GO:0015849	organic acid transport	10
+			GO:0046942	carboxylic acid transport	10	GO:0046942	carboxylic acid transport	22	GO:0046942	carboxylic acid transport	233	GO:0046942	carboxylic acid transport	347	GO:0046942	carboxylic acid transport	12				GO:0046942	carboxylic acid transport	8							GO:0046942	carboxylic acid transport	11
+			GO:0006835	dicarboxylic acid transport	86	GO:0006835	dicarboxylic acid transport	68	GO:0006835	dicarboxylic acid transport	224				GO:0006835	dicarboxylic acid transport	33				GO:0006835	dicarboxylic acid transport	15							GO:0006835	dicarboxylic acid transport	40
+			GO:0015718	monocarboxylic acid transport	27										GO:0015718	monocarboxylic acid transport	123				GO:0015718	monocarboxylic acid transport	28							GO:0015718	monocarboxylic acid transport	237
+															GO:1903963	arachidonate transport	36															
+															GO:0050482	arachidonate secretion	38															
+															GO:0071715	icosanoid transport	49															
+															GO:0015909	long-chain fatty acid transport	54															
+																														GO:0015740	C4-dicarboxylate transport	62
+															GO:0032309	icosanoid secretion	63															
+																					GO:0015721	bile acid and bile salt transport	68									
+															GO:0032890	regulation of organic acid transport	72															
+															GO:0015908	fatty acid transport	118															
+			GO:0032892	positive regulation of organic acid transport	139																											
+GO:0009653	anatomical structure morphogenesis	7
+			GO:0009653	anatomical structure morphogenesis	90							GO:0009653	anatomical structure morphogenesis	7										GO:0009653	anatomical structure morphogenesis	13	GO:0009653	anatomical structure morphogenesis	85			
+GO:0010232	vascular transport	8
+			GO:0010232	vascular transport	8	GO:0010232	vascular transport	54							GO:0010232	vascular transport	51				GO:0010232	vascular transport	12							GO:0010232	vascular transport	30
+			GO:0150104	transport across blood-brain barrier	11	GO:0150104	transport across blood-brain barrier	53							GO:0150104	transport across blood-brain barrier	52				GO:0150104	transport across blood-brain barrier	11							GO:0150104	transport across blood-brain barrier	31
+GO:0099003	vesicle-mediated transport in synapse	8
+						GO:0099003	vesicle-mediated transport in synapse	8	GO:0099003	vesicle-mediated transport in synapse	74							GO:0099003	vesicle-mediated transport in synapse	73										GO:0099003	vesicle-mediated transport in synapse	204
+						GO:0099504	synaptic vesicle cycle	16	GO:0099504	synaptic vesicle cycle	77							GO:0099504	synaptic vesicle cycle	62										GO:0099504	synaptic vesicle cycle	230
+									GO:0097091	synaptic vesicle clustering	172																					
+GO:0048869	cellular developmental process	8
+			GO:0048869	cellular developmental process	77							GO:0048869	cellular developmental process	51				GO:0048869	cellular developmental process	186				GO:0048869	cellular developmental process	8	GO:0048869	cellular developmental process	74			
+GO:0051179	localization	9
+			GO:0051179	localization	121	GO:0051179	localization	9	GO:0051179	localization	21	GO:0051179	localization	217	GO:0051179	localization	14	GO:0051179	localization	108	GO:0051179	localization	66				GO:0051179	localization	33	GO:0051179	localization	39
+GO:0098657	import into cell	9
+			GO:0098657	import into cell	15	GO:0098657	import into cell	25	GO:0098657	import into cell	297				GO:0098657	import into cell	9	GO:0098657	import into cell	170	GO:0098657	import into cell	33							GO:0098657	import into cell	28
+			GO:0098810	neurotransmitter reuptake	43				GO:0098810	neurotransmitter reuptake	281	GO:0098810	neurotransmitter reuptake	307				GO:0098810	neurotransmitter reuptake	173				GO:0098810	neurotransmitter reuptake	163						
+															GO:0006898	receptor-mediated endocytosis	47															
+			GO:0001504	neurotransmitter uptake	65	GO:0001504	neurotransmitter uptake	88	GO:0001504	neurotransmitter uptake	243	GO:0001504	neurotransmitter uptake	173				GO:0001504	neurotransmitter uptake	86										GO:0001504	neurotransmitter uptake	60
+						GO:0051580	regulation of neurotransmitter uptake	86																								
+GO:0030154	cell differentiation	9
+			GO:0030154	cell differentiation	78							GO:0030154	cell differentiation	52				GO:0030154	cell differentiation	185				GO:0030154	cell differentiation	9	GO:0030154	cell differentiation	73			
+GO:0015711	organic anion transport	10
+			GO:0015711	organic anion transport	33	GO:0015711	organic anion transport	24	GO:0015711	organic anion transport	365	GO:0015711	organic anion transport	273	GO:0015711	organic anion transport	19				GO:0015711	organic anion transport	10				GO:0015711	organic anion transport	176	GO:0015711	organic anion transport	17
+GO:0032501	multicellular organismal process	10
+			GO:0032501	multicellular organismal process	17				GO:0032501	multicellular organismal process	78	GO:0032501	multicellular organismal process	39	GO:0032501	multicellular organismal process	86	GO:0032501	multicellular organismal process	22				GO:0032501	multicellular organismal process	10	GO:0032501	multicellular organismal process	65	GO:0032501	multicellular organismal process	47
+GO:0050803	regulation of synapse structure or activity	11
+			GO:0050803	regulation of synapse structure or activity	19				GO:0050803	regulation of synapse structure or activity	120	GO:0050803	regulation of synapse structure or activity	48				GO:0050803	regulation of synapse structure or activity	11				GO:0050803	regulation of synapse structure or activity	65	GO:0050803	regulation of synapse structure or activity	169			
+GO:0000902	cell morphogenesis	12
+			GO:0000902	cell morphogenesis	12				GO:0000902	cell morphogenesis	257	GO:0000902	cell morphogenesis	13				GO:0000902	cell morphogenesis	57	GO:0000902	cell morphogenesis	44	GO:0000902	cell morphogenesis	18	GO:0000902	cell morphogenesis	30	GO:0000902	cell morphogenesis	166
+			GO:0120039	plasma membrane bounded cell projection morphogenesis	61				GO:0120039	plasma membrane bounded cell projection morphogenesis	170	GO:0120039	plasma membrane bounded cell projection morphogenesis	23				GO:0120039	plasma membrane bounded cell projection morphogenesis	48				GO:0120039	plasma membrane bounded cell projection morphogenesis	27	GO:0120039	plasma membrane bounded cell projection morphogenesis	19	GO:0120039	plasma membrane bounded cell projection morphogenesis	100
+			GO:0048858	cell projection morphogenesis	63				GO:0048858	cell projection morphogenesis	155	GO:0048858	cell projection morphogenesis	24				GO:0048858	cell projection morphogenesis	34				GO:0048858	cell projection morphogenesis	28	GO:0048858	cell projection morphogenesis	21	GO:0048858	cell projection morphogenesis	102
+									GO:0010770	positive regulation of cell morphogenesis	391							GO:0010770	positive regulation of cell morphogenesis	177												
+GO:0003008	system process	12
+			GO:0003008	system process	62				GO:0003008	system process	56	GO:0003008	system process	216	GO:0003008	system process	45	GO:0003008	system process	19	GO:0003008	system process	61				GO:0003008	system process	108	GO:0003008	system process	12
+GO:0007154	cell communication	14
+									GO:0007154	cell communication	67	GO:0007154	cell communication	98				GO:0007154	cell communication	14				GO:0007154	cell communication	23				GO:0007154	cell communication	69
+GO:0006836	neurotransmitter transport	15
+						GO:0006836	neurotransmitter transport	15	GO:0006836	neurotransmitter transport	20				GO:0006836	neurotransmitter transport	27	GO:0006836	neurotransmitter transport	32	GO:0006836	neurotransmitter transport	19				GO:0006836	neurotransmitter transport	154	GO:0006836	neurotransmitter transport	23
+						GO:0051588	regulation of neurotransmitter transport	69	GO:0051588	regulation of neurotransmitter transport	226							GO:0051588	regulation of neurotransmitter transport	127										GO:0051588	regulation of neurotransmitter transport	208
+GO:0065008	regulation of biological quality	16
+						GO:0065008	regulation of biological quality	63	GO:0065008	regulation of biological quality	16	GO:0065008	regulation of biological quality	77				GO:0065008	regulation of biological quality	20				GO:0065008	regulation of biological quality	105	GO:0065008	regulation of biological quality	29	GO:0065008	regulation of biological quality	156
+GO:0023052	signaling	17
+									GO:0023052	signaling	91	GO:0023052	signaling	96				GO:0023052	signaling	17				GO:0023052	signaling	19				GO:0023052	signaling	77
+GO:0015698	inorganic anion transport	17
+			GO:0015698	inorganic anion transport	48				GO:0015698	inorganic anion transport	116				GO:0015698	inorganic anion transport	82				GO:0015698	inorganic anion transport	17							GO:0015698	inorganic anion transport	231
+									GO:0044341	sodium-dependent phosphate transport	295																					
+GO:0007613	memory	17
+			GO:0007613	memory	114				GO:0007613	memory	147	GO:0007613	memory	89	GO:0007613	memory	90	GO:0007613	memory	161	GO:0007613	memory	56	GO:0007613	memory	17	GO:0007613	memory	89	GO:0007613	memory	81
+									GO:0007616	long-term memory	373	GO:0007616	long-term memory	287										GO:0007616	long-term memory	63						
+																								GO:0007614	short-term memory	165						
+GO:0050877	nervous system process	18
+									GO:0050877	nervous system process	87	GO:0050877	nervous system process	86	GO:0050877	nervous system process	34	GO:0050877	nervous system process	18										GO:0050877	nervous system process	20
+			GO:0007611	learning or memory	140	GO:0007611	learning or memory	106	GO:0007611	learning or memory	228	GO:0007611	learning or memory	28	GO:0007611	learning or memory	46	GO:0007611	learning or memory	36				GO:0007611	learning or memory	36	GO:0007611	learning or memory	167	GO:0007611	learning or memory	94
+			GO:0050890	cognition	111	GO:0050890	cognition	98	GO:0050890	cognition	209	GO:0050890	cognition	29	GO:0050890	cognition	43	GO:0050890	cognition	40				GO:0050890	cognition	45				GO:0050890	cognition	90
+									GO:0007612	learning	186	GO:0007612	learning	38	GO:0007612	learning	117	GO:0007612	learning	51				GO:0007612	learning	132				GO:0007612	learning	147
+																														GO:0007601	visual perception	72
+																														GO:0050953	sensory perception of light stimulus	75
+									GO:0007600	sensory perception	282																			GO:0007600	sensory perception	91
+									GO:0019226	transmission of nerve impulse	98							GO:0019226	transmission of nerve impulse	216												
+									GO:0008306	associative learning	401	GO:0008306	associative learning	182				GO:0008306	associative learning	106										GO:0008306	associative learning	170
+						GO:0050905	neuromuscular process	113	GO:0050905	neuromuscular process	197																					
+									GO:0050954	sensory perception of mechanical stimulus	139							GO:0050954	sensory perception of mechanical stimulus	126										GO:0050954	sensory perception of mechanical stimulus	175
+									GO:0007605	sensory perception of sound	223							GO:0007605	sensory perception of sound	138												
+									GO:0031644	regulation of nervous system process	168							GO:0031644	regulation of nervous system process	147												
+									GO:0001964	startle response	178	GO:0001964	startle response	263																GO:0001964	startle response	206
+												GO:0031223	auditory behavior	280																		
+									GO:0001976	nervous system process involved in regulation of systemic arterial blood pressure	323																					
+									GO:0050966	detection of mechanical stimulus involved in sensory perception of pain	343																					
+									GO:0051969	regulation of transmission of nerve impulse	359																					
+												GO:0060134	prepulse inhibition	363																		
+									GO:0031646	positive regulation of nervous system process	368																					
+									GO:0019233	sensory perception of pain	381																					
+									GO:0050974	detection of mechanical stimulus involved in sensory perception	390																					
+									GO:0050884	neuromuscular process controlling posture	400																					
+GO:0051960	regulation of nervous system development	19
+									GO:0051960	regulation of nervous system development	241	GO:0051960	regulation of nervous system development	19				GO:0051960	regulation of nervous system development	56				GO:0051960	regulation of nervous system development	144	GO:0051960	regulation of nervous system development	82	GO:0051960	regulation of nervous system development	99
+												GO:0051961	negative regulation of nervous system development	34				GO:0051961	negative regulation of nervous system development	181							GO:0051961	negative regulation of nervous system development	39	GO:0051961	negative regulation of nervous system development	43
+									GO:0051962	positive regulation of nervous system development	404	GO:0051962	positive regulation of nervous system development	63				GO:0051962	positive regulation of nervous system development	84												
+GO:0003018	vascular process in circulatory system	20
+			GO:0003018	vascular process in circulatory system	41	GO:0003018	vascular process in circulatory system	105	GO:0003018	vascular process in circulatory system	328				GO:0003018	vascular process in circulatory system	26	GO:0003018	vascular process in circulatory system	240	GO:0003018	vascular process in circulatory system	20							GO:0003018	vascular process in circulatory system	33
+															GO:0019229	regulation of vasoconstriction	114	GO:0019229	regulation of vasoconstriction	169												
+									GO:0042310	vasoconstriction	383							GO:0042310	vasoconstriction	145												
+									GO:0097746	blood vessel diameter maintenance	339							GO:0097746	blood vessel diameter maintenance	201												
+									GO:0035296	regulation of tube diameter	338							GO:0035296	regulation of tube diameter	204												
+GO:0046903	secretion	21
+						GO:0046903	secretion	21	GO:0046903	secretion	79				GO:0046903	secretion	32	GO:0046903	secretion	47										GO:0046903	secretion	98
+									GO:0051046	regulation of secretion	100																			GO:0051046	regulation of secretion	177
+									GO:0002790	peptide secretion	130																			GO:0002790	peptide secretion	193
+																								GO:0030157	pancreatic juice secretion	175						
+									GO:0051048	negative regulation of secretion	263																					
+									GO:0002791	regulation of peptide secretion	264																					
+									GO:0002792	negative regulation of peptide secretion	266																					
+									GO:0090087	regulation of peptide transport	268																					
+GO:0006590	thyroid hormone generation	21
+																					GO:0006590	thyroid hormone generation	21									
+GO:0060322	head development	22
+									GO:0060322	head development	229	GO:0060322	head development	22				GO:0060322	head development	231				GO:0060322	head development	84				GO:0060322	head development	111
+GO:0051049	regulation of transport	23
+						GO:0051049	regulation of transport	23	GO:0051049	regulation of transport	29				GO:0051049	regulation of transport	30	GO:0051049	regulation of transport	237							GO:0051049	regulation of transport	109	GO:0051049	regulation of transport	42
+						GO:0051050	positive regulation of transport	40	GO:0051050	positive regulation of transport	219				GO:0051050	positive regulation of transport	99	GO:0051050	positive regulation of transport	243										GO:0051050	positive regulation of transport	38
+						GO:0051952	regulation of amine transport	78	GO:0051952	regulation of amine transport	210				GO:0051952	regulation of amine transport	41	GO:0051952	regulation of amine transport	211												
+																											GO:0051051	negative regulation of transport	115			
+																											GO:0051223	regulation of protein transport	133			
+																		GO:0051954	positive regulation of amine transport	172												
+																											GO:0051224	negative regulation of protein transport	192			
+									GO:0032411	positive regulation of transporter activity	261																					
+									GO:0031338	regulation of vesicle fusion	270																					
+									GO:0051953	negative regulation of amine transport	299																					
+GO:0015695	organic cation transport	24
+			GO:0015695	organic cation transport	50				GO:0015695	organic cation transport	272				GO:0015695	organic cation transport	24	GO:0015695	organic cation transport	229	GO:0015695	organic cation transport	53							GO:0015695	organic cation transport	112
+GO:0060004	reflex	24
+																		GO:0060004	reflex	222	GO:0060004	reflex	24									
+GO:0042403	thyroid hormone metabolic process	27
+																					GO:0042403	thyroid hormone metabolic process	27									
+GO:0007610	behavior	28
+						GO:0007610	behavior	100	GO:0007610	behavior	75	GO:0007610	behavior	31	GO:0007610	behavior	76	GO:0007610	behavior	28				GO:0007610	behavior	106				GO:0007610	behavior	36
+						GO:0007631	feeding behavior	104																								
+									GO:0030534	adult behavior	236	GO:0030534	adult behavior	152				GO:0030534	adult behavior	218										GO:0030534	adult behavior	109
+									GO:0007626	locomotory behavior	150							GO:0007626	locomotory behavior	125												
+												GO:0007628	adult walking behavior	145																		
+												GO:0090659	walking behavior	155																		
+												GO:0008344	adult locomotory behavior	357				GO:0008344	adult locomotory behavior	248										GO:0008344	adult locomotory behavior	176
+																														GO:0050795	regulation of behavior	235
+												GO:0042756	drinking behavior	295				GO:0042756	drinking behavior	292												
+												GO:0048149	behavioral response to ethanol	296																		
+																		GO:0007617	mating behavior	300												
+									GO:0007638	mechanosensory behavior	309	GO:0007638	mechanosensory behavior	316																		
+GO:0032879	regulation of localization	29
+						GO:0032879	regulation of localization	29	GO:0032879	regulation of localization	31	GO:0032879	regulation of localization	259	GO:0032879	regulation of localization	31										GO:0032879	regulation of localization	87	GO:0032879	regulation of localization	59
+																								GO:1903076	regulation of protein localization to plasma membrane	81						
+												GO:1905475	regulation of protein localization to membrane	170										GO:1905475	regulation of protein localization to membrane	92						
+																											GO:0070201	regulation of establishment of protein localization	98			
+												GO:0032880	regulation of protein localization	171													GO:0032880	regulation of protein localization	104			
+																								GO:1904375	regulation of protein localization to cell periphery	131						
+																								GO:1903078	positive regulation of protein localization to plasma membrane	135						
+																											GO:1904950	negative regulation of establishment of protein localization	145			
+																								GO:1904377	positive regulation of protein localization to cell periphery	164						
+																											GO:1904951	positive regulation of establishment of protein localization	175			
+																								GO:1905477	positive regulation of protein localization to membrane	184						
+												GO:0060341	regulation of cellular localization	201																		
+												GO:2000008	regulation of protein localization to cell surface	331																		
+GO:0048468	cell development	29
+			GO:0048468	cell development	112							GO:0048468	cell development	80				GO:0048468	cell development	154				GO:0048468	cell development	29	GO:0048468	cell development	80			
+GO:0007156	homophilic cell-cell adhesion	30
+			GO:0007156	homophilic cell-cell adhesion	30				GO:0007156	homophilic cell-cell adhesion	73	GO:0007156	homophilic cell-cell adhesion	93							GO:0007156	homophilic cell-cell adhesion	57	GO:0007156	homophilic cell-cell adhesion	52	GO:0007156	homophilic cell-cell adhesion	40			
+GO:0055080	monoatomic cation homeostasis	30
+						GO:0055080	monoatomic cation homeostasis	30	GO:0055080	monoatomic cation homeostasis	225				GO:0055080	monoatomic cation homeostasis	97															
+						GO:0006883	intracellular sodium ion homeostasis	35																								
+						GO:0055078	sodium ion homeostasis	39										GO:0055078	sodium ion homeostasis	199												
+						GO:0030003	intracellular monoatomic cation homeostasis	45	GO:0030003	intracellular monoatomic cation homeostasis	394																					
+						GO:0055075	potassium ion homeostasis	62	GO:0055075	potassium ion homeostasis	260				GO:0055075	potassium ion homeostasis	124	GO:0055075	potassium ion homeostasis	283							GO:0055075	potassium ion homeostasis	130	GO:0055075	potassium ion homeostasis	212
+						GO:0030007	intracellular potassium ion homeostasis	70																						GO:0030007	intracellular potassium ion homeostasis	129
+									GO:0006874	intracellular calcium ion homeostasis	198				GO:0006874	intracellular calcium ion homeostasis	101															
+									GO:0051480	regulation of cytosolic calcium ion concentration	134				GO:0051480	regulation of cytosolic calcium ion concentration	108															
+									GO:0099509	regulation of presynaptic cytosolic calcium ion concentration	109																					
+									GO:0055074	calcium ion homeostasis	235				GO:0055074	calcium ion homeostasis	115															
+																														GO:0006882	intracellular zinc ion homeostasis	210
+GO:0086003	cardiac muscle cell contraction	30
+									GO:0086003	cardiac muscle cell contraction	30							GO:0086003	cardiac muscle cell contraction	227							GO:0086003	cardiac muscle cell contraction	120			
+GO:0072348	sulfur compound transport	30
+			GO:0072348	sulfur compound transport	87																GO:0072348	sulfur compound transport	30							GO:0072348	sulfur compound transport	76
+GO:0050919	negative chemotaxis	30
+			GO:0050919	negative chemotaxis	64																			GO:0050919	negative chemotaxis	30						
+GO:0003013	circulatory system process	31
+			GO:0003013	circulatory system process	85				GO:0003013	circulatory system process	72				GO:0003013	circulatory system process	71	GO:0003013	circulatory system process	75	GO:0003013	circulatory system process	31				GO:0003013	circulatory system process	81	GO:0003013	circulatory system process	50
+									GO:0086091	regulation of heart rate by cardiac conduction	32																GO:0086091	regulation of heart rate by cardiac conduction	58			
+									GO:0060048	cardiac muscle contraction	41							GO:0060048	cardiac muscle contraction	119							GO:0060048	cardiac muscle contraction	153			
+									GO:0061337	cardiac conduction	64																GO:0061337	cardiac conduction	44			
+									GO:0060047	heart contraction	48							GO:0060047	heart contraction	85							GO:0060047	heart contraction	90	GO:0060047	heart contraction	182
+									GO:0002027	regulation of heart rate	51							GO:0002027	regulation of heart rate	280							GO:0002027	regulation of heart rate	66			
+									GO:0003015	heart process	52							GO:0003015	heart process	88							GO:0003015	heart process	97	GO:0003015	heart process	197
+									GO:1903522	regulation of blood circulation	54				GO:1903522	regulation of blood circulation	103	GO:1903522	regulation of blood circulation	118							GO:1903522	regulation of blood circulation	75	GO:1903522	regulation of blood circulation	198
+									GO:0008015	blood circulation	59							GO:0008015	blood circulation	82							GO:0008015	blood circulation	143	GO:0008015	blood circulation	199
+									GO:0008016	regulation of heart contraction	63							GO:0008016	regulation of heart contraction	158							GO:0008016	regulation of heart contraction	67	GO:0008016	regulation of heart contraction	143
+																					GO:0010460	positive regulation of heart rate	65									
+									GO:0086065	cell communication involved in cardiac conduction	94																			GO:0086065	cell communication involved in cardiac conduction	195
+																		GO:0045777	positive regulation of blood pressure	96												
+																		GO:0003073	regulation of systemic arterial blood pressure	104												
+																		GO:0003044	regulation of systemic arterial blood pressure mediated by a chemical signal	123												
+															GO:0045823	positive regulation of heart contraction	132															
+																		GO:0055117	regulation of cardiac muscle contraction	196										GO:0055117	regulation of cardiac muscle contraction	137
+																		GO:0008217	regulation of blood pressure	174												
+																		GO:0001990	regulation of systemic arterial blood pressure by hormone	180												
+																														GO:0086064	cell communication by electrical coupling involved in cardiac conduction	184
+																														GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	196
+																		GO:0003081	regulation of systemic arterial blood pressure by renin-angiotensin	244												
+									GO:0086069	bundle of His cell to Purkinje myocyte communication	344																					
+GO:0120036	plasma membrane bounded cell projection organization	31
+			GO:0120036	plasma membrane bounded cell projection organization	101				GO:0120036	plasma membrane bounded cell projection organization	362	GO:0120036	plasma membrane bounded cell projection organization	67				GO:0120036	plasma membrane bounded cell projection organization	63				GO:0120036	plasma membrane bounded cell projection organization	31	GO:0120036	plasma membrane bounded cell projection organization	53	GO:0120036	plasma membrane bounded cell projection organization	150
+									GO:0120035	regulation of plasma membrane bounded cell projection organization	382	GO:0120035	regulation of plasma membrane bounded cell projection organization	41				GO:0120035	regulation of plasma membrane bounded cell projection organization	77				GO:0120035	regulation of plasma membrane bounded cell projection organization	91	GO:0120035	regulation of plasma membrane bounded cell projection organization	42			
+												GO:0106027	neuron projection organization	209				GO:0106027	neuron projection organization	167												
+GO:0021675	nerve development	32
+			GO:0021675	nerve development	32							GO:0021675	nerve development	193										GO:0021675	nerve development	113						
+			GO:0021602	cranial nerve morphogenesis	35																			GO:0021602	cranial nerve morphogenesis	136						
+			GO:0021545	cranial nerve development	36																			GO:0021545	cranial nerve development	123						
+			GO:0021559	trigeminal nerve development	143																			GO:0021559	trigeminal nerve development	171						
+GO:0071526	semaphorin-plexin signaling pathway	32
+			GO:0071526	semaphorin-plexin signaling pathway	70																			GO:0071526	semaphorin-plexin signaling pathway	32						
+GO:0050801	monoatomic ion homeostasis	34
+						GO:0050801	monoatomic ion homeostasis	34	GO:0050801	monoatomic ion homeostasis	239				GO:0050801	monoatomic ion homeostasis	100															
+						GO:0006873	intracellular monoatomic ion homeostasis	47	GO:0006873	intracellular monoatomic ion homeostasis	408																					
+GO:1905145	cellular response to acetylcholine	35
+																		GO:1905145	cellular response to acetylcholine	35												
+GO:0030030	cell projection organization	35
+			GO:0030030	cell projection organization	117				GO:0030030	cell projection organization	363	GO:0030030	cell projection organization	71				GO:0030030	cell projection organization	58				GO:0030030	cell projection organization	35	GO:0030030	cell projection organization	57	GO:0030030	cell projection organization	164
+									GO:0031344	regulation of cell projection organization	403	GO:0031344	regulation of cell projection organization	42				GO:0031344	regulation of cell projection organization	83				GO:0031344	regulation of cell projection organization	99	GO:0031344	regulation of cell projection organization	45			
+												GO:0031346	positive regulation of cell projection organization	83				GO:0031346	positive regulation of cell projection organization	99				GO:0031346	positive regulation of cell projection organization	88	GO:0031346	positive regulation of cell projection organization	146			
+												GO:0031345	negative regulation of cell projection organization	99																GO:0031345	negative regulation of cell projection organization	124
+GO:0019725	cellular homeostasis	36
+						GO:0019725	cellular homeostasis	36	GO:0019725	cellular homeostasis	273				GO:0019725	cellular homeostasis	98	GO:0019725	cellular homeostasis	279	GO:0019725	cellular homeostasis	67									
+						GO:0055082	intracellular chemical homeostasis	41	GO:0055082	intracellular chemical homeostasis	301																					
+									GO:0070050	neuron cellular homeostasis	180							GO:0070050	neuron cellular homeostasis	281												
+GO:0044057	regulation of system process	37
+									GO:0044057	regulation of system process	37				GO:0044057	regulation of system process	81	GO:0044057	regulation of system process	67							GO:0044057	regulation of system process	174	GO:0044057	regulation of system process	113
+									GO:0006937	regulation of muscle contraction	366							GO:0006937	regulation of muscle contraction	155												
+																								GO:0060457	negative regulation of digestive system process	173						
+																		GO:0090257	regulation of muscle system process	176												
+																		GO:0006942	regulation of striated muscle contraction	251										GO:0006942	regulation of striated muscle contraction	178
+																		GO:0006940	regulation of smooth muscle contraction	261												
+																		GO:0045987	positive regulation of smooth muscle contraction	266												
+GO:0070633	transepithelial transport	37
+																					GO:0070633	transepithelial transport	37									
+GO:0007166	cell surface receptor signaling pathway	37
+			GO:0007166	cell surface receptor signaling pathway	120							GO:0007166	cell surface receptor signaling pathway	138										GO:0007166	cell surface receptor signaling pathway	37						
+GO:0048588	developmental cell growth	38
+												GO:0048588	developmental cell growth	75				GO:0048588	developmental cell growth	133				GO:0048588	developmental cell growth	38				GO:0048588	developmental cell growth	123
+GO:0007167	enzyme-linked receptor protein signaling pathway	39
+												GO:0007167	enzyme-linked receptor protein signaling pathway	332										GO:0007167	enzyme-linked receptor protein signaling pathway	39						
+			GO:0031547	brain-derived neurotrophic factor receptor signaling pathway	84							GO:0031547	brain-derived neurotrophic factor receptor signaling pathway	221										GO:0031547	brain-derived neurotrophic factor receptor signaling pathway	124						
+												GO:0038084	vascular endothelial growth factor signaling pathway	200										GO:0038084	vascular endothelial growth factor signaling pathway	116						
+												GO:0007169	cell surface receptor protein tyrosine kinase signaling pathway	345										GO:0007169	cell surface receptor protein tyrosine kinase signaling pathway	125						
+												GO:0048013	ephrin receptor signaling pathway	189																		
+												GO:0035791	platelet-derived growth factor receptor-beta signaling pathway	255																		
+GO:1905144	response to acetylcholine	41
+																		GO:1905144	response to acetylcholine	41												
+GO:0006936	muscle contraction	42
+									GO:0006936	muscle contraction	42							GO:0006936	muscle contraction	140										GO:0006936	muscle contraction	218
+									GO:0006941	striated muscle contraction	58							GO:0006941	striated muscle contraction	120												
+																		GO:0006939	smooth muscle contraction	289												
+GO:0007165	signal transduction	42
+												GO:0007165	signal transduction	161				GO:0007165	signal transduction	111				GO:0007165	signal transduction	42						
+GO:0070252	actin-mediated cell contraction	46
+									GO:0070252	actin-mediated cell contraction	46																GO:0070252	actin-mediated cell contraction	179			
+GO:0018958	phenol-containing compound metabolic process	47
+												GO:0018958	phenol-containing compound metabolic process	82							GO:0018958	phenol-containing compound metabolic process	47	GO:0018958	phenol-containing compound metabolic process	147						
+												GO:0046189	phenol-containing compound biosynthetic process	181																		
+												GO:0042438	melanin biosynthetic process	205																		
+												GO:0006582	melanin metabolic process	214																		
+												GO:1900378	positive regulation of secondary metabolite biosynthetic process	297																		
+												GO:0019614	catechol-containing compound catabolic process	299																		
+												GO:0042424	catecholamine catabolic process	302																		
+												GO:0042420	dopamine catabolic process	303																		
+												GO:0048023	positive regulation of melanin biosynthetic process	304																		
+												GO:0019336	phenol-containing compound catabolic process	336																		
+												GO:0042417	dopamine metabolic process	352																		
+GO:0030178	negative regulation of Wnt signaling pathway	48
+																								GO:0030178	negative regulation of Wnt signaling pathway	48						
+																								GO:0090090	negative regulation of canonical Wnt signaling pathway	107						
+GO:0048589	developmental growth	49
+												GO:0048589	developmental growth	123										GO:0048589	developmental growth	49						
+												GO:0048640	negative regulation of developmental growth	203																GO:0048640	negative regulation of developmental growth	53
+												GO:0060560	developmental growth involved in morphogenesis	103				GO:0060560	developmental growth involved in morphogenesis	273				GO:0060560	developmental growth involved in morphogenesis	58				GO:0060560	developmental growth involved in morphogenesis	183
+												GO:0048638	regulation of developmental growth	88										GO:0048638	regulation of developmental growth	153						
+									GO:0048639	positive regulation of developmental growth	355	GO:0048639	positive regulation of developmental growth	147																		
+GO:0015837	amine transport	50
+						GO:0015837	amine transport	52	GO:0015837	amine transport	185				GO:0015837	amine transport	50	GO:0015837	amine transport	159												
+GO:0040011	locomotion	50
+			GO:0040011	locomotion	115							GO:0040011	locomotion	308										GO:0040011	locomotion	50						
+			GO:2000145	regulation of cell motility	105							GO:2000145	regulation of cell motility	199										GO:2000145	regulation of cell motility	55						
+			GO:0030334	regulation of cell migration	129							GO:0030334	regulation of cell migration	225										GO:0030334	regulation of cell migration	59						
+			GO:0040012	regulation of locomotion	128							GO:0040012	regulation of locomotion	236										GO:0040012	regulation of locomotion	60						
+			GO:0014910	regulation of smooth muscle cell migration	94																											
+																								GO:0006935	chemotaxis	97						
+																								GO:0042330	taxis	100						
+			GO:2000146	negative regulation of cell motility	110							GO:2000146	negative regulation of cell motility	313										GO:2000146	negative regulation of cell motility	161						
+			GO:0040013	negative regulation of locomotion	122							GO:0040013	negative regulation of locomotion	343										GO:0040013	negative regulation of locomotion	182						
+																		GO:1902093	positive regulation of flagellated sperm motility	272												
+																		GO:2000155	positive regulation of cilium-dependent cell motility	274												
+												GO:0010594	regulation of endothelial cell migration	276																		
+												GO:0030336	negative regulation of cell migration	286																		
+																		GO:0003353	positive regulation of cilium movement	286												
+GO:0010996	response to auditory stimulus	51
+						GO:0010996	response to auditory stimulus	51	GO:0010996	response to auditory stimulus	165	GO:0010996	response to auditory stimulus	240	GO:0010996	response to auditory stimulus	113	GO:0010996	response to auditory stimulus	136												
+GO:0048513	animal organ development	51
+												GO:0048513	animal organ development	115				GO:0048513	animal organ development	262				GO:0048513	animal organ development	51						
+GO:0010646	regulation of cell communication	53
+									GO:0010646	regulation of cell communication	346	GO:0010646	regulation of cell communication	164				GO:0010646	regulation of cell communication	53				GO:0010646	regulation of cell communication	82						
+GO:0016477	cell migration	53
+			GO:0016477	cell migration	55							GO:0016477	cell migration	74										GO:0016477	cell migration	53						
+			GO:0090497	mesenchymal cell migration	89																											
+			GO:0014909	smooth muscle cell migration	103																											
+			GO:0014812	muscle cell migration	137																											
+GO:0044331	cell-cell adhesion mediated by cadherin	54
+			GO:0044331	cell-cell adhesion mediated by cadherin	72							GO:0044331	cell-cell adhesion mediated by cadherin	197										GO:0044331	cell-cell adhesion mediated by cadherin	54						
+GO:0010043	response to zinc ion	55
+						GO:0010043	response to zinc ion	84	GO:0010043	response to zinc ion	329										GO:0010043	response to zinc ion	55				GO:0010043	response to zinc ion	103	GO:0010043	response to zinc ion	58
+GO:0006869	lipid transport	56
+						GO:0006869	lipid transport	87							GO:0006869	lipid transport	56															
+						GO:0045332	phospholipid translocation	93																								
+															GO:0032365	intracellular lipid transport	95															
+						GO:0034204	lipid translocation	101																								
+															GO:0032367	intracellular cholesterol transport	122															
+															GO:0032366	intracellular sterol transport	131															
+GO:0071705	nitrogen compound transport	56
+			GO:0071705	nitrogen compound transport	146				GO:0071705	nitrogen compound transport	117																			GO:0071705	nitrogen compound transport	56
+			GO:0072337	modified amino acid transport	125																											
+									GO:0015844	monoamine transport	161																					
+									GO:0051937	catecholamine transport	176																					
+									GO:0015872	dopamine transport	314	GO:0015872	dopamine transport	346																		
+GO:0051130	positive regulation of cellular component organization	57
+												GO:0051130	positive regulation of cellular component organization	100	GO:0051130	positive regulation of cellular component organization	109	GO:0051130	positive regulation of cellular component organization	80				GO:0051130	positive regulation of cellular component organization	57						
+												GO:1902905	positive regulation of supramolecular fiber organization	285				GO:1902905	positive regulation of supramolecular fiber organization	246												
+												GO:0031116	positive regulation of microtubule polymerization	281																		
+												GO:0031112	positive regulation of microtubule polymerization or depolymerization	319																		
+												GO:0051495	positive regulation of cytoskeleton organization	328																		
+GO:0007157	heterophilic cell-cell adhesion	58
+			GO:0007157	heterophilic cell-cell adhesion	58													GO:0007157	heterophilic cell-cell adhesion	208												
+GO:0050435	amyloid-beta metabolic process	58
+			GO:0050435	amyloid-beta metabolic process	82	GO:0050435	amyloid-beta metabolic process	58							GO:0050435	amyloid-beta metabolic process	112															
+GO:0010988	regulation of low-density lipoprotein particle clearance	58
+															GO:0010988	regulation of low-density lipoprotein particle clearance	58													GO:0010988	regulation of low-density lipoprotein particle clearance	121
+GO:0006575	modified amino acid metabolic process	58
+																					GO:0006575	modified amino acid metabolic process	58									
+GO:0048878	chemical homeostasis	60
+						GO:0048878	chemical homeostasis	60	GO:0048878	chemical homeostasis	171				GO:0048878	chemical homeostasis	102													GO:0048878	chemical homeostasis	233
+						GO:0098771	inorganic ion homeostasis	66	GO:0098771	inorganic ion homeostasis	115				GO:0098771	inorganic ion homeostasis	60	GO:0098771	inorganic ion homeostasis	235												
+									GO:0055062	phosphate ion homeostasis	360																					
+GO:0042908	xenobiotic transport	60
+																					GO:0042908	xenobiotic transport	60				GO:0042908	xenobiotic transport	187			
+GO:0023051	regulation of signaling	61
+												GO:0023051	regulation of signaling	141				GO:0023051	regulation of signaling	69				GO:0023051	regulation of signaling	61	GO:0023051	regulation of signaling	186			
+GO:0010876	lipid localization	62
+						GO:0010876	lipid localization	91							GO:0010876	lipid localization	62															
+GO:0005513	detection of calcium ion	64
+															GO:0005513	detection of calcium ion	64															
+GO:0042592	homeostatic process	64
+																					GO:0042592	homeostatic process	64									
+GO:0097006	regulation of plasma lipoprotein particle levels	65
+															GO:0097006	regulation of plasma lipoprotein particle levels	65							GO:0097006	regulation of plasma lipoprotein particle levels	143	GO:0097006	regulation of plasma lipoprotein particle levels	165	GO:0097006	regulation of plasma lipoprotein particle levels	215
+															GO:0034381	plasma lipoprotein particle clearance	67							GO:0034381	plasma lipoprotein particle clearance	167						
+															GO:0010984	regulation of lipoprotein particle clearance	94													GO:0010984	regulation of lipoprotein particle clearance	154
+															GO:0034383	low-density lipoprotein particle clearance	105													GO:0034383	low-density lipoprotein particle clearance	179
+																														GO:0010985	negative regulation of lipoprotein particle clearance	229
+GO:0106070	regulation of adenylate cyclase-activating G protein-coupled receptor signaling pathway	66
+			GO:0106070	regulation of adenylate cyclase-activating G protein-coupled receptor signaling pathway	66																											
+GO:0051260	protein homooligomerization	66
+									GO:0051260	protein homooligomerization	66																GO:0051260	protein homooligomerization	139			
+GO:0040007	growth	66
+												GO:0040007	growth	133										GO:0040007	growth	66						
+												GO:0016049	cell growth	107										GO:0016049	cell growth	85				GO:0016049	cell growth	185
+																														GO:0030308	negative regulation of cell growth	114
+																														GO:0045926	negative regulation of growth	118
+												GO:0040008	regulation of growth	125																		
+												GO:0001558	regulation of cell growth	129																GO:0001558	regulation of cell growth	232
+												GO:0045927	positive regulation of growth	187																		
+GO:0016339	calcium-dependent cell-cell adhesion	67
+			GO:0016339	calcium-dependent cell-cell adhesion	67				GO:0016339	calcium-dependent cell-cell adhesion	112	GO:0016339	calcium-dependent cell-cell adhesion	177										GO:0016339	calcium-dependent cell-cell adhesion	104						
+GO:0016486	peptide hormone processing	68
+															GO:0016486	peptide hormone processing	68															
+GO:0042552	myelination	68
+												GO:0042552	myelination	241										GO:0042552	myelination	68						
+									GO:0043217	myelin maintenance	376																					
+GO:2000177	regulation of neural precursor cell proliferation	69
+												GO:2000177	regulation of neural precursor cell proliferation	69																		
+												GO:2000178	negative regulation of neural precursor cell proliferation	122													GO:2000178	negative regulation of neural precursor cell proliferation	111			
+												GO:2000179	positive regulation of neural precursor cell proliferation	124																		
+GO:0030048	actin filament-based movement	70
+									GO:0030048	actin filament-based movement	70																					
+GO:0048870	cell motility	70
+			GO:0048870	cell motility	80							GO:0048870	cell motility	94										GO:0048870	cell motility	70						
+GO:0071468	cellular response to acidic pH	71
+						GO:0071468	cellular response to acidic pH	71	GO:0071468	cellular response to acidic pH	357																					
+GO:0003012	muscle system process	71
+									GO:0003012	muscle system process	71							GO:0003012	muscle system process	171										GO:0003012	muscle system process	189
+GO:0007272	ensheathment of neurons	71
+												GO:0007272	ensheathment of neurons	248										GO:0007272	ensheathment of neurons	71						
+												GO:0008366	axon ensheathment	249										GO:0008366	axon ensheathment	72						
+GO:0010721	negative regulation of cell development	72
+												GO:0010721	negative regulation of cell development	72													GO:0010721	negative regulation of cell development	152	GO:0010721	negative regulation of cell development	115
+GO:0140448	signaling receptor ligand precursor processing	73
+															GO:0140448	signaling receptor ligand precursor processing	73															
+GO:0051649	establishment of localization in cell	76
+						GO:0051649	establishment of localization in cell	76	GO:0051649	establishment of localization in cell	330																			GO:0051649	establishment of localization in cell	186
+									GO:0032253	dense core granule localization	195																					
+												GO:0072384	organelle transport along microtubule	206																		
+									GO:0032252	secretory granule localization	218																					
+												GO:0047497	mitochondrion transport along microtubule	228																		
+												GO:0034643	establishment of mitochondrion localization, microtubule-mediated	229																		
+									GO:0097479	synaptic vesicle localization	238																					
+									GO:0008089	anterograde axonal transport	340																					
+GO:0008361	regulation of cell size	76
+									GO:0008361	regulation of cell size	348	GO:0008361	regulation of cell size	76										GO:0008361	regulation of cell size	166	GO:0008361	regulation of cell size	171	GO:0008361	regulation of cell size	180
+GO:0051128	regulation of cellular component organization	77
+												GO:0051128	regulation of cellular component organization	114	GO:0051128	regulation of cellular component organization	77	GO:0051128	regulation of cellular component organization	102				GO:0051128	regulation of cellular component organization	77				GO:0051128	regulation of cellular component organization	155
+GO:0071363	cellular response to growth factor stimulus	83
+			GO:0071363	cellular response to growth factor stimulus	100																			GO:0071363	cellular response to growth factor stimulus	83						
+												GO:0035924	cellular response to vascular endothelial growth factor stimulus	274										GO:0035924	cellular response to vascular endothelial growth factor stimulus	146						
+																								GO:0090287	regulation of cellular response to growth factor stimulus	159						
+GO:0050793	regulation of developmental process	84
+												GO:0050793	regulation of developmental process	84										GO:0050793	regulation of developmental process	138	GO:0050793	regulation of developmental process	164			
+GO:0065007	biological regulation	85
+									GO:0065007	biological regulation	85	GO:0065007	biological regulation	322				GO:0065007	biological regulation	98				GO:0065007	biological regulation	102						
+GO:0045595	regulation of cell differentiation	85
+												GO:0045595	regulation of cell differentiation	85																		
+												GO:0060284	regulation of cell development	87																		
+												GO:0010720	positive regulation of cell development	110																		
+												GO:0045596	negative regulation of cell differentiation	113																		
+												GO:0045597	positive regulation of cell differentiation	135																		
+												GO:2000739	regulation of mesenchymal stem cell differentiation	320																		
+												GO:0072497	mesenchymal stem cell differentiation	334																		
+GO:0051259	protein complex oligomerization	86
+									GO:0051259	protein complex oligomerization	86																					
+GO:0035094	response to nicotine	87
+															GO:0035094	response to nicotine	87	GO:0035094	response to nicotine	203												
+GO:0051641	cellular localization	89
+						GO:0051641	cellular localization	89	GO:0051641	cellular localization	173	GO:0051641	cellular localization	306				GO:0051641	cellular localization	238										GO:0051641	cellular localization	190
+GO:0050789	regulation of biological process	89
+									GO:0050789	regulation of biological process	153							GO:0050789	regulation of biological process	103				GO:0050789	regulation of biological process	89						
+GO:0035493	SNARE complex assembly	90
+						GO:0035493	SNARE complex assembly	90																						GO:0035493	SNARE complex assembly	161
+GO:0061351	neural precursor cell proliferation	90
+												GO:0061351	neural precursor cell proliferation	90																		
+GO:0031111	negative regulation of microtubule polymerization or depolymerization	90
+												GO:0031111	negative regulation of microtubule polymerization or depolymerization	353										GO:0031111	negative regulation of microtubule polymerization or depolymerization	90						
+GO:0022603	regulation of anatomical structure morphogenesis	91
+												GO:0022603	regulation of anatomical structure morphogenesis	91																		
+GO:0007158	neuron cell-cell adhesion	92
+									GO:0007158	neuron cell-cell adhesion	240	GO:0007158	neuron cell-cell adhesion	92				GO:0007158	neuron cell-cell adhesion	100												
+GO:0060042	retina morphogenesis in camera-type eye	92
+												GO:0060042	retina morphogenesis in camera-type eye	264				GO:0060042	retina morphogenesis in camera-type eye	179							GO:0060042	retina morphogenesis in camera-type eye	92			
+GO:0010447	response to acidic pH	95
+						GO:0010447	response to acidic pH	95	GO:0010447	response to acidic pH	211																GO:0010447	response to acidic pH	195			
+GO:0071467	cellular response to pH	96
+						GO:0071467	cellular response to pH	96	GO:0071467	cellular response to pH	311																					
+GO:0070848	response to growth factor	96
+			GO:0070848	response to growth factor	116																			GO:0070848	response to growth factor	96						
+GO:0007155	cell adhesion	100
+												GO:0007155	cell adhesion	215										GO:0007155	cell adhesion	134	GO:0007155	cell adhesion	100			
+																											GO:0098609	cell-cell adhesion	112			
+GO:0001919	regulation of receptor recycling	101
+															GO:0001919	regulation of receptor recycling	107										GO:0001919	regulation of receptor recycling	101			
+GO:0071840	cellular component organization or biogenesis	103
+																								GO:0071840	cellular component organization or biogenesis	103						
+GO:0051093	negative regulation of developmental process	104
+												GO:0051093	negative regulation of developmental process	104																		
+GO:0009395	phospholipid catabolic process	104
+															GO:0009395	phospholipid catabolic process	104															
+															GO:0046475	glycerophospholipid catabolic process	120															
+												GO:0034638	phosphatidylcholine catabolic process	362																		
+GO:2000026	regulation of multicellular organismal development	105
+												GO:2000026	regulation of multicellular organismal development	105																		
+GO:0051094	positive regulation of developmental process	106
+												GO:0051094	positive regulation of developmental process	106																		
+GO:0033555	multicellular organismal response to stress	106
+									GO:0033555	multicellular organismal response to stress	337				GO:0033555	multicellular organismal response to stress	106	GO:0033555	multicellular organismal response to stress	263												
+GO:0097035	regulation of membrane lipid distribution	107
+						GO:0097035	regulation of membrane lipid distribution	107																								
+GO:0060041	retina development in camera-type eye	107
+									GO:0060041	retina development in camera-type eye	397							GO:0060041	retina development in camera-type eye	121							GO:0060041	retina development in camera-type eye	107			
+									GO:0003407	neural retina development	315							GO:0003407	neural retina development	157							GO:0003407	neural retina development	132			
+GO:0016192	vesicle-mediated transport	108
+						GO:0016192	vesicle-mediated transport	108																								
+									GO:0048499	synaptic vesicle membrane organization	279																					
+									GO:0048278	vesicle docking	402																					
+GO:0035418	protein localization to synapse	108
+									GO:0035418	protein localization to synapse	108																					
+									GO:1903539	protein localization to postsynaptic membrane	125																					
+									GO:0062237	protein localization to postsynapse	133																					
+									GO:0099645	neurotransmitter receptor localization to postsynaptic specialization membrane	205																					
+									GO:0099633	protein localization to postsynaptic specialization membrane	206																					
+GO:0051056	regulation of small GTPase mediated signal transduction	108
+																								GO:0051056	regulation of small GTPase mediated signal transduction	108						
+																								GO:0035025	positive regulation of Rho protein signal transduction	127						
+GO:0050896	response to stimulus	109
+												GO:0050896	response to stimulus	220				GO:0050896	response to stimulus	139				GO:0050896	response to stimulus	109						
+GO:0009914	hormone transport	110
+									GO:0009914	hormone transport	110																					
+GO:0015850	organic hydroxy compound transport	110
+															GO:0015850	organic hydroxy compound transport	110															
+GO:0016043	cellular component organization	110
+																								GO:0016043	cellular component organization	110						
+GO:0051591	response to cAMP	111
+												GO:0051591	response to cAMP	111													GO:0051591	response to cAMP	116			
+GO:0016485	protein processing	111
+															GO:0016485	protein processing	111															
+GO:0072574	hepatocyte proliferation	111
+												GO:0072574	hepatocyte proliferation	186										GO:0072574	hepatocyte proliferation	111						
+												GO:2000347	positive regulation of hepatocyte proliferation	282										GO:2000347	positive regulation of hepatocyte proliferation	151						
+												GO:2000345	regulation of hepatocyte proliferation	366																		
+GO:0046683	response to organophosphorus	112
+									GO:0046683	response to organophosphorus	200	GO:0046683	response to organophosphorus	112													GO:0046683	response to organophosphorus	126			
+									GO:0033198	response to ATP	248																					
+GO:0072657	protein localization to membrane	112
+									GO:0072657	protein localization to membrane	384	GO:0072657	protein localization to membrane	204										GO:0072657	protein localization to membrane	112						
+												GO:0043113	receptor clustering	246				GO:0043113	receptor clustering	278												
+GO:0099072	regulation of postsynaptic membrane neurotransmitter receptor levels	113
+									GO:0099072	regulation of postsynaptic membrane neurotransmitter receptor levels	113																					
+GO:1902903	regulation of supramolecular fiber organization	114
+												GO:1902903	regulation of supramolecular fiber organization	208										GO:1902903	regulation of supramolecular fiber organization	114						
+																								GO:1902904	negative regulation of supramolecular fiber organization	133						
+												GO:0031113	regulation of microtubule polymerization	266																		
+GO:0043087	regulation of GTPase activity	115
+																								GO:0043087	regulation of GTPase activity	115						
+GO:0050794	regulation of cellular process	117
+																		GO:0050794	regulation of cellular process	207				GO:0050794	regulation of cellular process	117						
+GO:0030111	regulation of Wnt signaling pathway	118
+																								GO:0030111	regulation of Wnt signaling pathway	118						
+																								GO:0060828	regulation of canonical Wnt signaling pathway	180						
+GO:0071872	cellular response to epinephrine stimulus	118
+																											GO:0071872	cellular response to epinephrine stimulus	118			
+GO:0023057	negative regulation of signaling	119
+			GO:0023057	negative regulation of signaling	119							GO:0023057	negative regulation of signaling	258																		
+												GO:0009968	negative regulation of signal transduction	315																		
+GO:0046471	phosphatidylglycerol metabolic process	119
+															GO:0046471	phosphatidylglycerol metabolic process	119															
+GO:0071495	cellular response to endogenous stimulus	119
+																								GO:0071495	cellular response to endogenous stimulus	119						
+																		GO:0048384	retinoic acid receptor signaling pathway	296				GO:0048384	retinoic acid receptor signaling pathway	149						
+GO:0009719	response to endogenous stimulus	123
+			GO:0009719	response to endogenous stimulus	123							GO:0009719	response to endogenous stimulus	341										GO:0009719	response to endogenous stimulus	129						
+GO:0019674	NAD+ metabolic process	124
+			GO:0019674	NAD+ metabolic process	124																											
+GO:0007200	phospholipase C-activating G protein-coupled receptor signaling pathway	124
+																		GO:0007200	phospholipase C-activating G protein-coupled receptor signaling pathway	124												
+GO:0072359	circulatory system development	126
+												GO:0072359	circulatory system development	126																		
+												GO:0048514	blood vessel morphogenesis	232																		
+												GO:0001568	blood vessel development	251																		
+												GO:0001944	vasculature development	277																		
+												GO:0003206	cardiac chamber morphogenesis	305																		
+												GO:0003007	heart morphogenesis	340																		
+GO:0051336	regulation of hydrolase activity	128
+																								GO:0051336	regulation of hydrolase activity	128						
+			GO:0052547	regulation of peptidase activity	134																											
+GO:0001523	retinoid metabolic process	129
+												GO:0001523	retinoid metabolic process	151	GO:0001523	retinoid metabolic process	129															
+GO:1901698	response to nitrogen compound	129
+									GO:1901698	response to nitrogen compound	252	GO:1901698	response to nitrogen compound	163				GO:1901698	response to nitrogen compound	129												
+			GO:1904646	cellular response to amyloid-beta	138							GO:1904646	cellular response to amyloid-beta	327																		
+									GO:0043279	response to alkaloid	149	GO:0043279	response to alkaloid	344																		
+									GO:0014074	response to purine-containing compound	193	GO:0014074	response to purine-containing compound	194													GO:0014074	response to purine-containing compound	158			
+												GO:0042220	response to cocaine	169																		
+												GO:1901699	cellular response to nitrogen compound	207				GO:1901699	cellular response to nitrogen compound	190												
+									GO:0071312	cellular response to alkaloid	271																			GO:0071312	cellular response to alkaloid	220
+																														GO:0071314	cellular response to cocaine	223
+									GO:0001975	response to amphetamine	333							GO:0001975	response to amphetamine	258												
+									GO:0014075	response to amine	317																					
+									GO:0043278	response to morphine	358																					
+									GO:0014072	response to isoquinoline alkaloid	361																					
+GO:0035295	tube development	130
+												GO:0035295	tube development	262										GO:0035295	tube development	130						
+																								GO:0072017	distal tubule development	181						
+												GO:0035239	tube morphogenesis	235																		
+GO:0014032	neural crest cell development	131
+			GO:0014032	neural crest cell development	131																											
+GO:0007218	neuropeptide signaling pathway	135
+									GO:0007218	neuropeptide signaling pathway	135																					
+GO:0007423	sensory organ development	135
+												GO:0007423	sensory organ development	196				GO:0007423	sensory organ development	135												
+												GO:0090596	sensory organ morphogenesis	160				GO:0090596	sensory organ morphogenesis	254												
+												GO:0048593	camera-type eye morphogenesis	192																		
+																		GO:0048839	inner ear development	202												
+												GO:0001654	eye development	233																		
+																		GO:0090102	cochlea development	236												
+																		GO:0043583	ear development	242												
+												GO:0043010	camera-type eye development	265																		
+												GO:0048592	eye morphogenesis	268																		
+																		GO:0042472	inner ear morphogenesis	294												
+												GO:0042471	ear morphogenesis	309																		
+GO:0038026	reelin-mediated signaling pathway	136
+												GO:0038026	reelin-mediated signaling pathway	136																		
+GO:0048678	response to axon injury	139
+												GO:0048678	response to axon injury	153																GO:0048678	response to axon injury	139
+GO:0044087	regulation of cellular component biogenesis	141
+												GO:0044087	regulation of cellular component biogenesis	293				GO:0044087	regulation of cellular component biogenesis	141												
+																		GO:0044089	positive regulation of cellular component biogenesis	195												
+GO:0010038	response to metal ion	142
+									GO:0010038	response to metal ion	142																					
+									GO:0071248	cellular response to metal ion	214																					
+									GO:0051592	response to calcium ion	227																					
+									GO:0071277	cellular response to calcium ion	285																					
+GO:0009887	animal organ morphogenesis	142
+												GO:0009887	animal organ morphogenesis	142										GO:0009887	animal organ morphogenesis	155						
+GO:0051239	regulation of multicellular organismal process	142
+									GO:0051239	regulation of multicellular organismal process	367	GO:0051239	regulation of multicellular organismal process	174										GO:0051239	regulation of multicellular organismal process	142				GO:0051239	regulation of multicellular organismal process	142
+GO:0071871	response to epinephrine	142
+																											GO:0071871	response to epinephrine	142			
+GO:0045923	positive regulation of fatty acid metabolic process	144
+																											GO:0045923	positive regulation of fatty acid metabolic process	144			
+																											GO:0045723	positive regulation of fatty acid biosynthetic process	173			
+GO:0048864	stem cell development	148
+			GO:0048864	stem cell development	148																											
+GO:0015833	peptide transport	148
+									GO:0015833	peptide transport	148																			GO:0015833	peptide transport	217
+GO:0051241	negative regulation of multicellular organismal process	149
+												GO:0051241	negative regulation of multicellular organismal process	149										GO:0051241	negative regulation of multicellular organismal process	162				GO:0051241	negative regulation of multicellular organismal process	192
+GO:1902414	protein localization to cell junction	151
+									GO:1902414	protein localization to cell junction	151																					
+GO:0010817	regulation of hormone levels	152
+									GO:0010817	regulation of hormone levels	152							GO:0010817	regulation of hormone levels	264												
+GO:0051493	regulation of cytoskeleton organization	152
+												GO:0051493	regulation of cytoskeleton organization	311										GO:0051493	regulation of cytoskeleton organization	152						
+												GO:0031110	regulation of microtubule polymerization or depolymerization	230																		
+												GO:0070507	regulation of microtubule cytoskeleton organization	270																		
+GO:0051716	cellular response to stimulus	154
+												GO:0051716	cellular response to stimulus	218				GO:0051716	cellular response to stimulus	183				GO:0051716	cellular response to stimulus	154						
+GO:0016055	Wnt signaling pathway	157
+												GO:0016055	Wnt signaling pathway	212										GO:0016055	Wnt signaling pathway	157						
+																								GO:0060070	canonical Wnt signaling pathway	160						
+GO:0016101	diterpenoid metabolic process	158
+												GO:0016101	diterpenoid metabolic process	158																		
+GO:0032970	regulation of actin filament-based process	158
+																								GO:0032970	regulation of actin filament-based process	158						
+GO:0009268	response to pH	159
+									GO:0009268	response to pH	208																GO:0009268	response to pH	159			
+GO:0071875	adrenergic receptor signaling pathway	160
+																		GO:0071875	adrenergic receptor signaling pathway	160												
+																		GO:0071880	adenylate cyclase-activating adrenergic receptor signaling pathway	212												
+GO:0043524	negative regulation of neuron apoptotic process	162
+																		GO:0043524	negative regulation of neuron apoptotic process	239										GO:0043524	negative regulation of neuron apoptotic process	162
+GO:0071692	protein localization to extracellular region	164
+									GO:0071692	protein localization to extracellular region	164																GO:0071692	protein localization to extracellular region	193			
+GO:0035592	establishment of protein localization to extracellular region	167
+									GO:0035592	establishment of protein localization to extracellular region	167																GO:0035592	establishment of protein localization to extracellular region	196			
+GO:0008037	cell recognition	168
+																		GO:0008037	cell recognition	269							GO:0008037	cell recognition	168			
+GO:0062013	positive regulation of small molecule metabolic process	172
+																											GO:0062013	positive regulation of small molecule metabolic process	172			
+																		GO:0030813	positive regulation of nucleotide catabolic process	232												
+																		GO:0045821	positive regulation of glycolytic process	233												
+																		GO:0033123	positive regulation of purine nucleotide catabolic process	234												
+GO:0043954	cellular component maintenance	174
+									GO:0043954	cellular component maintenance	290													GO:0043954	cellular component maintenance	174						
+GO:0050679	positive regulation of epithelial cell proliferation	178
+																								GO:0050679	positive regulation of epithelial cell proliferation	178						
+GO:0009410	response to xenobiotic stimulus	179
+									GO:0009410	response to xenobiotic stimulus	179	GO:0009410	response to xenobiotic stimulus	292																		
+GO:0032535	regulation of cellular component size	179
+												GO:0032535	regulation of cellular component size	179																		
+GO:0043112	receptor metabolic process	180
+																											GO:0043112	receptor metabolic process	180			
+																											GO:0001881	receptor recycling	190			
+GO:0042180	ketone metabolic process	182
+																											GO:0042180	ketone metabolic process	182			
+GO:0009612	response to mechanical stimulus	187
+									GO:0009612	response to mechanical stimulus	187																					
+									GO:0050982	detection of mechanical stimulus	371																					
+GO:0007186	G protein-coupled receptor signaling pathway	187
+									GO:0007186	G protein-coupled receptor signaling pathway	396							GO:0007186	G protein-coupled receptor signaling pathway	187												
+									GO:0007187	G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger	201																					
+																														GO:0007198	adenylate cyclase-inhibiting serotonin receptor signaling pathway	225
+GO:0007422	peripheral nervous system development	188
+												GO:0007422	peripheral nervous system development	188																		
+GO:0065009	regulation of molecular function	188
+																		GO:0065009	regulation of molecular function	188												
+GO:2000344	positive regulation of acrosome reaction	188
+																														GO:2000344	positive regulation of acrosome reaction	188
+GO:0006721	terpenoid metabolic process	190
+												GO:0006721	terpenoid metabolic process	190																		
+GO:0090066	regulation of anatomical structure size	197
+									GO:0090066	regulation of anatomical structure size	407							GO:0090066	regulation of anatomical structure size	197												
+									GO:0035150	regulation of tube size	341							GO:0035150	regulation of tube size	206												
+GO:0070887	cellular response to chemical stimulus	202
+												GO:0070887	cellular response to chemical stimulus	202				GO:0070887	cellular response to chemical stimulus	295												
+GO:0009628	response to abiotic stimulus	203
+									GO:0009628	response to abiotic stimulus	370																			GO:0009628	response to abiotic stimulus	203
+GO:0141156	cAMP/PKA signal transduction	207
+																														GO:0141156	cAMP/PKA signal transduction	207
+GO:0007340	acrosome reaction	211
+																														GO:0007340	acrosome reaction	211
+																														GO:0060046	regulation of acrosome reaction	226
+GO:0043523	regulation of neuron apoptotic process	213
+												GO:0043523	regulation of neuron apoptotic process	317				GO:0043523	regulation of neuron apoptotic process	213												
+GO:0031099	regeneration	213
+												GO:0031099	regeneration	245																GO:0031099	regeneration	213
+GO:0070972	protein localization to endoplasmic reticulum	214
+																														GO:0070972	protein localization to endoplasmic reticulum	214
+GO:0051402	neuron apoptotic process	215
+												GO:0051402	neuron apoptotic process	289				GO:0051402	neuron apoptotic process	215												
+GO:0044550	secondary metabolite biosynthetic process	219
+												GO:0044550	secondary metabolite biosynthetic process	219																		
+GO:0090042	tubulin deacetylation	219
+												GO:0090042	tubulin deacetylation	298																GO:0090042	tubulin deacetylation	219
+GO:0007215	glutamate receptor signaling pathway	220
+									GO:0007215	glutamate receptor signaling pathway	220							GO:0007215	glutamate receptor signaling pathway	267												
+									GO:0035235	ionotropic glutamate receptor signaling pathway	354							GO:0035235	ionotropic glutamate receptor signaling pathway	276												
+												GO:1900449	regulation of glutamate receptor signaling pathway	283																		
+GO:0097120	receptor localization to synapse	220
+									GO:0097120	receptor localization to synapse	221							GO:0097120	receptor localization to synapse	220												
+GO:0010644	cell communication by electrical coupling	221
+																														GO:0010644	cell communication by electrical coupling	221
+GO:0051129	negative regulation of cellular component organization	223
+												GO:0051129	negative regulation of cellular component organization	223																		
+GO:0071398	cellular response to fatty acid	228
+																														GO:0071398	cellular response to fatty acid	228
+GO:0046785	microtubule polymerization	238
+												GO:0046785	microtubule polymerization	238																		
+GO:0150063	visual system development	239
+												GO:0150063	visual system development	239																		
+GO:0071709	membrane assembly	242
+												GO:0071709	membrane assembly	242																		
+GO:0006720	isoprenoid metabolic process	243
+												GO:0006720	isoprenoid metabolic process	243																		
+GO:0048880	sensory system development	252
+												GO:0048880	sensory system development	252																		
+GO:0031503	protein-containing complex localization	256
+									GO:0031503	protein-containing complex localization	256																					
+									GO:0099637	neurotransmitter receptor transport	387																					
+GO:0042221	response to chemical	256
+									GO:0042221	response to chemical	406	GO:0042221	response to chemical	256				GO:0042221	response to chemical	284												
+GO:1901701	cellular response to oxygen-containing compound	261
+												GO:1901701	cellular response to oxygen-containing compound	261																		
+GO:0051654	establishment of mitochondrion localization	269
+												GO:0051654	establishment of mitochondrion localization	269																		
+GO:0048511	rhythmic process	271
+												GO:0048511	rhythmic process	271																		
+GO:0044091	membrane biogenesis	272
+												GO:0044091	membrane biogenesis	272																		
+GO:0045109	intermediate filament organization	278
+												GO:0045109	intermediate filament organization	278																		
+GO:0008340	determination of adult lifespan	280
+									GO:0008340	determination of adult lifespan	280																					
+GO:0042127	regulation of cell population proliferation	288
+												GO:0042127	regulation of cell population proliferation	288																		
+												GO:0008284	positive regulation of cell population proliferation	312																		
+												GO:0050678	regulation of epithelial cell proliferation	371																		
+GO:1901700	response to oxygen-containing compound	290
+												GO:1901700	response to oxygen-containing compound	290																		
+GO:0031016	pancreas development	291
+												GO:0031016	pancreas development	291																		
+GO:0060052	neurofilament cytoskeleton organization	291
+																		GO:0060052	neurofilament cytoskeleton organization	291												
+GO:0050650	chondroitin sulfate proteoglycan biosynthetic process	301
+												GO:0050650	chondroitin sulfate proteoglycan biosynthetic process	301																		
+GO:0061762	CAMKK-AMPK signaling cascade	304
+									GO:0061762	CAMKK-AMPK signaling cascade	304																					
+GO:0021700	developmental maturation	310
+									GO:0021700	developmental maturation	310																					
+GO:0051640	organelle localization	310
+												GO:0051640	organelle localization	310																		
+												GO:0051656	establishment of organelle localization	326																		
+									GO:0051648	vesicle localization	375																					
+GO:1990806	ligand-gated ion channel signaling pathway	319
+									GO:1990806	ligand-gated ion channel signaling pathway	319																					
+GO:0048863	stem cell differentiation	329
+												GO:0048863	stem cell differentiation	329																		
+GO:0010648	negative regulation of cell communication	330
+												GO:0010648	negative regulation of cell communication	330																		
+GO:1905165	regulation of lysosomal protein catabolic process	337
+												GO:1905165	regulation of lysosomal protein catabolic process	337																		
+GO:0051481	negative regulation of cytosolic calcium ion concentration	342
+									GO:0051481	negative regulation of cytosolic calcium ion concentration	342																					
+GO:0009611	response to wounding	342
+												GO:0009611	response to wounding	342																		
+GO:0050665	hydrogen peroxide biosynthetic process	350
+												GO:0050665	hydrogen peroxide biosynthetic process	350																		
+GO:0048585	negative regulation of response to stimulus	354
+												GO:0048585	negative regulation of response to stimulus	354																		
+GO:0032886	regulation of microtubule-based process	355
+												GO:0032886	regulation of microtubule-based process	355																		
+GO:0007009	plasma membrane organization	356
+									GO:0007009	plasma membrane organization	356																					
+GO:0048519	negative regulation of biological process	356
+												GO:0048519	negative regulation of biological process	356																		
+GO:0048523	negative regulation of cellular process	358
+												GO:0048523	negative regulation of cellular process	358																		
+GO:0031109	microtubule polymerization or depolymerization	360
+												GO:0031109	microtubule polymerization or depolymerization	360																		
+GO:0060033	anatomical structure regression	361
+												GO:0060033	anatomical structure regression	361																		
+GO:0050654	chondroitin sulfate proteoglycan metabolic process	364
+												GO:0050654	chondroitin sulfate proteoglycan metabolic process	364																		
+GO:1904350	regulation of protein catabolic process in the vacuole	368
+												GO:1904350	regulation of protein catabolic process in the vacuole	368																		
+GO:0050673	epithelial cell proliferation	370
+												GO:0050673	epithelial cell proliferation	370																		
+GO:0006688	glycosphingolipid biosynthetic process	379
+									GO:0006688	glycosphingolipid biosynthetic process	379																					
+GO:0030029	actin filament-based process	393
+									GO:0030029	actin filament-based process	393																					

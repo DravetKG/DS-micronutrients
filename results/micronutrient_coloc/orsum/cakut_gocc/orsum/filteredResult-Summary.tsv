@@ -1,0 +1,85 @@
+Representing term id	Representing term name	Representing term size	Representing term rank	Represented term number	folic acid term rank	iron term rank	keto diet term rank	vitamin A term rank	vitamin B12 term rank	vitamin B6 term rank	vitamin C term rank	vitamin D term rank	vitamin E term rank	zinc term rank
+GO:0005576	extracellular region	4244	1	1	1	2	None	1	1	2	2	2	1	1
+GO:0005615	extracellular space	3250	1	1	2	1	None	4	2	1	3	1	2	2
+GO:0000785	chromatin	1407	1	2	31	None	1	8	None	4	8	6	6	11
+GO:0009986	cell surface	900	1	2	6	7	None	5	5	3	1	7	3	5
+GO:0005694	chromosome	2008	2	1	72	None	2	15	None	19	22	13	13	27
+GO:0031012	extracellular matrix	339	2	15	3	5	None	2	3	None	6	3	7	3
+GO:0031091	platelet alpha granule	91	3	3	12	3	None	14	9	None	12	12	11	7
+GO:0005667	transcription regulator complex	518	3	5	23	None	3	11	None	13	13	11	9	15
+GO:0030312	external encapsulating structure	340	3	1	4	6	None	3	4	None	5	4	8	4
+GO:0071944	cell periphery	6256	4	1	5	4	None	7	6	5	4	8	5	6
+GO:0043025	neuronal cell body	462	4	1	None	None	4	None	None	9	None	None	None	None
+GO:0043235	receptor complex	529	4	4	7	33	6	6	15	8	7	5	4	8
+GO:0036477	somatodendritic compartment	826	6	2	None	None	8	88	None	6	None	None	None	None
+GO:0005796	Golgi lumen	105	7	1	14	None	None	12	7	None	21	24	23	30
+GO:0005886	plasma membrane	5899	7	1	11	23	None	19	14	7	9	20	10	18
+GO:0005788	endoplasmic reticulum lumen	322	8	1	8	8	None	9	8	16	11	10	19	13
+GO:0012505	endomembrane system	4946	9	1	62	9	None	41	21	None	68	58	70	66
+GO:0005654	nucleoplasm	4328	9	1	None	None	9	None	None	None	None	83	87	None
+GO:0031982	vesicle	4030	10	1	20	10	None	43	12	None	57	44	59	33
+GO:0044297	cell body	528	10	1	None	None	10	None	None	15	None	None	None	None
+GO:0016342	catenin complex	31	11	1	57	None	11	61	None	None	None	95	61	None
+GO:0045121	membrane raft	289	11	3	24	51	14	26	61	11	54	33	20	34
+GO:0030424	axon	633	12	1	None	None	12	None	None	None	None	None	86	None
+GO:0098857	membrane microdomain	291	12	1	25	None	15	27	65	12	55	34	21	36
+GO:0098636	protein complex involved in cell adhesion	58	12	2	22	None	None	16	30	None	20	16	31	12
+GO:0030055	cell-substrate junction	434	13	2	13	43	None	17	36	None	14	22	16	17
+GO:0005783	endoplasmic reticulum	2118	13	1	60	13	None	58	47	None	63	64	None	None
+GO:0098686	hippocampal mossy fiber to CA3 synapse	45	13	1	None	None	13	None	None	None	None	None	None	None
+GO:0030141	secretory granule	905	14	4	45	14	None	50	22	None	35	42	40	23
+GO:0030054	cell junction	2368	14	1	37	None	None	29	58	14	28	40	29	35
+GO:0070161	anchoring junction	910	14	8	15	None	None	21	40	23	17	26	14	22
+GO:0099503	secretory vesicle	1083	16	1	74	16	None	68	32	None	60	87	60	38
+GO:0065010	extracellular membrane-bounded organelle	2141	16	1	29	20	None	53	16	None	None	60	None	77
+GO:0070062	extracellular exosome	2110	17	1	32	17	None	55	20	None	None	59	None	78
+GO:0043230	extracellular organelle	2141	17	1	28	19	None	52	17	None	None	62	None	75
+GO:0005581	collagen trimer	93	18	1	18	30	None	28	23	None	29	21	58	None
+GO:1903561	extracellular vesicle	2140	18	1	27	18	None	51	19	None	None	61	None	76
+GO:0098552	side of membrane	727	19	1	19	25	None	22	26	None	19	32	28	29
+GO:0098590	plasma membrane region	1303	20	11	35	28	None	46	29	20	26	45	30	37
+GO:0031983	vesicle lumen	330	20	2	43	39	None	48	27	None	37	39	37	20
+GO:0031410	cytoplasmic vesicle	2546	21	1	89	21	None	102	37	None	None	77	84	32
+GO:0044306	neuron projection terminus	123	21	1	None	None	None	None	None	21	None	None	None	None
+GO:0098797	plasma membrane protein complex	725	21	1	33	None	None	24	80	None	31	27	24	21
+GO:0097708	intracellular vesicle	2554	22	1	81	22	None	95	35	None	None	74	74	31
+GO:0045177	apical part of cell	510	22	2	42	46	None	77	31	22	30	38	32	59
+GO:0030666	endocytic vesicle membrane	204	24	2	66	24	None	72	45	None	None	37	93	39
+GO:0005902	microvillus	96	24	1	49	38	None	66	24	None	24	70	45	48
+GO:0045202	synapse	1607	25	5	91	None	None	59	None	25	None	None	69	None
+GO:0030139	endocytic vesicle	354	26	2	73	26	None	85	48	None	None	49	None	41
+GO:0070013	intracellular organelle lumen	6657	28	1	None	None	None	33	None	None	73	28	34	56
+GO:0031974	membrane-enclosed lumen	6657	29	1	None	None	None	32	None	None	71	29	35	57
+GO:0043233	organelle lumen	6657	30	1	None	None	None	34	None	None	72	30	36	55
+GO:0043202	lysosomal lumen	100	33	1	54	None	None	36	33	None	40	67	57	None
+GO:0030659	cytoplasmic vesicle membrane	1255	36	2	97	36	None	None	63	None	None	71	None	64
+GO:0110165	cellular anatomical structure	21387	36	1	76	None	None	44	72	None	36	63	47	None
+GO:0045178	basal part of cell	309	39	1	50	None	None	65	52	None	39	57	48	49
+GO:0072562	blood microparticle	138	40	1	70	None	None	70	41	None	43	80	72	40
+GO:0012506	vesicle membrane	1274	41	1	None	41	None	None	None	None	None	None	None	None
+GO:0005768	endosome	1077	42	2	86	42	None	82	71	None	None	68	None	None
+GO:1905286	serine-type peptidase complex	20	42	2	87	None	None	80	66	None	42	69	62	47
+GO:0098858	actin-based cell projection	224	43	2	61	47	None	78	43	None	52	91	66	71
+GO:0005575	cellular_component	21882	45	1	77	None	None	45	77	None	49	79	50	None
+GO:0031256	leading edge membrane	181	45	1	83	None	None	97	None	None	62	76	85	45
+GO:1904090	peptidase inhibitor complex	11	47	1	88	None	None	83	54	None	47	72	64	53
+GO:0005775	vacuolar lumen	180	51	1	80	None	None	64	51	None	69	None	94	None
+GO:0098588	bounding membrane of organelle	2266	52	1	None	52	None	None	None	None	None	None	None	None
+GO:0005905	clathrin-coated pit	78	56	1	None	None	None	99	56	None	61	82	None	None
+GO:0005794	Golgi apparatus	1679	60	1	107	None	None	63	60	None	None	88	95	None
+GO:0030027	lamellipodium	198	63	1	67	None	None	113	None	None	74	None	63	None
+GO:0032991	protein-containing complex	7858	65	1	None	None	None	None	None	None	None	65	None	None
+GO:0042995	cell projection	2564	65	1	98	None	None	93	None	None	None	None	65	None
+GO:0016020	membrane	9965	66	1	None	None	None	None	None	None	66	None	None	None
+GO:0120025	plasma membrane bounded cell projection	2447	67	1	104	None	None	104	None	None	None	None	67	None
+GO:0031252	cell leading edge	422	68	2	68	None	None	111	None	None	None	99	71	73
+GO:0019898	extrinsic component of membrane	162	68	3	103	None	None	84	None	None	None	None	68	None
+GO:1990909	Wnt signalosome	13	71	1	None	None	None	71	None	None	None	None	None	None
+GO:1902911	protein kinase complex	156	75	1	None	None	None	None	None	None	None	None	75	None
+GO:0098862	cluster of actin-based cell projections	169	76	1	None	None	None	None	76	None	None	None	None	None
+GO:0030136	clathrin-coated vesicle	219	81	1	None	None	None	None	81	None	None	100	None	None
+GO:0150005	enzyme activator complex	16	82	1	None	None	None	None	82	None	None	None	None	None
+GO:0032432	actin filament bundle	91	83	1	101	None	None	100	83	None	None	None	None	None
+GO:0031981	nuclear lumen	5488	90	1	None	None	None	None	None	None	None	90	None	None
+GO:0098796	membrane protein complex	1399	91	1	None	None	None	112	None	None	None	None	91	None
+GO:0015629	actin cytoskeleton	537	102	1	102	None	None	None	None	None	None	None	None	None

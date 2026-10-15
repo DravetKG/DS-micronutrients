@@ -1,0 +1,4 @@
+native	name	p_value	term_size	intersection_size
+REAC:R-HSA-425407	SLC-mediated transmembrane transport	8.376680556852804e-10	228	18
+REAC:R-HSA-382551	Transport of small molecules	1.1770164780215445e-08	678	27
+REAC:R-HSA-9958790	SLC-mediated transport of inorganic anions	0.0009364177091194174	31	5

@@ -1,0 +1,2 @@
+n_dravet_seeds	n_vita_seeds	n_seed_overlap	coloc_size	n_coloc_reported	n_coloc_dual_seed	mean_combined_z	pct_both_negative	contrib_both_negative	contrib_both_positive	contrib_mixed_sign	null_size_mean	null_size_sd	z_size	p_size	null_mean_z_mean	null_mean_z_sd	z_mean_z	p_mean_z
+7	197	0	138.0	138	0	1.6180888589558837	45.1	2.1656899141975225	0.21169865080030853	-0.7592997060419477	299.334	15.40306605841837	-10.47414841877048	1.0	0.26999130620172407	0.03389665922145457	39.770808797018375	0.0

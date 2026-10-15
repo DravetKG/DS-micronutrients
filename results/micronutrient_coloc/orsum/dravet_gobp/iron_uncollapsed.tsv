@@ -1,0 +1,119 @@
+native	name	p_value	term_size	intersection_size
+GO:0006810	transport	6.37312276853454e-08	4046	71
+GO:0051234	establishment of localization	3.5675429876542083e-07	4252	71
+GO:0030001	metal ion transport	4.2061904276782365e-07	788	27
+GO:0006812	monoatomic cation transport	1.0652572834568848e-06	955	29
+GO:0140352	export from cell	1.5248097629970461e-06	856	27
+GO:0055085	transmembrane transport	2.1285211338317926e-06	1408	35
+GO:0006811	monoatomic ion transport	2.4412164013796572e-06	1147	31
+GO:0099003	vesicle-mediated transport in synapse	6.108685808420125e-06	242	14
+GO:0051179	localization	8.584828109717885e-06	4911	73
+GO:0006814	sodium ion transport	1.188627140361963e-05	219	13
+GO:0099537	trans-synaptic signaling	1.5371452633867713e-05	739	23
+GO:0099536	synaptic signaling	2.6575277784636374e-05	766	23
+GO:0035725	sodium ion transmembrane transport	2.6575277784636374e-05	162	11
+GO:0098655	monoatomic cation transmembrane transport	3.0418517923570302e-05	778	23
+GO:0006836	neurotransmitter transport	3.4012782040690715e-05	208	12
+GO:0099504	synaptic vesicle cycle	3.4012782040690715e-05	207	12
+GO:0098916	anterograde trans-synaptic signaling	3.426055367539833e-05	732	22
+GO:0007268	chemical synaptic transmission	3.426055367539833e-05	732	22
+GO:0034220	monoatomic ion transmembrane transport	3.9251239457241044e-05	933	25
+GO:0015849	organic acid transport	6.198848393435651e-05	317	14
+GO:0046903	secretion	6.198848393435651e-05	894	24
+GO:0046942	carboxylic acid transport	6.198848393435651e-05	317	14
+GO:0051049	regulation of transport	0.00021985244701834515	1480	31
+GO:0015711	organic anion transport	0.00023355841114219093	410	15
+GO:0098657	import into cell	0.00023847909849109128	906	23
+GO:0032940	secretion by cell	0.0002837986116478467	783	21
+GO:0007267	cell-cell signaling	0.00037245608131323285	1223	27
+GO:0007399	nervous system development	0.0005089787991173485	2484	42
+GO:0032879	regulation of localization	0.0006271189710058094	1819	34
+GO:0055080	monoatomic cation homeostasis	0.0010205088451356184	472	15
+GO:0045055	regulated exocytosis	0.0010247220995923817	210	10
+GO:0050804	modulation of chemical synaptic transmission	0.0011034274596134716	478	15
+GO:0099177	regulation of trans-synaptic signaling	0.0011034274596134716	479	15
+GO:0050801	monoatomic ion homeostasis	0.0011524360885311945	482	15
+GO:0006883	intracellular sodium ion homeostasis	0.0012636997266044347	19	4
+GO:0019725	cellular homeostasis	0.0014415284946203543	684	18
+GO:0016079	synaptic vesicle exocytosis	0.0015535759664069544	100	7
+GO:0006887	exocytosis	0.0015535759664069544	327	12
+GO:0055078	sodium ion homeostasis	0.001566874013965308	41	5
+GO:0051050	positive regulation of transport	0.0017330838816033052	767	19
+GO:0055082	intracellular chemical homeostasis	0.0019344874856067177	575	16
+GO:0098739	import across plasma membrane	0.002064543424440411	236	10
+GO:0007269	neurotransmitter secretion	0.0020777002931979998	147	8
+GO:0099643	signal release from synapse	0.0020777002931979998	147	8
+GO:0030003	intracellular monoatomic cation homeostasis	0.0020777002931979998	398	13
+GO:0023061	signal release	0.0023246128056695803	464	14
+GO:0006873	intracellular monoatomic ion homeostasis	0.0023613386704521965	406	13
+GO:0010248	establishment or maintenance of transmembrane electrochemical gradient	0.002547566360671404	9	3
+GO:0006865	amino acid transport	0.0026573480117513546	154	8
+GO:0048167	regulation of synaptic plasticity	0.002931930240823895	202	9
+GO:0010996	response to auditory stimulus	0.0036526761559818547	27	4
+GO:0015837	amine transport	0.0036526761559818547	83	6
+GO:0150104	transport across blood-brain barrier	0.0037432043540016465	84	6
+GO:0010232	vascular transport	0.0037432043540016465	84	6
+GO:0006813	potassium ion transport	0.004618922024347698	217	9
+GO:0015807	L-amino acid transport	0.004847484058816635	89	6
+GO:0140029	exocytic process	0.004847484058816635	89	6
+GO:0050435	amyloid-beta metabolic process	0.004847484058816635	56	5
+GO:0006829	zinc ion transport	0.00492838912993055	30	4
+GO:0048878	chemical homeostasis	0.0051526101296613305	858	19
+GO:0060075	regulation of resting membrane potential	0.0051526101296613305	12	3
+GO:0055075	potassium ion homeostasis	0.005349270546613935	31	4
+GO:0065008	regulation of biological quality	0.005587419687762363	2744	41
+GO:0000041	transition metal ion transport	0.005587419687762363	93	6
+GO:0034330	cell junction organization	0.006658908783109635	807	18
+GO:0098771	inorganic ion homeostasis	0.006739785886842601	404	12
+GO:0071805	potassium ion transmembrane transport	0.006975321051246635	185	8
+GO:0006835	dicarboxylic acid transport	0.007382256031576462	99	6
+GO:0051588	regulation of neurotransmitter transport	0.008114877398314313	101	6
+GO:0030007	intracellular potassium ion homeostasis	0.008985530924823272	15	3
+GO:0071468	cellular response to acidic pH	0.008985530924823272	15	3
+GO:0050808	synapse organization	0.009384225909602723	553	14
+GO:0042391	regulation of membrane potential	0.009489975017804417	424	12
+GO:0051955	regulation of amino acid transport	0.0111133168440095	39	4
+GO:1903789	regulation of amino acid transmembrane transport	0.012228829806490692	17	3
+GO:0051649	establishment of localization in cell	0.012228829806490692	1849	30
+GO:0010958	regulation of amino acid import across plasma membrane	0.012228829806490692	17	3
+GO:0051952	regulation of amine transport	0.012624199805024147	73	5
+GO:0098659	inorganic cation import across plasma membrane	0.013128968477652742	114	6
+GO:0140115	export across plasma membrane	0.013128968477652742	74	5
+GO:0002265	astrocyte activation involved in immune response	0.013128968477652742	4	2
+GO:0099587	inorganic ion import across plasma membrane	0.013128968477652742	114	6
+GO:1990573	potassium ion import across plasma membrane	0.014307378306813464	43	4
+GO:1902600	proton transmembrane transport	0.014307378306813464	162	7
+GO:0010043	response to zinc ion	0.015231806590374632	44	4
+GO:0036376	sodium ion export across plasma membrane	0.015231806590374632	19	3
+GO:0051580	regulation of neurotransmitter uptake	0.015231806590374632	19	3
+GO:0006869	lipid transport	0.015899277999240874	394	11
+GO:0001504	neurotransmitter uptake	0.016089862432152456	45	4
+GO:0051641	cellular localization	0.016624585210604337	2268	34
+GO:0035493	SNARE complex assembly	0.01973974305635857	21	3
+GO:0010876	lipid localization	0.021538173724516316	411	11
+GO:0051957	positive regulation of amino acid transport	0.02222607455941809	22	3
+GO:0045332	phospholipid translocation	0.02278522813986469	50	4
+GO:0089718	amino acid import across plasma membrane	0.02615674858744631	52	4
+GO:0010447	response to acidic pH	0.0271013518491876	24	3
+GO:0071467	cellular response to pH	0.0271013518491876	24	3
+GO:0034329	cell junction assembly	0.0271013518491876	493	12
+GO:0050890	cognition	0.0271013518491876	299	9
+GO:0015804	neutral amino acid transport	0.028086999002394846	54	4
+GO:0007610	behavior	0.028086999002394846	640	14
+GO:0034204	lipid translocation	0.028086999002394846	54	4
+GO:0007275	multicellular organism development	0.03149206841698535	4372	54
+GO:0051932	synaptic transmission, GABAergic	0.031575255955973505	56	4
+GO:0010756	positive regulation of plasminogen activation	0.0340268390026012	7	2
+GO:0140331	aminophospholipid translocation	0.0340268390026012	7	2
+GO:0051823	regulation of synapse structural plasticity	0.0340268390026012	7	2
+GO:0045851	pH reduction	0.0340268390026012	7	2
+GO:0007631	feeding behavior	0.03447083565879784	98	5
+GO:0003018	vascular process in circulatory system	0.03515019086714069	255	8
+GO:0007611	learning or memory	0.03562349173534646	256	8
+GO:0097035	regulation of membrane lipid distribution	0.03562349173534646	59	4
+GO:0016192	vesicle-mediated transport	0.038405190318636866	1491	24
+GO:0007416	synapse assembly	0.039254846353518086	261	8
+GO:0006816	calcium ion transport	0.04012874951714931	389	10
+GO:0071577	zinc ion transmembrane transport	0.04047820788174834	29	3
+GO:0017156	calcium-ion regulated exocytosis	0.04098348662643696	62	4
+GO:0050905	neuromuscular process	0.04646037688441498	156	6

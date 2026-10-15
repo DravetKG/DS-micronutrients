@@ -1,0 +1,267 @@
+Representing term id	Representing term name	Representing term size	Representing term rank	Represented term number	folic acid term rank	iron term rank	keto diet term rank	vitamin A term rank	vitamin B12 term rank	vitamin B6 term rank	vitamin C term rank	vitamin D term rank	vitamin E term rank	zinc term rank
+GO:0034330	cell junction organization	829	1	42	1.0	65.0	22.0	33.0	89.0	8.0		7.0	43.0	92.0
+GO:0006810	transport	4368	1	1	57.0	1.0	18.0	369.0	4.0	78.0	45.0		27.0	16.0
+GO:0071805	potassium ion transmembrane transport	199	1	8	59.0	67.0	1.0		11.0	200.0	36.0	183.0	1.0	
+GO:0007399	nervous system development	2597	1	1	6.0	28.0	17.0	1.0	57.0	9.0	35.0	1.0	9.0	26.0
+GO:0006811	monoatomic ion transport	1260	1	49	3.0	3.0	2.0		1.0	37.0	2.0	145.0	2.0	6.0
+GO:0099536	synaptic signaling	803	1	44	81.0	11.0	6.0	45.0	15.0	1.0	32.0	44.0	34.0	1.0
+GO:0055085	transmembrane transport	1554	1	26	5.0	6.0	11.0		8.0	72.0	1.0		3.0	8.0
+GO:0051234	establishment of localization	4739	2	1	93.0	2.0	19.0	359.0	7.0	93.0	71.0		32.0	25.0
+GO:0007417	central nervous system development	1035	2	47	47.0		124.0	2.0	96.0	109.0	38.0	20.0	68.0	45.0
+GO:0048731	system development	4022	2	1	25.0		27.0	4.0	93.0	12.0		2.0	31.0	52.0
+GO:0022008	neurogenesis	1769	3	79	14.0		62.0	3.0		23.0	46.0	6.0	10.0	37.0
+GO:0007275	multicellular organism development	4689	3	1	53.0	102.0	60.0	6.0		16.0		3.0	56.0	103.0
+GO:0042391	regulation of membrane potential	443	4	28		73.0	4.0	294.0	48.0	21.0			13.0	78.0
+GO:0032502	developmental process	6534	4	1	92.0		132.0	25.0		52.0		4.0	84.0	
+GO:0140352	export from cell	913	5	28		5.0	40.0		28.0	30.0	34.0		64.0	18.0
+GO:0007267	cell-cell signaling	1315	5	2	102.0	27.0	12.0	61.0	25.0	5.0		21.0	59.0	7.0
+GO:0048856	anatomical structure development	5947	5	1	60.0		103.0	30.0		31.0		5.0	60.0	181.0
+GO:0006865	amino acid transport	162	5	8	95.0	49.0	145.0		29.0	142.0	25.0			5.0
+GO:0015849	organic acid transport	347	7	14	7.0	20.0	224.0	347.0	12.0		7.0			10.0
+GO:0009653	anatomical structure morphogenesis	2699	7	1	90.0			7.0				13.0	85.0	
+GO:0010232	vascular transport	88	8	2	8.0	53.0			51.0		11.0			30.0
+GO:0099003	vesicle-mediated transport in synapse	246	8	3		8.0	74.0			62.0				204.0
+GO:0048869	cellular developmental process	4444	8	1	77.0			51.0		186.0		8.0	74.0	
+GO:0051179	localization	5428	9	1	121.0	9.0	21.0	217.0	14.0	108.0	66.0		33.0	39.0
+GO:0098657	import into cell	957	9	5	15.0	25.0	243.0	173.0	9.0	86.0	33.0	163.0		28.0
+GO:0030154	cell differentiation	4443	9	1	78.0			52.0		185.0		9.0	73.0	
+GO:0015711	organic anion transport	455	10	1	33.0	24.0	365.0	273.0	19.0		10.0		176.0	17.0
+GO:0032501	multicellular organismal process	7333	10	1	17.0		78.0	39.0	86.0	22.0		10.0	65.0	47.0
+GO:0050803	regulation of synapse structure or activity	305	11	1	19.0		120.0	48.0		11.0		65.0	169.0	
+GO:0000902	cell morphogenesis	998	12	4	12.0		155.0	13.0		34.0	44.0	18.0	19.0	100.0
+GO:0003008	system process	2290	12	1	62.0		56.0	216.0	45.0	19.0	61.0		108.0	12.0
+GO:0007154	cell communication	6588	14	1			67.0	98.0		14.0		23.0		69.0
+GO:0006836	neurotransmitter transport	211	15	2		15.0	20.0		27.0	32.0	19.0		154.0	23.0
+GO:0065008	regulation of biological quality	2960	16	1		63.0	16.0	77.0		20.0		105.0	29.0	156.0
+GO:0023052	signaling	6548	17	1			91.0	96.0		17.0		19.0		77.0
+GO:0015698	inorganic anion transport	171	17	2	48.0		116.0		82.0		17.0			231.0
+GO:0007613	memory	121	17	3	114.0		147.0	89.0	90.0	161.0	56.0	17.0	89.0	81.0
+GO:0050877	nervous system process	1503	18	23	111.0	98.0	87.0	28.0	34.0	18.0		36.0	167.0	20.0
+GO:0051960	regulation of nervous system development	430	19	3			241.0	19.0		56.0		144.0	39.0	43.0
+GO:0003018	vascular process in circulatory system	270	20	5	41.0	105.0	328.0		26.0	145.0	20.0			33.0
+GO:0046903	secretion	970	21	8		21.0	79.0		32.0	47.0		175.0		98.0
+GO:0006590	thyroid hormone generation	22	21	1							21.0			
+GO:0060322	head development	787	22	1			229.0	22.0		231.0		84.0		111.0
+GO:0051049	regulation of transport	1564	23	10		23.0	29.0		30.0	172.0			109.0	38.0
+GO:0015695	organic cation transport	119	24	1	50.0		272.0		24.0	229.0	53.0			112.0
+GO:0060004	reflex	22	24	1						222.0	24.0			
+GO:0042403	thyroid hormone metabolic process	28	27	1							27.0			
+GO:0007610	behavior	665	28	12		100.0	75.0	31.0	76.0	28.0		106.0		36.0
+GO:0032879	regulation of localization	1912	29	13		29.0	31.0	170.0	31.0			81.0	87.0	59.0
+GO:0048468	cell development	2842	29	1	112.0			80.0		154.0		29.0	80.0	
+GO:0007156	homophilic cell-cell adhesion	169	30	1	30.0		73.0	93.0			57.0	52.0	40.0	
+GO:0055080	monoatomic cation homeostasis	513	30	11		30.0	109.0		97.0	199.0			130.0	129.0
+GO:0086003	cardiac muscle cell contraction	82	30	1			30.0			227.0			120.0	
+GO:0072348	sulfur compound transport	65	30	1	87.0						30.0			76.0
+GO:0050919	negative chemotaxis	45	30	1	64.0							30.0		
+GO:0003013	circulatory system process	595	31	23	85.0		32.0		71.0	75.0	31.0		44.0	50.0
+GO:0120036	plasma membrane bounded cell projection organization	1582	31	3	101.0		362.0	41.0		63.0		31.0	42.0	150.0
+GO:0021675	nerve development	93	32	4	32.0			193.0				113.0		
+GO:0071526	semaphorin-plexin signaling pathway	49	32	1	70.0							32.0		
+GO:0050801	monoatomic ion homeostasis	524	34	2		34.0	239.0		100.0					
+GO:1905145	cellular response to acetylcholine	48	35	1						35.0				
+GO:0030030	cell projection organization	1628	35	4	117.0		363.0	42.0		58.0		35.0	45.0	124.0
+GO:0019725	cellular homeostasis	738	36	3		36.0	180.0		98.0	279.0	67.0			
+GO:0044057	regulation of system process	543	37	7			37.0		81.0	67.0		173.0	174.0	113.0
+GO:0070633	transepithelial transport	37	37	1							37.0			
+GO:0007166	cell surface receptor signaling pathway	2829	37	1	120.0			138.0				37.0		
+GO:0048588	developmental cell growth	221	38	1				75.0		133.0		38.0		123.0
+GO:0007167	enzyme-linked receptor protein signaling pathway	987	39	6	84.0			189.0				39.0		
+GO:1905144	response to acetylcholine	51	41	1						41.0				
+GO:0006936	muscle contraction	340	42	3			42.0			120.0				218.0
+GO:0007165	signal transduction	6054	42	1				161.0		111.0		42.0		
+GO:0070252	actin-mediated cell contraction	115	46	1			46.0						179.0	
+GO:0018958	phenol-containing compound metabolic process	116	47	11				82.0			47.0	147.0		
+GO:0030178	negative regulation of Wnt signaling pathway	170	48	2								48.0		
+GO:0048589	developmental growth	661	49	5			355.0	88.0		273.0		49.0		53.0
+GO:0015837	amine transport	85	50	1		52.0	185.0		50.0	159.0				
+GO:0040011	locomotion	1235	50	14	94.0			199.0		272.0		50.0		
+GO:0010996	response to auditory stimulus	31	51	1		51.0	165.0	240.0	113.0	136.0				
+GO:0048513	animal organ development	3018	51	1				115.0		262.0		51.0		
+GO:0010646	regulation of cell communication	3476	53	1			346.0	164.0		53.0		82.0		
+GO:0016477	cell migration	1531	53	4	55.0			74.0				53.0		
+GO:0044331	cell-cell adhesion mediated by cadherin	53	54	1	72.0			197.0				54.0		
+GO:0010043	response to zinc ion	48	55	1		84.0	329.0				55.0		103.0	58.0
+GO:0006869	lipid transport	433	56	6		87.0			56.0					
+GO:0071705	nitrogen compound transport	796	56	5	125.0		117.0	346.0						56.0
+GO:0051130	positive regulation of cellular component organization	1091	57	5				100.0	109.0	80.0		57.0		
+GO:0007157	heterophilic cell-cell adhesion	48	58	1	58.0					208.0				
+GO:0050435	amyloid-beta metabolic process	58	58	1	82.0	58.0			112.0					
+GO:0010988	regulation of low-density lipoprotein particle clearance	15	58	1					58.0					121.0
+GO:0006575	modified amino acid metabolic process	177	58	1							58.0			
+GO:0048878	chemical homeostasis	951	60	3		60.0	115.0		60.0	235.0				233.0
+GO:0042908	xenobiotic transport	48	60	1							60.0		187.0	
+GO:0023051	regulation of signaling	3469	61	1				141.0		69.0		61.0	186.0	
+GO:0010876	lipid localization	451	62	1		91.0			62.0					
+GO:0005513	detection of calcium ion	14	64	1					64.0					
+GO:0042592	homeostatic process	1677	64	1							64.0			
+GO:0097006	regulation of plasma lipoprotein particle levels	78	65	5					65.0			143.0	165.0	154.0
+GO:0106070	regulation of adenylate cyclase-activating G protein-coupled receptor signaling pathway	19	66	1	66.0									
+GO:0051260	protein homooligomerization	206	66	1			66.0						139.0	
+GO:0040007	growth	920	66	7				107.0				66.0		114.0
+GO:0016339	calcium-dependent cell-cell adhesion	48	67	1	67.0		112.0	177.0				104.0		
+GO:0016486	peptide hormone processing	40	68	1					68.0					
+GO:0042552	myelination	152	68	2			376.0	241.0				68.0		
+GO:2000177	regulation of neural precursor cell proliferation	93	69	3				69.0					111.0	
+GO:0030048	actin filament-based movement	137	70	1			70.0							
+GO:0048870	cell motility	1793	70	1	80.0			94.0				70.0		
+GO:0071468	cellular response to acidic pH	16	71	1		71.0	357.0							
+GO:0003012	muscle system process	428	71	1			71.0			171.0				189.0
+GO:0007272	ensheathment of neurons	154	71	2				248.0				71.0		
+GO:0010721	negative regulation of cell development	260	72	1				72.0					152.0	115.0
+GO:0140448	signaling receptor ligand precursor processing	43	73	1					73.0					
+GO:0051649	establishment of localization in cell	1937	76	8		76.0	195.0	206.0						186.0
+GO:0008361	regulation of cell size	178	76	1			348.0	76.0				166.0	171.0	180.0
+GO:0051128	regulation of cellular component organization	2426	77	1				114.0	77.0	102.0		77.0		155.0
+GO:0071363	cellular response to growth factor stimulus	706	83	3	100.0			274.0				83.0		
+GO:0050793	regulation of developmental process	2431	84	1				84.0				138.0	164.0	
+GO:0065007	biological regulation	12788	85	1			85.0	322.0		98.0		102.0		
+GO:0045595	regulation of cell differentiation	1549	85	7				85.0						
+GO:0051259	protein complex oligomerization	275	86	1			86.0							
+GO:0035094	response to nicotine	46	87	1					87.0	203.0				
+GO:0051641	cellular localization	2520	89	1		89.0	173.0	306.0		238.0				190.0
+GO:0050789	regulation of biological process	12382	89	1			153.0			103.0		89.0		
+GO:0035493	SNARE complex assembly	21	90	1		90.0								161.0
+GO:0061351	neural precursor cell proliferation	164	90	1				90.0						
+GO:0031111	negative regulation of microtubule polymerization or depolymerization	43	90	1				353.0				90.0		
+GO:0022603	regulation of anatomical structure morphogenesis	822	91	1				91.0						
+GO:0007158	neuron cell-cell adhesion	16	92	1			240.0	92.0		100.0				
+GO:0060042	retina morphogenesis in camera-type eye	67	92	1				264.0		179.0			92.0	
+GO:0010447	response to acidic pH	26	95	1		95.0	211.0						195.0	
+GO:0071467	cellular response to pH	25	96	1		96.0	311.0							
+GO:0070848	response to growth factor	734	96	1	116.0							96.0		
+GO:0007155	cell adhesion	1511	100	2				215.0				134.0	100.0	
+GO:0001919	regulation of receptor recycling	25	101	1					107.0				101.0	
+GO:0071840	cellular component organization or biogenesis	8423	103	1								103.0		
+GO:0051093	negative regulation of developmental process	916	104	1				104.0						
+GO:0009395	phospholipid catabolic process	56	104	3				362.0	104.0					
+GO:2000026	regulation of multicellular organismal development	1392	105	1				105.0						
+GO:0051094	positive regulation of developmental process	1305	106	1				106.0						
+GO:0033555	multicellular organismal response to stress	95	106	1			337.0		106.0	263.0				
+GO:0097035	regulation of membrane lipid distribution	63	107	1		107.0								
+GO:0060041	retina development in camera-type eye	175	107	2			315.0			121.0			107.0	
+GO:0016192	vesicle-mediated transport	1571	108	3		108.0	279.0							
+GO:0035418	protein localization to synapse	87	108	5			108.0							
+GO:0051056	regulation of small GTPase mediated signal transduction	302	108	2								108.0		
+GO:0050896	response to stimulus	9041	109	1				220.0		139.0		109.0		
+GO:0009914	hormone transport	329	110	1			110.0							
+GO:0015850	organic hydroxy compound transport	266	110	1					110.0					
+GO:0016043	cellular component organization	8210	110	1								110.0		
+GO:0051591	response to cAMP	80	111	1				111.0					116.0	
+GO:0016485	protein processing	215	111	1					111.0					
+GO:0072574	hepatocyte proliferation	22	111	3				186.0				111.0		
+GO:0046683	response to organophosphorus	118	112	2			200.0	112.0					126.0	
+GO:0072657	protein localization to membrane	445	112	2			384.0	204.0		278.0		112.0		
+GO:0099072	regulation of postsynaptic membrane neurotransmitter receptor levels	113	113	1			113.0							
+GO:1902903	regulation of supramolecular fiber organization	377	114	3				208.0				114.0		
+GO:0043087	regulation of GTPase activity	188	115	1								115.0		
+GO:0050794	regulation of cellular process	11947	117	1						207.0		117.0		
+GO:0030111	regulation of Wnt signaling pathway	331	118	2								118.0		
+GO:0071872	cellular response to epinephrine stimulus	12	118	1									118.0	
+GO:0023057	negative regulation of signaling	1448	119	2	119.0			258.0						
+GO:0046471	phosphatidylglycerol metabolic process	37	119	1					119.0					
+GO:0071495	cellular response to endogenous stimulus	1237	119	2						296.0		119.0		
+GO:0009719	response to endogenous stimulus	1466	123	1	123.0			341.0				129.0		
+GO:0019674	NAD+ metabolic process	37	124	1	124.0									
+GO:0007200	phospholipase C-activating G protein-coupled receptor signaling pathway	140	124	1						124.0				
+GO:0072359	circulatory system development	1135	126	6				126.0						
+GO:0051336	regulation of hydrolase activity	277	128	2	134.0							128.0		
+GO:0001523	retinoid metabolic process	86	129	1				151.0	129.0					
+GO:1901698	response to nitrogen compound	940	129	12	138.0		149.0	163.0		129.0			158.0	220.0
+GO:0035295	tube development	1094	130	3				235.0				130.0		
+GO:0014032	neural crest cell development	80	131	1	131.0									
+GO:0007218	neuropeptide signaling pathway	110	135	1			135.0							
+GO:0007423	sensory organ development	625	135	11				160.0		135.0				
+GO:0038026	reelin-mediated signaling pathway	12	136	1				136.0						
+GO:0048678	response to axon injury	72	139	1				153.0						139.0
+GO:0044087	regulation of cellular component biogenesis	1006	141	2				293.0		141.0				
+GO:0010038	response to metal ion	320	142	4			142.0							
+GO:0009887	animal organ morphogenesis	1000	142	1				142.0				155.0		
+GO:0051239	regulation of multicellular organismal process	2921	142	1			367.0	174.0				142.0		142.0
+GO:0071871	response to epinephrine	15	142	1									142.0	
+GO:0045923	positive regulation of fatty acid metabolic process	37	144	2									144.0	
+GO:0048864	stem cell development	85	148	1	148.0									
+GO:0015833	peptide transport	282	148	1			148.0							217.0
+GO:0051241	negative regulation of multicellular organismal process	1091	149	1				149.0				162.0		192.0
+GO:1902414	protein localization to cell junction	121	151	1			151.0							
+GO:0010817	regulation of hormone levels	545	152	1			152.0			264.0				
+GO:0051493	regulation of cytoskeleton organization	531	152	3				230.0				152.0		
+GO:0051716	cellular response to stimulus	7416	154	1				218.0		183.0		154.0		
+GO:0016055	Wnt signaling pathway	460	157	2				212.0				157.0		
+GO:0016101	diterpenoid metabolic process	90	158	1				158.0						
+GO:0032970	regulation of actin filament-based process	382	158	1								158.0		
+GO:0009268	response to pH	40	159	1			208.0						159.0	
+GO:0071875	adrenergic receptor signaling pathway	31	160	2						160.0				
+GO:0043524	negative regulation of neuron apoptotic process	166	162	1						239.0				162.0
+GO:0071692	protein localization to extracellular region	366	164	1			164.0						193.0	
+GO:0035592	establishment of protein localization to extracellular region	367	167	1			167.0						196.0	
+GO:0008037	cell recognition	161	168	1						269.0			168.0	
+GO:0062013	positive regulation of small molecule metabolic process	144	172	4						232.0			172.0	
+GO:0043954	cellular component maintenance	79	174	1			290.0					174.0		
+GO:0050679	positive regulation of epithelial cell proliferation	200	178	1								178.0		
+GO:0009410	response to xenobiotic stimulus	396	179	1			179.0	292.0						
+GO:0032535	regulation of cellular component size	353	179	1				179.0						
+GO:0043112	receptor metabolic process	75	180	2									180.0	
+GO:0042180	ketone metabolic process	205	182	1									182.0	
+GO:0009612	response to mechanical stimulus	214	187	2			187.0							
+GO:0007186	G protein-coupled receptor signaling pathway	1298	187	3			201.0			187.0				225.0
+GO:0007422	peripheral nervous system development	87	188	1				188.0						
+GO:0065009	regulation of molecular function	1070	188	1						188.0				
+GO:2000344	positive regulation of acrosome reaction	11	188	1										188.0
+GO:0006721	terpenoid metabolic process	104	190	1				190.0						
+GO:0090066	regulation of anatomical structure size	498	197	2			341.0			197.0				
+GO:0070887	cellular response to chemical stimulus	2198	202	1				202.0		295.0				
+GO:0009628	response to abiotic stimulus	1108	203	1			370.0							203.0
+GO:0141156	cAMP/PKA signal transduction	30	207	1										207.0
+GO:0007340	acrosome reaction	40	211	2										211.0
+GO:0043523	regulation of neuron apoptotic process	240	213	1				317.0		213.0				
+GO:0031099	regeneration	165	213	1				245.0						213.0
+GO:0070972	protein localization to endoplasmic reticulum	33	214	1										214.0
+GO:0051402	neuron apoptotic process	293	215	1				289.0		215.0				
+GO:0044550	secondary metabolite biosynthetic process	26	219	1				219.0						
+GO:0090042	tubulin deacetylation	10	219	1				298.0						219.0
+GO:0007215	glutamate receptor signaling pathway	60	220	3			220.0	283.0		267.0				
+GO:0097120	receptor localization to synapse	77	220	1			221.0			220.0				
+GO:0010644	cell communication by electrical coupling	33	221	1										221.0
+GO:0051129	negative regulation of cellular component organization	694	223	1				223.0						
+GO:0071398	cellular response to fatty acid	35	228	1										228.0
+GO:0046785	microtubule polymerization	101	238	1				238.0						
+GO:0150063	visual system development	422	239	1				239.0						
+GO:0071709	membrane assembly	63	242	1				242.0						
+GO:0006720	isoprenoid metabolic process	120	243	1				243.0						
+GO:0048880	sensory system development	429	252	1				252.0						
+GO:0031503	protein-containing complex localization	88	256	2			256.0							
+GO:0042221	response to chemical	3859	256	1			406.0	256.0		284.0				
+GO:1901701	cellular response to oxygen-containing compound	1193	261	1				261.0						
+GO:0051654	establishment of mitochondrion localization	32	269	1				269.0						
+GO:0048511	rhythmic process	291	271	1				271.0						
+GO:0044091	membrane biogenesis	70	272	1				272.0						
+GO:0045109	intermediate filament organization	75	278	1				278.0						
+GO:0008340	determination of adult lifespan	36	280	1			280.0							
+GO:0042127	regulation of cell population proliferation	1635	288	3				288.0						
+GO:1901700	response to oxygen-containing compound	1631	290	1				290.0						
+GO:0031016	pancreas development	79	291	1				291.0						
+GO:0060052	neurofilament cytoskeleton organization	10	291	1						291.0				
+GO:0050650	chondroitin sulfate proteoglycan biosynthetic process	10	301	1				301.0						
+GO:0061762	CAMKK-AMPK signaling cascade	11	304	1			304.0							
+GO:0021700	developmental maturation	346	310	1			310.0							
+GO:0051640	organelle localization	613	310	3			375.0	310.0						
+GO:1990806	ligand-gated ion channel signaling pathway	44	319	1			319.0							
+GO:0048863	stem cell differentiation	253	329	1				329.0						
+GO:0010648	negative regulation of cell communication	1448	330	1				330.0						
+GO:1905165	regulation of lysosomal protein catabolic process	12	337	1				337.0						
+GO:0051481	negative regulation of cytosolic calcium ion concentration	15	342	1			342.0							
+GO:0009611	response to wounding	570	342	1				342.0						
+GO:0050665	hydrogen peroxide biosynthetic process	15	350	1				350.0						
+GO:0048585	negative regulation of response to stimulus	1692	354	1				354.0						
+GO:0032886	regulation of microtubule-based process	272	355	1				355.0						
+GO:0007009	plasma membrane organization	175	356	1			356.0							
+GO:0048519	negative regulation of biological process	5752	356	1				356.0						
+GO:0048523	negative regulation of cellular process	5509	358	1				358.0						
+GO:0031109	microtubule polymerization or depolymerization	143	360	1				360.0						
+GO:0060033	anatomical structure regression	16	361	1				361.0						
+GO:0050654	chondroitin sulfate proteoglycan metabolic process	14	364	1				364.0						
+GO:1904350	regulation of protein catabolic process in the vacuole	14	368	1				368.0						
+GO:0050673	epithelial cell proliferation	435	370	1				370.0						
+GO:0006688	glycosphingolipid biosynthetic process	36	379	1			379.0							
+GO:0030029	actin filament-based process	815	393	1			393.0							

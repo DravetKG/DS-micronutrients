@@ -1,0 +1,150 @@
+Representing term id	Representing term name	Representing term rank	folic acid term id	folic acid term name	folic acid term rank	iron term id	iron term name	iron term rank	keto diet term id	keto diet term name	keto diet term rank	vitamin A term id	vitamin A term name	vitamin A term rank	vitamin B12 term id	vitamin B12 term name	vitamin B12 term rank	vitamin B6 term id	vitamin B6 term name	vitamin B6 term rank	vitamin C term id	vitamin C term name	vitamin C term rank	vitamin E term id	vitamin E term name	vitamin E term rank	zinc term id	zinc term name	zinc term rank
+REAC:R-HSA-382551	Transport of small molecules	1
+			REAC:R-HSA-382551	Transport of small molecules	1	REAC:R-HSA-382551	Transport of small molecules	1	REAC:R-HSA-382551	Transport of small molecules	11				REAC:R-HSA-382551	Transport of small molecules	4				REAC:R-HSA-382551	Transport of small molecules	2	REAC:R-HSA-382551	Transport of small molecules	6	REAC:R-HSA-382551	Transport of small molecules	2
+			REAC:R-HSA-425407	SLC-mediated transmembrane transport	2				REAC:R-HSA-425407	SLC-mediated transmembrane transport	14				REAC:R-HSA-425407	SLC-mediated transmembrane transport	23	REAC:R-HSA-425407	SLC-mediated transmembrane transport	6	REAC:R-HSA-425407	SLC-mediated transmembrane transport	1	REAC:R-HSA-425407	SLC-mediated transmembrane transport	16	REAC:R-HSA-425407	SLC-mediated transmembrane transport	3
+			REAC:R-HSA-983712	Ion channel transport	5	REAC:R-HSA-983712	Ion channel transport	2	REAC:R-HSA-983712	Ion channel transport	20				REAC:R-HSA-983712	Ion channel transport	10							REAC:R-HSA-983712	Ion channel transport	15	REAC:R-HSA-983712	Ion channel transport	16
+						REAC:R-HSA-936837	Ion transport by P-type ATPases	3							REAC:R-HSA-936837	Ion transport by P-type ATPases	28										REAC:R-HSA-936837	Ion transport by P-type ATPases	18
+			REAC:R-HSA-9958790	SLC-mediated transport of inorganic anions	12										REAC:R-HSA-9958790	SLC-mediated transport of inorganic anions	12				REAC:R-HSA-9958790	SLC-mediated transport of inorganic anions	3						
+			REAC:R-HSA-2672351	Stimuli-sensing channels	4				REAC:R-HSA-2672351	Stimuli-sensing channels	18				REAC:R-HSA-2672351	Stimuli-sensing channels	45							REAC:R-HSA-2672351	Stimuli-sensing channels	7			
+			REAC:R-HSA-352230	Amino acid transport across the plasma membrane	9										REAC:R-HSA-352230	Amino acid transport across the plasma membrane	33										REAC:R-HSA-352230	Amino acid transport across the plasma membrane	21
+			REAC:R-HSA-9958863	SLC-mediated transport of amino acids	11										REAC:R-HSA-9958863	SLC-mediated transport of amino acids	34										REAC:R-HSA-9958863	SLC-mediated transport of amino acids	22
+									REAC:R-HSA-442660	SLC-mediated transport of neurotransmitters	23																		
+															REAC:R-HSA-8964043	Plasma lipoprotein clearance	35												
+REAC:R-HSA-112316	Neuronal System	1
+									REAC:R-HSA-112316	Neuronal System	1				REAC:R-HSA-112316	Neuronal System	5	REAC:R-HSA-112316	Neuronal System	1				REAC:R-HSA-112316	Neuronal System	4	REAC:R-HSA-112316	Neuronal System	1
+									REAC:R-HSA-1296072	Voltage gated Potassium channels	3													REAC:R-HSA-1296072	Voltage gated Potassium channels	1			
+									REAC:R-HSA-1296071	Potassium Channels	2				REAC:R-HSA-1296071	Potassium Channels	32							REAC:R-HSA-1296071	Potassium Channels	2			
+									REAC:R-HSA-112315	Transmission across Chemical Synapses	4				REAC:R-HSA-112315	Transmission across Chemical Synapses	17	REAC:R-HSA-112315	Transmission across Chemical Synapses	2							REAC:R-HSA-112315	Transmission across Chemical Synapses	6
+									REAC:R-HSA-112310	Neurotransmitter release cycle	6				REAC:R-HSA-112310	Neurotransmitter release cycle	25	REAC:R-HSA-112310	Neurotransmitter release cycle	3							REAC:R-HSA-112310	Neurotransmitter release cycle	4
+									REAC:R-HSA-888590	GABA synthesis, release, reuptake and degradation	13							REAC:R-HSA-888590	GABA synthesis, release, reuptake and degradation	4							REAC:R-HSA-888590	GABA synthesis, release, reuptake and degradation	10
+									REAC:R-HSA-210500	Glutamate Neurotransmitter Release Cycle	15																REAC:R-HSA-210500	Glutamate Neurotransmitter Release Cycle	5
+									REAC:R-HSA-212676	Dopamine Neurotransmitter Release Cycle	21							REAC:R-HSA-212676	Dopamine Neurotransmitter Release Cycle	7									
+									REAC:R-HSA-1296065	Inwardly rectifying K+ channels	8																		
+									REAC:R-HSA-112314	Neurotransmitter receptors and postsynaptic signal transmission	9																		
+									REAC:R-HSA-977443	GABA receptor activation	10																		
+																											REAC:R-HSA-388844	Receptor-type tyrosine-protein phosphatases	14
+									REAC:R-HSA-181429	Serotonin Neurotransmitter Release Cycle	17																		
+																											REAC:R-HSA-6794362	Protein-protein interactions at synapses	17
+									REAC:R-HSA-1296346	Tandem pore domain potassium channels	29																		
+									REAC:R-HSA-991365	Activation of GABAB receptors	30																		
+									REAC:R-HSA-977444	GABA B receptor activation	31																		
+									REAC:R-HSA-1296041	Activation of G protein gated Potassium channels	33																		
+									REAC:R-HSA-997272	Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits	34																		
+									REAC:R-HSA-1296059	G protein gated Potassium channels	35																		
+															REAC:R-HSA-112311	Neurotransmitter clearance	36												
+									REAC:R-HSA-264642	Acetylcholine Neurotransmitter Release Cycle	38				REAC:R-HSA-264642	Acetylcholine Neurotransmitter Release Cycle	43												
+									REAC:R-HSA-181430	Norepinephrine Neurotransmitter Release Cycle	42																		
+REAC:R-HSA-9768919	NPAS4 regulates expression of target genes	1
+												REAC:R-HSA-9768919	NPAS4 regulates expression of target genes	1										REAC:R-HSA-9768919	NPAS4 regulates expression of target genes	11			
+REAC:R-HSA-418346	Platelet homeostasis	1
+															REAC:R-HSA-418346	Platelet homeostasis	1												
+															REAC:R-HSA-392154	Nitric oxide stimulates guanylate cyclase	2												
+															REAC:R-HSA-418457	cGMP effects	3												
+															REAC:R-HSA-418360	Platelet calcium homeostasis	29												
+															REAC:R-HSA-139853	Elevation of cytosolic Ca2+ levels	42												
+REAC:R-HSA-9634815	Transcriptional Regulation by NPAS4	2
+												REAC:R-HSA-9634815	Transcriptional Regulation by NPAS4	2										REAC:R-HSA-9634815	Transcriptional Regulation by NPAS4	9			
+REAC:R-HSA-418990	Adherens junctions interactions	3
+			REAC:R-HSA-418990	Adherens junctions interactions	3							REAC:R-HSA-418990	Adherens junctions interactions	4															
+REAC:R-HSA-9006115	Signaling by NTRK2 (TRKB)	3
+												REAC:R-HSA-9006115	Signaling by NTRK2 (TRKB)	3				REAC:R-HSA-9006115	Signaling by NTRK2 (TRKB)	8				REAC:R-HSA-9006115	Signaling by NTRK2 (TRKB)	20			
+REAC:R-HSA-5576891	Cardiac conduction	3
+									REAC:R-HSA-5576891	Cardiac conduction	5				REAC:R-HSA-5576891	Cardiac conduction	22							REAC:R-HSA-5576891	Cardiac conduction	3	REAC:R-HSA-5576891	Cardiac conduction	7
+									REAC:R-HSA-5576893	Phase 2 - plateau phase	36													REAC:R-HSA-5576893	Phase 2 - plateau phase	8			
+									REAC:R-HSA-5578775	Ion homeostasis	37																REAC:R-HSA-5578775	Ion homeostasis	8
+									REAC:R-HSA-5576886	Phase 4 - resting membrane potential	16																		
+									REAC:R-HSA-5576892	Phase 0 - rapid depolarisation	19																		
+REAC:R-HSA-168799	Neurotoxicity of clostridium toxins	4
+						REAC:R-HSA-168799	Neurotoxicity of clostridium toxins	4																					
+REAC:R-HSA-5339562	Uptake and actions of bacterial toxins	5
+						REAC:R-HSA-5339562	Uptake and actions of bacterial toxins	5																					
+REAC:R-HSA-166520	Signaling by NTRKs	5
+												REAC:R-HSA-166520	Signaling by NTRKs	5															
+												REAC:R-HSA-9031628	NGF-stimulated transcription	7										REAC:R-HSA-9031628	NGF-stimulated transcription	19			
+												REAC:R-HSA-198725	Nuclear Events (kinase and transcription factor activation)	14															
+												REAC:R-HSA-187037	Signaling by NTRK1 (TRKA)	16															
+REAC:R-HSA-375280	Amine ligand-binding receptors	5
+									REAC:R-HSA-375280	Amine ligand-binding receptors	44							REAC:R-HSA-375280	Amine ligand-binding receptors	5									
+REAC:R-HSA-397014	Muscle contraction	5
+									REAC:R-HSA-397014	Muscle contraction	7				REAC:R-HSA-397014	Muscle contraction	15							REAC:R-HSA-397014	Muscle contraction	5	REAC:R-HSA-397014	Muscle contraction	9
+REAC:R-HSA-421270	Cell-cell junction organization	6
+			REAC:R-HSA-421270	Cell-cell junction organization	6							REAC:R-HSA-421270	Cell-cell junction organization	11															
+REAC:R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	6
+												REAC:R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	6															
+									REAC:R-HSA-1236394	Signaling by ERBB4	39																		
+REAC:R-HSA-8856825	Cargo recognition for clathrin-mediated endocytosis	6
+															REAC:R-HSA-8856825	Cargo recognition for clathrin-mediated endocytosis	6										REAC:R-HSA-8856825	Cargo recognition for clathrin-mediated endocytosis	12
+REAC:R-HSA-1500931	Cell-Cell communication	7
+			REAC:R-HSA-1500931	Cell-Cell communication	7																								
+			REAC:R-HSA-446728	Cell junction organization	10							REAC:R-HSA-446728	Cell junction organization	15															
+REAC:R-HSA-8856828	Clathrin-mediated endocytosis	7
+															REAC:R-HSA-8856828	Clathrin-mediated endocytosis	7										REAC:R-HSA-8856828	Clathrin-mediated endocytosis	13
+REAC:R-HSA-1592389	Activation of Matrix Metalloproteinases	8
+			REAC:R-HSA-1592389	Activation of Matrix Metalloproteinases	8																								
+REAC:R-HSA-975634	Retinoid metabolism and transport	8
+												REAC:R-HSA-975634	Retinoid metabolism and transport	8	REAC:R-HSA-975634	Retinoid metabolism and transport	18												
+REAC:R-HSA-1483206	Glycerophospholipid biosynthesis	8
+															REAC:R-HSA-1483206	Glycerophospholipid biosynthesis	8												
+															REAC:R-HSA-1482922	Acyl chain remodelling of PI	11												
+															REAC:R-HSA-1483166	Synthesis of PA	13												
+															REAC:R-HSA-1482925	Acyl chain remodelling of PG	14												
+															REAC:R-HSA-1482801	Acyl chain remodelling of PS	19												
+															REAC:R-HSA-1482788	Acyl chain remodelling of PC	24												
+															REAC:R-HSA-1482839	Acyl chain remodelling of PE	27												
+REAC:R-HSA-6806667	Metabolism of fat-soluble vitamins	9
+												REAC:R-HSA-6806667	Metabolism of fat-soluble vitamins	9	REAC:R-HSA-6806667	Metabolism of fat-soluble vitamins	21												
+REAC:R-HSA-2187338	Visual phototransduction	9
+												REAC:R-HSA-2187338	Visual phototransduction	10	REAC:R-HSA-2187338	Visual phototransduction	9										REAC:R-HSA-2187338	Visual phototransduction	15
+																											REAC:R-HSA-2514859	Inactivation, recovery and regulation of the phototransduction cascade	19
+																											REAC:R-HSA-2514856	The phototransduction cascade	20
+REAC:R-HSA-388396	GPCR downstream signalling	9
+																		REAC:R-HSA-388396	GPCR downstream signalling	9									
+																		REAC:R-HSA-416476	G alpha (q) signalling events	10									
+																								REAC:R-HSA-180024	DARPP-32 events	12			
+																								REAC:R-HSA-111885	Opioid Signalling	17			
+									REAC:R-HSA-418594	G alpha (i) signalling events	41																		
+REAC:R-HSA-422475	Axon guidance	10
+									REAC:R-HSA-422475	Axon guidance	26													REAC:R-HSA-422475	Axon guidance	10			
+									REAC:R-HSA-445095	Interaction between L1 and Ankyrins	12																		
+															REAC:R-HSA-373752	Netrin-1 signaling	41							REAC:R-HSA-373752	Netrin-1 signaling	14			
+																								REAC:R-HSA-399956	CRMPs in Sema3A signaling	18			
+									REAC:R-HSA-373760	L1CAM interactions	25																		
+									REAC:R-HSA-419037	NCAM1 interactions	28																		
+															REAC:R-HSA-418890	Role of second messengers in netrin-1 signaling	37												
+									REAC:R-HSA-375165	NCAM signaling for neurite out-growth	40																		
+REAC:R-HSA-372790	Signaling by GPCR	11
+																		REAC:R-HSA-372790	Signaling by GPCR	11									
+REAC:R-HSA-210991	Basigin interactions	11
+																											REAC:R-HSA-210991	Basigin interactions	11
+REAC:R-HSA-1793185	Chondroitin sulfate/dermatan sulfate metabolism	12
+												REAC:R-HSA-1793185	Chondroitin sulfate/dermatan sulfate metabolism	12	REAC:R-HSA-1793185	Chondroitin sulfate/dermatan sulfate metabolism	44												
+												REAC:R-HSA-1971475	Glycosaminoglycan-protein linkage region biosynthesis	13															
+															REAC:R-HSA-2022923	DS-GAG biosynthesis	38												
+REAC:R-HSA-9675108	Nervous system development	13
+									REAC:R-HSA-9675108	Nervous system development	32													REAC:R-HSA-9675108	Nervous system development	13			
+REAC:R-HSA-109582	Hemostasis	16
+															REAC:R-HSA-109582	Hemostasis	16												
+REAC:R-HSA-5619115	Disorders of transmembrane transporters	20
+															REAC:R-HSA-5619115	Disorders of transmembrane transporters	20												
+															REAC:R-HSA-5619102	SLC transporter disorders	26												
+REAC:R-HSA-9662360	Sensory processing of sound by inner hair cells of the cochlea	22
+									REAC:R-HSA-9662360	Sensory processing of sound by inner hair cells of the cochlea	22																		
+REAC:R-HSA-9659379	Sensory processing of sound	24
+									REAC:R-HSA-9659379	Sensory processing of sound	24																		
+REAC:R-HSA-422356	Regulation of insulin secretion	27
+									REAC:R-HSA-422356	Regulation of insulin secretion	27																		
+REAC:R-HSA-1483257	Phospholipid metabolism	30
+															REAC:R-HSA-1483257	Phospholipid metabolism	30												
+REAC:R-HSA-9709957	Sensory Perception	31
+															REAC:R-HSA-9709957	Sensory Perception	31												
+REAC:R-HSA-2980736	Peptide hormone metabolism	39
+															REAC:R-HSA-2980736	Peptide hormone metabolism	39												
+															REAC:R-HSA-422085	Synthesis, secretion, and deacylation of Ghrelin	46												
+REAC:R-HSA-8955332	Carboxyterminal post-translational modifications of tubulin	40
+															REAC:R-HSA-8955332	Carboxyterminal post-translational modifications of tubulin	40												
+REAC:R-HSA-163685	Integration of energy metabolism	43
+									REAC:R-HSA-163685	Integration of energy metabolism	43																		
+REAC:R-HSA-9037629	Lewis blood group biosynthesis	47
+															REAC:R-HSA-9037629	Lewis blood group biosynthesis	47												
+REAC:R-HSA-1430728	Metabolism	48
+															REAC:R-HSA-1430728	Metabolism	48												

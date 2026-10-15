@@ -1,0 +1,12 @@
+	vitamin A	vitamin D	vitamin C	vitamin E	vitamin B6	vitamin B12	iron	folic acid	zinc	selenium	keto diet
+vitamin A	180	46	20	29	3	14	9	31	28	12	1
+vitamin D	46	131	13	26	4	9	7	24	18	9	2
+vitamin C	20	13	54	26	3	9	9	22	22	9	3
+vitamin E	29	26	26	69	3	13	9	31	30	13	3
+vitamin B6	3	4	3	3	24	1	0	4	2	2	1
+vitamin B12	14	9	9	13	1	67	2	38	14	5	0
+iron	9	7	9	9	0	2	81	7	13	4	1
+folic acid	31	24	22	31	4	38	7	114	31	16	2
+zinc	28	18	22	30	2	14	13	31	103	8	2
+selenium	12	9	9	13	2	5	4	16	8	144	2
+keto diet	1	2	3	3	1	0	1	2	2	2	32

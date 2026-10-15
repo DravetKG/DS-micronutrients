@@ -1,0 +1,2 @@
+n_cakut_seeds	n_vitc_seeds	n_seed_overlap	coloc_size	n_coloc_reported	n_coloc_dual_seed	mean_combined_z	pct_both_negative	contrib_both_negative	contrib_both_positive	contrib_mixed_sign	null_size_mean	null_size_sd	z_size	p_size	null_mean_z_mean	null_mean_z_sd	z_mean_z	p_mean_z
+113	54	0	452.0	452	0	1.6053531296987191	43.4	1.4835002308776772	0.5167946004958792	-0.3949417016748374	256.819	13.540909829106758	14.414171755316632	2.1069999999999998e-47	0.038499340828745274	0.034670550802780524	45.192641956652004	0.0

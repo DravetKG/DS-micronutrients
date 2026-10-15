@@ -1,0 +1,87 @@
+native	name	p_value	term_size	intersection_size
+GO:0055085	transmembrane transport	3.216724558271787e-07	1408	39
+GO:0006814	sodium ion transport	1.4342317193657214e-05	219	14
+GO:0030001	metal ion transport	2.294919991364594e-05	788	25
+GO:0006811	monoatomic ion transport	2.294919991364594e-05	1147	31
+GO:0034220	monoatomic ion transmembrane transport	3.22912811744635e-05	933	27
+GO:0006812	monoatomic cation transport	4.322227337670776e-05	955	27
+GO:0015849	organic acid transport	5.711191619322467e-05	317	15
+GO:0046942	carboxylic acid transport	5.711191619322467e-05	317	15
+GO:0098739	import across plasma membrane	6.209957251261267e-05	236	13
+GO:0015711	organic anion transport	0.00019395686575682006	410	16
+GO:0150104	transport across blood-brain barrier	0.00019395686575682006	84	8
+GO:0010232	vascular transport	0.00019395686575682006	84	8
+GO:0098655	monoatomic cation transmembrane transport	0.0003540250289619531	778	22
+GO:0035725	sodium ion transmembrane transport	0.00038014335215063845	162	10
+GO:0006835	dicarboxylic acid transport	0.0005235277113528801	99	8
+GO:0089718	amino acid import across plasma membrane	0.0011162752764281097	52	6
+GO:0015698	inorganic anion transport	0.0017811364904508084	156	9
+GO:0006820	monoatomic anion transport	0.0020616374031515237	160	9
+GO:0006836	neurotransmitter transport	0.002543896126520142	208	10
+GO:0003018	vascular process in circulatory system	0.002543896126520142	255	11
+GO:0006590	thyroid hormone generation	0.0033386162674457626	20	4
+GO:0098656	monoatomic anion transmembrane transport	0.003909444556442181	137	8
+GO:1902476	chloride transmembrane transport	0.00419400928423753	102	7
+GO:0060004	reflex	0.004349224520609043	22	4
+GO:0015800	acidic amino acid transport	0.0074385830594388405	78	6
+GO:0006865	amino acid transport	0.007592318699575743	154	8
+GO:0042403	thyroid hormone metabolic process	0.007682966251492361	26	4
+GO:0015718	monocarboxylic acid transport	0.008071421371938442	157	8
+GO:0006821	chloride transport	0.008425567792910099	118	7
+GO:0072348	sulfur compound transport	0.01217343542772707	56	5
+GO:0003013	circulatory system process	0.01217343542772707	555	15
+GO:0099536	synaptic signaling	0.01425191068474647	766	18
+GO:0098657	import into cell	0.01425191068474647	906	20
+GO:0097195	pilomotor reflex	0.01813620385695848	3	2
+GO:0140352	export from cell	0.01825511211260377	856	19
+GO:0007399	nervous system development	0.01890198982001964	2484	39
+GO:0071805	potassium ion transmembrane transport	0.01890198982001964	185	8
+GO:0070633	transepithelial transport	0.02005773569862013	36	4
+GO:0014002	astrocyte development	0.020504467141738678	37	4
+GO:0098916	anterograde trans-synaptic signaling	0.020504467141738678	732	17
+GO:0007268	chemical synaptic transmission	0.020504467141738678	732	17
+GO:0003333	amino acid transmembrane transport	0.020504467141738678	103	6
+GO:0099537	trans-synaptic signaling	0.021334598657356072	739	17
+GO:1905039	carboxylic acid transmembrane transport	0.021596349054617436	147	7
+GO:0000902	cell morphogenesis	0.022648137443263532	962	20
+GO:0006810	transport	0.0249278162770237	4046	55
+GO:0097491	sympathetic neuron projection guidance	0.025859090451850517	4	2
+GO:0031175	neuron projection development	0.025859090451850517	977	20
+GO:0018958	phenol-containing compound metabolic process	0.026242891697257093	111	6
+GO:0140115	export across plasma membrane	0.027735182689967833	74	5
+GO:0099587	inorganic ion import across plasma membrane	0.028163109672205703	114	6
+GO:0051938	L-glutamate import	0.028163109672205703	43	4
+GO:1990573	potassium ion import across plasma membrane	0.028163109672205703	43	4
+GO:0098659	inorganic cation import across plasma membrane	0.028163109672205703	114	6
+GO:0015695	organic cation transport	0.028213162630415133	115	6
+GO:0048667	cell morphogenesis involved in neuron differentiation	0.028864259561014655	569	14
+GO:0010043	response to zinc ion	0.029145289507414962	44	4
+GO:0007613	memory	0.0293049474850163	117	6
+GO:0007156	homophilic cell-cell adhesion	0.0309963985127167	164	7
+GO:0006575	modified amino acid metabolic process	0.03173751378834681	166	7
+GO:0006813	potassium ion transport	0.03173751378834681	217	8
+GO:1990708	conditioned place preference	0.03173751378834681	5	2
+GO:0032238	adenosine transport	0.03173751378834681	5	2
+GO:0042908	xenobiotic transport	0.03173751378834681	46	4
+GO:0003008	system process	0.0365376377644951	1845	30
+GO:0048666	neuron development	0.041490475108836654	1122	21
+GO:0006682	galactosylceramide biosynthetic process	0.041490475108836654	6	2
+GO:0097490	sympathetic neuron projection extension	0.041490475108836654	6	2
+GO:0140009	L-aspartate import across plasma membrane	0.041490475108836654	6	2
+GO:1901166	neural crest cell migration involved in autonomic nervous system development	0.041490475108836654	6	2
+GO:0019375	galactolipid biosynthetic process	0.041490475108836654	6	2
+GO:0021637	trigeminal nerve structural organization	0.041490475108836654	6	2
+GO:0021636	trigeminal nerve morphogenesis	0.041490475108836654	6	2
+GO:0015807	L-amino acid transport	0.042002207181298705	89	5
+GO:0042592	homeostatic process	0.042002207181298705	1539	26
+GO:0010460	positive regulation of heart rate	0.042002207181298705	24	3
+GO:0051179	localization	0.042002207181298705	4911	62
+GO:0019725	cellular homeostasis	0.04272075074162688	684	15
+GO:0015721	bile acid and bile salt transport	0.046216325373168186	25	3
+GO:0007417	central nervous system development	0.04690914875801493	991	19
+GO:0001764	neuron migration	0.04846786250068787	187	7
+GO:0051234	establishment of localization	0.04901508970096724	4252	55
+GO:0019374	galactolipid metabolic process	0.04901508970096724	7	2
+GO:0010989	negative regulation of low-density lipoprotein particle clearance	0.04901508970096724	7	2
+GO:0006681	galactosylceramide metabolic process	0.04901508970096724	7	2
+GO:0021785	branchiomotor neuron axon guidance	0.04901508970096724	7	2

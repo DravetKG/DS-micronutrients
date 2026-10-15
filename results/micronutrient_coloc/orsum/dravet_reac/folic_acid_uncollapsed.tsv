@@ -1,0 +1,14 @@
+native	name	p_value	term_size	intersection_size
+REAC:R-HSA-382551	Transport of small molecules	4.918818397379418e-06	678	21
+REAC:R-HSA-425407	SLC-mediated transmembrane transport	0.0009169520910352895	228	10
+REAC:R-HSA-418990	Adherens junctions interactions	0.0042648745067266755	54	5
+REAC:R-HSA-2672351	Stimuli-sensing channels	0.0048033439757336404	95	6
+REAC:R-HSA-983712	Ion channel transport	0.013018527336205302	168	7
+REAC:R-HSA-421270	Cell-cell junction organization	0.014194342865617772	83	5
+REAC:R-HSA-888593	Reuptake of GABA	0.014194342865617772	4	2
+REAC:R-HSA-1500931	Cell-Cell communication	0.022255633155249328	143	6
+REAC:R-HSA-1592389	Activation of Matrix Metalloproteinases	0.02459752590182867	25	3
+REAC:R-HSA-352230	Amino acid transport across the plasma membrane	0.028695479568827977	29	3
+REAC:R-HSA-446728	Cell junction organization	0.028695479568827977	109	5
+REAC:R-HSA-9958863	SLC-mediated transport of amino acids	0.028695479568827977	29	3
+REAC:R-HSA-9958790	SLC-mediated transport of inorganic anions	0.03224237560494293	31	3

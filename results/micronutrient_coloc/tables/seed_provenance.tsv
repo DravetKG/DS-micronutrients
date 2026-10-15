@@ -1,0 +1,1131 @@
+key	micronutrient	GeneSymbol	in_ctd	pathways
+vita	vitamin A	ACTA2	True	
+vita	vitamin A	ADD3	True	
+vita	vitamin A	ADH1A	False	WP5188
+vita	vitamin A	AGRN	False	R-HSA-975634
+vita	vitamin A	AHR	True	
+vita	vitamin A	AKR1B10	False	R-HSA-975634
+vita	vitamin A	AKR1C1	False	R-HSA-975634
+vita	vitamin A	AKR1C3	False	R-HSA-975634
+vita	vitamin A	AKR1C4	False	R-HSA-975634
+vita	vitamin A	AKT1	True	
+vita	vitamin A	ALAS1	True	
+vita	vitamin A	ALDH1A1	False	WP5188
+vita	vitamin A	ANXA1	True	
+vita	vitamin A	ANXA2	True	
+vita	vitamin A	ANXA5	True	
+vita	vitamin A	AOX1	False	WP5188
+vita	vitamin A	APLP2	True	
+vita	vitamin A	APOA1	False	R-HSA-975634
+vita	vitamin A	APOA2	False	R-HSA-975634
+vita	vitamin A	APOA4	False	R-HSA-975634
+vita	vitamin A	APOB	False	R-HSA-975634
+vita	vitamin A	APOC2	False	R-HSA-975634
+vita	vitamin A	APOC3	False	R-HSA-975634
+vita	vitamin A	APOE	False	R-HSA-975634
+vita	vitamin A	APOM	False	R-HSA-975634
+vita	vitamin A	ARL6IP5	True	
+vita	vitamin A	ASS1	True	
+vita	vitamin A	AWAT2	False	WP5188
+vita	vitamin A	BAK1	True	
+vita	vitamin A	BAX	True	
+vita	vitamin A	BCL2	True	
+vita	vitamin A	BCL2A1	True	
+vita	vitamin A	BCL2L1	True	
+vita	vitamin A	BCO1	False	R-HSA-975634|WP5188
+vita	vitamin A	BCO2	False	R-HSA-975634
+vita	vitamin A	BIRC3	True	
+vita	vitamin A	BIRC5	True	
+vita	vitamin A	BTG2	True	
+vita	vitamin A	CASP3	True	
+vita	vitamin A	CASP9	True	
+vita	vitamin A	CCL2	True	
+vita	vitamin A	CCNA2	True	
+vita	vitamin A	CCND1	True	
+vita	vitamin A	CCND3	True	
+vita	vitamin A	CCNE1	True	
+vita	vitamin A	CD14	True	
+vita	vitamin A	CD38	True	
+vita	vitamin A	CD44	True	
+vita	vitamin A	CD52	True	
+vita	vitamin A	CD9	True	
+vita	vitamin A	CDH1	True	
+vita	vitamin A	CDK1	True	
+vita	vitamin A	CDK2	True	
+vita	vitamin A	CDKN1A	True	
+vita	vitamin A	CDKN1B	True	
+vita	vitamin A	CEBPB	True	
+vita	vitamin A	CEBPE	True	
+vita	vitamin A	CLPS	False	R-HSA-975634
+vita	vitamin A	CRABP2	True	
+vita	vitamin A	CREBBP	True	
+vita	vitamin A	CSF3R	True	
+vita	vitamin A	CTSD	True	
+vita	vitamin A	CXCL8	True	
+vita	vitamin A	CYP1A1	True	WP5188
+vita	vitamin A	CYP1B1	True	
+vita	vitamin A	CYP26A1	True	
+vita	vitamin A	CYP26B1	True	
+vita	vitamin A	CYP2A6	False	WP5188
+vita	vitamin A	CYP2W1	False	WP5188
+vita	vitamin A	CYP3A4	True	
+vita	vitamin A	CYP3A7	False	WP5188
+vita	vitamin A	DHRS3	True	
+vita	vitamin A	DHRS4	False	WP5188
+vita	vitamin A	DHRS9	False	WP5188
+vita	vitamin A	DUSP6	True	
+vita	vitamin A	E2F1	True	
+vita	vitamin A	EGFR	True	
+vita	vitamin A	EIF4EBP1	True	
+vita	vitamin A	F3	True	
+vita	vitamin A	FAS	True	
+vita	vitamin A	FN1	True	
+vita	vitamin A	FOXC1	True	
+vita	vitamin A	GFAP	True	
+vita	vitamin A	GPC1	False	R-HSA-975634
+vita	vitamin A	GPC2	False	R-HSA-975634
+vita	vitamin A	GPC3	False	R-HSA-975634
+vita	vitamin A	GPC4	False	R-HSA-975634
+vita	vitamin A	GPC5	False	R-HSA-975634
+vita	vitamin A	GPC6	False	R-HSA-975634
+vita	vitamin A	GPIHBP1	False	R-HSA-975634
+vita	vitamin A	HBEGF	True	
+vita	vitamin A	HGF	True	
+vita	vitamin A	HHEX	True	
+vita	vitamin A	HMOX1	True	
+vita	vitamin A	HOXA1	True	
+vita	vitamin A	HSD17B1	True	
+vita	vitamin A	HSPG2	False	R-HSA-975634
+vita	vitamin A	ICAM1	True	
+vita	vitamin A	ID1	True	
+vita	vitamin A	ID2	True	
+vita	vitamin A	IFIT3	True	
+vita	vitamin A	IFNG	True	
+vita	vitamin A	IGFBP3	True	
+vita	vitamin A	IL10	True	
+vita	vitamin A	IL12B	True	
+vita	vitamin A	IL1B	True	
+vita	vitamin A	IL2	True	
+vita	vitamin A	IL4	True	
+vita	vitamin A	IL6	True	
+vita	vitamin A	IRF1	True	
+vita	vitamin A	ISG15	True	
+vita	vitamin A	ITGAM	True	
+vita	vitamin A	ITGAX	True	
+vita	vitamin A	ITGB2	True	
+vita	vitamin A	IVL	True	
+vita	vitamin A	JUN	True	
+vita	vitamin A	KRT18	True	
+vita	vitamin A	LDLR	False	R-HSA-975634
+vita	vitamin A	LPL	False	R-HSA-975634
+vita	vitamin A	LRAT	False	R-HSA-975634|WP5188
+vita	vitamin A	LRP1	False	R-HSA-975634
+vita	vitamin A	LRP10	False	R-HSA-975634
+vita	vitamin A	LRP12	False	R-HSA-975634
+vita	vitamin A	LRP2	False	R-HSA-975634
+vita	vitamin A	LRP8	False	R-HSA-975634
+vita	vitamin A	LY6E	True	
+vita	vitamin A	MAP2	True	
+vita	vitamin A	MAPK1	True	
+vita	vitamin A	MAPK3	True	
+vita	vitamin A	MAPT	True	
+vita	vitamin A	MET	True	
+vita	vitamin A	MGAT5	True	
+vita	vitamin A	MMP2	True	
+vita	vitamin A	MYC	True	
+vita	vitamin A	NCOA3	True	
+vita	vitamin A	NEFH	True	
+vita	vitamin A	NES	True	
+vita	vitamin A	NFE2L2	True	
+vita	vitamin A	NQO1	True	
+vita	vitamin A	NR2F2	True	
+vita	vitamin A	NTRK2	True	
+vita	vitamin A	PALLD	True	
+vita	vitamin A	PARP1	True	
+vita	vitamin A	PAX6	True	
+vita	vitamin A	PLAAT4	True	
+vita	vitamin A	PLAT	True	
+vita	vitamin A	PLB1	False	R-HSA-975634
+vita	vitamin A	PML	True	
+vita	vitamin A	PNLIP	False	R-HSA-975634
+vita	vitamin A	PNPLA4	False	WP5188
+vita	vitamin A	POU5F1	True	
+vita	vitamin A	PRKCB	True	
+vita	vitamin A	PRKCD	True	
+vita	vitamin A	PRMT1	True	
+vita	vitamin A	PSMB9	True	
+vita	vitamin A	PTGS1	True	
+vita	vitamin A	RAB31	True	
+vita	vitamin A	RARA	True	
+vita	vitamin A	RARB	True	
+vita	vitamin A	RARG	True	
+vita	vitamin A	RB1	True	
+vita	vitamin A	RBP1	True	R-HSA-975634
+vita	vitamin A	RBP2	False	R-HSA-975634
+vita	vitamin A	RBP4	True	R-HSA-975634
+vita	vitamin A	RDH11	False	R-HSA-975634
+vita	vitamin A	RDH12	False	WP5188
+vita	vitamin A	RDH13	False	WP5188
+vita	vitamin A	RELA	True	
+vita	vitamin A	RET	True	
+vita	vitamin A	RETSAT	False	R-HSA-975634
+vita	vitamin A	RGS16	True	
+vita	vitamin A	RPE65	False	WP5188
+vita	vitamin A	RXRA	True	
+vita	vitamin A	RXRB	True	
+vita	vitamin A	RXRG	True	
+vita	vitamin A	S100A8	True	
+vita	vitamin A	S100A9	True	
+vita	vitamin A	SAT1	True	
+vita	vitamin A	SCD	True	
+vita	vitamin A	SDC1	False	R-HSA-975634
+vita	vitamin A	SDC2	False	R-HSA-975634
+vita	vitamin A	SDC3	False	R-HSA-975634
+vita	vitamin A	SDC4	False	R-HSA-975634
+vita	vitamin A	SDR16C5	False	WP5188
+vita	vitamin A	SERPINB1	True	
+vita	vitamin A	SLA	True	
+vita	vitamin A	SLC5A5	True	
+vita	vitamin A	SMAD3	True	
+vita	vitamin A	SOD2	True	
+vita	vitamin A	SOX2	True	
+vita	vitamin A	SP1	True	
+vita	vitamin A	SPI1	True	
+vita	vitamin A	SPP1	True	
+vita	vitamin A	STAT1	True	
+vita	vitamin A	TERT	True	
+vita	vitamin A	TFRC	True	
+vita	vitamin A	TGFB1	True	
+vita	vitamin A	TGFB2	True	
+vita	vitamin A	TGM1	True	
+vita	vitamin A	TGM2	True	
+vita	vitamin A	TH	True	
+vita	vitamin A	THBD	True	
+vita	vitamin A	TMSB4X	True	
+vita	vitamin A	TNF	True	
+vita	vitamin A	TNFSF10	True	
+vita	vitamin A	TP53	True	
+vita	vitamin A	TTR	False	R-HSA-975634
+vita	vitamin A	TUBA4A	True	
+vita	vitamin A	TUBB3	True	
+vita	vitamin A	TYROBP	True	
+vita	vitamin A	VDR	True	
+vita	vitamin A	VEGFA	True	
+vita	vitamin A	VIM	True	
+vita	vitamin A	WT1	True	
+vitd	vitamin D	ABCB1	True	
+vitd	vitamin D	ACP5	True	
+vitd	vitamin D	ACTA2	True	
+vitd	vitamin D	ADGRG1	True	
+vitd	vitamin D	AFF3	True	
+vitd	vitamin D	AKR1C1	True	
+vitd	vitamin D	AKT1	True	
+vitd	vitamin D	ALOX5	True	
+vitd	vitamin D	ALPL	True	
+vitd	vitamin D	AR	True	
+vitd	vitamin D	AREG	True	
+vitd	vitamin D	ARHGEF16	True	
+vitd	vitamin D	BAX	True	
+vitd	vitamin D	BCL2	True	
+vitd	vitamin D	BCL2L1	True	
+vitd	vitamin D	BECN1	True	
+vitd	vitamin D	BGLAP	True	
+vitd	vitamin D	BIRC3	True	
+vitd	vitamin D	BMP2	True	
+vitd	vitamin D	BMP6	True	
+vitd	vitamin D	CA2	True	
+vitd	vitamin D	CAMP	True	
+vitd	vitamin D	CASP3	True	
+vitd	vitamin D	CASP9	True	
+vitd	vitamin D	CCNB1	True	
+vitd	vitamin D	CCND1	True	
+vitd	vitamin D	CCND2	True	
+vitd	vitamin D	CD14	True	
+vitd	vitamin D	CD86	True	
+vitd	vitamin D	CDH1	True	
+vitd	vitamin D	CDK2	True	
+vitd	vitamin D	CDKN1A	True	
+vitd	vitamin D	CDKN1B	True	
+vitd	vitamin D	CDKN2D	True	
+vitd	vitamin D	CEBPB	True	
+vitd	vitamin D	CLMN	True	
+vitd	vitamin D	COL13A1	True	
+vitd	vitamin D	COL1A1	True	
+vitd	vitamin D	CP	True	
+vitd	vitamin D	CTSB	True	
+vitd	vitamin D	CUBN	False	R-HSA-196791
+vitd	vitamin D	CXCL8	True	
+vitd	vitamin D	CYP1A1	True	
+vitd	vitamin D	CYP24A1	True	R-HSA-196791|WP1531
+vitd	vitamin D	CYP27A1	False	WP1531
+vitd	vitamin D	CYP27B1	True	R-HSA-196791|WP1531
+vitd	vitamin D	CYP2R1	False	R-HSA-196791|WP1531
+vitd	vitamin D	CYP2S1	True	
+vitd	vitamin D	CYP3A4	True	
+vitd	vitamin D	CYP3A5	True	
+vitd	vitamin D	CYP7A1	True	
+vitd	vitamin D	DHCR7	False	WP1531
+vitd	vitamin D	DUSP5	True	
+vitd	vitamin D	EDN1	True	
+vitd	vitamin D	EFL1	True	
+vitd	vitamin D	ELF3	True	
+vitd	vitamin D	ESR1	True	
+vitd	vitamin D	FGF23	True	
+vitd	vitamin D	FGFR2	True	
+vitd	vitamin D	FOS	True	
+vitd	vitamin D	G0S2	True	
+vitd	vitamin D	G6PD	True	
+vitd	vitamin D	GC	True	R-HSA-196791|WP1531
+vitd	vitamin D	GEM	True	
+vitd	vitamin D	GRK5	True	
+vitd	vitamin D	H2AX	True	
+vitd	vitamin D	HR	True	
+vitd	vitamin D	HSD17B2	True	
+vitd	vitamin D	HSPG2	True	
+vitd	vitamin D	IER3	True	
+vitd	vitamin D	IFIT1	True	
+vitd	vitamin D	IFNG	True	
+vitd	vitamin D	IL10	True	
+vitd	vitamin D	IL2	True	
+vitd	vitamin D	IL33R	True	
+vitd	vitamin D	IL6	True	
+vitd	vitamin D	IL7R	True	
+vitd	vitamin D	INHBA	True	
+vitd	vitamin D	INPP4B	True	
+vitd	vitamin D	ITGAM	True	
+vitd	vitamin D	KLK6	True	
+vitd	vitamin D	KPNA2	True	
+vitd	vitamin D	KRT16	True	
+vitd	vitamin D	LAMB3	True	
+vitd	vitamin D	LDLRAP1	False	R-HSA-196791
+vitd	vitamin D	LGALS9	True	
+vitd	vitamin D	LGMN	False	R-HSA-196791
+vitd	vitamin D	LRP2	False	R-HSA-196791
+vitd	vitamin D	LSP1	True	
+vitd	vitamin D	MAPK1	True	
+vitd	vitamin D	MAPK3	True	
+vitd	vitamin D	MED1	True	
+vitd	vitamin D	MMP2	True	
+vitd	vitamin D	MN1	True	
+vitd	vitamin D	MSMO1	True	
+vitd	vitamin D	MYB	True	
+vitd	vitamin D	MYC	True	
+vitd	vitamin D	MYCL	True	
+vitd	vitamin D	NAT2	True	
+vitd	vitamin D	NCOA1	True	
+vitd	vitamin D	NCOA2	True	
+vitd	vitamin D	NCOA3	True	
+vitd	vitamin D	NCOR1	True	
+vitd	vitamin D	NCOR2	True	
+vitd	vitamin D	NFE2L2	True	
+vitd	vitamin D	NRIP1	True	
+vitd	vitamin D	PCNA	True	
+vitd	vitamin D	PIAS4	False	R-HSA-196791
+vitd	vitamin D	PLLP	True	
+vitd	vitamin D	PMAIP1	True	
+vitd	vitamin D	PPARGC1A	True	
+vitd	vitamin D	PTGS2	True	
+vitd	vitamin D	PTH	True	WP1531
+vitd	vitamin D	PTHLH	True	
+vitd	vitamin D	RB1	True	
+vitd	vitamin D	RELA	True	
+vitd	vitamin D	RUNX1	True	
+vitd	vitamin D	RUNX2	True	
+vitd	vitamin D	RXRA	True	WP1531
+vitd	vitamin D	RXRB	False	WP1531
+vitd	vitamin D	S100A8	True	
+vitd	vitamin D	S100A9	True	
+vitd	vitamin D	SEC14L1	True	
+vitd	vitamin D	SEMA3B	True	
+vitd	vitamin D	SEMA3F	True	
+vitd	vitamin D	SERINC2	True	
+vitd	vitamin D	SERPINB1	True	
+vitd	vitamin D	SLC46A1	True	
+vitd	vitamin D	SLCO1A2	True	
+vitd	vitamin D	SPP1	True	
+vitd	vitamin D	SUMO2	False	R-HSA-196791
+vitd	vitamin D	TGFB1	True	
+vitd	vitamin D	TGFB2	True	
+vitd	vitamin D	TGM2	True	
+vitd	vitamin D	TM4SF1	True	
+vitd	vitamin D	TMEM79	True	
+vitd	vitamin D	TNF	True	
+vitd	vitamin D	TNFSF11	True	
+vitd	vitamin D	TP53	True	
+vitd	vitamin D	TRPV6	True	
+vitd	vitamin D	TXNIP	True	
+vitd	vitamin D	TYROBP	True	
+vitd	vitamin D	UBE2I	False	R-HSA-196791
+vitd	vitamin D	VDR	True	R-HSA-196791|WP1531
+vitd	vitamin D	VEGFA	True	
+vitd	vitamin D	VIM	True	
+vitd	vitamin D	ZNF462	True	
+vitc	vitamin C	ABCC2	True	
+vitc	vitamin C	APOA1	True	
+vitc	vitamin C	APOB	True	
+vitc	vitamin C	APP	True	
+vitc	vitamin C	BAX	True	
+vitc	vitamin C	BCL2	True	
+vitc	vitamin C	CASP3	True	
+vitc	vitamin C	CASP8	True	
+vitc	vitamin C	CAT	True	
+vitc	vitamin C	CDKN1A	True	
+vitc	vitamin C	CFTR	True	
+vitc	vitamin C	CHEK2	True	
+vitc	vitamin C	COL1A1	True	
+vitc	vitamin C	CXCL8	True	
+vitc	vitamin C	CYB5A	False	R-HSA-196836
+vitc	vitamin C	CYB5R3	False	R-HSA-196836
+vitc	vitamin C	CYCS	True	
+vitc	vitamin C	CYP1A1	True	
+vitc	vitamin C	CYP2A6	True	
+vitc	vitamin C	DKK1	True	
+vitc	vitamin C	GPX1	True	
+vitc	vitamin C	GSTO1	False	R-HSA-196836
+vitc	vitamin C	GSTO2	False	R-HSA-196836
+vitc	vitamin C	HIF1A	True	
+vitc	vitamin C	HMOX1	True	
+vitc	vitamin C	HP	True	
+vitc	vitamin C	HSPA5	True	
+vitc	vitamin C	ICAM1	True	
+vitc	vitamin C	IL1B	True	
+vitc	vitamin C	IL6	True	
+vitc	vitamin C	KEAP1	True	
+vitc	vitamin C	MLH1	True	
+vitc	vitamin C	NFE2L2	True	
+vitc	vitamin C	NFKBIA	True	
+vitc	vitamin C	NOS2	True	
+vitc	vitamin C	NQO1	True	
+vitc	vitamin C	PARP1	True	
+vitc	vitamin C	PMP22	True	
+vitc	vitamin C	PON1	True	
+vitc	vitamin C	PON2	True	
+vitc	vitamin C	POU5F1	True	
+vitc	vitamin C	PTGS2	True	
+vitc	vitamin C	RELA	True	
+vitc	vitamin C	SFTPB	True	
+vitc	vitamin C	SLC23A1	True	R-HSA-196836
+vitc	vitamin C	SLC23A2	True	R-HSA-196836
+vitc	vitamin C	SLC2A1	True	R-HSA-196836
+vitc	vitamin C	SLC2A2	True	
+vitc	vitamin C	SLC2A3	False	R-HSA-196836
+vitc	vitamin C	SOD1	True	
+vitc	vitamin C	SOD2	True	
+vitc	vitamin C	STAT1	True	
+vitc	vitamin C	STAT3	True	
+vitc	vitamin C	TET2	True	
+vitc	vitamin C	TNF	True	
+vitc	vitamin C	TP53	True	
+vitc	vitamin C	TRIM28	True	
+vitc	vitamin C	VCAM1	True	
+vitc	vitamin C	XRCC1	True	
+vite	vitamin E	ABCB1	True	
+vite	vitamin E	AKT1	True	
+vite	vitamin E	ALB	True	
+vite	vitamin E	ALOX5	True	
+vite	vitamin E	APOA1	True	
+vite	vitamin E	APOB	True	
+vite	vitamin E	APP	True	
+vite	vitamin E	AR	True	
+vite	vitamin E	ATF2	True	
+vite	vitamin E	BAX	True	
+vite	vitamin E	BCL2	True	
+vite	vitamin E	BCL2L1	True	
+vite	vitamin E	BIRC5	True	
+vite	vitamin E	CASP3	True	
+vite	vitamin E	CASP7	True	
+vite	vitamin E	CASP8	True	
+vite	vitamin E	CASP9	True	
+vite	vitamin E	CAT	True	
+vite	vitamin E	CAV1	True	
+vite	vitamin E	CAVIN1	True	
+vite	vitamin E	CCND1	True	
+vite	vitamin E	CCNE1	True	
+vite	vitamin E	CDK4	True	
+vite	vitamin E	CDKN1A	True	
+vite	vitamin E	CDKN1B	True	
+vite	vitamin E	CLCN3	True	
+vite	vitamin E	CTNNB1	True	
+vite	vitamin E	CXCL8	True	
+vite	vitamin E	CYCS	True	
+vite	vitamin E	CYP2E1	True	
+vite	vitamin E	CYP3A4	True	
+vite	vitamin E	CYP3A5	True	
+vite	vitamin E	DIABLO	True	
+vite	vitamin E	EGR1	True	
+vite	vitamin E	F3	True	
+vite	vitamin E	GPX1	True	
+vite	vitamin E	GSTO1	True	
+vite	vitamin E	HMOX1	True	
+vite	vitamin E	ICAM1	True	
+vite	vitamin E	IGF1R	True	
+vite	vitamin E	IL10	True	
+vite	vitamin E	IL6	True	
+vite	vitamin E	JUN	True	
+vite	vitamin E	KCNH2	True	
+vite	vitamin E	KLK3	True	
+vite	vitamin E	LYN	True	
+vite	vitamin E	MAPK1	True	
+vite	vitamin E	MAPK14	True	
+vite	vitamin E	MAPK3	True	
+vite	vitamin E	MAPK8	True	
+vite	vitamin E	MAPK9	True	
+vite	vitamin E	MMP2	True	
+vite	vitamin E	NCOR1	True	
+vite	vitamin E	NDUFB8	True	
+vite	vitamin E	NFE2L2	True	
+vite	vitamin E	NFKB1	True	
+vite	vitamin E	NFKBIA	True	
+vite	vitamin E	NQO1	True	
+vite	vitamin E	NR1I2	True	
+vite	vitamin E	PARP1	True	
+vite	vitamin E	PPARG	True	
+vite	vitamin E	PTGS2	True	
+vite	vitamin E	RELA	True	
+vite	vitamin E	SELE	True	
+vite	vitamin E	SOD1	True	
+vite	vitamin E	SOD2	True	
+vite	vitamin E	TNF	True	
+vite	vitamin E	TP53	True	
+vite	vitamin E	TTPA	True	R-HSA-8877627
+vite	vitamin E	VCAM1	True	
+vite	vitamin E	VEGFA	True	
+vite	vitamin E	XIAP	True	
+vite	vitamin E	YY1	True	
+vitb6	vitamin B6	ACHE	True	
+vitb6	vitamin B6	AOX1	False	R-HSA-964975|hsa00750
+vitb6	vitamin B6	BAX	True	
+vitb6	vitamin B6	BCHE	True	
+vitb6	vitamin B6	CASP8	True	
+vitb6	vitamin B6	CRP	True	
+vitb6	vitamin B6	CYP7A1	True	
+vitb6	vitamin B6	DDC	True	
+vitb6	vitamin B6	EN1	True	
+vitb6	vitamin B6	FECH	True	
+vitb6	vitamin B6	FUT8	True	
+vitb6	vitamin B6	GAD1	True	
+vitb6	vitamin B6	GAD2	True	
+vitb6	vitamin B6	H2AX	True	
+vitb6	vitamin B6	HDC	True	
+vitb6	vitamin B6	IL6	True	
+vitb6	vitamin B6	IL6R	True	
+vitb6	vitamin B6	LPAR2	True	
+vitb6	vitamin B6	NR0B2	True	
+vitb6	vitamin B6	NR1H4	True	
+vitb6	vitamin B6	P2RX7	True	
+vitb6	vitamin B6	P2RY13	True	
+vitb6	vitamin B6	PDXK	True	R-HSA-964975|hsa00750
+vitb6	vitamin B6	PDXP	False	hsa00750
+vitb6	vitamin B6	PHOSPHO2	False	hsa00750
+vitb6	vitamin B6	PNPO	False	R-HSA-964975|hsa00750
+vitb6	vitamin B6	PPARGC1A	True	
+vitb6	vitamin B6	PSAT1	False	hsa00750
+vitb6	vitamin B6	SHMT1	True	
+vitb6	vitamin B6	TP53BP1	True	
+vitb12	vitamin B12	ABCA1	False	WP1533
+vitb12	vitamin B12	ABCB1	True	
+vitb12	vitamin B12	ABCC1	False	R-HSA-196741
+vitb12	vitamin B12	ABCD4	True	R-HSA-196741
+vitb12	vitamin B12	ALB	False	WP1533
+vitb12	vitamin B12	AMN	False	R-HSA-196741
+vitb12	vitamin B12	APOA1	False	WP1533
+vitb12	vitamin B12	APOB	False	WP1533
+vitb12	vitamin B12	APOE	False	WP1533
+vitb12	vitamin B12	AS3MT	True	
+vitb12	vitamin B12	CASP3	True	
+vitb12	vitamin B12	CASP7	True	
+vitb12	vitamin B12	CBLIF	False	R-HSA-196741|WP1533
+vitb12	vitamin B12	CBS	False	WP1533
+vitb12	vitamin B12	CCL2	False	WP1533
+vitb12	vitamin B12	CCL5	False	WP1533
+vitb12	vitamin B12	CD320	False	R-HSA-196741
+vitb12	vitamin B12	CRP	False	WP1533
+vitb12	vitamin B12	CTH	False	WP1533
+vitb12	vitamin B12	CTRB1	False	R-HSA-196741
+vitb12	vitamin B12	CTRB2	False	R-HSA-196741
+vitb12	vitamin B12	CUBN	False	R-HSA-196741|WP1533
+vitb12	vitamin B12	F2	False	WP1533
+vitb12	vitamin B12	F7	False	WP1533
+vitb12	vitamin B12	FGA	False	WP1533
+vitb12	vitamin B12	FGB	False	WP1533
+vitb12	vitamin B12	FGG	False	WP1533
+vitb12	vitamin B12	FOLH1	True	
+vitb12	vitamin B12	FUT2	True	
+vitb12	vitamin B12	GSTP1	True	
+vitb12	vitamin B12	GUCY1A1	True	
+vitb12	vitamin B12	GUCY1B1	True	
+vitb12	vitamin B12	HBA1	True	WP1533
+vitb12	vitamin B12	HBB	False	WP1533
+vitb12	vitamin B12	ICAM1	False	WP1533
+vitb12	vitamin B12	IFNG	False	WP1533
+vitb12	vitamin B12	IL1B	True	WP1533
+vitb12	vitamin B12	IL6	False	WP1533
+vitb12	vitamin B12	INS	False	WP1533
+vitb12	vitamin B12	INSR	False	WP1533
+vitb12	vitamin B12	LDLR	False	WP1533
+vitb12	vitamin B12	LDLRAP1	False	R-HSA-196741
+vitb12	vitamin B12	LMBRD1	False	R-HSA-196741
+vitb12	vitamin B12	LRP2	False	R-HSA-196741|WP1533
+vitb12	vitamin B12	MAOB	True	
+vitb12	vitamin B12	MAPK1	True	
+vitb12	vitamin B12	MAT1A	False	WP1533
+vitb12	vitamin B12	MCEE	False	WP1533
+vitb12	vitamin B12	MMAA	False	R-HSA-196741
+vitb12	vitamin B12	MMAB	False	R-HSA-196741|WP1533
+vitb12	vitamin B12	MMACHC	True	R-HSA-196741
+vitb12	vitamin B12	MMADHC	False	R-HSA-196741
+vitb12	vitamin B12	MMUT	True	R-HSA-196741|WP1533
+vitb12	vitamin B12	MPO	False	WP1533
+vitb12	vitamin B12	MTHFR	False	WP1533
+vitb12	vitamin B12	MTR	True	R-HSA-196741|WP1533
+vitb12	vitamin B12	MTRR	False	R-HSA-196741|WP1533
+vitb12	vitamin B12	NFKB1	False	WP1533
+vitb12	vitamin B12	NFKB2	False	WP1533
+vitb12	vitamin B12	PLAT	False	WP1533
+vitb12	vitamin B12	PLG	False	WP1533
+vitb12	vitamin B12	PRSS1	False	R-HSA-196741
+vitb12	vitamin B12	PRSS3	False	R-HSA-196741
+vitb12	vitamin B12	RELA	False	WP1533
+vitb12	vitamin B12	SAA1	False	WP1533
+vitb12	vitamin B12	SAA2	False	WP1533
+vitb12	vitamin B12	SAA4	False	WP1533
+vitb12	vitamin B12	SCARB1	False	WP1533
+vitb12	vitamin B12	SERPINA3	False	WP1533
+vitb12	vitamin B12	SERPINE1	True	WP1533
+vitb12	vitamin B12	SHMT2	False	WP1533
+vitb12	vitamin B12	SOD1	False	WP1533
+vitb12	vitamin B12	SOD2	True	WP1533
+vitb12	vitamin B12	SOD3	False	WP1533
+vitb12	vitamin B12	TCN1	False	R-HSA-196741|WP1533
+vitb12	vitamin B12	TCN2	True	R-HSA-196741|WP1533
+vitb12	vitamin B12	TNF	False	WP1533
+iron	iron	ABCB7	False	R-HSA-2564830
+iron	iron	ABCG2	False	R-HSA-917937
+iron	iron	ACO1	True	R-HSA-917937
+iron	iron	APP	True	
+iron	iron	ATP6AP1	False	R-HSA-917937
+iron	iron	ATP6V0A1	False	R-HSA-917937
+iron	iron	ATP6V0A2	False	R-HSA-917937
+iron	iron	ATP6V0A4	False	R-HSA-917937
+iron	iron	ATP6V0B	False	R-HSA-917937
+iron	iron	ATP6V0C	False	R-HSA-917937
+iron	iron	ATP6V0D1	False	R-HSA-917937
+iron	iron	ATP6V0D2	False	R-HSA-917937
+iron	iron	ATP6V0E1	False	R-HSA-917937
+iron	iron	ATP6V0E2	False	R-HSA-917937
+iron	iron	ATP6V1A	False	R-HSA-917937
+iron	iron	ATP6V1B1	False	R-HSA-917937
+iron	iron	ATP6V1B2	False	R-HSA-917937
+iron	iron	ATP6V1C1	False	R-HSA-917937
+iron	iron	ATP6V1C2	False	R-HSA-917937
+iron	iron	ATP6V1D	False	R-HSA-917937
+iron	iron	ATP6V1E1	False	R-HSA-917937
+iron	iron	ATP6V1E2	False	R-HSA-917937
+iron	iron	ATP6V1F	False	R-HSA-917937
+iron	iron	ATP6V1G1	False	R-HSA-917937
+iron	iron	ATP6V1G2	False	R-HSA-917937
+iron	iron	ATP6V1G3	False	R-HSA-917937
+iron	iron	ATP6V1H	False	R-HSA-917937
+iron	iron	BCL2	True	
+iron	iron	BRIP1	False	R-HSA-2564830
+iron	iron	CAND1	False	R-HSA-917937
+iron	iron	CIAO1	False	R-HSA-2564830
+iron	iron	CIAO2B	False	R-HSA-2564830
+iron	iron	CIAO3	False	R-HSA-2564830
+iron	iron	CIAPIN1	False	R-HSA-2564830
+iron	iron	CP	True	R-HSA-917937
+iron	iron	CUL1	False	R-HSA-917937
+iron	iron	CXCL8	True	
+iron	iron	CYBRD1	False	R-HSA-917937
+iron	iron	ERCC2	False	R-HSA-2564830
+iron	iron	FBXL5	False	R-HSA-917937
+iron	iron	FTH1	True	R-HSA-917937
+iron	iron	FTL	True	R-HSA-917937
+iron	iron	FTMT	True	R-HSA-917937
+iron	iron	FXN	True	
+iron	iron	GLRX3	False	R-HSA-917937
+iron	iron	HAMP	True	
+iron	iron	HEPH	False	R-HSA-917937
+iron	iron	HFE	True	R-HSA-917937
+iron	iron	HIF1A	True	
+iron	iron	HMOX1	True	R-HSA-917937
+iron	iron	HMOX2	False	R-HSA-917937
+iron	iron	IREB2	False	R-HSA-917937
+iron	iron	JUN	True	
+iron	iron	LCN2	False	R-HSA-917937
+iron	iron	MAP1LC3B	True	
+iron	iron	MAPK1	True	
+iron	iron	MCOLN1	False	R-HSA-917937
+iron	iron	MMS19	False	R-HSA-2564830
+iron	iron	MT2A	True	
+iron	iron	NDOR1	False	R-HSA-2564830
+iron	iron	NEDD8	False	R-HSA-917937
+iron	iron	NFE2L2	True	
+iron	iron	NQO1	True	
+iron	iron	NUBP1	False	R-HSA-2564830
+iron	iron	NUBP2	False	R-HSA-2564830
+iron	iron	PMP22	True	
+iron	iron	POLD1	False	R-HSA-2564830
+iron	iron	RPS27A	False	R-HSA-917937
+iron	iron	RTEL1	False	R-HSA-2564830
+iron	iron	SKP1	False	R-HSA-917937
+iron	iron	SLC11A2	True	R-HSA-917937
+iron	iron	SLC22A17	False	R-HSA-917937
+iron	iron	SLC40A1	True	R-HSA-917937
+iron	iron	SLC46A1	False	R-HSA-917937
+iron	iron	SNCA	True	
+iron	iron	STEAP3	False	R-HSA-917937
+iron	iron	STEAP4	False	R-HSA-917937
+iron	iron	TCIRG1	False	R-HSA-917937
+iron	iron	TF	True	R-HSA-917937
+iron	iron	TFR2	False	R-HSA-917937
+iron	iron	TFRC	True	R-HSA-917937
+iron	iron	TMPRSS6	True	
+iron	iron	TNF	True	
+iron	iron	UBA52	False	R-HSA-917937
+iron	iron	UBB	False	R-HSA-917937
+iron	iron	UBC	False	R-HSA-917937
+folate	folic acid	ABCA1	False	WP176
+folate	folic acid	ABCC1	True	
+folate	folic acid	ABCG2	True	
+folate	folic acid	ACTA2	True	
+folate	folic acid	ACTC1	True	
+folate	folic acid	AHCY	False	WP176
+folate	folic acid	AKAP12	True	
+folate	folic acid	AKT1	True	
+folate	folic acid	ALB	False	WP176
+folate	folic acid	ALDH1L1	False	R-HSA-196757
+folate	folic acid	ALDH1L2	False	R-HSA-196757
+folate	folic acid	APOA1	False	WP176
+folate	folic acid	APOB	False	WP176
+folate	folic acid	BAX	True	
+folate	folic acid	BCL2	True	
+folate	folic acid	BIRC3	True	
+folate	folic acid	BIRC5	True	
+folate	folic acid	C3	True	
+folate	folic acid	CASP3	True	
+folate	folic acid	CASP8	True	
+folate	folic acid	CASP9	True	
+folate	folic acid	CAT	False	WP176
+folate	folic acid	CBS	False	WP176
+folate	folic acid	CCL2	True	WP176
+folate	folic acid	CCND1	True	
+folate	folic acid	CDH1	True	
+folate	folic acid	CDKN1A	True	
+folate	folic acid	CDKN1B	True	
+folate	folic acid	CRP	False	WP176
+folate	folic acid	CSF1	False	WP176
+folate	folic acid	CTH	False	WP176
+folate	folic acid	CTNNB1	True	
+folate	folic acid	CXCL8	True	
+folate	folic acid	DHFR	True	R-HSA-196757|WP176
+folate	folic acid	DHFR2	False	R-HSA-196757
+folate	folic acid	DKK1	True	
+folate	folic acid	DNMT1	True	
+folate	folic acid	DNMT3B	True	
+folate	folic acid	F2	False	WP176
+folate	folic acid	F7	False	WP176
+folate	folic acid	FGA	False	WP176
+folate	folic acid	FGB	False	WP176
+folate	folic acid	FGG	False	WP176
+folate	folic acid	FLAD1	False	WP176
+folate	folic acid	FN1	True	
+folate	folic acid	FOLR1	True	WP176
+folate	folic acid	FOLR2	True	R-HSA-196757|WP176
+folate	folic acid	FOLR3	False	WP176
+folate	folic acid	FPGS	True	
+folate	folic acid	GART	False	WP176
+folate	folic acid	GDF1	True	
+folate	folic acid	GGH	True	
+folate	folic acid	GPT	True	
+folate	folic acid	GPX1	False	WP176
+folate	folic acid	GPX2	False	WP176
+folate	folic acid	GPX3	False	WP176
+folate	folic acid	GPX4	False	WP176
+folate	folic acid	GPX6	False	WP176
+folate	folic acid	HBA1	False	WP176
+folate	folic acid	HBB	False	WP176
+folate	folic acid	HIF1A	True	
+folate	folic acid	ICAM1	False	WP176
+folate	folic acid	ID1	True	
+folate	folic acid	IFNG	False	WP176
+folate	folic acid	IGF1R	True	
+folate	folic acid	IL18	True	
+folate	folic acid	IL1B	True	WP176
+folate	folic acid	IL2	False	WP176
+folate	folic acid	IL4	False	WP176
+folate	folic acid	IL6	True	WP176
+folate	folic acid	INS	False	WP176
+folate	folic acid	INSR	False	WP176
+folate	folic acid	IZUMO1R	False	WP176
+folate	folic acid	LDLR	False	WP176
+folate	folic acid	MAPK1	True	
+folate	folic acid	MAPK3	True	
+folate	folic acid	MAT1A	False	WP176
+folate	folic acid	MMP2	True	
+folate	folic acid	MMP3	True	
+folate	folic acid	MPO	False	WP176
+folate	folic acid	MTHFD1	False	R-HSA-196757|WP176
+folate	folic acid	MTHFD1L	False	R-HSA-196757
+folate	folic acid	MTHFD2	False	R-HSA-196757|WP176
+folate	folic acid	MTHFD2L	False	R-HSA-196757
+folate	folic acid	MTHFR	True	R-HSA-196757|WP176
+folate	folic acid	MTHFS	False	R-HSA-196757|WP176
+folate	folic acid	MTR	True	WP176
+folate	folic acid	MTRR	False	WP176
+folate	folic acid	MYH6	True	
+folate	folic acid	NAT1	True	
+folate	folic acid	NFKB1	False	WP176
+folate	folic acid	NFKB2	False	WP176
+folate	folic acid	NFKBIA	True	
+folate	folic acid	NOS3	True	
+folate	folic acid	OGG1	True	
+folate	folic acid	PARP1	True	
+folate	folic acid	PLAT	False	WP176
+folate	folic acid	PLG	False	WP176
+folate	folic acid	PTEN	True	
+folate	folic acid	PTGS2	True	
+folate	folic acid	RECK	True	
+folate	folic acid	RELA	True	WP176
+folate	folic acid	RFK	False	WP176
+folate	folic acid	SAA1	False	WP176
+folate	folic acid	SAA2	False	WP176
+folate	folic acid	SAA4	False	WP176
+folate	folic acid	SCARB1	False	WP176
+folate	folic acid	SERPINA3	False	WP176
+folate	folic acid	SERPINE1	True	WP176
+folate	folic acid	SHC1	True	
+folate	folic acid	SHMT1	True	R-HSA-196757|WP176
+folate	folic acid	SHMT2	False	R-HSA-196757|WP176
+folate	folic acid	SLC19A1	True	R-HSA-196757|WP176
+folate	folic acid	SLC22A8	True	
+folate	folic acid	SLC25A32	False	R-HSA-196757
+folate	folic acid	SLC46A1	True	R-HSA-196757|WP176
+folate	folic acid	SOCS3	True	
+folate	folic acid	SOD1	False	WP176
+folate	folic acid	SOD2	False	WP176
+folate	folic acid	SOD3	False	WP176
+folate	folic acid	SP1	True	
+folate	folic acid	SRC	True	
+folate	folic acid	STAT3	True	
+folate	folic acid	SULT1E1	True	
+folate	folic acid	TAGLN	True	
+folate	folic acid	TLR4	True	
+folate	folic acid	TM4SF1	True	
+folate	folic acid	TNF	True	WP176
+folate	folic acid	TNNT2	True	
+folate	folic acid	TP53	True	WP176
+folate	folic acid	TRAF1	True	
+folate	folic acid	TXNIP	True	
+folate	folic acid	TYMS	True	
+folate	folic acid	VEGFA	True	
+folate	folic acid	ZFP57	True	
+zinc	zinc	ADRB2	True	
+zinc	zinc	AKT1	True	
+zinc	zinc	ALB	True	
+zinc	zinc	APOA1	True	
+zinc	zinc	APOB	True	
+zinc	zinc	APP	True	
+zinc	zinc	ASPA	True	
+zinc	zinc	BAX	True	
+zinc	zinc	BCL2	True	
+zinc	zinc	BCL2L1	True	
+zinc	zinc	BUB1	True	
+zinc	zinc	C1QB	True	
+zinc	zinc	CASP3	True	
+zinc	zinc	CAT	True	
+zinc	zinc	CCL2	True	
+zinc	zinc	CCND1	True	
+zinc	zinc	CDC20	True	
+zinc	zinc	CDKN1A	True	
+zinc	zinc	CEBPA	True	
+zinc	zinc	CFB	True	
+zinc	zinc	CPN2	True	
+zinc	zinc	CRYAA	True	
+zinc	zinc	CXCL8	True	
+zinc	zinc	EGFR	True	
+zinc	zinc	EGLN1	True	
+zinc	zinc	FASLG	True	
+zinc	zinc	FOS	True	
+zinc	zinc	FTL	True	
+zinc	zinc	GLRA1	True	
+zinc	zinc	HIF1A	True	
+zinc	zinc	HMOX1	True	
+zinc	zinc	HRG	True	
+zinc	zinc	HSF1	True	
+zinc	zinc	HSPA1A	True	
+zinc	zinc	ICAM1	True	
+zinc	zinc	IFNG	True	
+zinc	zinc	IGF1	True	
+zinc	zinc	IGF1R	True	
+zinc	zinc	IGLL1	True	
+zinc	zinc	IKBKB	True	
+zinc	zinc	IL10	True	
+zinc	zinc	IL1A	True	
+zinc	zinc	IL1B	True	
+zinc	zinc	IL2	True	
+zinc	zinc	IL2RA	True	
+zinc	zinc	IL6	True	
+zinc	zinc	INS	True	
+zinc	zinc	ITGB6	True	
+zinc	zinc	JCHAIN	True	
+zinc	zinc	JUN	True	
+zinc	zinc	LEP	True	
+zinc	zinc	MAPK1	True	
+zinc	zinc	MAPK3	True	
+zinc	zinc	MCL1	True	
+zinc	zinc	MDM2	True	
+zinc	zinc	MGMT	True	
+zinc	zinc	MMP19	True	
+zinc	zinc	MMP9	True	
+zinc	zinc	MT1A	True	
+zinc	zinc	MT1B	True	
+zinc	zinc	MT1E	True	
+zinc	zinc	MT1F	True	
+zinc	zinc	MT1G	True	
+zinc	zinc	MT1H	True	
+zinc	zinc	MT1L	True	
+zinc	zinc	MT1M	True	
+zinc	zinc	MT1X	True	
+zinc	zinc	MT2A	True	
+zinc	zinc	MT3	True	
+zinc	zinc	MTF1	True	
+zinc	zinc	NFE2L2	True	
+zinc	zinc	NFKB1	True	
+zinc	zinc	NFKB2	True	
+zinc	zinc	NFKBIA	True	
+zinc	zinc	NME1	True	
+zinc	zinc	P4HB	True	
+zinc	zinc	PARP1	True	
+zinc	zinc	PGLYRP2	True	
+zinc	zinc	PML	True	
+zinc	zinc	POLR2A	True	
+zinc	zinc	PPARA	True	
+zinc	zinc	PPIA	True	
+zinc	zinc	PTGS2	True	
+zinc	zinc	RARA	True	
+zinc	zinc	RELA	True	
+zinc	zinc	RHEB	True	
+zinc	zinc	RRBP1	True	
+zinc	zinc	SEMG1	True	
+zinc	zinc	SEMG2	True	
+zinc	zinc	SLC11A2	True	
+zinc	zinc	SLC15A1	True	
+zinc	zinc	SLC30A1	True	R-HSA-435354
+zinc	zinc	SLC30A2	True	R-HSA-435354
+zinc	zinc	SLC30A3	True	R-HSA-435354
+zinc	zinc	SLC30A4	True	
+zinc	zinc	SLC30A5	True	R-HSA-435354
+zinc	zinc	SLC30A7	True	
+zinc	zinc	SLC30A8	True	R-HSA-435354
+zinc	zinc	SLC39A1	True	R-HSA-435354
+zinc	zinc	SLC39A10	False	R-HSA-435354
+zinc	zinc	SLC39A14	False	R-HSA-435354
+zinc	zinc	SLC39A2	False	R-HSA-435354
+zinc	zinc	SLC39A3	True	R-HSA-435354
+zinc	zinc	SLC39A4	True	R-HSA-435354
+zinc	zinc	SLC39A5	True	R-HSA-435354
+zinc	zinc	SLC39A6	True	R-HSA-435354
+zinc	zinc	SLC39A7	True	R-HSA-435354
+zinc	zinc	SLC39A8	True	R-HSA-435354
+zinc	zinc	SLC39A9	True	
+zinc	zinc	SOD1	True	
+zinc	zinc	SP1	True	
+zinc	zinc	SRC	True	
+zinc	zinc	TF	True	
+zinc	zinc	TNF	True	
+zinc	zinc	TNFAIP3	True	
+zinc	zinc	TP53	True	
+zinc	zinc	TP73	True	
+zinc	zinc	TTR	True	
+zinc	zinc	UNC119	True	
+zinc	zinc	VCAM1	True	
+zinc	zinc	VEGFA	True	
+zinc	zinc	VTN	True	
+zinc	zinc	XPA	True	
+selenium	selenium	A2M	True	
+selenium	selenium	AHCY	False	R-HSA-2408522
+selenium	selenium	AIMP1	False	R-HSA-2408522
+selenium	selenium	AIMP2	False	R-HSA-2408522
+selenium	selenium	AKT1	True	
+selenium	selenium	AR	True	
+selenium	selenium	BAX	True	
+selenium	selenium	BCL2	True	
+selenium	selenium	BIRC5	True	
+selenium	selenium	CASP8	True	
+selenium	selenium	CASP9	True	
+selenium	selenium	CAT	True	
+selenium	selenium	CBS	False	R-HSA-2408522
+selenium	selenium	CDK4	True	
+selenium	selenium	CTH	False	R-HSA-2408522
+selenium	selenium	DARS1	False	R-HSA-2408522
+selenium	selenium	EEF1E1	False	R-HSA-2408522
+selenium	selenium	EEFSEC	False	R-HSA-2408522
+selenium	selenium	EPRS1	False	R-HSA-2408522
+selenium	selenium	FADD	True	
+selenium	selenium	FAU	False	R-HSA-2408522
+selenium	selenium	GNMT	False	R-HSA-2408522
+selenium	selenium	GPX1	True	
+selenium	selenium	GPX4	True	
+selenium	selenium	GSK3B	True	
+selenium	selenium	HNMT	False	R-HSA-2408522
+selenium	selenium	HSP90AA1	True	
+selenium	selenium	HSPA1A	True	
+selenium	selenium	IARS1	False	R-HSA-2408522
+selenium	selenium	IGFBP3	True	
+selenium	selenium	IL1B	True	
+selenium	selenium	INMT	False	R-HSA-2408522
+selenium	selenium	KARS1	False	R-HSA-2408522
+selenium	selenium	LARS1	False	R-HSA-2408522
+selenium	selenium	LDLRAD4	True	
+selenium	selenium	MARS1	False	R-HSA-2408522
+selenium	selenium	MAT1A	False	R-HSA-2408522
+selenium	selenium	MMP2	True	
+selenium	selenium	MMP24	True	
+selenium	selenium	MYC	True	
+selenium	selenium	NNMT	False	R-HSA-2408522
+selenium	selenium	PAPSS1	False	R-HSA-2408522
+selenium	selenium	PAPSS2	False	R-HSA-2408522
+selenium	selenium	PSTK	False	R-HSA-2408522
+selenium	selenium	QARS1	False	R-HSA-2408522
+selenium	selenium	RARS1	False	R-HSA-2408522
+selenium	selenium	RPL10	False	R-HSA-2408522
+selenium	selenium	RPL10A	False	R-HSA-2408522
+selenium	selenium	RPL10L	False	R-HSA-2408522
+selenium	selenium	RPL11	False	R-HSA-2408522
+selenium	selenium	RPL12	False	R-HSA-2408522
+selenium	selenium	RPL13	False	R-HSA-2408522
+selenium	selenium	RPL13A	False	R-HSA-2408522
+selenium	selenium	RPL14	False	R-HSA-2408522
+selenium	selenium	RPL15	False	R-HSA-2408522
+selenium	selenium	RPL17	False	R-HSA-2408522
+selenium	selenium	RPL18	False	R-HSA-2408522
+selenium	selenium	RPL18A	False	R-HSA-2408522
+selenium	selenium	RPL19	False	R-HSA-2408522
+selenium	selenium	RPL21	False	R-HSA-2408522
+selenium	selenium	RPL22	False	R-HSA-2408522
+selenium	selenium	RPL22L1	False	R-HSA-2408522
+selenium	selenium	RPL23	False	R-HSA-2408522
+selenium	selenium	RPL23A	False	R-HSA-2408522
+selenium	selenium	RPL24	False	R-HSA-2408522
+selenium	selenium	RPL26	False	R-HSA-2408522
+selenium	selenium	RPL26L1	False	R-HSA-2408522
+selenium	selenium	RPL27	False	R-HSA-2408522
+selenium	selenium	RPL27A	False	R-HSA-2408522
+selenium	selenium	RPL28	False	R-HSA-2408522
+selenium	selenium	RPL29	False	R-HSA-2408522
+selenium	selenium	RPL3	False	R-HSA-2408522
+selenium	selenium	RPL30	False	R-HSA-2408522
+selenium	selenium	RPL31	False	R-HSA-2408522
+selenium	selenium	RPL32	False	R-HSA-2408522
+selenium	selenium	RPL34	False	R-HSA-2408522
+selenium	selenium	RPL35	False	R-HSA-2408522
+selenium	selenium	RPL35A	False	R-HSA-2408522
+selenium	selenium	RPL36	False	R-HSA-2408522
+selenium	selenium	RPL36A	False	R-HSA-2408522
+selenium	selenium	RPL36AL	False	R-HSA-2408522
+selenium	selenium	RPL37	False	R-HSA-2408522
+selenium	selenium	RPL37A	False	R-HSA-2408522
+selenium	selenium	RPL38	False	R-HSA-2408522
+selenium	selenium	RPL39	False	R-HSA-2408522
+selenium	selenium	RPL39L	False	R-HSA-2408522
+selenium	selenium	RPL3L	False	R-HSA-2408522
+selenium	selenium	RPL4	False	R-HSA-2408522
+selenium	selenium	RPL41	False	R-HSA-2408522
+selenium	selenium	RPL5	False	R-HSA-2408522
+selenium	selenium	RPL6	False	R-HSA-2408522
+selenium	selenium	RPL7	False	R-HSA-2408522
+selenium	selenium	RPL7A	False	R-HSA-2408522
+selenium	selenium	RPL8	False	R-HSA-2408522
+selenium	selenium	RPL9	False	R-HSA-2408522
+selenium	selenium	RPLP0	False	R-HSA-2408522
+selenium	selenium	RPLP1	False	R-HSA-2408522
+selenium	selenium	RPLP2	False	R-HSA-2408522
+selenium	selenium	RPS10	False	R-HSA-2408522
+selenium	selenium	RPS11	False	R-HSA-2408522
+selenium	selenium	RPS12	False	R-HSA-2408522
+selenium	selenium	RPS13	False	R-HSA-2408522
+selenium	selenium	RPS14	False	R-HSA-2408522
+selenium	selenium	RPS15	False	R-HSA-2408522
+selenium	selenium	RPS15A	False	R-HSA-2408522
+selenium	selenium	RPS16	False	R-HSA-2408522
+selenium	selenium	RPS17	False	R-HSA-2408522
+selenium	selenium	RPS18	False	R-HSA-2408522
+selenium	selenium	RPS19	False	R-HSA-2408522
+selenium	selenium	RPS2	False	R-HSA-2408522
+selenium	selenium	RPS20	False	R-HSA-2408522
+selenium	selenium	RPS21	False	R-HSA-2408522
+selenium	selenium	RPS23	False	R-HSA-2408522
+selenium	selenium	RPS24	False	R-HSA-2408522
+selenium	selenium	RPS25	False	R-HSA-2408522
+selenium	selenium	RPS26	False	R-HSA-2408522
+selenium	selenium	RPS27	False	R-HSA-2408522
+selenium	selenium	RPS27A	False	R-HSA-2408522
+selenium	selenium	RPS27L	False	R-HSA-2408522
+selenium	selenium	RPS28	False	R-HSA-2408522
+selenium	selenium	RPS29	False	R-HSA-2408522
+selenium	selenium	RPS3	False	R-HSA-2408522
+selenium	selenium	RPS3A	False	R-HSA-2408522
+selenium	selenium	RPS4X	False	R-HSA-2408522
+selenium	selenium	RPS4Y1	False	R-HSA-2408522
+selenium	selenium	RPS4Y2	False	R-HSA-2408522
+selenium	selenium	RPS5	False	R-HSA-2408522
+selenium	selenium	RPS6	False	R-HSA-2408522
+selenium	selenium	RPS7	False	R-HSA-2408522
+selenium	selenium	RPS8	False	R-HSA-2408522
+selenium	selenium	RPS9	False	R-HSA-2408522
+selenium	selenium	RPSA	False	R-HSA-2408522
+selenium	selenium	SARS1	False	R-HSA-2408522
+selenium	selenium	SCLY	False	R-HSA-2408522
+selenium	selenium	SECISBP2	False	R-HSA-2408522
+selenium	selenium	SELENOP	True	
+selenium	selenium	SEPHS2	False	R-HSA-2408522
+selenium	selenium	SEPSECS	False	R-HSA-2408522
+selenium	selenium	SOD2	True	
+selenium	selenium	TIMP1	True	
+selenium	selenium	TIMP2	True	
+selenium	selenium	TIMP3	True	
+selenium	selenium	TNF	True	
+selenium	selenium	TNFRSF1A	True	
+selenium	selenium	TP53	True	
+selenium	selenium	TRA2A	True	
+selenium	selenium	TUBA4A	True	
+selenium	selenium	TXNRD1	True	R-HSA-2408522
+selenium	selenium	UBA52	False	R-HSA-2408522
+keto	keto diet	AACS	False	R-HSA-74182
+keto	keto diet	ABCC8	False	WP5639
+keto	keto diet	ACAT1	False	R-HSA-74182
+keto	keto diet	ACSS3	False	R-HSA-74182
+keto	keto diet	AKT3	False	WP5639
+keto	keto diet	BDH1	False	R-HSA-74182
+keto	keto diet	BDH2	False	R-HSA-74182
+keto	keto diet	CAT	False	WP5639
+keto	keto diet	ERBB4	False	WP5639
+keto	keto diet	GAD1	False	WP5639
+keto	keto diet	GLUD1	False	WP5639
+keto	keto diet	HCAR2	False	WP5639
+keto	keto diet	HDAC1	False	WP5639
+keto	keto diet	HDAC2	False	WP5639
+keto	keto diet	HDAC3	False	WP5639
+keto	keto diet	HDAC8	False	WP5639
+keto	keto diet	HMGCL	False	R-HSA-74182
+keto	keto diet	HMGCLL1	False	R-HSA-74182
+keto	keto diet	HMGCS1	False	WP5639
+keto	keto diet	HMGCS2	False	R-HSA-74182
+keto	keto diet	KCNA1	False	WP5639
+keto	keto diet	KCNJ11	False	WP5639
+keto	keto diet	LDHA	False	WP5639
+keto	keto diet	NFE2L2	False	WP5639
+keto	keto diet	NLRP3	False	WP5639
+keto	keto diet	NRG1	False	WP5639
+keto	keto diet	OXCT1	False	R-HSA-74182
+keto	keto diet	OXCT2	False	R-HSA-74182
+keto	keto diet	PPARG	False	WP5639
+keto	keto diet	PPID	False	WP5639
+keto	keto diet	RPS6	False	WP5639
+keto	keto diet	SIRT4	False	WP5639
+keto	keto diet	SLC25A14	False	WP5639
+keto	keto diet	SLC25A27	False	WP5639
+keto	keto diet	SLC2A1	False	WP5639
+keto	keto diet	TXNIP	False	WP5639
+keto	keto diet	UCP2	False	WP5639

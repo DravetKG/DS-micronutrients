@@ -1,0 +1,61 @@
+Representing term id	Representing term name	Representing term size	Representing term rank	Represented term number	folic acid term rank	iron term rank	keto diet term rank	vitamin A term rank	vitamin B12 term rank	vitamin B6 term rank	vitamin C term rank	vitamin D term rank	vitamin E term rank	zinc term rank
+GO:0005886	plasma membrane	5899	1	1	1.0	12.0	10.0	17.0	2.0	13.0	1.0	1.0	1.0	5.0
+GO:0008021	synaptic vesicle	217	1	3		1.0	33.0		14.0	27.0	13.0	21.0		10.0
+GO:0045202	synapse	1607	1	36	5.0	3.0	1.0	5.0	7.0	1.0	8.0	4.0	13.0	1.0
+GO:0030424	axon	633	1	10	29.0	20.0	17.0	1.0		12.0		10.0	23.0	28.0
+GO:0016020	membrane	9965	1	1	6.0	13.0	20.0	26.0	1.0	37.0	5.0	6.0	10.0	15.0
+GO:0071944	cell periphery	6256	2	1	2.0	15.0	11.0	20.0	3.0	14.0	3.0	3.0	2.0	7.0
+GO:0070382	exocytic vesicle	235	2	1		2.0	38.0		19.0	28.0	15.0	24.0		11.0
+GO:0034702	monoatomic ion channel complex	369	2	13	21.0		2.0		12.0	50.0			3.0	31.0
+GO:0036477	somatodendritic compartment	826	2	10	33.0	21.0	13.0	2.0	60.0	7.0		16.0	30.0	24.0
+GO:0030054	cell junction	2368	2	1	4.0	8.0	3.0	8.0	5.0	2.0	7.0	2.0	16.0	2.0
+GO:0016324	apical plasma membrane	416	2	2	18.0	31.0			11.0	70.0	2.0		27.0	44.0
+GO:0098590	plasma membrane region	1303	3	9	3.0	19.0	25.0	34.0	4.0	6.0	6.0	13.0	11.0	9.0
+GO:0043005	neuron projection	1320	3	4	30.0	14.0	6.0	3.0	51.0	3.0		23.0	14.0	4.0
+GO:1902495	transmembrane transporter complex	507	4	4	26.0	44.0	4.0		13.0	52.0			8.0	33.0
+GO:0045177	apical part of cell	510	4	2	9.0	37.0			8.0		4.0		20.0	41.0
+GO:1990351	transporter complex	528	5	2	32.0	38.0	5.0		10.0	54.0			7.0	36.0
+GO:0005911	cell-cell junction	522	5	4	24.0		78.0	48.0	37.0			5.0		87.0
+GO:0030133	transport vesicle	436	6	2		6.0	39.0		25.0	39.0				20.0
+GO:0098797	plasma membrane protein complex	725	6	7	7.0	56.0	22.0	29.0	6.0	45.0	12.0	8.0	9.0	32.0
+GO:0042995	cell projection	2564	6	1		22.0	21.0	24.0		8.0			38.0	6.0
+GO:0044297	cell body	528	7	2		36.0	29.0	7.0		42.0				26.0
+GO:0002116	semaphorin receptor complex	14	7	1	37.0							7.0		
+GO:0009986	cell surface	900	8	1	8.0		104.0	39.0	20.0	51.0	14.0		17.0	82.0
+GO:0012506	vesicle membrane	1274	10	10		10.0	66.0		18.0	22.0				27.0
+GO:0120025	plasma membrane bounded cell projection	2447	11	1		27.0	23.0	19.0		11.0			40.0	12.0
+GO:0098862	cluster of actin-based cell projections	169	11	1							11.0			
+GO:0070161	anchoring junction	910	12	1	28.0				56.0			12.0		
+GO:0098796	membrane protein complex	1399	12	1	16.0		19.0		15.0				12.0	49.0
+GO:0045178	basal part of cell	309	13	1	13.0				33.0					58.0
+GO:0043235	receptor complex	529	14	1	14.0		64.0	44.0				17.0		47.0
+GO:0030427	site of polarized growth	166	15	1			86.0	15.0					45.0	
+GO:0031410	cytoplasmic vesicle	2546	16	1		16.0	88.0		48.0					66.0
+GO:0097708	intracellular vesicle	2554	17	1		17.0	89.0		49.0					67.0
+GO:0097386	glial cell projection	46	18	3		60.0	114.0	35.0						18.0
+GO:0019897	extrinsic component of plasma membrane	106	19	1	22.0							19.0		
+GO:0045334	clathrin-coated endocytic vesicle	88	22	1		65.0			22.0					30.0
+GO:0019898	extrinsic component of membrane	162	23	1	23.0									
+GO:0098588	bounding membrane of organelle	2266	23	1		23.0			26.0					59.0
+GO:0031982	vesicle	4030	24	1		24.0			41.0					
+GO:0005576	extracellular region	4244	25	1	25.0				52.0					
+GO:0099503	secretory vesicle	1083	25	3		25.0	53.0	45.0						54.0
+GO:0005905	clathrin-coated pit	78	26	1					27.0			26.0		
+GO:0031090	organelle membrane	3864	28	1		28.0								
+GO:0045121	membrane raft	289	34	1									34.0	
+GO:0042383	sarcolemma	135	35	2	35.0	50.0	49.0		35.0					46.0
+GO:0098857	membrane microdomain	291	35	1									35.0	
+GO:0012505	endomembrane system	4946	40	1		40.0			43.0					
+GO:0005768	endosome	1077	43	3		43.0				68.0				64.0
+GO:0030136	clathrin-coated vesicle	219	44	1		74.0	83.0		44.0					53.0
+GO:0099513	polymeric cytoskeletal fiber	813	46	2				46.0		63.0				
+GO:0030139	endocytic vesicle	354	49	1				49.0	59.0					
+GO:0043209	myelin sheath	47	68	3		68.0								69.0
+GO:0031105	septin complex	13	72	2										72.0
+GO:0031256	leading edge membrane	181	81	1			81.0							
+GO:0032156	septin cytoskeleton	15	81	1										81.0
+GO:0030135	coated vesicle	316	85	1			110.0							85.0
+GO:0030018	Z disc	133	90	1			90.0							
+GO:0043292	contractile muscle fiber	250	98	4			98.0							
+GO:0005575	cellular_component	21882	112	1			112.0							
+GO:0060187	cell pole	11	115	1			115.0							

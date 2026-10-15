@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vizmap documentVersion="3.0" id="coloc_kg">
+  <visualStyle name="cakut_coloc_kg_core style">
+    <network>
+      <visualProperty name="NETWORK_BACKGROUND_PAINT" default="#FCFCFB"/>
+    </network>
+    <node>
+      <visualProperty name="NODE_TRANSPARENCY" default="255"/>
+      <visualProperty name="NODE_LABEL_FONT_SIZE" default="9"/>
+      <visualProperty name="NODE_LABEL_COLOR" default="#0B0B0B"/>
+      <visualProperty name="NODE_CUSTOMGRAPHICS_SIZE_1" default="1.0"/>
+      <visualProperty name="NODE_CUSTOMGRAPHICS_POSITION_1" default="C,C,c,0.00,0.00"/>
+      <visualProperty name="NODE_FILL_COLOR">
+        <passthroughMapping attributeName="fill_color" attributeType="string"/>
+      </visualProperty>
+      <visualProperty name="NODE_BORDER_PAINT">
+        <passthroughMapping attributeName="border_color" attributeType="string"/>
+      </visualProperty>
+      <visualProperty name="NODE_BORDER_WIDTH">
+        <passthroughMapping attributeName="border_width" attributeType="float"/>
+      </visualProperty>
+      <visualProperty name="NODE_SHAPE">
+        <passthroughMapping attributeName="shape" attributeType="string"/>
+      </visualProperty>
+      <visualProperty name="NODE_SIZE">
+        <passthroughMapping attributeName="size" attributeType="float"/>
+      </visualProperty>
+      <visualProperty name="NODE_LABEL">
+        <passthroughMapping attributeName="label" attributeType="string"/>
+      </visualProperty>
+      <visualProperty name="NODE_CUSTOMGRAPHICS_1">
+        <passthroughMapping attributeName="chart" attributeType="string"/>
+      </visualProperty>
+    </node>
+    <edge>
+      <visualProperty name="EDGE_TRANSPARENCY" default="120"/>
+      <visualProperty name="EDGE_STROKE_UNSELECTED_PAINT">
+        <passthroughMapping attributeName="line_color" attributeType="string"/>
+      </visualProperty>
+      <visualProperty name="EDGE_WIDTH">
+        <passthroughMapping attributeName="line_width" attributeType="float"/>
+      </visualProperty>
+    </edge>
+  </visualStyle>
+</vizmap>

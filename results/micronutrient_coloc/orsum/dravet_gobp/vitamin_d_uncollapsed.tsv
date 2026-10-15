@@ -1,0 +1,205 @@
+native	name	p_value	term_size	intersection_size
+GO:0007399	nervous system development	1.2151938924420877e-11	2484	57
+GO:0048731	system development	4.1879544328788923e-10	3756	68
+GO:0007275	multicellular organism development	1.1217886431072627e-09	4372	73
+GO:0032502	developmental process	1.6099990346445776e-09	5877	86
+GO:0048856	anatomical structure development	3.6805317840138257e-09	5395	81
+GO:0022008	neurogenesis	1.461010218934908e-08	1698	41
+GO:0034330	cell junction organization	3.202621766547809e-07	807	26
+GO:0048869	cellular developmental process	4.4834138922454114e-07	3964	63
+GO:0030154	cell differentiation	4.4834138922454114e-07	3963	63
+GO:0032501	multicellular organismal process	4.4834138922454114e-07	6433	85
+GO:0031175	neuron projection development	5.650102584597978e-07	977	28
+GO:0048666	neuron development	6.261357509665398e-07	1122	30
+GO:0009653	anatomical structure morphogenesis	2.5061141175827874e-06	2508	46
+GO:0034329	cell junction assembly	2.5061141175827874e-06	493	19
+GO:0048699	generation of neurons	4.397328288688205e-06	1464	33
+GO:0030182	neuron differentiation	4.397328288688205e-06	1385	32
+GO:0007613	memory	4.746564381054953e-06	117	10
+GO:0000902	cell morphogenesis	4.746564381054953e-06	962	26
+GO:0023052	signaling	5.34974772057346e-06	5723	76
+GO:0007417	central nervous system development	7.749569654557192e-06	991	26
+GO:0007267	cell-cell signaling	9.424328070893002e-06	1223	29
+GO:0050808	synapse organization	9.424328070893002e-06	553	19
+GO:0007154	cell communication	1.5357746310071704e-05	5758	75
+GO:0007416	synapse assembly	1.8386195904389804e-05	261	13
+GO:0061564	axon development	4.8409181155268585e-05	499	17
+GO:0048812	neuron projection morphogenesis	6.52646201301959e-05	634	19
+GO:0120039	plasma membrane bounded cell projection morphogenesis	9.138893339641562e-05	650	19
+GO:0048858	cell projection morphogenesis	9.881936495088165e-05	655	19
+GO:0048468	cell development	0.00010115691355437878	2615	43
+GO:0050919	negative chemotaxis	0.00011501233004724366	44	6
+GO:0120036	plasma membrane bounded cell projection organization	0.00016877175127236058	1510	30
+GO:0071526	semaphorin-plexin signaling pathway	0.00018264667502468002	48	6
+GO:0007409	axonogenesis	0.000188285273326711	441	15
+GO:0048667	cell morphogenesis involved in neuron differentiation	0.00021538828817746456	569	17
+GO:0030030	cell projection organization	0.000268976318822621	1554	30
+GO:0007611	learning or memory	0.0004807314566631545	256	11
+GO:0007166	cell surface receptor signaling pathway	0.0006012001457710386	2531	40
+GO:0048588	developmental cell growth	0.000613834956517318	215	10
+GO:0007167	enzyme-linked receptor protein signaling pathway	0.0008649220103817883	925	21
+GO:0007411	axon guidance	0.0009372351897588424	227	10
+GO:0097485	neuron projection guidance	0.0009499652070455608	228	10
+GO:0007165	signal transduction	0.0011390722307096975	5266	65
+GO:0010976	positive regulation of neuron projection development	0.0012613022911583897	144	8
+GO:0050804	modulation of chemical synaptic transmission	0.0016530429468439786	478	14
+GO:0050890	cognition	0.0016530429468439786	299	11
+GO:0099177	regulation of trans-synaptic signaling	0.0016546814946174083	479	14
+GO:0010975	regulation of neuron projection development	0.001722923105510517	419	13
+GO:0030178	negative regulation of Wnt signaling pathway	0.0019581793818233485	156	8
+GO:0048589	developmental growth	0.0019581793818233485	623	16
+GO:0040011	locomotion	0.0019581793818233485	1153	23
+GO:0048513	animal organ development	0.001994841717730304	2697	40
+GO:0007156	homophilic cell-cell adhesion	0.002651257967262632	164	8
+GO:0016477	cell migration	0.002666229792045657	1434	26
+GO:0044331	cell-cell adhesion mediated by cadherin	0.002666229792045657	51	5
+GO:2000145	regulation of cell motility	0.002906817700533446	949	20
+GO:0021782	glial cell development	0.0029497351242327966	124	7
+GO:0051130	positive regulation of cellular component organization	0.0035525523269333776	1045	21
+GO:0060560	developmental growth involved in morphogenesis	0.004009773082251749	227	9
+GO:0030334	regulation of cell migration	0.004024118082443448	898	19
+GO:0040012	regulation of locomotion	0.004636459245920183	988	20
+GO:0023051	regulation of signaling	0.005625589610644159	3255	44
+GO:0050807	regulation of synapse organization	0.00568985120125175	296	10
+GO:0007616	long-term memory	0.00580938677070245	33	4
+GO:0010001	glial cell differentiation	0.006584991199756407	246	9
+GO:0050803	regulation of synapse structure or activity	0.006584991199756407	303	10
+GO:0040007	growth	0.0072258453824409	868	18
+GO:0007043	cell-cell junction assembly	0.007294323936025033	148	7
+GO:0042552	myelination	0.007294323936025033	148	7
+GO:0048709	oligodendrocyte differentiation	0.007294323936025033	104	6
+GO:0048870	cell motility	0.00746505327589855	1642	27
+GO:0007272	ensheathment of neurons	0.0075636590482752245	150	7
+GO:0008366	axon ensheathment	0.0075636590482752245	150	7
+GO:0030902	hindbrain development	0.007984623221589498	152	7
+GO:0048167	regulation of synaptic plasticity	0.007984623221589498	202	8
+GO:0045216	cell-cell junction organization	0.008055857452796553	204	8
+GO:0007268	chemical synaptic transmission	0.008055857452796553	732	16
+GO:0051128	regulation of cellular component organization	0.008055857452796553	2321	34
+GO:0098916	anterograde trans-synaptic signaling	0.008055857452796553	732	16
+GO:0099537	trans-synaptic signaling	0.008838976786850538	739	16
+GO:0042063	gliogenesis	0.008935163390822084	323	10
+GO:1903076	regulation of protein localization to plasma membrane	0.009271809939189747	112	6
+GO:0010646	regulation of cell communication	0.009271809939189747	3262	43
+GO:0071363	cellular response to growth factor stimulus	0.009468630643815581	671	15
+GO:0060322	head development	0.00954709918483926	749	16
+GO:0016049	cell growth	0.00954709918483926	458	12
+GO:0051963	regulation of synapse assembly	0.009768252627913017	161	7
+GO:1900271	regulation of long-term synaptic potentiation	0.009913667492728486	41	4
+GO:0031346	positive regulation of cell projection organization	0.010109634678517483	332	10
+GO:0050789	regulation of biological process	0.010344452842729484	10374	101
+GO:0031111	negative regulation of microtubule polymerization or depolymerization	0.0105274129073869	42	4
+GO:0120035	regulation of plasma membrane bounded cell projection organization	0.010597870219752913	610	14
+GO:1905475	regulation of protein localization to membrane	0.010597870219752913	165	7
+GO:0099536	synaptic signaling	0.011068380642085039	766	16
+GO:0032286	central nervous system myelin maintenance	0.011068380642085039	4	2
+GO:0021535	cell migration in hindbrain	0.011068380642085039	18	3
+GO:0014003	oligodendrocyte development	0.011824451560000159	44	4
+GO:0070848	response to growth factor	0.012110192065557548	697	15
+GO:0006935	chemotaxis	0.012194997675828115	410	11
+GO:0048670	regulation of collateral sprouting	0.012318516093919391	19	3
+GO:0031344	regulation of cell projection organization	0.01232613607147693	625	14
+GO:0042330	taxis	0.01232613607147693	412	11
+GO:0007420	brain development	0.012533724090963816	703	15
+GO:0065007	biological regulation	0.012533724090963816	10724	103
+GO:0071840	cellular component organization or biogenesis	0.0128255333452412	6418	70
+GO:0016339	calcium-dependent cell-cell adhesion	0.012837902691803257	46	4
+GO:0065008	regulation of biological quality	0.01445859388468029	2744	37
+GO:0007610	behavior	0.01445859388468029	640	14
+GO:0090090	negative regulation of canonical Wnt signaling pathway	0.01445859388468029	128	6
+GO:0051056	regulation of small GTPase mediated signal transduction	0.01445859388468029	293	9
+GO:0050896	response to stimulus	0.01453537920904661	7694	80
+GO:0016043	cellular component organization	0.01453537920904661	6213	68
+GO:0072574	hepatocyte proliferation	0.014773246042290914	21	3
+GO:0072657	protein localization to membrane	0.014900794919643023	428	11
+GO:0090118	receptor-mediated endocytosis involved in cholesterol transport	0.014900794919643023	5	2
+GO:1905167	positive regulation of lysosomal protein catabolic process	0.014900794919643023	5	2
+GO:0090188	negative regulation of pancreatic juice secretion	0.014900794919643023	5	2
+GO:0021934	hindbrain tangential cell migration	0.014900794919643023	5	2
+GO:0021675	nerve development	0.015290383380832136	87	5
+GO:1902903	regulation of supramolecular fiber organization	0.015352310200169873	364	10
+GO:0043087	regulation of GTPase activity	0.015605046158103047	184	7
+GO:0038084	vascular endothelial growth factor signaling pathway	0.01654102492746177	89	5
+GO:0050794	regulation of cellular process	0.018082227773964583	9997	97
+GO:0030111	regulation of Wnt signaling pathway	0.018827569829290857	310	9
+GO:0071495	cellular response to endogenous stimulus	0.018940929522086432	1164	20
+GO:0032291	axon ensheathment in central nervous system	0.01956028418994745	24	3
+GO:0007185	cell surface receptor protein tyrosine phosphatase signaling pathway	0.01956028418994745	6	2
+GO:0021636	trigeminal nerve morphogenesis	0.01956028418994745	6	2
+GO:0019375	galactolipid biosynthetic process	0.01956028418994745	6	2
+GO:0006682	galactosylceramide biosynthetic process	0.01956028418994745	6	2
+GO:0021637	trigeminal nerve structural organization	0.01956028418994745	6	2
+GO:0022010	central nervous system myelination	0.01956028418994745	24	3
+GO:0097490	sympathetic neuron projection extension	0.01956028418994745	6	2
+GO:0061643	chemorepulsion of axon	0.01956028418994745	6	2
+GO:0034332	adherens junction organization	0.02098840231578984	56	4
+GO:0021545	cranial nerve development	0.02098840231578984	56	4
+GO:0031547	brain-derived neurotrophic factor receptor signaling pathway	0.02098840231578984	56	4
+GO:0007169	cell surface receptor protein tyrosine kinase signaling pathway	0.022038716327298716	607	13
+GO:0021549	cerebellum development	0.022423108693518885	98	5
+GO:0035025	positive regulation of Rho protein signal transduction	0.022445769254666847	26	3
+GO:0051336	regulation of hydrolase activity	0.022445769254666847	260	8
+GO:0009719	response to endogenous stimulus	0.022572487775035226	1373	22
+GO:0035295	tube development	0.022762757797284296	1020	18
+GO:1904375	regulation of protein localization to cell periphery	0.023028012792298286	148	6
+GO:0090186	regulation of pancreatic juice secretion	0.02431701138205121	7	2
+GO:1904352	positive regulation of protein catabolic process in the vacuole	0.02431701138205121	7	2
+GO:0021785	branchiomotor neuron axon guidance	0.02431701138205121	7	2
+GO:0006681	galactosylceramide metabolic process	0.02431701138205121	7	2
+GO:0007612	learning	0.02431701138205121	150	6
+GO:0019374	galactolipid metabolic process	0.02431701138205121	7	2
+GO:1902904	negative regulation of supramolecular fiber organization	0.025179394447175367	152	6
+GO:0007155	cell adhesion	0.025410835084575346	1393	22
+GO:1903078	positive regulation of protein localization to plasma membrane	0.025545492793132216	61	4
+GO:0021602	cranial nerve morphogenesis	0.025545492793132216	28	3
+GO:0048668	collateral sprouting	0.025545492793132216	28	3
+GO:0050793	regulation of developmental process	0.02638545484435246	2269	31
+GO:0021952	central nervous system projection neuron axonogenesis	0.027823516570785346	29	3
+GO:0051965	positive regulation of synapse assembly	0.02825545501763653	63	4
+GO:0022037	metencephalon development	0.03018974748140634	108	5
+GO:0150094	amyloid-beta clearance by cellular catabolic process	0.03022602913666453	8	2
+GO:0051239	regulation of multicellular organismal process	0.030684977440311487	2705	35
+GO:0097006	regulation of plasma lipoprotein particle levels	0.03093894731392252	65	4
+GO:0051960	regulation of nervous system development	0.03137969103371407	417	10
+GO:0035725	sodium ion transmembrane transport	0.03205330926613345	162	6
+GO:0035924	cellular response to vascular endothelial growth factor stimulus	0.03261916308422072	111	5
+GO:0018958	phenol-containing compound metabolic process	0.03261916308422072	111	5
+GO:1990138	neuron projection extension	0.03452838550442205	165	6
+GO:0048384	retinoic acid receptor signaling pathway	0.034675305849872065	32	3
+GO:0048672	positive regulation of collateral sprouting	0.03594769002351788	9	2
+GO:2000347	positive regulation of hepatocyte proliferation	0.03594769002351788	9	2
+GO:0021612	facial nerve structural organization	0.03594769002351788	9	2
+GO:2000651	positive regulation of sodium ion transmembrane transporter activity	0.03594769002351788	9	2
+GO:0051493	regulation of cytoskeleton organization	0.036894749105641	504	11
+GO:0048638	regulation of developmental growth	0.03725976919403348	292	8
+GO:0051716	cellular response to stimulus	0.03725976919403348	6502	68
+GO:0009887	animal organ morphogenesis	0.03736076351786014	912	16
+GO:0099173	postsynapse organization	0.03851672402099005	230	7
+GO:0016055	Wnt signaling pathway	0.03907025319523163	435	10
+GO:0032970	regulation of actin filament-based process	0.03932701531795946	364	9
+GO:0090287	regulation of cellular response to growth factor stimulus	0.03937476631233631	296	8
+GO:0060070	canonical Wnt signaling pathway	0.03975647310059725	297	8
+GO:2000146	negative regulation of cell motility	0.03975647310059725	297	8
+GO:0051241	negative regulation of multicellular organismal process	0.04079153229591181	1011	17
+GO:0098810	neurotransmitter reuptake	0.04104014118826158	35	3
+GO:1904377	positive regulation of protein localization to cell periphery	0.04131913139653416	73	4
+GO:0007614	short-term memory	0.04131913139653416	10	2
+GO:0008361	regulation of cell size	0.04136487453934982	175	6
+GO:0034381	plasma lipoprotein particle clearance	0.04356192965440835	36	3
+GO:0014002	astrocyte development	0.04647202015624989	37	3
+GO:0007406	negative regulation of neuroblast proliferation	0.04647202015624989	11	2
+GO:0021561	facial nerve development	0.04647202015624989	11	2
+GO:0021559	trigeminal nerve development	0.04647202015624989	11	2
+GO:0021610	facial nerve morphogenesis	0.04647202015624989	11	2
+GO:0060457	negative regulation of digestive system process	0.04647202015624989	11	2
+GO:0043954	cellular component maintenance	0.04647202015624989	77	4
+GO:0030157	pancreatic juice secretion	0.04647202015624989	11	2
+GO:0021955	central nervous system neuron axonogenesis	0.04647202015624989	37	3
+GO:0021604	cranial nerve structural organization	0.04647202015624989	11	2
+GO:0050679	positive regulation of epithelial cell proliferation	0.04647202015624989	182	6
+GO:0050768	negative regulation of neurogenesis	0.04647202015624989	126	5
+GO:0060828	regulation of canonical Wnt signaling pathway	0.04647202015624989	242	7
+GO:0072017	distal tubule development	0.04647202015624989	11	2
+GO:0040013	negative regulation of locomotion	0.04811685254710047	312	8
+GO:0071805	potassium ion transmembrane transport	0.04977285429696942	185	6
+GO:1905477	positive regulation of protein localization to membrane	0.04977285429696942	79	4

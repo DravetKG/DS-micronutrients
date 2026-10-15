@@ -1,0 +1,30 @@
+native	name	p_value	term_size	intersection_size
+REAC:R-HSA-112316	Neuronal System	7.30478965028821e-08	385	21
+REAC:R-HSA-382551	Transport of small molecules	4.4768771814818284e-07	678	26
+REAC:R-HSA-425407	SLC-mediated transmembrane transport	9.276207826791788e-07	228	15
+REAC:R-HSA-112310	Neurotransmitter release cycle	2.676220100627938e-06	50	8
+REAC:R-HSA-210500	Glutamate Neurotransmitter Release Cycle	5.6346848040329555e-06	23	6
+REAC:R-HSA-112315	Transmission across Chemical Synapses	6.37964663786217e-05	247	13
+REAC:R-HSA-5576891	Cardiac conduction	0.00019097358726070192	123	9
+REAC:R-HSA-5578775	Ion homeostasis	0.0006285681936731886	53	6
+REAC:R-HSA-397014	Muscle contraction	0.0006921990008912386	187	10
+REAC:R-HSA-888590	GABA synthesis, release, reuptake and degradation	0.0009736616960522148	18	4
+REAC:R-HSA-210991	Basigin interactions	0.0029362411621248257	24	4
+REAC:R-HSA-5250989	Toxicity of botulinum toxin type G (botG)	0.009487808758255046	3	2
+REAC:R-HSA-8856825	Cargo recognition for clathrin-mediated endocytosis	0.01421193455004123	102	6
+REAC:R-HSA-8856828	Clathrin-mediated endocytosis	0.01421193455004123	142	7
+REAC:R-HSA-888593	Reuptake of GABA	0.015082820119069704	4	2
+REAC:R-HSA-5250955	Toxicity of botulinum toxin type D (botD)	0.019718222518987066	5	2
+REAC:R-HSA-8964026	Chylomicron clearance	0.019718222518987066	5	2
+REAC:R-HSA-5250981	Toxicity of botulinum toxin type F (botF)	0.019718222518987066	5	2
+REAC:R-HSA-388844	Receptor-type tyrosine-protein phosphatases	0.019718222518987066	19	3
+REAC:R-HSA-2187338	Visual phototransduction	0.022494071494198947	80	5
+REAC:R-HSA-983712	Ion channel transport	0.025481069980468833	168	7
+REAC:R-HSA-6794362	Protein-protein interactions at synapses	0.028267663104091262	86	5
+REAC:R-HSA-936837	Ion transport by P-type ATPases	0.028929080775285852	52	4
+REAC:R-HSA-447038	NrCAM interactions	0.031067388165307422	7	2
+REAC:R-HSA-447043	Neurofascin interactions	0.031067388165307422	7	2
+REAC:R-HSA-2514859	Inactivation, recovery and regulation of the phototransduction cascade	0.03126988031013187	26	3
+REAC:R-HSA-2514856	The phototransduction cascade	0.033634316252058226	27	3
+REAC:R-HSA-352230	Amino acid transport across the plasma membrane	0.0385641630218905	29	3
+REAC:R-HSA-9958863	SLC-mediated transport of amino acids	0.0385641630218905	29	3

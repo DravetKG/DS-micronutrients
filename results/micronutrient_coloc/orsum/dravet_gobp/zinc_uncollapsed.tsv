@@ -1,0 +1,261 @@
+native	name	p_value	term_size	intersection_size
+GO:0099537	trans-synaptic signaling	1.5772541898796763e-10	739	33
+GO:0098916	anterograde trans-synaptic signaling	1.5772541898796763e-10	732	33
+GO:0007268	chemical synaptic transmission	1.5772541898796763e-10	732	33
+GO:0099536	synaptic signaling	3.2054430840060997e-10	766	33
+GO:0006865	amino acid transport	1.2765639868574534e-09	154	16
+GO:0006811	monoatomic ion transport	1.905690856009574e-09	1147	39
+GO:0007267	cell-cell signaling	2.7306251556391415e-09	1223	40
+GO:0055085	transmembrane transport	3.024155420443332e-09	1408	43
+GO:0003333	amino acid transmembrane transport	7.391140758334317e-09	103	13
+GO:0015849	organic acid transport	1.0105878317391547e-08	317	20
+GO:0046942	carboxylic acid transport	1.0105878317391547e-08	317	20
+GO:0003008	system process	2.559947431288401e-08	1845	48
+GO:0034220	monoatomic ion transmembrane transport	8.799763123387839e-08	933	32
+GO:0030001	metal ion transport	1.2378143838269797e-07	788	29
+GO:0089718	amino acid import across plasma membrane	3.230341407237925e-07	52	9
+GO:0006810	transport	4.89811682234795e-07	4046	74
+GO:0015711	organic anion transport	5.963152801576376e-07	410	20
+GO:0140352	export from cell	6.375429026092723e-07	856	29
+GO:0015800	acidic amino acid transport	6.529578359710359e-07	78	10
+GO:0050877	nervous system process	1.4786304024882993e-06	1125	33
+GO:0006812	monoatomic cation transport	1.6046165124341906e-06	955	30
+GO:0015807	L-amino acid transport	2.0783799427598205e-06	89	10
+GO:0006836	neurotransmitter transport	2.1148411828940998e-06	208	14
+GO:1905039	carboxylic acid transmembrane transport	2.622505977630884e-06	147	12
+GO:0051234	establishment of localization	3.0618763639295134e-06	4252	74
+GO:0007399	nervous system development	3.4508996183772155e-06	2484	52
+GO:0015804	neutral amino acid transport	5.334575312671957e-06	54	8
+GO:0098657	import into cell	5.638530764927748e-06	906	28
+GO:0098739	import across plasma membrane	8.198713546782535e-06	236	14
+GO:0010232	vascular transport	1.1732534133116784e-05	84	9
+GO:0150104	transport across blood-brain barrier	1.1732534133116784e-05	84	9
+GO:0140009	L-aspartate import across plasma membrane	1.1732534133116784e-05	6	4
+GO:0098655	monoatomic cation transmembrane transport	1.3056946849405632e-05	778	25
+GO:0003018	vascular process in circulatory system	1.8155945435580516e-05	255	14
+GO:0050804	modulation of chemical synaptic transmission	1.8640058932250126e-05	478	19
+GO:0099177	regulation of trans-synaptic signaling	1.8713508197060045e-05	479	19
+GO:0007610	behavior	2.265325662770327e-05	640	22
+GO:0050768	negative regulation of neurogenesis	3.267197866240592e-05	126	10
+GO:0051050	positive regulation of transport	3.267197866240592e-05	767	24
+GO:0051179	localization	3.698799452973278e-05	4911	78
+GO:0006835	dicarboxylic acid transport	3.758465956319981e-05	99	9
+GO:0050771	negative regulation of axonogenesis	4.1594140298679516e-05	51	7
+GO:0051049	regulation of transport	4.614936085788166e-05	1480	35
+GO:0051961	negative regulation of nervous system development	4.7721934825392774e-05	133	10
+GO:0015810	aspartate transmembrane transport	5.6074644962670895e-05	19	5
+GO:0007417	central nervous system development	7.216306415397007e-05	991	27
+GO:1902307	positive regulation of sodium ion transmembrane transport	7.216306415397007e-05	20	5
+GO:0032501	multicellular organismal process	7.462350192363314e-05	6433	93
+GO:1903276	regulation of sodium ion export across plasma membrane	0.00010195388974601503	10	4
+GO:1903278	positive regulation of sodium ion export across plasma membrane	0.00010195388974601503	10	4
+GO:0003013	circulatory system process	0.00012058235137806825	555	19
+GO:0022008	neurogenesis	0.00012306545360926333	1698	37
+GO:0048731	system development	0.00012947629378417565	3756	63
+GO:0048640	negative regulation of developmental growth	0.0001355315268374959	89	8
+GO:0070778	L-aspartate transmembrane transport	0.00014453866184387082	11	4
+GO:0031175	neuron projection development	0.0001512669145032253	977	26
+GO:0071705	nitrogen compound transport	0.00016728988177425096	741	22
+GO:0051938	L-glutamate import	0.0001791093693245861	43	6
+GO:0010043	response to zinc ion	0.000202235876941156	44	6
+GO:0032879	regulation of localization	0.0002061398136987208	1819	38
+GO:0001504	neurotransmitter uptake	0.00022388426745931233	45	6
+GO:1902475	L-alpha-amino acid transmembrane transport	0.0002265898988207931	69	7
+GO:0015740	C4-dicarboxylate transport	0.0002610345095418603	27	5
+GO:0015824	proline transport	0.00026504409706892335	13	4
+GO:0140115	export across plasma membrane	0.0003460562853645693	74	7
+GO:0032940	secretion by cell	0.0003479301851100548	783	22
+GO:0043269	regulation of monoatomic ion transport	0.0003724789762805408	398	15
+GO:0070779	D-aspartate import across plasma membrane	0.00037821943054437435	5	3
+GO:0070777	D-aspartate transmembrane transport	0.00037821943054437435	5	3
+GO:0006829	zinc ion transport	0.00040499318577495556	30	5
+GO:0006814	sodium ion transport	0.0004245808061946427	219	11
+GO:0007154	cell communication	0.00046141353183423565	5758	83
+GO:0048666	neuron development	0.00046790754114246644	1122	27
+GO:0030517	negative regulation of axon extension	0.0005328821897265602	32	5
+GO:0007601	visual perception	0.0005428921064600115	185	10
+GO:0015813	L-glutamate transmembrane transport	0.0005988256346126347	33	5
+GO:0010765	positive regulation of sodium ion transport	0.0005988256346126347	33	5
+GO:0050953	sensory perception of light stimulus	0.0006003597883160628	188	10
+GO:0072348	sulfur compound transport	0.0006306260466900136	56	6
+GO:0023052	signaling	0.0006459066104292412	5723	82
+GO:0042391	regulation of membrane potential	0.0006502675640324662	424	15
+GO:0032328	alanine transport	0.0006598125397498331	17	4
+GO:0010959	regulation of metal ion transport	0.0006598125397498331	325	13
+GO:0007613	memory	0.0006676170473661152	117	8
+GO:1902305	regulation of sodium ion transmembrane transport	0.0008415141522886373	36	5
+GO:0010977	negative regulation of neuron projection development	0.0009372677523508103	123	8
+GO:0007409	axonogenesis	0.000955528799312521	441	15
+GO:0035725	sodium ion transmembrane transport	0.0009893512113011548	162	9
+GO:0036376	sodium ion export across plasma membrane	0.0009893512113011548	19	4
+GO:0042940	D-amino acid transport	0.0009893512113011548	7	3
+GO:0048699	generation of neurons	0.0009893512113011548	1464	31
+GO:0061564	axon development	0.0009929994289538176	499	16
+GO:0014013	regulation of gliogenesis	0.0010163912166762474	92	7
+GO:0050890	cognition	0.001175488473321728	299	12
+GO:0007600	sensory perception	0.001175488473321728	622	18
+GO:0034330	cell junction organization	0.0012159658321751045	807	21
+GO:0048667	cell morphogenesis involved in neuron differentiation	0.0012856626238697145	569	17
+GO:0007611	learning or memory	0.0013045230136198222	256	11
+GO:0048812	neuron projection morphogenesis	0.0014426464643712725	634	18
+GO:0007420	brain development	0.001685732588067494	703	19
+GO:0043270	positive regulation of monoatomic ion transport	0.001685732588067494	176	9
+GO:0046903	secretion	0.0017039926369385562	894	22
+GO:0051960	regulation of nervous system development	0.0017301459737070258	417	14
+GO:0120039	plasma membrane bounded cell projection morphogenesis	0.0018911994815631909	650	18
+GO:0030182	neuron differentiation	0.0019512112657138372	1385	29
+GO:0048858	cell projection morphogenesis	0.0020458925346781873	655	18
+GO:0007275	multicellular organism development	0.002476244483107727	4372	65
+GO:0000101	sulfur amino acid transport	0.0027213777443125258	10	3
+GO:0015808	L-alanine transport	0.0027213777443125258	10	3
+GO:0035524	proline transmembrane transport	0.0027213777443125258	10	3
+GO:0062111	zinc ion import into organelle	0.0027213777443125258	10	3
+GO:0034762	regulation of transmembrane transport	0.0027691231532763405	385	13
+GO:0030534	adult behavior	0.00305304185153453	151	8
+GO:0050767	regulation of neurogenesis	0.00333603506549152	340	12
+GO:0060322	head development	0.0033783930102170364	749	19
+GO:0015695	organic cation transport	0.0033783930102170364	115	7
+GO:0044057	regulation of system process	0.003558427843014457	509	15
+GO:0030308	negative regulation of cell growth	0.004156242288742294	159	8
+GO:0010721	negative regulation of cell development	0.004156242288742294	249	10
+GO:0071577	zinc ion transmembrane transport	0.004156242288742294	29	4
+GO:0023061	signal release	0.004524615754143958	464	14
+GO:0045926	negative regulation of growth	0.0051539281275560424	209	9
+GO:0043268	positive regulation of potassium ion transport	0.005290732682257369	31	4
+GO:0034764	positive regulation of transmembrane transport	0.005338059770779665	166	8
+GO:0010988	regulation of low-density lipoprotein particle clearance	0.005636451854465197	13	3
+GO:0010975	regulation of neuron projection development	0.005652625793597398	419	13
+GO:0048588	developmental cell growth	0.006108003676108608	215	9
+GO:1903712	cysteine transmembrane transport	0.006190033529526415	3	2
+GO:1903288	positive regulation of potassium ion import across plasma membrane	0.006190033529526415	3	2
+GO:0042883	cysteine transport	0.006190033529526415	3	2
+GO:1905604	negative regulation of blood-brain barrier permeability	0.006190033529526415	3	2
+GO:0061771	response to caloric restriction	0.006190033529526415	3	2
+GO:0031345	negative regulation of cell projection organization	0.0071148119549744255	175	8
+GO:0042063	gliogenesis	0.007357457747285073	323	11
+GO:0017156	calcium-ion regulated exocytosis	0.007412244877674668	62	5
+GO:0050808	synapse organization	0.007454440258121366	553	15
+GO:0061387	regulation of extent of cell growth	0.007528872770959154	96	6
+GO:0030007	intracellular potassium ion homeostasis	0.008006361923632362	15	3
+GO:0034765	regulation of monoatomic ion transmembrane transport	0.008141199030187478	276	10
+GO:0050770	regulation of axonogenesis	0.008157792238000658	137	7
+GO:0098656	monoatomic anion transmembrane transport	0.008157792238000658	137	7
+GO:0002028	regulation of sodium ion transport	0.008173747550806451	64	5
+GO:0006816	calcium ion transport	0.009098772995168121	389	12
+GO:1902476	chloride transmembrane transport	0.00991604540623558	102	6
+GO:0014014	negative regulation of gliogenesis	0.009983332466714125	38	4
+GO:0140916	zinc ion import into lysosome	0.010894453211223032	4	2
+GO:0051936	gamma-aminobutyric acid reuptake	0.010894453211223032	4	2
+GO:0055117	regulation of cardiac muscle contraction	0.010894453211223032	69	5
+GO:1903286	regulation of potassium ion import	0.010894453211223032	4	2
+GO:0015812	gamma-aminobutyric acid transport	0.010894453211223032	17	3
+GO:0048678	response to axon injury	0.010894453211223032	69	5
+GO:0099643	signal release from synapse	0.011473075022086948	147	7
+GO:0007269	neurotransmitter secretion	0.011473075022086948	147	7
+GO:0051239	regulation of multicellular organismal process	0.011634690953571211	2705	43
+GO:0008016	regulation of heart contraction	0.011704414796282323	193	8
+GO:0098712	L-glutamate import across plasma membrane	0.012312093284475028	18	3
+GO:1904062	regulation of monoatomic cation transmembrane transport	0.012312093284475028	244	9
+GO:1904064	positive regulation of cation transmembrane transport	0.012312093284475028	108	6
+GO:0007612	learning	0.012447918755847493	150	7
+GO:1903530	regulation of secretion by cell	0.012493593739728645	528	14
+GO:0048675	axon extension	0.012596295659535088	109	6
+GO:0120036	plasma membrane bounded cell projection organization	0.012596295659535088	1510	28
+GO:0010001	glial cell differentiation	0.012649328159478898	246	9
+GO:0070588	calcium ion transmembrane transport	0.013527400775648025	301	10
+GO:0099565	chemical synaptic transmission, postsynaptic	0.013540964025215279	111	6
+GO:0010984	regulation of lipoprotein particle clearance	0.013773417189274443	19	3
+GO:0051128	regulation of cellular component organization	0.014000167466387372	2321	38
+GO:0065008	regulation of biological quality	0.014405952331866295	2744	43
+GO:0051939	gamma-aminobutyric acid import	0.01572334769687056	5	2
+GO:0090118	receptor-mediated endocytosis involved in cholesterol transport	0.01572334769687056	5	2
+GO:1990708	conditioned place preference	0.01572334769687056	5	2
+GO:0006820	monoatomic anion transport	0.016821277999508756	160	7
+GO:0034767	positive regulation of monoatomic ion transmembrane transport	0.01700408128705831	117	6
+GO:0021762	substantia nigra development	0.01730990814376434	46	4
+GO:0006821	chloride transport	0.017569395294914445	118	6
+GO:0035493	SNARE complex assembly	0.017573736389748813	21	3
+GO:0043524	negative regulation of neuron apoptotic process	0.017573736389748813	162	7
+GO:0051924	regulation of calcium ion transport	0.01763168068156869	210	8
+GO:0030030	cell projection organization	0.017746098128189617	1554	28
+GO:0030516	regulation of axon extension	0.01793681488688888	80	5
+GO:0000902	cell morphogenesis	0.018346347473937687	962	20
+GO:0001508	action potential	0.018354236383252155	164	7
+GO:0048708	astrocyte differentiation	0.01865706557477993	81	5
+GO:1990138	neuron projection extension	0.018806108466001177	165	7
+GO:0008306	associative learning	0.02055290283833944	83	5
+GO:0031102	neuron projection regeneration	0.02055290283833944	49	4
+GO:0006813	potassium ion transport	0.02069311800261034	217	8
+GO:0021782	glial cell development	0.02112668091677735	124	6
+GO:0050975	sensory perception of touch	0.021201742138020438	6	2
+GO:0006887	exocytosis	0.021810675530679724	327	10
+GO:0050954	sensory perception of mechanical stimulus	0.022145916880828474	171	7
+GO:0008344	adult locomotory behavior	0.022145916880828474	85	5
+GO:0051046	regulation of secretion	0.022610517540345446	573	14
+GO:0006942	regulation of striated muscle contraction	0.02300544413520891	86	5
+GO:0034383	low-density lipoprotein particle clearance	0.023628579908861806	24	3
+GO:0008361	regulation of cell size	0.024764299918486384	175	7
+GO:0048856	anatomical structure development	0.025209002362240576	5395	71
+GO:0060047	heart contraction	0.02584346368753226	227	8
+GO:0060560	developmental growth involved in morphogenesis	0.02584346368753226	227	8
+GO:0086064	cell communication by electrical coupling involved in cardiac conduction	0.025992675134715437	25	3
+GO:0016049	cell growth	0.02646860076142745	458	12
+GO:0051649	establishment of localization in cell	0.026587422784269926	1849	31
+GO:0030072	peptide hormone secretion	0.02676476739563552	229	8
+GO:2000344	positive regulation of acrosome reaction	0.02705809993023714	7	2
+GO:0010989	negative regulation of low-density lipoprotein particle clearance	0.02705809993023714	7	2
+GO:0003012	muscle system process	0.02705809993023714	399	11
+GO:0051641	cellular localization	0.027600595786293855	2268	36
+GO:0030901	midbrain development	0.027600595786293855	91	5
+GO:0051241	negative regulation of multicellular organismal process	0.02866309566410428	1011	20
+GO:0002790	peptide secretion	0.029600550734072577	234	8
+GO:0000041	transition metal ion transport	0.029746426401816472	93	5
+GO:0086065	cell communication involved in cardiac conduction	0.029746426401816472	56	4
+GO:0010882	regulation of cardiac muscle contraction by calcium ion signaling	0.030597541219420214	27	3
+GO:0003015	heart process	0.030621721233667454	236	8
+GO:1903522	regulation of blood circulation	0.03211244725005005	238	8
+GO:0008015	blood circulation	0.032137805833157285	473	12
+GO:0001764	neuron migration	0.03254955038660388	187	7
+GO:0015734	taurine transmembrane transport	0.033113393224955524	8	2
+GO:0048710	regulation of astrocyte differentiation	0.033113393224955524	28	3
+GO:1905603	regulation of blood-brain barrier permeability	0.033113393224955524	8	2
+GO:0042918	alkanesulfonate transmembrane transport	0.033113393224955524	8	2
+GO:0060078	regulation of postsynaptic membrane potential	0.033113393224955524	140	6
+GO:0009628	response to abiotic stimulus	0.033113393224955524	1029	20
+GO:0099003	vesicle-mediated transport in synapse	0.03415472893473157	242	8
+GO:0016079	synaptic vesicle exocytosis	0.038447345440243724	100	5
+GO:0001964	startle response	0.03900604352346877	30	3
+GO:0141156	cAMP/PKA signal transduction	0.03900604352346877	30	3
+GO:0051588	regulation of neurotransmitter transport	0.03960811102658915	101	5
+GO:0060079	excitatory postsynaptic potential	0.040660479978033966	102	5
+GO:0034486	vacuolar transmembrane transport	0.040660479978033966	9	2
+GO:0080144	intracellular amino acid homeostasis	0.040660479978033966	9	2
+GO:0060013	righting reflex	0.040660479978033966	9	2
+GO:0006882	intracellular zinc ion homeostasis	0.041418426734786754	31	3
+GO:0007340	acrosome reaction	0.041418426734786754	31	3
+GO:0055075	potassium ion homeostasis	0.041418426734786754	31	3
+GO:0031099	regeneration	0.04239157018580656	149	6
+GO:0070972	protein localization to endoplasmic reticulum	0.044995241011146554	32	3
+GO:0097006	regulation of plasma lipoprotein particle levels	0.045321910899772604	65	4
+GO:0048167	regulation of synaptic plasticity	0.045321910899772604	202	7
+GO:0015833	peptide transport	0.04595021947593964	257	8
+GO:0006936	muscle contraction	0.04633751416983542	315	9
+GO:0090042	tubulin deacetylation	0.04649214667152855	10	2
+GO:0071312	cellular response to alkaloid	0.04649214667152855	33	3
+GO:0010644	cell communication by electrical coupling	0.04649214667152855	33	3
+GO:0006868	glutamine transport	0.04649214667152855	10	2
+GO:0071314	cellular response to cocaine	0.04649214667152855	10	2
+GO:0051933	amino acid neurotransmitter reuptake	0.04649214667152855	10	2
+GO:0007198	adenylate cyclase-inhibiting serotonin receptor signaling pathway	0.04649214667152855	10	2
+GO:0060046	regulation of acrosome reaction	0.04649214667152855	10	2
+GO:0021932	hindbrain radial glia guided cell migration	0.04649214667152855	10	2
+GO:0071398	cellular response to fatty acid	0.04649214667152855	33	3
+GO:0010985	negative regulation of lipoprotein particle clearance	0.04649214667152855	10	2
+GO:0099504	synaptic vesicle cycle	0.04892508389994264	207	7
+GO:0015698	inorganic anion transport	0.049301204909113314	156	6
+GO:0001558	regulation of cell growth	0.04931883782637804	382	10
+GO:0048878	chemical homeostasis	0.04931883782637804	858	17
+GO:0099560	synaptic membrane adhesion	0.04931883782637804	34	3
+GO:0050795	regulation of behavior	0.04931883782637804	68	4
+GO:0048857	neural nucleus development	0.04931883782637804	68	4
+GO:0015718	monocarboxylic acid transport	0.04968145537047419	157	6
