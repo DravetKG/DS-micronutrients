@@ -18,7 +18,7 @@ for rare disease understanding, treatment and diagnosis.
 ## Repository layout
 
 ```
-input/                       input data (not tracked), see input/README.md
+input/                       input data
 work/                        cache files that the pipeline makes (not tracked)
 notebooks/                   analysis notebooks
 scripts/                     Python modules that the notebooks import

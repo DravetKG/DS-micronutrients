@@ -1,0 +1,26 @@
+# Input data
+input/*
+!input/README.md
+
+# Cache files that the pipeline makes
+work/
+
+# orsum checkout and downloads
+input/orsum_master.zip
+
+# Notebook and Python cache
+*.bak
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.pypath/
+.cache/
+
+# Environments
+.venv/
+venv/
+env/
+
+# OS and editor
+.DS_Store
+Thumbs.db
